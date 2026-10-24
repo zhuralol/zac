@@ -1,0 +1,3197 @@
+{
+  "slug": "torment-textures-1-1",
+  "itch": {
+    "game_id": "local-torment-textures-1-1",
+    "title": "Torment Textures 1.1",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "Custom (attribution required)",
+      "confidence": "high",
+      "source": "Attribution and License.txt",
+      "raw_span": "or commercial projects - Distribute these textures​ in open source projects (with attribution) - Modify these textures​ to suit your own needs You may NOT: - Sell the"
+    },
+    "requires_attribution": "yes",
+    "credit_line": "Torment Textures 1.1 by unknown author — Custom (attribution required)"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/Torment Textures 1.1",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 199,
+    "total_bytes": 30870277,
+    "total_human": "29.4 MB",
+    "categories": {
+      "images": {
+        "count": 197,
+        "bytes": 21543756,
+        "label": "sprites/textures"
+      },
+      "docs": {
+        "count": 1,
+        "bytes": 805,
+        "label": "docs/licenses"
+      },
+      "other": {
+        "count": 1,
+        "bytes": 9325716,
+        "label": "other"
+      }
+    },
+    "notable_files": {
+      "docs": [
+        "Attribution and License.txt"
+      ],
+      "images": [
+        "CoverNewEx.png",
+        "Quake Palette/+0str_bloodfall.bmp",
+        "Quake Palette/+1str_bloodfall.bmp",
+        "Quake Palette/+2str_bloodfall.bmp",
+        "Quake Palette/+3str_bloodfall.bmp",
+        "Quake Palette/+4str_bloodfall.bmp",
+        "Quake Palette/+5str_bloodfall.bmp",
+        "Quake Palette/+6str_bloodfall.bmp"
+      ],
+      "other": [
+        "str_torment_ex.wad"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "Attribution and License.txt",
+        "size": 805,
+        "category": "docs",
+        "description": "Document: Attribution and License."
+      },
+      {
+        "path": "CoverNewEx.png",
+        "size": 416524,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 630,
+          "height": 500,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Vertical red wood plank texture; walls or flooring in horror games."
+      },
+      {
+        "path": "str_torment_ex.wad",
+        "size": 9325716,
+        "category": "other",
+        "description": "File: Str torment ex."
+      },
+      {
+        "path": "Quake Palette/+0str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Vertical red wood plank texture; walls or flooring in horror games."
+      },
+      {
+        "path": "Quake Palette/+1str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Vertical red wood plank texture; walls or flooring in horror games."
+      },
+      {
+        "path": "Quake Palette/+2str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Red splatter texture; blood or gore effects in horror games."
+      },
+      {
+        "path": "Quake Palette/+3str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Red splatter texture; blood or gore effects in horror games."
+      },
+      {
+        "path": "Quake Palette/+4str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Red cracked surface texture; damaged walls or floors in horror games."
+      },
+      {
+        "path": "Quake Palette/+5str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Red cracked surface texture; damaged walls or floors in horror games."
+      },
+      {
+        "path": "Quake Palette/+6str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Red cracked surface texture; damaged walls or floors in horror games."
+      },
+      {
+        "path": "Quake Palette/+7str_bloodfall.bmp",
+        "size": 9270,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 7,
+          "palette_bucket": "<=16"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces."
+      },
+      {
+        "path": "Quake Palette/str_blood.bmp",
+        "size": 5174,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 14,
+          "palette_bucket": "<=16"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces."
+      },
+      {
+        "path": "Quake Palette/str_blood_large.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 16,
+          "palette_bucket": "<=16"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games."
+      },
+      {
+        "path": "Quake Palette/str_bloodvein1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 54,
+          "palette_bucket": "<=64"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 1/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 79,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 2/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 75,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 3/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 73,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 4/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 75,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 5/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 77,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 6/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein7.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 77,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 7/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein8.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 63,
+          "palette_bucket": "<=64"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 8/9)"
+      },
+      {
+        "path": "Quake Palette/str_bloodvein9.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 76,
+          "palette_bucket": "<=128"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games. (frame 9/9)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 78,
+          "palette_bucket": "<=128"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 1/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 72,
+          "palette_bucket": "<=128"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 2/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 61,
+          "palette_bucket": "<=64"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 3/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 57,
+          "palette_bucket": "<=64"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 4/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 85,
+          "palette_bucket": "<=128"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 5/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 78,
+          "palette_bucket": "<=128"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 6/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr7.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 91,
+          "palette_bucket": "<=128"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 7/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalflr8.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 81,
+          "palette_bucket": "<=128"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 8/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgen1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 52,
+          "palette_bucket": "<=64"
+        },
+        "description": "Worn red fabric texture; clothing or upholstery in games."
+      },
+      {
+        "path": "Quake Palette/str_metalgen2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 76,
+          "palette_bucket": "<=128"
+        },
+        "description": "Horizontal wood plank texture; floors or walls in games."
+      },
+      {
+        "path": "Quake Palette/str_metalgen3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 90,
+          "palette_bucket": "<=128"
+        },
+        "description": "Horizontal wood plank texture with holes; floors or walls in games."
+      },
+      {
+        "path": "Quake Palette/str_metalgen4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 30,
+          "palette_bucket": "<=32"
+        },
+        "description": "Worn metal texture; industrial or mechanical surfaces."
+      },
+      {
+        "path": "Quake Palette/str_metalgen5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 49,
+          "palette_bucket": "<=64"
+        },
+        "description": "Worn metal texture; industrial or mechanical surfaces."
+      },
+      {
+        "path": "Quake Palette/str_metalgen6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 53,
+          "palette_bucket": "<=64"
+        },
+        "description": "Worn metal texture with holes; industrial or mechanical surfaces."
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 62,
+          "palette_bucket": "<=64"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 1/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 72,
+          "palette_bucket": "<=128"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 2/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 40,
+          "palette_bucket": "<=64"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 3/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 52,
+          "palette_bucket": "<=64"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 4/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 72,
+          "palette_bucket": "<=128"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 5/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 92,
+          "palette_bucket": "<=128"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 6/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl7.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 76,
+          "palette_bucket": "<=128"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 7/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalgrbl8.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 87,
+          "palette_bucket": "<=128"
+        },
+        "description": "Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 8/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 75,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 1/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 78,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 2/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 74,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 3/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 61,
+          "palette_bucket": "<=64"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 4/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 91,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 5/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 99,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 6/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan7.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 103,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 7/8)"
+      },
+      {
+        "path": "Quake Palette/str_metalpan8.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 96,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 8/8)"
+      },
+      {
+        "path": "Quake Palette/str_rotwoodgen1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 25,
+          "palette_bucket": "<=32"
+        },
+        "description": "Dark wooden planks; floor or wall textures for rustic settings."
+      },
+      {
+        "path": "Quake Palette/str_rotwoodgen2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 40,
+          "palette_bucket": "<=64"
+        },
+        "description": "Horizontal wood grain; flooring or paneling in medieval or fantasy games."
+      },
+      {
+        "path": "Quake Palette/str_rotwoodgen3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 43,
+          "palette_bucket": "<=64"
+        },
+        "description": "Wooden planks with rivets; modular furniture or vehicle interiors."
+      },
+      {
+        "path": "Quake Palette/str_stonebrk1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 53,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 1/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 44,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 2/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 52,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 3/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 53,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 4/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 74,
+          "palette_bucket": "<=128"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 5/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 63,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 6/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk7.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 66,
+          "palette_bucket": "<=128"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 7/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonebrk8.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 74,
+          "palette_bucket": "<=128"
+        },
+        "description": "Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 8/8)"
+      },
+      {
+        "path": "Quake Palette/str_stoneflr1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 50,
+          "palette_bucket": "<=64"
+        },
+        "description": "Square stone tiles; flooring or wall textures for medieval or fantasy games."
+      },
+      {
+        "path": "Quake Palette/str_stoneflr2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 50,
+          "palette_bucket": "<=64"
+        },
+        "description": "Square stone tiles with raised edges; modular dungeon or castle floors."
+      },
+      {
+        "path": "Quake Palette/str_stoneflr3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 41,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone tile with subtle texture; generic floor or wall surface."
+      },
+      {
+        "path": "Quake Palette/str_stoneflr4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 39,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone tile with cross pattern; dungeon or ruin flooring."
+      },
+      {
+        "path": "Quake Palette/str_stoneflr5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 69,
+          "palette_bucket": "<=128"
+        },
+        "description": "Stone tile with red stains; blood-splattered dungeon walls."
+      },
+      {
+        "path": "Quake Palette/str_stoneflr6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 72,
+          "palette_bucket": "<=128"
+        },
+        "description": "Square stone tiles with red streaks; blood-splattered floors or walls."
+      },
+      {
+        "path": "Quake Palette/str_stonegen1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 30,
+          "palette_bucket": "<=32"
+        },
+        "description": "Plain stone texture; generic floor or wall surface."
+      },
+      {
+        "path": "Quake Palette/str_stonegen2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 39,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone texture with horizontal lines; dungeon or ruin walls."
+      },
+      {
+        "path": "Quake Palette/str_stonegen3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 58,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone floor with skull pattern; horror game floors or traps."
+      },
+      {
+        "path": "Quake Palette/str_stonegen4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 38,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone wall with red streaks; blood-splattered dungeon walls."
+      },
+      {
+        "path": "Quake Palette/str_stonegen5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 52,
+          "palette_bucket": "<=64"
+        },
+        "description": "Stone wall with red streaks; blood-splattered dungeon walls."
+      },
+      {
+        "path": "Quake Palette/str_stonegen6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 72,
+          "palette_bucket": "<=128"
+        },
+        "description": "Stone floor with skull pattern; horror game floors or traps."
+      },
+      {
+        "path": "Quake Palette/str_stonerubble.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 40,
+          "palette_bucket": "<=64"
+        },
+        "description": "Rough, cracked stone surface; ideal for dungeon walls or ancient ruins."
+      },
+      {
+        "path": "Quake Palette/str_stonewall1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 67,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 1/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 51,
+          "palette_bucket": "<=64"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 2/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 51,
+          "palette_bucket": "<=64"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 3/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 71,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 4/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 61,
+          "palette_bucket": "<=64"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 5/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 70,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 6/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall7.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 74,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 7/8)"
+      },
+      {
+        "path": "Quake Palette/str_stonewall8.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 82,
+          "palette_bucket": "<=128"
+        },
+        "description": "Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 8/8)"
+      },
+      {
+        "path": "Quake Palette/str_wasteland1.bmp",
+        "size": 263222,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 30,
+          "palette_bucket": "<=32"
+        },
+        "description": "Wavy, fiery orange texture; suitable for lava or molten surfaces."
+      },
+      {
+        "path": "Quake Palette/str_wasteland2.bmp",
+        "size": 263222,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 33,
+          "palette_bucket": "<=64"
+        },
+        "description": "Dark, rippled stone; good for underwater or shadowy terrain."
+      },
+      {
+        "path": "Quake Palette/str_wasteland3.bmp",
+        "size": 263222,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 28,
+          "palette_bucket": "<=32"
+        },
+        "description": "Sandy dunes with subtle ridges; use for desert landscapes."
+      },
+      {
+        "path": "Quake Palette/str_wasteland4.bmp",
+        "size": 263222,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 56,
+          "palette_bucket": "<=64"
+        },
+        "description": "Orange-red sand with scattered rocks; ideal for arid, rocky terrain."
+      },
+      {
+        "path": "Quake Palette/str_wasteland5.bmp",
+        "size": 263222,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 43,
+          "palette_bucket": "<=64"
+        },
+        "description": "Dark, textured sand with small pebbles; perfect for desert floors."
+      },
+      {
+        "path": "Quake Palette/str_wasteland6.bmp",
+        "size": 263222,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 48,
+          "palette_bucket": "<=64"
+        },
+        "description": "Lighter sand with scattered rocks; suitable for varied desert surfaces."
+      },
+      {
+        "path": "Quake Palette/{str_bloodgunk.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 58,
+          "palette_bucket": "<=64"
+        },
+        "description": "Pinkish ground with scattered rocks; good for alien or fantasy worlds."
+      },
+      {
+        "path": "Quake Palette/{str_bloodweb1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 43,
+          "palette_bucket": "<=64"
+        },
+        "description": "Cracked red surface with black fissures; ideal for damaged or volcanic terrain."
+      },
+      {
+        "path": "Quake Palette/{str_bloodweb2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 49,
+          "palette_bucket": "<=64"
+        },
+        "description": "Red cracked ground with dark veins; perfect for lava or toxic zones."
+      },
+      {
+        "path": "Quake Palette/{str_bloodweb3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 43,
+          "palette_bucket": "<=64"
+        },
+        "description": "Red branching cracks; great for broken or organic surfaces."
+      },
+      {
+        "path": "Quake Palette/{str_grating1.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 39,
+          "palette_bucket": "<=64"
+        },
+        "description": "Grid of red tiles with dark lines; useful for tiled floors or platforms."
+      },
+      {
+        "path": "Quake Palette/{str_grating2.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 40,
+          "palette_bucket": "<=64"
+        },
+        "description": "Grid with vertical lines; suitable for structured environments."
+      },
+      {
+        "path": "Quake Palette/{str_grating3.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 47,
+          "palette_bucket": "<=64"
+        },
+        "description": "Vertical grid with horizontal bars; ideal for industrial or mechanical settings."
+      },
+      {
+        "path": "Quake Palette/{str_grating4.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 73,
+          "palette_bucket": "<=128"
+        },
+        "description": "Red grid with dark lines; good for modular game environments."
+      },
+      {
+        "path": "Quake Palette/{str_grating5.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 78,
+          "palette_bucket": "<=128"
+        },
+        "description": "Red grid with dark lines; useful for tiled floors or platforms."
+      },
+      {
+        "path": "Quake Palette/{str_grating6.bmp",
+        "size": 66614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 91,
+          "palette_bucket": "<=128"
+        },
+        "description": "Vertical red bars with dark lines; perfect for barriers or fences."
+      },
+      {
+        "path": "True Colour/+0str_bloodfall.png",
+        "size": 10881,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red vertical stripes; ideal for walls or decorative elements."
+      },
+      {
+        "path": "True Colour/+1str_bloodfall.png",
+        "size": 10842,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red vertical stripes; suitable for walls or decorative elements."
+      },
+      {
+        "path": "True Colour/+2str_bloodfall.png",
+        "size": 10844,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red vertical stripes; good for walls or decorative elements."
+      },
+      {
+        "path": "True Colour/+3str_bloodfall.png",
+        "size": 10917,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red vertical stripes; ideal for walls or decorative elements."
+      },
+      {
+        "path": "True Colour/+4str_bloodfall.png",
+        "size": 10839,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red wooden plank texture; walls or floors in fantasy or horror games."
+      },
+      {
+        "path": "True Colour/+5str_bloodfall.png",
+        "size": 10864,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red wooden plank texture; walls or floors in fantasy or horror games."
+      },
+      {
+        "path": "True Colour/+6str_bloodfall.png",
+        "size": 10860,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red wooden plank texture; walls or floors in fantasy or horror games."
+      },
+      {
+        "path": "True Colour/+7str_bloodfall.png",
+        "size": 10881,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red wooden plank texture; walls or floors in fantasy or horror games."
+      },
+      {
+        "path": "True Colour/str_blood.png",
+        "size": 4288,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 141,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red splattered texture; blood or corrosive liquid effects."
+      },
+      {
+        "path": "True Colour/str_blood_large.png",
+        "size": 50361,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 132,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red splattered texture; blood or corrosive liquid effects."
+      },
+      {
+        "path": "True Colour/str_bloodvein1.png",
+        "size": 100851,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 1/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein2.png",
+        "size": 125104,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 2/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein3.png",
+        "size": 135917,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 3/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein4.png",
+        "size": 123998,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 4/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein5.png",
+        "size": 135190,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 5/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein6.png",
+        "size": 140472,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 6/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein7.png",
+        "size": 145607,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 7/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein8.png",
+        "size": 108365,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 8/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein9.png",
+        "size": 152068,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red and gray organic texture; wounds or decayed surfaces. (frame 9/9)"
+      },
+      {
+        "path": "True Colour/str_bloodvein_mask1.png",
+        "size": 19760,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Cracked black and white texture; broken surfaces or terrain."
+      },
+      {
+        "path": "True Colour/str_bloodvein_mask2.png",
+        "size": 42590,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "White speckled texture; snow, ash, or particle effects."
+      },
+      {
+        "path": "True Colour/str_metalflr1.png",
+        "size": 172557,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 1/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr2.png",
+        "size": 181897,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 2/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr3.png",
+        "size": 137428,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 3/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr4.png",
+        "size": 156393,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 4/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr5.png",
+        "size": 174738,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 5/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr6.png",
+        "size": 181671,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 6/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr7.png",
+        "size": 170082,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 7/8)"
+      },
+      {
+        "path": "True Colour/str_metalflr8.png",
+        "size": 178667,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Metal diamond plate texture; industrial or mechanical surfaces. (frame 8/8)"
+      },
+      {
+        "path": "True Colour/str_metalgen1.png",
+        "size": 145582,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Weathered brown wood texture; rustic or aged environments."
+      },
+      {
+        "path": "True Colour/str_metalgen2.png",
+        "size": 144993,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Weathered brown wood texture; rustic or aged environments."
+      },
+      {
+        "path": "True Colour/str_metalgen3.png",
+        "size": 144637,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Brown wood with perforated base; flooring or industrial panels."
+      },
+      {
+        "path": "True Colour/str_metalgen4.png",
+        "size": 143101,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dark gray stone texture; dungeon or cave walls."
+      },
+      {
+        "path": "True Colour/str_metalgen5.png",
+        "size": 142265,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dark gray stone texture; dungeon or cave walls."
+      },
+      {
+        "path": "True Colour/str_metalgen6.png",
+        "size": 140949,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dark gray stone with perforated base; flooring or industrial panels."
+      },
+      {
+        "path": "True Colour/str_metalgrbl1.png",
+        "size": 141508,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 1/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl2.png",
+        "size": 133302,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 2/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl3.png",
+        "size": 143169,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 3/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl4.png",
+        "size": 147151,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 4/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl5.png",
+        "size": 148290,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 5/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl6.png",
+        "size": 152164,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 6/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl7.png",
+        "size": 151528,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 7/8)"
+      },
+      {
+        "path": "True Colour/str_metalgrbl8.png",
+        "size": 154196,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mixed stone tile texture; modular flooring or wall sections. (frame 8/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan1.png",
+        "size": 152805,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 1/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan2.png",
+        "size": 157145,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 2/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan3.png",
+        "size": 153447,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 3/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan4.png",
+        "size": 152197,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 4/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan5.png",
+        "size": 156502,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 5/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan6.png",
+        "size": 157336,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 6/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan7.png",
+        "size": 159071,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 7/8)"
+      },
+      {
+        "path": "True Colour/str_metalpan8.png",
+        "size": 156009,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 8/8)"
+      },
+      {
+        "path": "True Colour/str_rotwoodgen1.png",
+        "size": 121611,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wooden plank floor texture; rustic or medieval game settings for flooring or platforms."
+      },
+      {
+        "path": "True Colour/str_rotwoodgen2.png",
+        "size": 119649,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wooden plank wall texture; interior walls or barricades in fantasy or survival games."
+      },
+      {
+        "path": "True Colour/str_rotwoodgen3.png",
+        "size": 121191,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wooden plank wall with rivets; decorative or structural elements in game environments."
+      },
+      {
+        "path": "True Colour/str_stonebrk1.png",
+        "size": 160283,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 1/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk2.png",
+        "size": 165061,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 2/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk3.png",
+        "size": 155436,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 3/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk4.png",
+        "size": 159607,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 4/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk5.png",
+        "size": 160211,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 5/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk6.png",
+        "size": 164381,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 6/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk7.png",
+        "size": 155367,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 7/8)"
+      },
+      {
+        "path": "True Colour/str_stonebrk8.png",
+        "size": 158326,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 8/8)"
+      },
+      {
+        "path": "True Colour/str_stoneflr1.png",
+        "size": 155983,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Square stone tile floor; dungeon or castle floors in RPGs or adventure games."
+      },
+      {
+        "path": "True Colour/str_stoneflr2.png",
+        "size": 164892,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Square stone tile floor with rounded edges; varied flooring for game level design."
+      },
+      {
+        "path": "True Colour/str_stoneflr3.png",
+        "size": 149591,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with horizontal grooves; architectural detail for game interiors or ruins."
+      },
+      {
+        "path": "True Colour/str_stoneflr4.png",
+        "size": 150112,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with vertical cracks; damaged or aged walls in game environments."
+      },
+      {
+        "path": "True Colour/str_stoneflr5.png",
+        "size": 162405,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with bloodstains; horror game backgrounds for bloodied or violent areas."
+      },
+      {
+        "path": "True Colour/str_stoneflr6.png",
+        "size": 168824,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Square stone tile floor with rounded edges; varied flooring for game level design."
+      },
+      {
+        "path": "True Colour/str_stonegen1.png",
+        "size": 144850,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with horizontal grooves; architectural detail for game interiors or ruins."
+      },
+      {
+        "path": "True Colour/str_stonegen2.png",
+        "size": 144534,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with horizontal grooves; architectural detail for game interiors or ruins."
+      },
+      {
+        "path": "True Colour/str_stonegen3.png",
+        "size": 147302,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with skull pattern border; decorative or ominous game environment borders."
+      },
+      {
+        "path": "True Colour/str_stonegen4.png",
+        "size": 145477,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with vertical bloodstains; horror game backgrounds for bloodied areas."
+      },
+      {
+        "path": "True Colour/str_stonegen5.png",
+        "size": 145495,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with vertical bloodstains; horror game backgrounds for bloodied areas."
+      },
+      {
+        "path": "True Colour/str_stonegen6.png",
+        "size": 148939,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone wall with skull pattern border; decorative or ominous game environment borders."
+      },
+      {
+        "path": "True Colour/str_stonerubble.png",
+        "size": 163734,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rough stone texture; natural surfaces or terrain in game environments."
+      },
+      {
+        "path": "True Colour/str_stonewall1.png",
+        "size": 151287,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 1/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall2.png",
+        "size": 150012,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 2/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall3.png",
+        "size": 151779,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 3/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall4.png",
+        "size": 154504,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 4/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall5.png",
+        "size": 151794,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 5/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall6.png",
+        "size": 149725,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 6/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall7.png",
+        "size": 151751,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 7/8)"
+      },
+      {
+        "path": "True Colour/str_stonewall8.png",
+        "size": 152563,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked stone wall texture; dungeon or ruin environments. (frame 8/8)"
+      },
+      {
+        "path": "True Colour/str_wasteland1.png",
+        "size": 399877,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Reddish sand dunes; desert or alien terrain backgrounds."
+      },
+      {
+        "path": "True Colour/str_wasteland2.png",
+        "size": 367385,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dark gray sand dunes; atmospheric desert or wasteland scenes."
+      },
+      {
+        "path": "True Colour/str_wasteland3.png",
+        "size": 394501,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Light gray sand dunes; varied desert or beach surfaces."
+      },
+      {
+        "path": "True Colour/str_wasteland4.png",
+        "size": 440380,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Orange sand dunes with rocks; desert landscapes with detail."
+      },
+      {
+        "path": "True Colour/str_wasteland5.png",
+        "size": 408954,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dark gray sand dunes with rocks; gritty desert or canyon areas."
+      },
+      {
+        "path": "True Colour/str_wasteland6.png",
+        "size": 443339,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 512,
+          "height": 512,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Light gray sand dunes with rocks; detailed desert or beach zones."
+      },
+      {
+        "path": "True Colour/{str_bloodgunk.png",
+        "size": 168744,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mossy rock patches; naturalistic terrain or cave interiors."
+      },
+      {
+        "path": "True Colour/{str_bloodweb1.png",
+        "size": 66330,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red glowing cracks; hazardous or magical terrain effects."
+      },
+      {
+        "path": "True Colour/{str_bloodweb2.png",
+        "size": 30470,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cracked, glowing red surface; lava or hazardous terrain in dark environments."
+      },
+      {
+        "path": "True Colour/{str_bloodweb3.png",
+        "size": 6049,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 43,
+          "palette_bucket": "<=64"
+        },
+        "description": "Fragmented red cracks; destructible or environmental damage effects in game scenes."
+      },
+      {
+        "path": "True Colour/{str_grating1.png",
+        "size": 41770,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Grid pattern; UI overlays or modular tile placement."
+      },
+      {
+        "path": "True Colour/{str_grating2.png",
+        "size": 78158,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Grid pattern with subtle texture; modular game world tiles."
+      },
+      {
+        "path": "True Colour/{str_grating3.png",
+        "size": 88617,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Grid pattern with vertical lines; structured game environments."
+      },
+      {
+        "path": "True Colour/{str_grating4.png",
+        "size": 43177,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Grid with red lines; damaged or corrupted game zones."
+      },
+      {
+        "path": "True Colour/{str_grating5.png",
+        "size": 81118,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Grid with red and gray lines; layered game terrain."
+      },
+      {
+        "path": "True Colour/{str_grating6.png",
+        "size": 98394,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Grid with red lines and specks; damaged or magical game areas."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 26,
+    "archive_count": 0,
+    "docs": [
+      "Attribution and License.txt"
+    ],
+    "probe": {
+      "images": {
+        "count": 197,
+        "pixel_art": 57,
+        "size_buckets": {
+          ">512": 1,
+          "129-512": 194,
+          "33-64": 2
+        },
+        "palette_buckets": {
+          ">256": 95,
+          "<=16": 10,
+          "<=64": 42,
+          "<=128": 41,
+          "<=32": 5,
+          "<=256": 4
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "Torment Textures 1.1"
+  },
+  "summary": "Torment Textures 1.1 by unknown author: 199 files (29.4 MB) — 197 images (57 pixel-art, mostly 129-512 px, 26 animation sequences), 1 docs/licenses.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T22:11:43Z",
+  "content": {
+    "description": "Retro horror textures at 256x256 (wasteland pieces 512x512): blood-soaked stone, dripping blood falls, veined gore, rusted and painted metal panels, grates, cracked brick and cobble walls, rubble, dead earth and sand, and blood-red water. Two palette variants (Quake palette and true colour). Grim, hellish palette of reds, rust, charcoal and bone. Use for hell/dungeon/horror environments, Doom-like levels, or grimdark tile scenes.",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:33Z",
+    "samples": null
+  }
+}

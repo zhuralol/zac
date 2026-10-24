@@ -1,0 +1,5229 @@
+{
+  "slug": "free-fantasy-hero-25-character-pack",
+  "itch": {
+    "game_id": "local-free-fantasy-hero-25-character-pack",
+    "title": "free_fantasy_hero_25_character_pack",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "unspecified",
+      "confidence": "none",
+      "source": null,
+      "raw_span": null
+    },
+    "requires_attribution": "unknown",
+    "credit_line": "free_fantasy_hero_25_character_pack by unknown author [license requires manual verification]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/free_fantasy_hero_25_character_pack",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 330,
+    "total_bytes": 153661350,
+    "total_human": "146.5 MB",
+    "categories": {
+      "images": {
+        "count": 330,
+        "bytes": 153661350,
+        "label": "sprites/textures"
+      }
+    },
+    "notable_files": {
+      "images": [
+        "25_full/f_101_1.png",
+        "25_full/f_101_2.png",
+        "25_full/f_101_3.png",
+        "25_full/f_102_1.png",
+        "25_full/f_102_2.png",
+        "25_full/f_102_3.png",
+        "25_full/f_103_1.png",
+        "25_full/f_103_2.png"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "25_full/f_101_1.png",
+        "size": 315700,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 361,
+          "height": 630,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male knight in full armor, standing idle. Use for combat or exploration scenes."
+      },
+      {
+        "path": "25_full/f_101_2.png",
+        "size": 310686,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 354,
+          "height": 637,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male knight in armor, holding sword. Use for attack or stance animations."
+      },
+      {
+        "path": "25_full/f_101_3.png",
+        "size": 367606,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 764,
+          "height": 522,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male knight in armor, mid-swing. Use for melee attack animations."
+      },
+      {
+        "path": "25_full/f_102_1.png",
+        "size": 309824,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 289,
+          "height": 591,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female mage in green robes, hands clasped. Use for casting or idle poses."
+      },
+      {
+        "path": "25_full/f_102_2.png",
+        "size": 296396,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 288,
+          "height": 591,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female mage in green robes, hands clasped. Use for casting or idle poses."
+      },
+      {
+        "path": "25_full/f_102_3.png",
+        "size": 426108,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 467,
+          "height": 589,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female mage in green robes, holding staff. Use for spellcasting animations."
+      },
+      {
+        "path": "25_full/f_103_1.png",
+        "size": 310568,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 293,
+          "height": 700,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male rogue in red cape, hand to face. Use for stealth or reaction poses."
+      },
+      {
+        "path": "25_full/f_103_2.png",
+        "size": 312544,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 284,
+          "height": 701,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male rogue in red cape, gesturing. Use for dialogue or action poses."
+      },
+      {
+        "path": "25_full/f_103_3.png",
+        "size": 329097,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 440,
+          "height": 696,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male rogue in red cape, sword drawn. Use for combat or attack animations."
+      },
+      {
+        "path": "25_full/f_104_1.png",
+        "size": 291157,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 303,
+          "height": 622,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in blue dress, standing. Use for idle or stance poses."
+      },
+      {
+        "path": "25_full/f_104_2.png",
+        "size": 249396,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 293,
+          "height": 620,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in blue dress, hands clasped. Use for casting or idle poses."
+      },
+      {
+        "path": "25_full/f_104_3.png",
+        "size": 305872,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 455,
+          "height": 606,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in blue dress, posing. Use for attack or action animations."
+      },
+      {
+        "path": "25_full/f_105_1.png",
+        "size": 338488,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 369,
+          "height": 693,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male barbarian in armor, arms crossed. Use for idle or defensive poses."
+      },
+      {
+        "path": "25_full/f_105_2.png",
+        "size": 366850,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 372,
+          "height": 692,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male barbarian in armor, fists raised. Use for attack or stance animations."
+      },
+      {
+        "path": "25_full/f_105_3.png",
+        "size": 420887,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 494,
+          "height": 659,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male barbarian with axe, mid-swing. Use for melee attack animations."
+      },
+      {
+        "path": "25_full/f_106_1.png",
+        "size": 288612,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 270,
+          "height": 615,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in fur-lined armor, standing. Use for idle or stance poses."
+      },
+      {
+        "path": "25_full/f_106_2.png",
+        "size": 256054,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 268,
+          "height": 614,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in fur-lined armor, hands clasped. Use for casting or idle poses."
+      },
+      {
+        "path": "25_full/f_106_3.png",
+        "size": 322636,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 383,
+          "height": 597,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in fur-lined armor, axe raised. Use for attack animations."
+      },
+      {
+        "path": "25_full/f_107_1.png",
+        "size": 564964,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 481,
+          "height": 718,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male king in ornate armor, standing. Use for royal or combat scenes."
+      },
+      {
+        "path": "25_full/f_107_2.png",
+        "size": 528077,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 481,
+          "height": 717,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male king in ornate armor, hand raised. Use for dialogue or action poses."
+      },
+      {
+        "path": "25_full/f_107_3.png",
+        "size": 665644,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 569,
+          "height": 779,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Male king in ornate armor, sword drawn. Use for combat or attack animations."
+      },
+      {
+        "path": "25_full/f_108_1.png",
+        "size": 269994,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 230,
+          "height": 623,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female priestess in white robes, standing. Use for idle or casting poses."
+      },
+      {
+        "path": "25_full/f_108_2.png",
+        "size": 289563,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 323,
+          "height": 624,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female priestess in white robes, hands clasped. Use for casting or idle poses."
+      },
+      {
+        "path": "25_full/f_108_3.png",
+        "size": 334856,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 353,
+          "height": 625,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female priestess in white robes, gesturing. Use for spellcasting or action animations."
+      },
+      {
+        "path": "25_full/f_109_1.png",
+        "size": 214444,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 235,
+          "height": 637,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Chef in white coat, standing confidently; kitchen or tavern NPC."
+      },
+      {
+        "path": "25_full/f_109_2.png",
+        "size": 199777,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 217,
+          "height": 637,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Chef with arms crossed, neutral stance; dialogue or idle animation."
+      },
+      {
+        "path": "25_full/f_109_3.png",
+        "size": 258261,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 383,
+          "height": 620,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Chef mid-jump, holding tools; dynamic action or attack frame."
+      },
+      {
+        "path": "25_full/f_110_1.png",
+        "size": 464483,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 419,
+          "height": 694,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Blue-robed cleric with staff, hands clasped; prayer or casting pose."
+      },
+      {
+        "path": "25_full/f_110_2.png",
+        "size": 455104,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 419,
+          "height": 692,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cleric with hands clasped, standing still; idle or spellcasting frame."
+      },
+      {
+        "path": "25_full/f_110_3.png",
+        "size": 610495,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 568,
+          "height": 733,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cleric holding cross, commanding stance; battle or leadership pose."
+      },
+      {
+        "path": "25_full/f_111_1.png",
+        "size": 359015,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 344,
+          "height": 681,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior with sword, ready stance; combat or attack animation."
+      },
+      {
+        "path": "25_full/f_111_2.png",
+        "size": 340867,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 345,
+          "height": 681,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior with sword, slight turn; idle or movement frame."
+      },
+      {
+        "path": "25_full/f_111_3.png",
+        "size": 428931,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 555,
+          "height": 669,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior in combat stance, sword drawn; attack or defense animation."
+      },
+      {
+        "path": "25_full/f_112_1.png",
+        "size": 497690,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 440,
+          "height": 685,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Heavy armored knight, standing firm; defense or idle pose."
+      },
+      {
+        "path": "25_full/f_112_2.png",
+        "size": 462736,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 470,
+          "height": 670,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Knight with red sash, aggressive stance; attack or charge animation."
+      },
+      {
+        "path": "25_full/f_112_3.png",
+        "size": 648639,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 652,
+          "height": 657,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Knight with shield and mace, defensive stance; block or counter frame."
+      },
+      {
+        "path": "25_full/f_113_1.png",
+        "size": 238389,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 233,
+          "height": 585,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "White-haired warrior, standing alert; idle or patrol animation."
+      },
+      {
+        "path": "25_full/f_113_2.png",
+        "size": 246997,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 305,
+          "height": 585,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "White-haired warrior, gesturing; dialogue or interaction frame."
+      },
+      {
+        "path": "25_full/f_113_3.png",
+        "size": 299072,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 454,
+          "height": 578,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior in combat stance, dual swords; attack or combo animation."
+      },
+      {
+        "path": "25_full/f_114_1.png",
+        "size": 334742,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 326,
+          "height": 644,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired mage, hands raised; spellcasting or casting animation."
+      },
+      {
+        "path": "25_full/f_114_2.png",
+        "size": 350971,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 346,
+          "height": 645,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mage with staff, dynamic pose; attack or spell animation."
+      },
+      {
+        "path": "25_full/f_114_3.png",
+        "size": 375514,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 421,
+          "height": 644,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mage with dual blades, aggressive stance; melee or combo animation."
+      },
+      {
+        "path": "25_full/f_115_1.png",
+        "size": 278266,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 269,
+          "height": 647,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Black-armored knight, standing still; idle or guard frame."
+      },
+      {
+        "path": "25_full/f_115_2.png",
+        "size": 231600,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 225,
+          "height": 647,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Knight with arms crossed, neutral stance; dialogue or idle animation."
+      },
+      {
+        "path": "25_full/f_115_3.png",
+        "size": 416695,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 704,
+          "height": 658,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Knight with polearm, charging stance; attack or charge animation."
+      },
+      {
+        "path": "25_full/f_116_1.png",
+        "size": 388374,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 368,
+          "height": 658,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-armored warrior, hands raised; spellcasting or casting animation."
+      },
+      {
+        "path": "25_full/f_116_2.png",
+        "size": 376571,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 437,
+          "height": 662,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior with staff, dynamic pose; attack or spell animation."
+      },
+      {
+        "path": "25_full/f_116_3.png",
+        "size": 445558,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 479,
+          "height": 716,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior with dual swords, aggressive stance; melee or combo animation."
+      },
+      {
+        "path": "25_full/f_117_1.png",
+        "size": 420380,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 391,
+          "height": 652,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Purple-dressed witch with star motifs; magical spellcasting or idle animation."
+      },
+      {
+        "path": "25_full/f_117_2.png",
+        "size": 470911,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 409,
+          "height": 660,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Witch in dynamic pose, holding staff; combat or spellcasting action."
+      },
+      {
+        "path": "25_full/f_117_3.png",
+        "size": 551080,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 461,
+          "height": 671,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Witch with glowing staff; casting powerful magic."
+      },
+      {
+        "path": "25_full/f_118_1.png",
+        "size": 341656,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 314,
+          "height": 675,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Muscular warrior in armor; standing ready for battle."
+      },
+      {
+        "path": "25_full/f_118_2.png",
+        "size": 365152,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 380,
+          "height": 676,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior with sword and shield; defensive stance."
+      },
+      {
+        "path": "25_full/f_118_3.png",
+        "size": 463897,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 569,
+          "height": 676,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dual-axe wielding warrior; aggressive attack animation."
+      },
+      {
+        "path": "25_full/f_119_1.png",
+        "size": 231241,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 263,
+          "height": 568,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired girl in maid outfit; idle or dialogue pose."
+      },
+      {
+        "path": "25_full/f_119_2.png",
+        "size": 265056,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 365,
+          "height": 567,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Girl with raised hand; casting or gesturing action."
+      },
+      {
+        "path": "25_full/f_119_3.png",
+        "size": 287936,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 353,
+          "height": 568,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Girl holding magnifying glass; investigation or discovery."
+      },
+      {
+        "path": "25_full/f_120_1.png",
+        "size": 464657,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 460,
+          "height": 672,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Bearded wizard in robe; standing in contemplative pose."
+      },
+      {
+        "path": "25_full/f_120_2.png",
+        "size": 421927,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 437,
+          "height": 672,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wizard with crossed arms; idle or defensive stance."
+      },
+      {
+        "path": "25_full/f_120_3.png",
+        "size": 527311,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 557,
+          "height": 614,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Skull-bearing wizard; aggressive or summoning animation."
+      },
+      {
+        "path": "25_full/f_121_1.png",
+        "size": 195844,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 239,
+          "height": 658,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dark-clad female with crossed arms; idle or defensive stance."
+      },
+      {
+        "path": "25_full/f_121_2.png",
+        "size": 247419,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 346,
+          "height": 659,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female with hands out; idle or dialogue pose."
+      },
+      {
+        "path": "25_full/f_121_3.png",
+        "size": 293089,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 507,
+          "height": 652,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female with rifle and sword; dual-weapon combat."
+      },
+      {
+        "path": "25_full/f_122_1.png",
+        "size": 310652,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 310,
+          "height": 642,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Blue-robed dancer; graceful movement or dance animation."
+      },
+      {
+        "path": "25_full/f_122_2.png",
+        "size": 377893,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 436,
+          "height": 635,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dancer with flowing skirt; dynamic dance or attack."
+      },
+      {
+        "path": "25_full/f_122_3.png",
+        "size": 554219,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 655,
+          "height": 660,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dancer with spinning weapon; acrobatic combat."
+      },
+      {
+        "path": "25_full/f_123_1.png",
+        "size": 339274,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 289,
+          "height": 690,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Pirate captain with hat; idle or commanding pose."
+      },
+      {
+        "path": "25_full/f_123_2.png",
+        "size": 319706,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 289,
+          "height": 692,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Pirate with hand on chin; thoughtful or idle pose."
+      },
+      {
+        "path": "25_full/f_123_3.png",
+        "size": 418189,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 473,
+          "height": 707,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Pirate with rifle; aiming or shooting animation."
+      },
+      {
+        "path": "25_full/f_124_1.png",
+        "size": 316039,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 268,
+          "height": 664,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Blue-haired warrior in armor; standing ready."
+      },
+      {
+        "path": "25_full/f_124_2.png",
+        "size": 518224,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 460,
+          "height": 669,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Blue-haired warrior with flowing cape; dynamic action."
+      },
+      {
+        "path": "25_full/f_124_3.png",
+        "size": 453051,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 402,
+          "height": 733,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Shield and spear-wielding warrior; defensive or attack stance."
+      },
+      {
+        "path": "25_full/f_125_1.png",
+        "size": 338569,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 323,
+          "height": 540,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel with white wings and halo; divine support or healing character."
+      },
+      {
+        "path": "25_full/f_125_2.png",
+        "size": 451220,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 536,
+          "height": 602,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel in dynamic pose with ribbon; magical or celebratory animation."
+      },
+      {
+        "path": "25_full/f_125_3.png",
+        "size": 415797,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 462,
+          "height": 587,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel wielding bow; ranged combat or archer class."
+      },
+      {
+        "path": "25_full_with_shadow/fs_101_1.png",
+        "size": 302700,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 361,
+          "height": 630,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel with bow and arrow; combat-focused ranged unit."
+      },
+      {
+        "path": "25_full_with_shadow/fs_101_2.png",
+        "size": 297693,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 354,
+          "height": 637,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Heavy armored knight; frontline melee fighter."
+      },
+      {
+        "path": "25_full_with_shadow/fs_101_3.png",
+        "size": 309171,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 764,
+          "height": 522,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Knight in dynamic attack stance; aggressive melee combatant."
+      },
+      {
+        "path": "25_full_with_shadow/fs_102_1.png",
+        "size": 302307,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 289,
+          "height": 591,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mystic in green robes; spellcasting or support role."
+      },
+      {
+        "path": "25_full_with_shadow/fs_102_2.png",
+        "size": 291364,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 288,
+          "height": 591,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mystic with clasped hands; prayer or meditation state."
+      },
+      {
+        "path": "25_full_with_shadow/fs_102_3.png",
+        "size": 415522,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 467,
+          "height": 589,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mystic holding glowing staff; active spellcasting."
+      },
+      {
+        "path": "25_full_with_shadow/fs_103_1.png",
+        "size": 301139,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 293,
+          "height": 700,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mystic in dynamic pose; magical attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_103_2.png",
+        "size": 299806,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 284,
+          "height": 701,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rogue with cape and hat; stealth or backstabber class."
+      },
+      {
+        "path": "25_full_with_shadow/fs_103_3.png",
+        "size": 308228,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 440,
+          "height": 696,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rogue wielding axe; aggressive melee attacker."
+      },
+      {
+        "path": "25_full_with_shadow/fs_104_1.png",
+        "size": 269958,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 303,
+          "height": 624,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Blue-clad warrior with high slit dress; agile melee fighter."
+      },
+      {
+        "path": "25_full_with_shadow/fs_104_2.png",
+        "size": 232154,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 293,
+          "height": 622,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior in standing pose; balanced combat stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_104_3.png",
+        "size": 266757,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 455,
+          "height": 606,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior in dynamic pose; powerful attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_105_1.png",
+        "size": 327208,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 369,
+          "height": 693,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Berserker with crossed arms; defensive or taunt stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_105_2.png",
+        "size": 353473,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 372,
+          "height": 692,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Berserker in battle stance; aggressive melee combatant."
+      },
+      {
+        "path": "25_full_with_shadow/fs_105_3.png",
+        "size": 398114,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 494,
+          "height": 659,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Berserker wielding axe; heavy-hitting melee unit."
+      },
+      {
+        "path": "25_full_with_shadow/fs_106_1.png",
+        "size": 278506,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 270,
+          "height": 627,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Winter warrior in fur-lined armor; cold environment fighter."
+      },
+      {
+        "path": "25_full_with_shadow/fs_106_2.png",
+        "size": 246895,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 268,
+          "height": 617,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Winter warrior in standing pose; balanced combat stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_106_3.png",
+        "size": 302556,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 383,
+          "height": 597,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Winter warrior in dynamic pose; powerful attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_107_1.png",
+        "size": 555161,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 481,
+          "height": 721,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Kingly armored warrior; high-tier melee leader."
+      },
+      {
+        "path": "25_full_with_shadow/fs_107_2.png",
+        "size": 522530,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 481,
+          "height": 719,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Kingly warrior with cape; commanding or defensive stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_107_3.png",
+        "size": 640752,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 569,
+          "height": 779,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Kingly warrior wielding sword; aggressive melee combatant."
+      },
+      {
+        "path": "25_full_with_shadow/fs_108_1.png",
+        "size": 260851,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 230,
+          "height": 625,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in flowing white robes, holding a staff; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_108_2.png",
+        "size": 274145,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 323,
+          "height": 627,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior with long hair, holding a staff; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_108_3.png",
+        "size": 317560,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 353,
+          "height": 625,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior with long hair, holding a staff; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_109_1.png",
+        "size": 201480,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 235,
+          "height": 638,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior with long hair, holding a staff; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_109_2.png",
+        "size": 190343,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 217,
+          "height": 638,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female chef in white uniform, hands on hips; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_109_3.png",
+        "size": 218901,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 383,
+          "height": 621,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female chef in white uniform, holding a tray; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_110_1.png",
+        "size": 448239,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 419,
+          "height": 702,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired cleric in blue robes, hands clasped; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_110_2.png",
+        "size": 442349,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 419,
+          "height": 694,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired cleric in blue robes, hands clasped; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_110_3.png",
+        "size": 584550,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 568,
+          "height": 740,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired cleric in blue robes, holding a staff; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_111_1.png",
+        "size": 340127,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 344,
+          "height": 682,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior in blue armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_111_2.png",
+        "size": 330657,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 345,
+          "height": 681,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior in blue armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_111_3.png",
+        "size": 395575,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 555,
+          "height": 669,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior in blue armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_112_1.png",
+        "size": 479274,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 440,
+          "height": 691,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Bald warrior in spiked armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_112_2.png",
+        "size": 444422,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 470,
+          "height": 670,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Bald warrior in spiked armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_112_3.png",
+        "size": 621157,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 652,
+          "height": 657,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Bald warrior in spiked armor, holding a mace; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_113_1.png",
+        "size": 227102,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 233,
+          "height": 585,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "White-haired warrior in armor, holding a shield; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_113_2.png",
+        "size": 231821,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 305,
+          "height": 585,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "White-haired warrior in armor, hands out; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_113_3.png",
+        "size": 276810,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 454,
+          "height": 578,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "White-haired warrior in armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_114_1.png",
+        "size": 322474,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 326,
+          "height": 645,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior in blue coat, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_114_2.png",
+        "size": 336471,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 346,
+          "height": 645,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior in blue coat, hands out; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_114_3.png",
+        "size": 358137,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 421,
+          "height": 644,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired warrior in blue coat, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_115_1.png",
+        "size": 264271,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 269,
+          "height": 647,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in silver armor, holding a sword; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_115_2.png",
+        "size": 232363,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 225,
+          "height": 647,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in silver armor, hands clasped; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_115_3.png",
+        "size": 346553,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 704,
+          "height": 658,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior in silver armor, holding a spear; fantasy RPG character model."
+      },
+      {
+        "path": "25_full_with_shadow/fs_116_1.png",
+        "size": 353257,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 368,
+          "height": 658,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Jester with red and gold armor; festive or comedic character in combat or idle scenes."
+      },
+      {
+        "path": "25_full_with_shadow/fs_116_2.png",
+        "size": 346018,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 437,
+          "height": 663,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Jester in dynamic pose; versatile animation for comedic or chaotic gameplay."
+      },
+      {
+        "path": "25_full_with_shadow/fs_116_3.png",
+        "size": 401678,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 479,
+          "height": 716,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Jester wielding dual swords; melee combat animation for fast-paced action."
+      },
+      {
+        "path": "25_full_with_shadow/fs_117_1.png",
+        "size": 398626,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 391,
+          "height": 653,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Purple witch in elegant dress; magical spellcasting or idle stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_117_2.png",
+        "size": 446833,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 409,
+          "height": 662,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Witch with floating stars; enchantment or summoning animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_117_3.png",
+        "size": 508416,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 461,
+          "height": 673,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Witch holding staff; casting magic or ranged attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_118_1.png",
+        "size": 334127,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 314,
+          "height": 676,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Bearded warrior in leather armor; grounded melee combat stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_118_2.png",
+        "size": 342775,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 380,
+          "height": 676,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior with dual blades; dynamic attack or defensive pose."
+      },
+      {
+        "path": "25_full_with_shadow/fs_118_3.png",
+        "size": 429927,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 569,
+          "height": 676,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Warrior wielding axes; heavy-hitting melee animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_119_1.png",
+        "size": 216851,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 263,
+          "height": 568,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Red-haired mage in dress; spellcasting or magical attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_119_2.png",
+        "size": 242070,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 365,
+          "height": 567,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mage with floating orb; casting or magical effect animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_119_3.png",
+        "size": 267297,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 353,
+          "height": 568,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Mage holding mirror; defensive or magical reflection animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_120_1.png",
+        "size": 448547,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 460,
+          "height": 673,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Blue-robed wizard with beard; arcane spellcasting or idle stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_120_2.png",
+        "size": 403251,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 437,
+          "height": 673,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wizard in ornate robes; magical attack or transformation animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_120_3.png",
+        "size": 506586,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 557,
+          "height": 616,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wizard holding skull; dark magic or summoning animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_121_1.png",
+        "size": 181842,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 239,
+          "height": 658,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Purple-clad rogue; stealth or agility-based movement animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_121_2.png",
+        "size": 222409,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 346,
+          "height": 661,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rogue with dual pistols; ranged combat or quick attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_121_3.png",
+        "size": 260403,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 507,
+          "height": 652,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Rogue with rifle and sword; hybrid combat or tactical stance."
+      },
+      {
+        "path": "25_full_with_shadow/fs_122_1.png",
+        "size": 298723,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 310,
+          "height": 644,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Purple-draped dancer; graceful movement or dance animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_122_2.png",
+        "size": 358482,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 436,
+          "height": 636,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dancer with flowing skirt; acrobatic or performance animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_122_3.png",
+        "size": 528899,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 655,
+          "height": 662,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Dancer with spinning blades; high-speed melee or combo animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_123_1.png",
+        "size": 328894,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 289,
+          "height": 690,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Steampunk pirate with hat; ranged or mechanical attack animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_123_2.png",
+        "size": 307011,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 289,
+          "height": 692,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Pirate with dual pistols; fast-paced combat or shooting animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_123_3.png",
+        "size": 379102,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 473,
+          "height": 708,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Pirate with rifle; ranged combat or tactical positioning animation."
+      },
+      {
+        "path": "25_full_with_shadow/fs_124_1.png",
+        "size": 296937,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 268,
+          "height": 666,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female knight in ornate armor, ready for battle. Use as a playable character or NPC in fantasy RPGs."
+      },
+      {
+        "path": "25_full_with_shadow/fs_124_2.png",
+        "size": 482509,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 460,
+          "height": 669,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female warrior with flowing blue hair and armor, mid-action. Ideal for dynamic combat animations or cutscenes."
+      },
+      {
+        "path": "25_full_with_shadow/fs_124_3.png",
+        "size": 420205,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 402,
+          "height": 734,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Female knight holding shield and spear. Perfect for defensive stance animations or team-based combat roles."
+      },
+      {
+        "path": "25_full_with_shadow/fs_125_1.png",
+        "size": 313951,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 323,
+          "height": 541,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel with white wings and halo, standing calmly. Suitable for divine or support character designs."
+      },
+      {
+        "path": "25_full_with_shadow/fs_125_2.png",
+        "size": 414948,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 536,
+          "height": 652,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel in flowing white robe, holding a staff. Great for healing or magic caster roles in fantasy games."
+      },
+      {
+        "path": "25_full_with_shadow/fs_125_3.png",
+        "size": 383711,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 462,
+          "height": 644,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Angel archer with bow and wings, in dynamic pose. Excellent for ranged combat or agile character classes."
+      },
+      {
+        "path": "25_pose/p_101.png",
+        "size": 701881,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2117,
+          "height": 1207,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 1/25)"
+      },
+      {
+        "path": "25_pose/p_102.png",
+        "size": 945881,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2026,
+          "height": 1122,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 2/25)"
+      },
+      {
+        "path": "25_pose/p_103.png",
+        "size": 503563,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1740,
+          "height": 1213,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 248,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 3/25)"
+      },
+      {
+        "path": "25_pose/p_104.png",
+        "size": 371361,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1457,
+          "height": 1076,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 4/25)"
+      },
+      {
+        "path": "25_pose/p_105.png",
+        "size": 502025,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1737,
+          "height": 1235,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 255,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 5/25)"
+      },
+      {
+        "path": "25_pose/p_106.png",
+        "size": 765456,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1799,
+          "height": 1210,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 6/25)"
+      },
+      {
+        "path": "25_pose/p_107.png",
+        "size": 1117326,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2333,
+          "height": 1500,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 7/25)"
+      },
+      {
+        "path": "25_pose/p_108.png",
+        "size": 661690,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1900,
+          "height": 1075,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 8/25)"
+      },
+      {
+        "path": "25_pose/p_109.png",
+        "size": 527192,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1450,
+          "height": 1176,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 254,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 9/25)"
+      },
+      {
+        "path": "25_pose/p_110.png",
+        "size": 542939,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1644,
+          "height": 1122,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 10/25)"
+      },
+      {
+        "path": "25_pose/p_111.png",
+        "size": 780051,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2407,
+          "height": 1234,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 11/25)"
+      },
+      {
+        "path": "25_pose/p_112.png",
+        "size": 756488,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1877,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 254,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 12/25)"
+      },
+      {
+        "path": "25_pose/p_113.png",
+        "size": 447684,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1352,
+          "height": 1067,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 255,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 13/25)"
+      },
+      {
+        "path": "25_pose/p_114.png",
+        "size": 876255,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2114,
+          "height": 1268,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 14/25)"
+      },
+      {
+        "path": "25_pose/p_115.png",
+        "size": 465083,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1373,
+          "height": 992,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 15/25)"
+      },
+      {
+        "path": "25_pose/p_116.png",
+        "size": 775228,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1569,
+          "height": 1520,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 16/25)"
+      },
+      {
+        "path": "25_pose/p_117.png",
+        "size": 970633,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1904,
+          "height": 1307,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 17/25)"
+      },
+      {
+        "path": "25_pose/p_118.png",
+        "size": 794024,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2400,
+          "height": 1258,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 18/25)"
+      },
+      {
+        "path": "25_pose/p_119.png",
+        "size": 691457,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1822,
+          "height": 1113,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 19/25)"
+      },
+      {
+        "path": "25_pose/p_120.png",
+        "size": 938105,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2230,
+          "height": 1170,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 20/25)"
+      },
+      {
+        "path": "25_pose/p_121.png",
+        "size": 277566,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1146,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 255,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 21/25)"
+      },
+      {
+        "path": "25_pose/p_122.png",
+        "size": 774353,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1923,
+          "height": 1074,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 22/25)"
+      },
+      {
+        "path": "25_pose/p_123.png",
+        "size": 636120,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1618,
+          "height": 1210,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 23/25)"
+      },
+      {
+        "path": "25_pose/p_124.png",
+        "size": 767187,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1811,
+          "height": 1361,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 24/25)"
+      },
+      {
+        "path": "25_pose/p_125.png",
+        "size": 774356,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1663,
+          "height": 1325,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 256,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 25/25)"
+      },
+      {
+        "path": "25_upper/101_1.png",
+        "size": 404489,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 697,
+          "height": 1010,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "White-haired warrior with sword, mid-swing. Ideal for attack animations or fast-paced combat sequences."
+      },
+      {
+        "path": "25_upper/101_2.png",
+        "size": 403721,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 697,
+          "height": 1010,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired mage with staff and cape, casting. Perfect for spellcasting or magical abilities."
+      },
+      {
+        "path": "25_upper/101_3.png",
+        "size": 404062,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 697,
+          "height": 1010,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Heavy armored knight, standing confidently. Great for tank or frontline character designs."
+      },
+      {
+        "path": "25_upper/101_4.png",
+        "size": 403421,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 697,
+          "height": 1010,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Armored knight with red accents, side view. Use for varied camera angles or character portraits."
+      },
+      {
+        "path": "25_upper/101_5.png",
+        "size": 403941,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 697,
+          "height": 1010,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Armored knight, front view. Ideal for character selection screens or inventory displays."
+      },
+      {
+        "path": "25_upper/101_6.png",
+        "size": 404583,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 697,
+          "height": 1010,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Armored knight, three-quarter view. Useful for detailed character models or 3D game assets."
+      },
+      {
+        "path": "25_upper/102_1.png",
+        "size": 382577,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 633,
+          "height": 1008,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Green-robed mage with ornate headpiece, standing. Perfect for spellcaster or support roles."
+      },
+      {
+        "path": "25_upper/102_2.png",
+        "size": 382946,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 633,
+          "height": 1008,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Green-robed mage, side view. Great for varied character perspectives or UI elements."
+      },
+      {
+        "path": "25_upper/102_3.png",
+        "size": 383348,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 633,
+          "height": 1008,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Green-robed mage, three-quarter view. Useful for detailed character models or game cutscenes."
+      },
+      {
+        "path": "25_upper/102_4.png",
+        "size": 383421,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 633,
+          "height": 1008,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Green-robed mage, front view. Ideal for character portraits or dialogue scenes."
+      },
+      {
+        "path": "25_upper/102_5.png",
+        "size": 383524,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 633,
+          "height": 1008,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Green-robed mage, side view. Perfect for dynamic camera angles or battle animations."
+      },
+      {
+        "path": "25_upper/102_6.png",
+        "size": 382996,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 633,
+          "height": 1008,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Green-robed mage, three-quarter view. Great for detailed character models or game UI."
+      },
+      {
+        "path": "25_upper/103_1.png",
+        "size": 447836,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 797,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-robed pirate with hat and sword, confident stance. Excellent for rogue or pirate character designs."
+      },
+      {
+        "path": "25_upper/103_2.png",
+        "size": 445392,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 797,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-robed pirate, side view. Ideal for varied camera angles or character portraits."
+      },
+      {
+        "path": "25_upper/103_3.png",
+        "size": 447286,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 797,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-robed pirate, three-quarter view. Perfect for detailed character models or game cutscenes."
+      },
+      {
+        "path": "25_upper/103_4.png",
+        "size": 445942,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 797,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male noble in ornate coat; dialogue or cutscene character."
+      },
+      {
+        "path": "25_upper/103_5.png",
+        "size": 447777,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 797,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male noble in ornate coat; dialogue or cutscene character."
+      },
+      {
+        "path": "25_upper/103_6.png",
+        "size": 446540,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 797,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male noble in ornate coat; dialogue or cutscene character."
+      },
+      {
+        "path": "25_upper/104_1.png",
+        "size": 317522,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 691,
+          "height": 982,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female in blue qipao; combat or idle animation."
+      },
+      {
+        "path": "25_upper/104_2.png",
+        "size": 317093,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 691,
+          "height": 982,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female in blue qipao; combat or idle animation."
+      },
+      {
+        "path": "25_upper/104_3.png",
+        "size": 317863,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 691,
+          "height": 982,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female in blue qipao; combat or idle animation."
+      },
+      {
+        "path": "25_upper/104_4.png",
+        "size": 317336,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 691,
+          "height": 982,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female in blue qipao; combat or idle animation."
+      },
+      {
+        "path": "25_upper/104_5.png",
+        "size": 317881,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 691,
+          "height": 982,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female in blue qipao; combat or idle animation."
+      },
+      {
+        "path": "25_upper/104_6.png",
+        "size": 319535,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 691,
+          "height": 982,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female in blue qipao; combat or idle animation."
+      },
+      {
+        "path": "25_upper/105_1.png",
+        "size": 488987,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 845,
+          "height": 1182,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald warrior in armor; melee combat or stance."
+      },
+      {
+        "path": "25_upper/105_2.png",
+        "size": 489283,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 845,
+          "height": 1182,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald warrior in armor; melee combat or stance."
+      },
+      {
+        "path": "25_upper/105_3.png",
+        "size": 488635,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 845,
+          "height": 1182,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald warrior in armor; melee combat or stance."
+      },
+      {
+        "path": "25_upper/105_4.png",
+        "size": 489647,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 845,
+          "height": 1182,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald warrior in armor; melee combat or stance."
+      },
+      {
+        "path": "25_upper/105_5.png",
+        "size": 489448,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 845,
+          "height": 1182,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald warrior in armor; melee combat or stance."
+      },
+      {
+        "path": "25_upper/105_6.png",
+        "size": 487185,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 845,
+          "height": 1182,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald warrior in armor; melee combat or stance."
+      },
+      {
+        "path": "25_upper/106_1.png",
+        "size": 477179,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 821,
+          "height": 1071,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Fur-hooded character; cold environment or stealth."
+      },
+      {
+        "path": "25_upper/106_2.png",
+        "size": 477869,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 821,
+          "height": 1071,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Fur-hooded character; cold environment or stealth."
+      },
+      {
+        "path": "25_upper/106_3.png",
+        "size": 478044,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 821,
+          "height": 1071,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Fur-hooded character; cold environment or stealth."
+      },
+      {
+        "path": "25_upper/106_4.png",
+        "size": 478555,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 821,
+          "height": 1071,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Fur-hooded character; cold environment or stealth."
+      },
+      {
+        "path": "25_upper/106_5.png",
+        "size": 478355,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 821,
+          "height": 1071,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Fur-hooded character; cold environment or stealth."
+      },
+      {
+        "path": "25_upper/106_6.png",
+        "size": 478689,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 821,
+          "height": 1071,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Fur-hooded character; cold environment or stealth."
+      },
+      {
+        "path": "25_upper/107_1.png",
+        "size": 748921,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1213,
+          "height": 1218,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior in fur cloak; boss or elite enemy."
+      },
+      {
+        "path": "25_upper/107_2.png",
+        "size": 747999,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1213,
+          "height": 1218,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior in fur cloak; boss or elite enemy."
+      },
+      {
+        "path": "25_upper/107_3.png",
+        "size": 748713,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1213,
+          "height": 1218,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded warrior in fur cloak; boss or elite enemy."
+      },
+      {
+        "path": "25_upper/107_4.png",
+        "size": 748202,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1213,
+          "height": 1218,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded king in fur-lined armor; boss or quest giver."
+      },
+      {
+        "path": "25_upper/107_5.png",
+        "size": 748566,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1213,
+          "height": 1218,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "King with fur cloak, holding weapon; battle or dialogue pose."
+      },
+      {
+        "path": "25_upper/107_6.png",
+        "size": 748429,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1213,
+          "height": 1218,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "King in armor, hand on chest; emotional or victory pose."
+      },
+      {
+        "path": "25_upper/108_1.png",
+        "size": 360669,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 674,
+          "height": 977,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female warrior with tribal attire; combat or idle animation."
+      },
+      {
+        "path": "25_upper/108_2.png",
+        "size": 361403,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 674,
+          "height": 977,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female warrior with tribal attire; standing pose."
+      },
+      {
+        "path": "25_upper/108_3.png",
+        "size": 361181,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 674,
+          "height": 977,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female warrior with tribal attire; side view."
+      },
+      {
+        "path": "25_upper/108_4.png",
+        "size": 362176,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 674,
+          "height": 977,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Chef in white uniform; cooking or quest interaction."
+      },
+      {
+        "path": "25_upper/108_5.png",
+        "size": 361168,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 674,
+          "height": 977,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Chef in white uniform; holding utensil; cooking pose."
+      },
+      {
+        "path": "25_upper/108_6.png",
+        "size": 361155,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 674,
+          "height": 977,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Chef in white uniform; side view; cooking action."
+      },
+      {
+        "path": "25_upper/109_1.png",
+        "size": 364624,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 671,
+          "height": 1063,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired noble in blue robes; standing pose."
+      },
+      {
+        "path": "25_upper/109_2.png",
+        "size": 363559,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 671,
+          "height": 1063,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Noble in blue robes; hands clasped; dialogue or prayer."
+      },
+      {
+        "path": "25_upper/109_3.png",
+        "size": 364692,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 671,
+          "height": 1063,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Noble in blue robes; side view; emotional expression."
+      },
+      {
+        "path": "25_upper/109_4.png",
+        "size": 364840,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 671,
+          "height": 1063,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Noble in blue robes; front view; calm demeanor."
+      },
+      {
+        "path": "25_upper/109_5.png",
+        "size": 364407,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 671,
+          "height": 1063,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Noble in blue robes; side view; calm stance."
+      },
+      {
+        "path": "25_upper/109_6.png",
+        "size": 363993,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 671,
+          "height": 1063,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Noble in blue robes; front view; hands clasped."
+      },
+      {
+        "path": "25_upper/110_1.png",
+        "size": 473432,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1103,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired warrior in blue armor; battle stance."
+      },
+      {
+        "path": "25_upper/110_2.png",
+        "size": 473855,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1103,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; side view; combat readiness."
+      },
+      {
+        "path": "25_upper/110_3.png",
+        "size": 474042,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1103,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; back view; battle stance."
+      },
+      {
+        "path": "25_upper/110_4.png",
+        "size": 474005,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1103,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; front view; battle stance."
+      },
+      {
+        "path": "25_upper/110_5.png",
+        "size": 474223,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1103,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; side view; battle stance."
+      },
+      {
+        "path": "25_upper/110_6.png",
+        "size": 473249,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1103,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; front view; battle stance."
+      },
+      {
+        "path": "25_upper/111_1.png",
+        "size": 416991,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1105,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; dynamic battle pose."
+      },
+      {
+        "path": "25_upper/111_2.png",
+        "size": 416248,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1105,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; side view; dynamic pose."
+      },
+      {
+        "path": "25_upper/111_3.png",
+        "size": 416592,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1105,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Warrior in blue armor; back view; dynamic pose."
+      },
+      {
+        "path": "25_upper/111_4.png",
+        "size": 417659,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1105,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female warrior with red hair and blue armor, standing pose for character selection or cutscenes."
+      },
+      {
+        "path": "25_upper/111_5.png",
+        "size": 416395,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1105,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same female warrior, slightly turned, for varied animation frames or UI display."
+      },
+      {
+        "path": "25_upper/111_6.png",
+        "size": 416637,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 870,
+          "height": 1105,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same female warrior, different stance, for dynamic character presentation or combat animations."
+      },
+      {
+        "path": "25_upper/112_1.png",
+        "size": 571111,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 940,
+          "height": 1064,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bald male warrior in heavy armor, standing pose, for boss or elite enemy sprites."
+      },
+      {
+        "path": "25_upper/112_2.png",
+        "size": 571557,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 940,
+          "height": 1064,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same male warrior, slight turn, for animation variety or UI display."
+      },
+      {
+        "path": "25_upper/112_3.png",
+        "size": 571587,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 940,
+          "height": 1064,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same male warrior, different stance, for combat or cinematic use."
+      },
+      {
+        "path": "25_upper/112_4.png",
+        "size": 572238,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 940,
+          "height": 1064,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "White-haired male in blue and white armor, standing pose, for party member or NPC."
+      },
+      {
+        "path": "25_upper/112_5.png",
+        "size": 570886,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 940,
+          "height": 1064,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same white-haired male, turned slightly, for animation or UI variation."
+      },
+      {
+        "path": "25_upper/112_6.png",
+        "size": 570499,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 940,
+          "height": 1064,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same white-haired male, different stance, for dynamic character presentation."
+      },
+      {
+        "path": "25_upper/113_1.png",
+        "size": 286088,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 562,
+          "height": 990,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired male in gold and blue armor, standing pose, for hero or quest giver."
+      },
+      {
+        "path": "25_upper/113_2.png",
+        "size": 286888,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 562,
+          "height": 990,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same red-haired male, slight turn, for animation or UI variation."
+      },
+      {
+        "path": "25_upper/113_3.png",
+        "size": 287122,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 562,
+          "height": 990,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same red-haired male, different stance, for combat or cinematic use."
+      },
+      {
+        "path": "25_upper/113_4.png",
+        "size": 285551,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 562,
+          "height": 990,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired male in gold and blue armor, turned pose, for party member or NPC."
+      },
+      {
+        "path": "25_upper/113_5.png",
+        "size": 286333,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 562,
+          "height": 990,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same red-haired male, slight turn, for animation or UI variation."
+      },
+      {
+        "path": "25_upper/113_6.png",
+        "size": 285992,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 562,
+          "height": 990,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same red-haired male, different stance, for dynamic character presentation."
+      },
+      {
+        "path": "25_upper/114_1.png",
+        "size": 410023,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 769,
+          "height": 1092,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Black-haired male in red and silver armor, standing pose, for hero or main character."
+      },
+      {
+        "path": "25_upper/114_2.png",
+        "size": 408921,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 769,
+          "height": 1092,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same black-haired male, slight turn, for animation or UI variation."
+      },
+      {
+        "path": "25_upper/114_3.png",
+        "size": 410867,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 769,
+          "height": 1092,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same black-haired male, different stance, for combat or cinematic use."
+      },
+      {
+        "path": "25_upper/114_4.png",
+        "size": 410339,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 769,
+          "height": 1092,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Black-haired male in red and silver armor, turned pose, for party member or NPC."
+      },
+      {
+        "path": "25_upper/114_5.png",
+        "size": 410394,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 769,
+          "height": 1092,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same black-haired male, slight turn, for animation or UI variation."
+      },
+      {
+        "path": "25_upper/114_6.png",
+        "size": 410362,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 769,
+          "height": 1092,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same black-haired male, different stance, for dynamic character presentation."
+      },
+      {
+        "path": "25_upper/115_1.png",
+        "size": 379437,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 677,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Black-haired male in red and silver armor, standing pose, for hero or main character."
+      },
+      {
+        "path": "25_upper/115_2.png",
+        "size": 380572,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 677,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same black-haired male, slight turn, for animation or UI variation."
+      },
+      {
+        "path": "25_upper/115_3.png",
+        "size": 380180,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 677,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Same black-haired male, different stance, for combat or cinematic use."
+      },
+      {
+        "path": "25_upper/115_4.png",
+        "size": 380226,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 677,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in red and silver armor, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/115_5.png",
+        "size": 380233,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 677,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 253,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in red and silver armor, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/115_6.png",
+        "size": 379589,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 677,
+          "height": 1011,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in red and silver armor, back view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/116_1.png",
+        "size": 480381,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 750,
+          "height": 1155,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in red and silver armor, three-quarter view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/116_2.png",
+        "size": 480234,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 750,
+          "height": 1155,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in red and blue outfit, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/116_3.png",
+        "size": 479904,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 750,
+          "height": 1155,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in red and blue outfit, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/116_4.png",
+        "size": 480146,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 750,
+          "height": 1155,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in red and blue outfit, back view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/116_5.png",
+        "size": 479384,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 750,
+          "height": 1155,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in red and blue outfit, three-quarter view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/116_6.png",
+        "size": 479789,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 750,
+          "height": 1155,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in red and blue outfit, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/117_1.png",
+        "size": 492418,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 857,
+          "height": 1126,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in purple dress with flower hat, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/117_2.png",
+        "size": 492703,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 857,
+          "height": 1126,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in purple dress with flower hat, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/117_3.png",
+        "size": 492774,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 857,
+          "height": 1126,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in purple dress with flower hat, back view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/117_4.png",
+        "size": 492597,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 857,
+          "height": 1126,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in purple dress with flower hat, three-quarter view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/117_5.png",
+        "size": 492271,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 857,
+          "height": 1126,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in purple dress with flower hat, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/117_6.png",
+        "size": 491931,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 857,
+          "height": 1126,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in purple dress with flower hat, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/118_1.png",
+        "size": 457961,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 753,
+          "height": 1171,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male warrior in dark armor, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/118_2.png",
+        "size": 459609,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 753,
+          "height": 1171,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male warrior in dark armor, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/118_3.png",
+        "size": 459429,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 753,
+          "height": 1171,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male warrior in dark armor, back view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/118_4.png",
+        "size": 459015,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 753,
+          "height": 1171,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male warrior in dark armor, three-quarter view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/118_5.png",
+        "size": 458363,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 753,
+          "height": 1171,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male warrior in dark armor, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/118_6.png",
+        "size": 459614,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 753,
+          "height": 1171,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male warrior in dark armor, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/119_1.png",
+        "size": 339925,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 738,
+          "height": 984,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in white dress with red hair, front view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/119_2.png",
+        "size": 342430,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 738,
+          "height": 984,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in white dress with red hair, side view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/119_3.png",
+        "size": 342076,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 738,
+          "height": 984,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female mage in white dress with red hair, back view. Used for character sprites in fantasy RPGs."
+      },
+      {
+        "path": "25_upper/119_4.png",
+        "size": 340960,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 738,
+          "height": 984,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired mage with staff; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/119_5.png",
+        "size": 341766,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 738,
+          "height": 984,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired mage with staff; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/119_6.png",
+        "size": 340786,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 738,
+          "height": 984,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired mage with staff; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/120_1.png",
+        "size": 569457,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1007,
+          "height": 1086,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded wizard in dark robe; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/120_2.png",
+        "size": 569740,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1007,
+          "height": 1086,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded wizard in dark robe; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/120_3.png",
+        "size": 569897,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1007,
+          "height": 1086,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded wizard in dark robe; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/120_4.png",
+        "size": 568646,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1007,
+          "height": 1086,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded wizard in dark robe; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/120_5.png",
+        "size": 569306,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1007,
+          "height": 1086,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded wizard in dark robe; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/120_6.png",
+        "size": 569452,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1007,
+          "height": 1086,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded wizard in dark robe; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/121_1.png",
+        "size": 341367,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 813,
+          "height": 1016,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-haired female in purple outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/121_2.png",
+        "size": 342027,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 813,
+          "height": 1016,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-haired female in purple outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/121_3.png",
+        "size": 341579,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 813,
+          "height": 1016,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-haired female in purple outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/121_4.png",
+        "size": 342323,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 813,
+          "height": 1016,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-haired female in purple outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/121_5.png",
+        "size": 341394,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 813,
+          "height": 1016,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-haired female in purple outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/121_6.png",
+        "size": 341052,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 813,
+          "height": 1016,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Dark-haired female in purple outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/122_1.png",
+        "size": 341555,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 817,
+          "height": 1012,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Masked female in blue outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/122_2.png",
+        "size": 342166,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 817,
+          "height": 1012,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Masked female in blue outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/122_3.png",
+        "size": 342593,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 817,
+          "height": 1012,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Masked female in blue outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/122_4.png",
+        "size": 342331,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 817,
+          "height": 1012,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 252,
+          "palette_bucket": "<=256"
+        },
+        "description": "Masked female in blue outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/122_5.png",
+        "size": 342064,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 817,
+          "height": 1012,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Masked female in blue outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/122_6.png",
+        "size": 341533,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 817,
+          "height": 1012,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Masked female in blue outfit; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/123_1.png",
+        "size": 488069,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 767,
+          "height": 1117,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded male in armor; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/123_2.png",
+        "size": 487973,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 767,
+          "height": 1117,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded male in armor; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/123_3.png",
+        "size": 489069,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 767,
+          "height": 1117,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Bearded male in armor; fantasy RPG character sprite."
+      },
+      {
+        "path": "25_upper/123_4.png",
+        "size": 488990,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 767,
+          "height": 1117,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in dark armor, front view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/123_5.png",
+        "size": 489694,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 767,
+          "height": 1117,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 251,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in dark armor, side view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/123_6.png",
+        "size": 487349,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 767,
+          "height": 1117,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Male knight in dark armor, back view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/124_1.png",
+        "size": 405761,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 752,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female knight in silver armor, front view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/124_2.png",
+        "size": 406364,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 752,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female knight in silver armor, side view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/124_3.png",
+        "size": 406500,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 752,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female knight in silver armor, back view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/124_4.png",
+        "size": 404372,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 752,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female knight in silver armor, front view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/124_5.png",
+        "size": 406550,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 752,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female knight in silver armor, side view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/124_6.png",
+        "size": 404524,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 752,
+          "height": 1138,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 250,
+          "palette_bucket": "<=256"
+        },
+        "description": "Female knight in silver armor, back view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/125_1.png",
+        "size": 480351,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 893,
+          "height": 993,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Angel with white wings, front view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/125_2.png",
+        "size": 480359,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 893,
+          "height": 993,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Angel with white wings, side view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/125_3.png",
+        "size": 480620,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 893,
+          "height": 993,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Angel with white wings, back view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/125_4.png",
+        "size": 480394,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 893,
+          "height": 993,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Angel with white wings, front view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/125_5.png",
+        "size": 480098,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 893,
+          "height": 993,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Angel with white wings, side view. Used for character models or cutscenes."
+      },
+      {
+        "path": "25_upper/125_6.png",
+        "size": 480762,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 893,
+          "height": 993,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 249,
+          "palette_bucket": "<=256"
+        },
+        "description": "Angel with white wings, back view. Used for character models or cutscenes."
+      },
+      {
+        "path": "background_char_ready/background_1.png",
+        "size": 3759563,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Stone bridge over water, urban environment. Used for level design or background."
+      },
+      {
+        "path": "background_char_ready/background_2.png",
+        "size": 3549136,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Cityscape with buildings, open plaza. Used for level design or background."
+      },
+      {
+        "path": "background_char_ready/background_3.png",
+        "size": 3209374,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Wooden interior with torches, tavern-like. Used for level design or background."
+      },
+      {
+        "path": "background_char_ready/background_4.png",
+        "size": 3158482,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Traditional East Asian street with torii gate. Used for level design or background."
+      },
+      {
+        "path": "background_char_ready/background_5.png",
+        "size": 3083146,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 1920,
+          "height": 1080,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "Open grassy field with distant mountains. Used for level design or background."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 77,
+    "archive_count": 0,
+    "docs": [],
+    "probe": {
+      "images": {
+        "count": 330,
+        "pixel_art": 0,
+        "size_buckets": {
+          ">512": 330
+        },
+        "palette_buckets": {
+          ">256": 155,
+          "<=256": 175
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "free_fantasy_hero_25_character_pack"
+  },
+  "summary": "free_fantasy_hero_25_character_pack by unknown author: 330 files (146.5 MB) — 330 images (mostly >512 px, 77 animation sequences).",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:46:05Z",
+  "content": {
+    "description": "25 high-fantasy characters in a painted anime/JRPG style, with per-character full-body art, upper-body/portrait crops, pose variants, and some shadowed versions at high resolution (roughly 300-2400 px). Cast includes knights, mages, angels, an archer, a gunner, dancers, a cook and armoured adventurers. Also five 1920x1080 painted backgrounds: town square, arena, tavern interior, ruins and a meadow. Best for visual-novel portraits, RPG party art, dialogue busts and key art rather than small sprites.",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:33Z",
+    "samples": null
+  }
+}

@@ -98,6 +98,7 @@ Useful flags:
 | `config.toml` | collections to ingest, classification allowlist, paths |
 | `downloads/<pack>/` | manual downloads, one folder per asset (gitignored) |
 | `assets/cards/<slug>.json` | canonical per-asset card (source of truth) |
+| `assets/files/<slug>.md` | per-file catalogue, including sheet grids and cells |
 | `assets/matches.json` | remembered folder ↔ asset decisions |
 | `keys.json` | download keys (gitignored, never written into cards) |
 | `.cache/pages/` | page ETag cache (gitignored) |
@@ -276,12 +277,33 @@ manifest entry with `description`. Strategies keep the cost sane:
   labelled per cell by the vision model; animation strips get frame numbers.
 - audio/3D/fonts/docs get metadata-based descriptions without model calls
 
+Sheet data is stored per file in the card, so code can slice deterministically:
+
+```jsonc
+"sheet": {
+  "kind": "atlas",                       // or "animation"
+  "grid": {"cols": 8, "rows": 7, "cell_w": 24, "cell_h": 24, "cells": 56},
+  "cells": [
+    {"index": 5, "row": 0, "col": 5, "x": 120, "y": 0, "w": 24, "h": 24,
+     "description": "shield"}
+  ]
+}
+```
+
+Treat `sheet.cells[].x/y/w/h` as authoritative; don't recompute cell sizes from
+the image dimensions. For `kind: "animation"`, play cells in index order. Grid
+detection is heuristic, so verify a crop if a sheet drives critical art.
+
 Search the catalogue from a shell or an agent:
 
 ```bash
 python skills/zac-assets/scripts/find_assets.py --file-query "wooden door"
 python skills/zac-assets/scripts/find_assets.py --file-query "fireball" --json
 ```
+
+The generated inventory (`ASSETS.md`, `ATTRIBUTION.md`, `assets/cards/`,
+`assets/files/`) is committed so another machine or model can read it directly.
+Only `downloads/`, `.cache/`, and `keys.json` stay out of Git.
 
 If you have packs on disk but no API key (or they came from elsewhere), bootstrap
 cards from the folder structure and let `scan` discover licenses from the files:

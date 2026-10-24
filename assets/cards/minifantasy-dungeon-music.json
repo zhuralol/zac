@@ -1,0 +1,137 @@
+{
+  "slug": "minifantasy-dungeon-music",
+  "itch": {
+    "game_id": "local-minifantasy-dungeon-music",
+    "title": "Minifantasy_Dungeon_Music",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "Custom (no attribution required)",
+      "confidence": "high",
+      "source": "Licensing.txt",
+      "raw_span": "e redirect people to my page in case someone else shows interest in my work; - Credits are not mandatory, but much appreciated!"
+    },
+    "requires_attribution": "no",
+    "credit_line": "Minifantasy_Dungeon_Music by unknown author — Custom (no attribution required) [attribution not required; credit optional]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/Minifantasy_Dungeon_Music",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 4,
+    "total_bytes": 29172891,
+    "total_human": "27.8 MB",
+    "categories": {
+      "docs": {
+        "count": 2,
+        "bytes": 547,
+        "label": "docs/licenses"
+      },
+      "audio": {
+        "count": 2,
+        "bytes": 29172344,
+        "label": "audio"
+      }
+    },
+    "notable_files": {
+      "docs": [
+        "Acknowledgements.txt",
+        "Licensing.txt"
+      ],
+      "audio": [
+        "Music/Goblins_Dance_(Battle).wav",
+        "Music/Goblins_Den_(Regular).wav"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "Acknowledgements.txt",
+        "size": 252,
+        "category": "docs",
+        "description": "Document: Acknowledgements."
+      },
+      {
+        "path": "Licensing.txt",
+        "size": 295,
+        "category": "docs",
+        "description": "Document: Licensing."
+      },
+      {
+        "path": "Music/Goblins_Dance_(Battle).wav",
+        "size": 13930648,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 52.65,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (0:52): Goblins Dance (Battle)."
+      },
+      {
+        "path": "Music/Goblins_Den_(Regular).wav",
+        "size": 15241696,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 57.6,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (0:57): Goblins Den (Regular)."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [
+      "Acknowledgements.txt",
+      "Licensing.txt"
+    ],
+    "probe": {
+      "images": {
+        "count": 0,
+        "pixel_art": 0,
+        "size_buckets": {},
+        "palette_buckets": {},
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 2,
+        "sfx": 0,
+        "music": 2,
+        "other": 0,
+        "total_duration": 110.2
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "Minifantasy_Dungeon_Music"
+  },
+  "summary": "Minifantasy_Dungeon_Music by unknown author: 4 files (27.8 MB) — 2 music tracks, 2 docs/licenses.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T22:10:15Z"
+}

@@ -1,0 +1,5293 @@
+{
+  "slug": "400-sounds-pack",
+  "itch": {
+    "game_id": "local-400-sounds-pack",
+    "title": "400 Sounds Pack",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "unspecified",
+      "confidence": "none",
+      "source": null,
+      "raw_span": null
+    },
+    "requires_attribution": "unknown",
+    "credit_line": "400 Sounds Pack by unknown author [license requires manual verification]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/400 Sounds Pack",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 400,
+    "total_bytes": 89384390,
+    "total_human": "85.2 MB",
+    "categories": {
+      "audio": {
+        "count": 400,
+        "bytes": 89384390,
+        "label": "audio"
+      }
+    },
+    "notable_files": {
+      "audio": [
+        "Card and Board/card_draw_1.wav",
+        "Card and Board/card_draw_2.wav",
+        "Card and Board/card_draw_3.wav",
+        "Card and Board/card_fan.wav",
+        "Card and Board/card_fan_2.wav",
+        "Card and Board/chips_drop.wav",
+        "Card and Board/chips_gather.wav",
+        "Card and Board/chips_gather_2.wav"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "Card and Board/card_draw_1.wav",
+        "size": 61484,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Card draw 1."
+      },
+      {
+        "path": "Card and Board/card_draw_2.wav",
+        "size": 41004,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.23,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.23s): Card draw 2."
+      },
+      {
+        "path": "Card and Board/card_draw_3.wav",
+        "size": 59436,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.34s): Card draw 3."
+      },
+      {
+        "path": "Card and Board/card_fan.wav",
+        "size": 69676,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.39s): Card fan."
+      },
+      {
+        "path": "Card and Board/card_fan_2.wav",
+        "size": 116780,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.66,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.66s): Card fan 2."
+      },
+      {
+        "path": "Card and Board/chips_drop.wav",
+        "size": 208940,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.18,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.18s): Chips drop."
+      },
+      {
+        "path": "Card and Board/chips_gather.wav",
+        "size": 63532,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.36,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.36s): Chips gather."
+      },
+      {
+        "path": "Card and Board/chips_gather_2.wav",
+        "size": 118828,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.67,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.67s): Chips gather 2."
+      },
+      {
+        "path": "Card and Board/chips_gather_3.wav",
+        "size": 90156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Chips gather 3."
+      },
+      {
+        "path": "Card and Board/chips_in_sack_shake.wav",
+        "size": 421932,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.39s): Chips in sack shake."
+      },
+      {
+        "path": "Card and Board/chips_in_sack_short.wav",
+        "size": 106540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.6,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.60s): Chips in sack short."
+      },
+      {
+        "path": "Card and Board/chips_place_1.wav",
+        "size": 59436,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.34s): Chips place 1."
+      },
+      {
+        "path": "Card and Board/chips_place_2.wav",
+        "size": 57388,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Chips place 2."
+      },
+      {
+        "path": "Card and Board/chips_place_3.wav",
+        "size": 26668,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.15s): Chips place 3."
+      },
+      {
+        "path": "Card and Board/chips_stack.wav",
+        "size": 49196,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.28,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.28s): Chips stack."
+      },
+      {
+        "path": "Card and Board/chips_stack_2.wav",
+        "size": 149436,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.85,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.85s): Chips stack 2."
+      },
+      {
+        "path": "Card and Board/dice_grab.wav",
+        "size": 59436,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.34s): Dice grab."
+      },
+      {
+        "path": "Card and Board/dice_roll_1.wav",
+        "size": 75820,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.43,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.43s): Dice roll 1."
+      },
+      {
+        "path": "Card and Board/dice_roll_2.wav",
+        "size": 96108,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.54,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.54s): Dice roll 2."
+      },
+      {
+        "path": "Card and Board/dice_roll_3.wav",
+        "size": 135468,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.77,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.77s): Dice roll 3."
+      },
+      {
+        "path": "Card and Board/dice_roll_4.wav",
+        "size": 110892,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.63,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.63s): Dice roll 4."
+      },
+      {
+        "path": "Card and Board/dice_shake_2.wav",
+        "size": 245804,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.39s): Dice shake 2."
+      },
+      {
+        "path": "Card and Board/dice_shake_3.wav",
+        "size": 166700,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.94,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.94s): Dice shake 3."
+      },
+      {
+        "path": "Card and Board/dice_shake_4.wav",
+        "size": 200748,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.14,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.14s): Dice shake 4."
+      },
+      {
+        "path": "Combat and Gore/bone_snap.wav",
+        "size": 163884,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.93,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.93s): Bone snap."
+      },
+      {
+        "path": "Combat and Gore/crunch.wav",
+        "size": 190508,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.08,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.08s): Crunch."
+      },
+      {
+        "path": "Combat and Gore/crunch_quick.wav",
+        "size": 61484,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Crunch quick."
+      },
+      {
+        "path": "Combat and Gore/crunch_splat.wav",
+        "size": 133164,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.75,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.75s): Crunch splat."
+      },
+      {
+        "path": "Combat and Gore/crunch_splat_2.wav",
+        "size": 106540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.6,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.60s): Crunch splat 2."
+      },
+      {
+        "path": "Combat and Gore/kick.wav",
+        "size": 51868,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.29,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.29s): Kick."
+      },
+      {
+        "path": "Combat and Gore/punch.wav",
+        "size": 98348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Punch."
+      },
+      {
+        "path": "Combat and Gore/punch_2.wav",
+        "size": 31756,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.18,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.18s): Punch 2."
+      },
+      {
+        "path": "Combat and Gore/punch_3.wav",
+        "size": 70116,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.40s): Punch 3."
+      },
+      {
+        "path": "Combat and Gore/slap.wav",
+        "size": 120876,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.68,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.68s): Slap."
+      },
+      {
+        "path": "Combat and Gore/splat_double_quick.wav",
+        "size": 84012,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Splat double quick."
+      },
+      {
+        "path": "Combat and Gore/splat_quick.wav",
+        "size": 57388,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Splat quick."
+      },
+      {
+        "path": "Combat and Gore/squelching_1.wav",
+        "size": 153644,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.87,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.87s): Squelching 1."
+      },
+      {
+        "path": "Combat and Gore/squelching_2.wav",
+        "size": 149548,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.85,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.85s): Squelching 2."
+      },
+      {
+        "path": "Combat and Gore/squelching_3.wav",
+        "size": 81964,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.46,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.46s): Squelching 3."
+      },
+      {
+        "path": "Combat and Gore/squelching_4.wav",
+        "size": 139308,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.79,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.79s): Squelching 4."
+      },
+      {
+        "path": "Combat and Gore/swipe.wav",
+        "size": 68708,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.39s): Swipe."
+      },
+      {
+        "path": "Environment/air_burst.wav",
+        "size": 53292,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Air burst."
+      },
+      {
+        "path": "Environment/ambient_wind.wav",
+        "size": 1518232,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 8.61,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:08): Ambient wind."
+      },
+      {
+        "path": "Environment/clock_tick_only.wav",
+        "size": 165932,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.94,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.94s): Clock tick only."
+      },
+      {
+        "path": "Environment/clock_ticking.wav",
+        "size": 705644,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 4.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:04): Clock ticking."
+      },
+      {
+        "path": "Environment/clock_tock_only.wav",
+        "size": 173164,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.98,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.98s): Clock tock only."
+      },
+      {
+        "path": "Environment/creaky_door_long.wav",
+        "size": 700460,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.97,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Creaky door long."
+      },
+      {
+        "path": "Environment/creaky_door_short.wav",
+        "size": 149036,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.84,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.84s): Creaky door short."
+      },
+      {
+        "path": "Environment/door_close.wav",
+        "size": 147500,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.84,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.84s): Door close."
+      },
+      {
+        "path": "Environment/door_knock.wav",
+        "size": 184364,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.04,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.04s): Door knock."
+      },
+      {
+        "path": "Environment/door_open.wav",
+        "size": 288812,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.64,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.64s): Door open."
+      },
+      {
+        "path": "Environment/fire_lighting.wav",
+        "size": 114732,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.65,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.65s): Fire lighting."
+      },
+      {
+        "path": "Environment/gurgling.wav",
+        "size": 380972,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.16,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.16s): Gurgling."
+      },
+      {
+        "path": "Environment/ice_in_water.wav",
+        "size": 86060,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.49,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.49s): Ice in water."
+      },
+      {
+        "path": "Environment/lock_lock.wav",
+        "size": 170028,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.96,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.96s): Lock lock."
+      },
+      {
+        "path": "Environment/lock_quick.wav",
+        "size": 108588,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.62s): Lock quick."
+      },
+      {
+        "path": "Environment/lock_unlock.wav",
+        "size": 143404,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.81,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.81s): Lock unlock."
+      },
+      {
+        "path": "Environment/water_babbling_loop.wav",
+        "size": 708652,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 4.02,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:04): Water babbling loop."
+      },
+      {
+        "path": "Environment/water_boiling_loop.wav",
+        "size": 1765420,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 10.01,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:10): Water boiling loop."
+      },
+      {
+        "path": "Environment/water_dripping.wav",
+        "size": 3022892,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 17.14,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:17): Water dripping."
+      },
+      {
+        "path": "Environment/water_drop_medium.wav",
+        "size": 120876,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.68,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.68s): Water drop medium."
+      },
+      {
+        "path": "Environment/water_drop_synthetic.wav",
+        "size": 12536,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.07,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.07s): Water drop synthetic."
+      },
+      {
+        "path": "Environment/water_splashing.wav",
+        "size": 202796,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.15s): Water splashing."
+      },
+      {
+        "path": "Environment/zipper_down.wav",
+        "size": 94252,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.53,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.53s): Zipper down."
+      },
+      {
+        "path": "Environment/zipper_up.wav",
+        "size": 61484,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Zipper up."
+      },
+      {
+        "path": "Footsteps/foley_creak_1.wav",
+        "size": 90156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Foley creak 1."
+      },
+      {
+        "path": "Footsteps/foley_footstep_carpet_1.wav",
+        "size": 86060,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.49,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.49s): Foley footstep carpet 1."
+      },
+      {
+        "path": "Footsteps/foley_footstep_carpet_2.wav",
+        "size": 108588,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.62s): Foley footstep carpet 2."
+      },
+      {
+        "path": "Footsteps/foley_footstep_carpet_3.wav",
+        "size": 96300,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.55,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.55s): Foley footstep carpet 3."
+      },
+      {
+        "path": "Footsteps/foley_footstep_carpet_4.wav",
+        "size": 118828,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.67,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.67s): Foley footstep carpet 4."
+      },
+      {
+        "path": "Footsteps/foley_footstep_concrete_1.wav",
+        "size": 50732,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.29,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.29s): Foley footstep concrete 1."
+      },
+      {
+        "path": "Footsteps/foley_footstep_concrete_2.wav",
+        "size": 49708,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.28,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.28s): Foley footstep concrete 2."
+      },
+      {
+        "path": "Footsteps/foley_footstep_concrete_3.wav",
+        "size": 43052,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.24,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.24s): Foley footstep concrete 3."
+      },
+      {
+        "path": "Footsteps/foley_footstep_concrete_4.wav",
+        "size": 46124,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.26,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.26s): Foley footstep concrete 4."
+      },
+      {
+        "path": "Footsteps/foley_footstep_gravel_1.wav",
+        "size": 84524,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Foley footstep gravel 1."
+      },
+      {
+        "path": "Footsteps/foley_footstep_gravel_2.wav",
+        "size": 92716,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.53,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.53s): Foley footstep gravel 2."
+      },
+      {
+        "path": "Footsteps/foley_footstep_gravel_3.wav",
+        "size": 60972,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Foley footstep gravel 3."
+      },
+      {
+        "path": "Footsteps/foley_footstep_gravel_4.wav",
+        "size": 108076,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.61,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.61s): Foley footstep gravel 4."
+      },
+      {
+        "path": "Footsteps/foley_footstep_vinyl_1.wav",
+        "size": 81964,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.46,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.46s): Foley footstep vinyl 1."
+      },
+      {
+        "path": "Footsteps/foley_footstep_vinyl_2.wav",
+        "size": 65580,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.37,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.37s): Foley footstep vinyl 2."
+      },
+      {
+        "path": "Footsteps/foley_footstep_vinyl_3.wav",
+        "size": 67628,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.38,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.38s): Foley footstep vinyl 3."
+      },
+      {
+        "path": "Footsteps/foley_footstep_vinyl_4.wav",
+        "size": 96300,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.55,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.55s): Foley footstep vinyl 4."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_grass_1.wav",
+        "size": 27970,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.32,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.32s): Digital footstep grass 1."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_grass_2.wav",
+        "size": 26260,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Digital footstep grass 2."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_grass_3.wav",
+        "size": 27272,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Digital footstep grass 3."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_grass_4.wav",
+        "size": 31118,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Digital footstep grass 4."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_gravel_1.wav",
+        "size": 27970,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.32,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.32s): Digital footstep gravel 1."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_gravel_2.wav",
+        "size": 26260,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Digital footstep gravel 2."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_gravel_3.wav",
+        "size": 27272,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Digital footstep gravel 3."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_gravel_4.wav",
+        "size": 31118,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Digital footstep gravel 4."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_snow_1.wav",
+        "size": 27970,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.32,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.32s): Digital footstep snow 1."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_snow_2.wav",
+        "size": 26260,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Digital footstep snow 2."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_snow_3.wav",
+        "size": 27272,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Digital footstep snow 3."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_snow_4.wav",
+        "size": 31118,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Digital footstep snow 4."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_wood_1.wav",
+        "size": 27970,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.32,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.32s): Digital footstep wood 1."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_wood_2.wav",
+        "size": 26260,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Digital footstep wood 2."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_wood_3.wav",
+        "size": 27272,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Digital footstep wood 3."
+      },
+      {
+        "path": "Footsteps/digital/digital_footstep_wood_4.wav",
+        "size": 31118,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Digital footstep wood 4."
+      },
+      {
+        "path": "Human/belch_1.wav",
+        "size": 74796,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.42,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.42s): Belch 1."
+      },
+      {
+        "path": "Human/belch_2.wav",
+        "size": 163884,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.93,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.93s): Belch 2."
+      },
+      {
+        "path": "Human/belch_3.wav",
+        "size": 57388,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Belch 3."
+      },
+      {
+        "path": "Human/cough_double.wav",
+        "size": 213036,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.21,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.21s): Cough double."
+      },
+      {
+        "path": "Human/cough_short.wav",
+        "size": 159788,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.91,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.91s): Cough short."
+      },
+      {
+        "path": "Human/man_0.wav",
+        "size": 96300,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.55,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.55s): Man 0."
+      },
+      {
+        "path": "Human/man_1.wav",
+        "size": 71724,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.41,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.41s): Man 1."
+      },
+      {
+        "path": "Human/man_10.wav",
+        "size": 71724,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.41,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.41s): Man 10."
+      },
+      {
+        "path": "Human/man_2.wav",
+        "size": 65580,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.37,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.37s): Man 2."
+      },
+      {
+        "path": "Human/man_3.wav",
+        "size": 84012,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Man 3."
+      },
+      {
+        "path": "Human/man_4.wav",
+        "size": 102444,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.58,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.58s): Man 4."
+      },
+      {
+        "path": "Human/man_5.wav",
+        "size": 90156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Man 5."
+      },
+      {
+        "path": "Human/man_6.wav",
+        "size": 116780,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.66,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.66s): Man 6."
+      },
+      {
+        "path": "Human/man_7.wav",
+        "size": 86060,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.49,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.49s): Man 7."
+      },
+      {
+        "path": "Human/man_8.wav",
+        "size": 65580,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.37,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.37s): Man 8."
+      },
+      {
+        "path": "Human/man_9.wav",
+        "size": 90156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Man 9."
+      },
+      {
+        "path": "Human/whistle.wav",
+        "size": 319532,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.81,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.81s): Whistle."
+      },
+      {
+        "path": "Items/air_pump.wav",
+        "size": 91692,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.52,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.52s): Air pump."
+      },
+      {
+        "path": "Items/book_close.wav",
+        "size": 32812,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.19,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.19s): Book close."
+      },
+      {
+        "path": "Items/book_open.wav",
+        "size": 127020,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.72,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.72s): Book open."
+      },
+      {
+        "path": "Items/broom_sweep_1.wav",
+        "size": 104492,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.59,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.59s): Broom sweep 1."
+      },
+      {
+        "path": "Items/broom_sweep_2.wav",
+        "size": 130092,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.74,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.74s): Broom sweep 2."
+      },
+      {
+        "path": "Items/coin_collect.wav",
+        "size": 247520,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.40s): Coin collect."
+      },
+      {
+        "path": "Items/coin_jingle_small.wav",
+        "size": 102444,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.58,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.58s): Coin jingle small."
+      },
+      {
+        "path": "Items/coins_gather_medium.wav",
+        "size": 155692,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.88,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.88s): Coins gather medium."
+      },
+      {
+        "path": "Items/coins_gather_quick.wav",
+        "size": 84012,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Coins gather quick."
+      },
+      {
+        "path": "Items/coins_gather_small.wav",
+        "size": 69676,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.39s): Coins gather small."
+      },
+      {
+        "path": "Items/gem_collect.wav",
+        "size": 297040,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.68,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.68s): Gem collect."
+      },
+      {
+        "path": "Items/heart_collect.wav",
+        "size": 139348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.79,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.79s): Heart collect."
+      },
+      {
+        "path": "Items/item_equip.wav",
+        "size": 53292,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Item equip."
+      },
+      {
+        "path": "Items/jingle_bells_1.wav",
+        "size": 200748,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.14,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.14s): Jingle bells 1."
+      },
+      {
+        "path": "Items/jingle_bells_2.wav",
+        "size": 139308,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.79,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.79s): Jingle bells 2."
+      },
+      {
+        "path": "Items/keys_jingling.wav",
+        "size": 90156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Keys jingling."
+      },
+      {
+        "path": "Items/map_close.wav",
+        "size": 106540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.6,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.60s): Map close."
+      },
+      {
+        "path": "Items/map_open.wav",
+        "size": 106540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.6,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.60s): Map open."
+      },
+      {
+        "path": "Items/page_turn.wav",
+        "size": 159788,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.91,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.91s): Page turn."
+      },
+      {
+        "path": "Items/pencil_eraser.wav",
+        "size": 147596,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.84,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.84s): Pencil eraser."
+      },
+      {
+        "path": "Items/pencil_scribble.wav",
+        "size": 415788,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.36,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.36s): Pencil scribble."
+      },
+      {
+        "path": "Items/shovel_dig.wav",
+        "size": 106540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.6,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.60s): Shovel dig."
+      },
+      {
+        "path": "Items/tennis_ball_bounce_1.wav",
+        "size": 54828,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Tennis ball bounce 1."
+      },
+      {
+        "path": "Items/tennis_ball_bounce_2.wav",
+        "size": 43052,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.24,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.24s): Tennis ball bounce 2."
+      },
+      {
+        "path": "Machines/drill_whizz.wav",
+        "size": 352336,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.00s): Drill whizz."
+      },
+      {
+        "path": "Machines/hairdryer.wav",
+        "size": 384044,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.18,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.18s): Hairdryer."
+      },
+      {
+        "path": "Machines/hydraulic_down.wav",
+        "size": 165932,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.94,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.94s): Hydraulic down."
+      },
+      {
+        "path": "Machines/hydraulic_up.wav",
+        "size": 198700,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.13,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.13s): Hydraulic up."
+      },
+      {
+        "path": "Machines/industrial_door_close.wav",
+        "size": 143404,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.81,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.81s): Industrial door close."
+      },
+      {
+        "path": "Machines/industrial_door_open.wav",
+        "size": 163884,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.93,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.93s): Industrial door open."
+      },
+      {
+        "path": "Machines/razor_buzz.wav",
+        "size": 249900,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.42,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.42s): Razor buzz."
+      },
+      {
+        "path": "Match Three/match_synth_1.wav",
+        "size": 422476,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.39s): Match synth 1."
+      },
+      {
+        "path": "Match Three/match_synth_10_MAX.wav",
+        "size": 412348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.34s): Match synth 10 MAX."
+      },
+      {
+        "path": "Match Three/match_synth_2.wav",
+        "size": 420772,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.39,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.39s): Match synth 2."
+      },
+      {
+        "path": "Match Three/match_synth_3.wav",
+        "size": 415072,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.35s): Match synth 3."
+      },
+      {
+        "path": "Match Three/match_synth_4.wav",
+        "size": 414656,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.35s): Match synth 4."
+      },
+      {
+        "path": "Match Three/match_synth_5.wav",
+        "size": 399708,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.27,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.27s): Match synth 5."
+      },
+      {
+        "path": "Match Three/match_synth_6.wav",
+        "size": 404156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.29,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.29s): Match synth 6."
+      },
+      {
+        "path": "Match Three/match_synth_7.wav",
+        "size": 401180,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.27,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.27s): Match synth 7."
+      },
+      {
+        "path": "Match Three/match_synth_8.wav",
+        "size": 399080,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.26,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.26s): Match synth 8."
+      },
+      {
+        "path": "Match Three/match_synth_9.wav",
+        "size": 395128,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.24,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.24s): Match synth 9."
+      },
+      {
+        "path": "Match Three/match_xylophone_1.wav",
+        "size": 190040,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.08,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.08s): Match xylophone 1."
+      },
+      {
+        "path": "Match Three/match_xylophone_10_MAX.wav",
+        "size": 188912,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.07,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.07s): Match xylophone 10 MAX."
+      },
+      {
+        "path": "Match Three/match_xylophone_2.wav",
+        "size": 187140,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.06,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.06s): Match xylophone 2."
+      },
+      {
+        "path": "Match Three/match_xylophone_3.wav",
+        "size": 188912,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.07,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.07s): Match xylophone 3."
+      },
+      {
+        "path": "Match Three/match_xylophone_4.wav",
+        "size": 182508,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.03,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.03s): Match xylophone 4."
+      },
+      {
+        "path": "Match Three/match_xylophone_5.wav",
+        "size": 177648,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.01,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.01s): Match xylophone 5."
+      },
+      {
+        "path": "Match Three/match_xylophone_6.wav",
+        "size": 162760,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.92,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.92s): Match xylophone 6."
+      },
+      {
+        "path": "Match Three/match_xylophone_7.wav",
+        "size": 147552,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.84,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.84s): Match xylophone 7."
+      },
+      {
+        "path": "Match Three/match_xylophone_8.wav",
+        "size": 157304,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.89,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.89s): Match xylophone 8."
+      },
+      {
+        "path": "Match Three/match_xylophone_9.wav",
+        "size": 148048,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.84,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.84s): Match xylophone 9."
+      },
+      {
+        "path": "Materials/aluminium_can_pick_up.wav",
+        "size": 77868,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.44,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.44s): Aluminium can pick up."
+      },
+      {
+        "path": "Materials/aluminium_can_place.wav",
+        "size": 90156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Aluminium can place."
+      },
+      {
+        "path": "Materials/bamboo_drop.wav",
+        "size": 54316,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Bamboo drop."
+      },
+      {
+        "path": "Materials/cardboard_box_close.wav",
+        "size": 206892,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.17,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.17s): Cardboard box close."
+      },
+      {
+        "path": "Materials/cardboard_drop.wav",
+        "size": 167980,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.95,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.95s): Cardboard drop."
+      },
+      {
+        "path": "Materials/cardboard_hit.wav",
+        "size": 120876,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.68,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.68s): Cardboard hit."
+      },
+      {
+        "path": "Materials/cardboard_pick_up.wav",
+        "size": 182316,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.03,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.03s): Cardboard pick up."
+      },
+      {
+        "path": "Materials/cardboard_push.wav",
+        "size": 233516,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.32,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.32s): Cardboard push."
+      },
+      {
+        "path": "Materials/cardboard_tear.wav",
+        "size": 200748,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.14,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.14s): Cardboard tear."
+      },
+      {
+        "path": "Materials/ceramic_jar_close.wav",
+        "size": 98348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Ceramic jar close."
+      },
+      {
+        "path": "Materials/ceramic_jar_open.wav",
+        "size": 79916,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.45,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.45s): Ceramic jar open."
+      },
+      {
+        "path": "Materials/clothing_1.wav",
+        "size": 215084,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.22,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.22s): Clothing 1."
+      },
+      {
+        "path": "Materials/clothing_2.wav",
+        "size": 264236,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.50s): Clothing 2."
+      },
+      {
+        "path": "Materials/clothing_thud.wav",
+        "size": 116780,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.66,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.66s): Clothing thud."
+      },
+      {
+        "path": "Materials/concrete_scrape.wav",
+        "size": 152108,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.86,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.86s): Concrete scrape."
+      },
+      {
+        "path": "Materials/cork_stabbed.wav",
+        "size": 60460,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.34s): Cork stabbed."
+      },
+      {
+        "path": "Materials/glass_ping_big.wav",
+        "size": 206892,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.17,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.17s): Glass ping big."
+      },
+      {
+        "path": "Materials/glass_ping_small.wav",
+        "size": 118828,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.67,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.67s): Glass ping small."
+      },
+      {
+        "path": "Materials/metal_blunt_tap.wav",
+        "size": 73772,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.42,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.42s): Metal blunt tap."
+      },
+      {
+        "path": "Materials/metal_clang.wav",
+        "size": 104492,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.59,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.59s): Metal clang."
+      },
+      {
+        "path": "Materials/paper_move.wav",
+        "size": 114732,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.65,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.65s): Paper move."
+      },
+      {
+        "path": "Materials/paper_scrunch.wav",
+        "size": 178220,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.01,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.01s): Paper scrunch."
+      },
+      {
+        "path": "Materials/paper_sort.wav",
+        "size": 206892,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.17,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.17s): Paper sort."
+      },
+      {
+        "path": "Materials/paper_tear_1.wav",
+        "size": 153644,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.87,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.87s): Paper tear 1."
+      },
+      {
+        "path": "Materials/paper_tear_2.wav",
+        "size": 217132,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.23,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.23s): Paper tear 2."
+      },
+      {
+        "path": "Materials/pottery_clang.wav",
+        "size": 98348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Pottery clang."
+      },
+      {
+        "path": "Materials/stone_push_long.wav",
+        "size": 438316,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.48s): Stone push long."
+      },
+      {
+        "path": "Materials/stone_push_medium.wav",
+        "size": 307244,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.74,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.74s): Stone push medium."
+      },
+      {
+        "path": "Materials/stone_push_short.wav",
+        "size": 163884,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.93,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.93s): Stone push short."
+      },
+      {
+        "path": "Materials/wood_small_drop.wav",
+        "size": 94252,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.53,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.53s): Wood small drop."
+      },
+      {
+        "path": "Materials/wood_small_gather.wav",
+        "size": 147500,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.84,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.84s): Wood small gather."
+      },
+      {
+        "path": "Materials/wood_small_hollow.wav",
+        "size": 79916,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.45,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.45s): Wood small hollow."
+      },
+      {
+        "path": "Materials/wood_small_pickup.wav",
+        "size": 98348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Wood small pickup."
+      },
+      {
+        "path": "Musical Effects/8_bit_chime_positive.wav",
+        "size": 54612,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): 8 bit chime positive."
+      },
+      {
+        "path": "Musical Effects/8_bit_chime_quick.wav",
+        "size": 66604,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.38,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.38s): 8 bit chime quick."
+      },
+      {
+        "path": "Musical Effects/8_bit_defeated.wav",
+        "size": 543132,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.08,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): 8 bit defeated."
+      },
+      {
+        "path": "Musical Effects/8_bit_inn.wav",
+        "size": 521044,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.95,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.95s): 8 bit inn."
+      },
+      {
+        "path": "Musical Effects/8_bit_level_complete.wav",
+        "size": 545024,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.09,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): 8 bit level complete."
+      },
+      {
+        "path": "Musical Effects/8_bit_level_start.wav",
+        "size": 367524,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.08,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.08s): 8 bit level start."
+      },
+      {
+        "path": "Musical Effects/8_bit_mystery.wav",
+        "size": 213632,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.21,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.21s): 8 bit mystery."
+      },
+      {
+        "path": "Musical Effects/8_bit_negative.wav",
+        "size": 146444,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.83,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.83s): 8 bit negative."
+      },
+      {
+        "path": "Musical Effects/8_bit_negative_long.wav",
+        "size": 146060,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.83,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.83s): 8 bit negative long."
+      },
+      {
+        "path": "Musical Effects/8_bit_negative_quick.wav",
+        "size": 66684,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.38,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.38s): 8 bit negative quick."
+      },
+      {
+        "path": "Musical Effects/8_bit_positive_long.wav",
+        "size": 213596,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.21,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.21s): 8 bit positive long."
+      },
+      {
+        "path": "Musical Effects/brass_chime_positive.wav",
+        "size": 70692,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.40s): Brass chime positive."
+      },
+      {
+        "path": "Musical Effects/brass_chime_quick.wav",
+        "size": 70424,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.40s): Brass chime quick."
+      },
+      {
+        "path": "Musical Effects/brass_defeated.wav",
+        "size": 546884,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.1,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Brass defeated."
+      },
+      {
+        "path": "Musical Effects/brass_inn.wav",
+        "size": 524888,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.98,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.98s): Brass inn."
+      },
+      {
+        "path": "Musical Effects/brass_level_complete.wav",
+        "size": 547204,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.1,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Brass level complete."
+      },
+      {
+        "path": "Musical Effects/brass_level_start.wav",
+        "size": 370376,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.1,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.10s): Brass level start."
+      },
+      {
+        "path": "Musical Effects/brass_mystery.wav",
+        "size": 216360,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.23,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.23s): Brass mystery."
+      },
+      {
+        "path": "Musical Effects/brass_negative.wav",
+        "size": 150408,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.85,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.85s): Brass negative."
+      },
+      {
+        "path": "Musical Effects/brass_negative_long.wav",
+        "size": 149812,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.85,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.85s): Brass negative long."
+      },
+      {
+        "path": "Musical Effects/brass_negative_quick.wav",
+        "size": 70596,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.40s): Brass negative quick."
+      },
+      {
+        "path": "Musical Effects/brass_positive_long.wav",
+        "size": 216568,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.23,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.23s): Brass positive long."
+      },
+      {
+        "path": "Musical Effects/grand_piano_chime_positive.wav",
+        "size": 172672,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.98,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.98s): Grand piano chime positive."
+      },
+      {
+        "path": "Musical Effects/grand_piano_chime_quick.wav",
+        "size": 190308,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.08,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.08s): Grand piano chime quick."
+      },
+      {
+        "path": "Musical Effects/grand_piano_defeated.wav",
+        "size": 686300,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.89,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Grand piano defeated."
+      },
+      {
+        "path": "Musical Effects/grand_piano_inn.wav",
+        "size": 660060,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.74,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Grand piano inn."
+      },
+      {
+        "path": "Musical Effects/grand_piano_level_complete.wav",
+        "size": 667540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.78,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Grand piano level complete."
+      },
+      {
+        "path": "Musical Effects/grand_piano_level_start.wav",
+        "size": 508340,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.88,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.88s): Grand piano level start."
+      },
+      {
+        "path": "Musical Effects/grand_piano_mystery.wav",
+        "size": 352468,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.00s): Grand piano mystery."
+      },
+      {
+        "path": "Musical Effects/grand_piano_negative.wav",
+        "size": 268020,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.52,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.52s): Grand piano negative."
+      },
+      {
+        "path": "Musical Effects/grand_piano_negative_long.wav",
+        "size": 289188,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.64,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.64s): Grand piano negative long."
+      },
+      {
+        "path": "Musical Effects/grand_piano_negative_quick.wav",
+        "size": 195836,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.11,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.11s): Grand piano negative quick."
+      },
+      {
+        "path": "Musical Effects/grand_piano_positive_long.wav",
+        "size": 342284,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.94,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.94s): Grand piano positive long."
+      },
+      {
+        "path": "Musical Effects/harpsichord_chime_positive.wav",
+        "size": 201928,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.14,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.14s): Harpsichord chime positive."
+      },
+      {
+        "path": "Musical Effects/harpsichord_chime_quick.wav",
+        "size": 188876,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.07,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.07s): Harpsichord chime quick."
+      },
+      {
+        "path": "Musical Effects/harpsichord_defeated.wav",
+        "size": 528844,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0:03): Harpsichord defeated."
+      },
+      {
+        "path": "Musical Effects/harpsichord_inn.wav",
+        "size": 638856,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Harpsichord inn."
+      },
+      {
+        "path": "Musical Effects/harpsichord_level_complete.wav",
+        "size": 652212,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.7,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Harpsichord level complete."
+      },
+      {
+        "path": "Musical Effects/harpsichord_level_start.wav",
+        "size": 462284,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.62s): Harpsichord level start."
+      },
+      {
+        "path": "Musical Effects/harpsichord_mystery.wav",
+        "size": 264088,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.50s): Harpsichord mystery."
+      },
+      {
+        "path": "Musical Effects/harpsichord_negative.wav",
+        "size": 255436,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.45,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.45s): Harpsichord negative."
+      },
+      {
+        "path": "Musical Effects/harpsichord_negative_long.wav",
+        "size": 272748,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.55,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.55s): Harpsichord negative long."
+      },
+      {
+        "path": "Musical Effects/harpsichord_negative_quick.wav",
+        "size": 202116,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.15s): Harpsichord negative quick."
+      },
+      {
+        "path": "Musical Effects/harpsichord_positive_long.wav",
+        "size": 334796,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.9,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.90s): Harpsichord positive long."
+      },
+      {
+        "path": "Musical Effects/horror_sting.wav",
+        "size": 155244,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.88,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.88s): Horror sting."
+      },
+      {
+        "path": "Musical Effects/music_box_chime_positive.wav",
+        "size": 290384,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.65,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.65s): Music box chime positive."
+      },
+      {
+        "path": "Musical Effects/music_box_chime_quick.wav",
+        "size": 277072,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.57,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.57s): Music box chime quick."
+      },
+      {
+        "path": "Musical Effects/music_box_defeated.wav",
+        "size": 617044,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Music box defeated."
+      },
+      {
+        "path": "Musical Effects/music_box_inn.wav",
+        "size": 727124,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 4.12,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:04): Music box inn."
+      },
+      {
+        "path": "Musical Effects/music_box_level_complete.wav",
+        "size": 740436,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 4.2,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:04): Music box level complete."
+      },
+      {
+        "path": "Musical Effects/music_box_level_start.wav",
+        "size": 550484,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.12,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Music box level start."
+      },
+      {
+        "path": "Musical Effects/music_box_mystery.wav",
+        "size": 352340,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.00s): Music box mystery."
+      },
+      {
+        "path": "Musical Effects/music_box_negative.wav",
+        "size": 343636,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.95,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.95s): Music box negative."
+      },
+      {
+        "path": "Musical Effects/music_box_negative_long.wav",
+        "size": 361044,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.05,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.05s): Music box negative long."
+      },
+      {
+        "path": "Musical Effects/music_box_negative_quick.wav",
+        "size": 290388,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.65,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.65s): Music box negative quick."
+      },
+      {
+        "path": "Musical Effects/music_box_positive_long.wav",
+        "size": 422996,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.40s): Music box positive long."
+      },
+      {
+        "path": "Musical Effects/sitar_chime_positive.wav",
+        "size": 236008,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.34s): Sitar chime positive."
+      },
+      {
+        "path": "Musical Effects/sitar_chime_quick.wav",
+        "size": 222696,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.26,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.26s): Sitar chime quick."
+      },
+      {
+        "path": "Musical Effects/sitar_defeated.wav",
+        "size": 617044,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Sitar defeated."
+      },
+      {
+        "path": "Musical Effects/sitar_inn.wav",
+        "size": 726816,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 4.12,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:04): Sitar inn."
+      },
+      {
+        "path": "Musical Effects/sitar_level_complete.wav",
+        "size": 687188,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.9,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Sitar level complete."
+      },
+      {
+        "path": "Musical Effects/sitar_level_start.wav",
+        "size": 550380,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.12,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Sitar level start."
+      },
+      {
+        "path": "Musical Effects/sitar_mystery.wav",
+        "size": 352296,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.00s): Sitar mystery."
+      },
+      {
+        "path": "Musical Effects/sitar_negative.wav",
+        "size": 293244,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.66,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.66s): Sitar negative."
+      },
+      {
+        "path": "Musical Effects/sitar_negative_long.wav",
+        "size": 360940,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.05,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.05s): Sitar negative long."
+      },
+      {
+        "path": "Musical Effects/sitar_negative_quick.wav",
+        "size": 260312,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.48s): Sitar negative quick."
+      },
+      {
+        "path": "Musical Effects/sitar_positive_long.wav",
+        "size": 414640,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.35s): Sitar positive long."
+      },
+      {
+        "path": "Musical Effects/steel_drums_chime_positive.wav",
+        "size": 202152,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.15s): Steel drums chime positive."
+      },
+      {
+        "path": "Musical Effects/steel_drums_chime_quick.wav",
+        "size": 188840,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.07,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.07s): Steel drums chime quick."
+      },
+      {
+        "path": "Musical Effects/steel_drums_defeated.wav",
+        "size": 528844,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.0,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0:03): Steel drums defeated."
+      },
+      {
+        "path": "Musical Effects/steel_drums_inn.wav",
+        "size": 638900,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Steel drums inn."
+      },
+      {
+        "path": "Musical Effects/steel_drums_level_complete.wav",
+        "size": 652236,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.7,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Steel drums level complete."
+      },
+      {
+        "path": "Musical Effects/steel_drums_level_start.wav",
+        "size": 462284,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.62s): Steel drums level start."
+      },
+      {
+        "path": "Musical Effects/steel_drums_mystery.wav",
+        "size": 264140,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.50s): Steel drums mystery."
+      },
+      {
+        "path": "Musical Effects/steel_drums_negative.wav",
+        "size": 255412,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.45,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.45s): Steel drums negative."
+      },
+      {
+        "path": "Musical Effects/steel_drums_negative_long.wav",
+        "size": 272844,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.55,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.55s): Steel drums negative long."
+      },
+      {
+        "path": "Musical Effects/steel_drums_negative_quick.wav",
+        "size": 202156,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.15s): Steel drums negative quick."
+      },
+      {
+        "path": "Musical Effects/steel_drums_positive_long.wav",
+        "size": 334796,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.9,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.90s): Steel drums positive long."
+      },
+      {
+        "path": "Musical Effects/synth_bass_chime_positive.wav",
+        "size": 88072,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.50s): Synth bass chime positive."
+      },
+      {
+        "path": "Musical Effects/synth_bass_chime_quick.wav",
+        "size": 87972,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.50s): Synth bass chime quick."
+      },
+      {
+        "path": "Musical Effects/synth_bass_defeated.wav",
+        "size": 564476,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.2,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Synth bass defeated."
+      },
+      {
+        "path": "Musical Effects/synth_bass_inn.wav",
+        "size": 542232,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.07,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Synth bass inn."
+      },
+      {
+        "path": "Musical Effects/synth_bass_level_complete.wav",
+        "size": 564776,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.2,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Synth bass level complete."
+      },
+      {
+        "path": "Musical Effects/synth_bass_level_start.wav",
+        "size": 387924,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.2,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.20s): Synth bass level start."
+      },
+      {
+        "path": "Musical Effects/synth_bass_mystery.wav",
+        "size": 233688,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.32,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.32s): Synth bass mystery."
+      },
+      {
+        "path": "Musical Effects/synth_bass_negative.wav",
+        "size": 167764,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.95,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.95s): Synth bass negative."
+      },
+      {
+        "path": "Musical Effects/synth_bass_negative_long.wav",
+        "size": 167204,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.95,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.95s): Synth bass negative long."
+      },
+      {
+        "path": "Musical Effects/synth_bass_negative_quick.wav",
+        "size": 87956,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.50s): Synth bass negative quick."
+      },
+      {
+        "path": "Musical Effects/synth_bass_positive_long.wav",
+        "size": 233932,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.33,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.33s): Synth bass positive long."
+      },
+      {
+        "path": "Musical Effects/vibraphone_chime_positive.wav",
+        "size": 240864,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.37,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.37s): Vibraphone chime positive."
+      },
+      {
+        "path": "Musical Effects/vibraphone_chime_quick.wav",
+        "size": 227552,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.29,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.29s): Vibraphone chime quick."
+      },
+      {
+        "path": "Musical Effects/vibraphone_defeated.wav",
+        "size": 577396,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.27,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Vibraphone defeated."
+      },
+      {
+        "path": "Musical Effects/vibraphone_inn.wav",
+        "size": 682276,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.87,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Vibraphone inn."
+      },
+      {
+        "path": "Musical Effects/vibraphone_level_complete.wav",
+        "size": 698540,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.96,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Vibraphone level complete."
+      },
+      {
+        "path": "Musical Effects/vibraphone_level_start.wav",
+        "size": 533112,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.02,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Vibraphone level start."
+      },
+      {
+        "path": "Musical Effects/vibraphone_mystery.wav",
+        "size": 303980,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.72,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.72s): Vibraphone mystery."
+      },
+      {
+        "path": "Musical Effects/vibraphone_negative.wav",
+        "size": 295104,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.67,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.67s): Vibraphone negative."
+      },
+      {
+        "path": "Musical Effects/vibraphone_negative_long.wav",
+        "size": 328472,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.86,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.86s): Vibraphone negative long."
+      },
+      {
+        "path": "Musical Effects/vibraphone_negative_quick.wav",
+        "size": 264344,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.50s): Vibraphone negative quick."
+      },
+      {
+        "path": "Musical Effects/vibraphone_positive_long.wav",
+        "size": 405624,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.3,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.30s): Vibraphone positive long."
+      },
+      {
+        "path": "Musical Effects/xylophone_chime_positive.wav",
+        "size": 183928,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.04,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.04s): Xylophone chime positive."
+      },
+      {
+        "path": "Musical Effects/xylophone_chime_quick.wav",
+        "size": 182508,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.03,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.03s): Xylophone chime quick."
+      },
+      {
+        "path": "Musical Effects/xylophone_defeated.wav",
+        "size": 518376,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.94,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.94s): Xylophone defeated."
+      },
+      {
+        "path": "Musical Effects/xylophone_inn.wav",
+        "size": 648604,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.68,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Xylophone inn."
+      },
+      {
+        "path": "Musical Effects/xylophone_level_complete.wav",
+        "size": 599612,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.4,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Xylophone level complete."
+      },
+      {
+        "path": "Musical Effects/xylophone_level_start.wav",
+        "size": 469228,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.66,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.66s): Xylophone level start."
+      },
+      {
+        "path": "Musical Effects/xylophone_mystery.wav",
+        "size": 254960,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.45,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.45s): Xylophone mystery."
+      },
+      {
+        "path": "Musical Effects/xylophone_negative.wav",
+        "size": 237176,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.34,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.34s): Xylophone negative."
+      },
+      {
+        "path": "Musical Effects/xylophone_negative_long.wav",
+        "size": 220572,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.25,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.25s): Xylophone negative long."
+      },
+      {
+        "path": "Musical Effects/xylophone_negative_quick.wav",
+        "size": 191720,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.09,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.09s): Xylophone negative quick."
+      },
+      {
+        "path": "Musical Effects/xylophone_positive_long.wav",
+        "size": 289912,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.64,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.64s): Xylophone positive long."
+      },
+      {
+        "path": "Other/applause.wav",
+        "size": 2078764,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 11.78,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:11): Applause."
+      },
+      {
+        "path": "Other/controller_button_press.wav",
+        "size": 196652,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.11,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.11s): Controller button press."
+      },
+      {
+        "path": "Other/controller_button_press_2.wav",
+        "size": 243756,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.38,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.38s): Controller button press 2."
+      },
+      {
+        "path": "Other/drink_slurp.wav",
+        "size": 180268,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.02,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.02s): Drink slurp."
+      },
+      {
+        "path": "Other/elastic_twang.wav",
+        "size": 47148,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.27,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.27s): Elastic twang."
+      },
+      {
+        "path": "Other/finger_click.wav",
+        "size": 94252,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.53,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.53s): Finger click."
+      },
+      {
+        "path": "Other/ghost_long.wav",
+        "size": 367212,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 4.16,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:04): Ghost long."
+      },
+      {
+        "path": "Other/itching.wav",
+        "size": 231468,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.31,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.31s): Itching."
+      },
+      {
+        "path": "Other/keyboard_typing.wav",
+        "size": 638060,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 3.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:03): Keyboard typing."
+      },
+      {
+        "path": "Other/light_match.wav",
+        "size": 225324,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.28,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.28s): Light match."
+      },
+      {
+        "path": "Other/munching_food.wav",
+        "size": 202796,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.15s): Munching food."
+      },
+      {
+        "path": "Other/paste.wav",
+        "size": 145452,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.82,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.82s): Paste."
+      },
+      {
+        "path": "Other/record_scratch.wav",
+        "size": 54348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.31,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.31s): Record scratch."
+      },
+      {
+        "path": "Other/slide_and_click.wav",
+        "size": 143404,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.81,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.81s): Slide and click."
+      },
+      {
+        "path": "Other/snap.wav",
+        "size": 45100,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.26,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.26s): Snap."
+      },
+      {
+        "path": "Other/subtle_knock.wav",
+        "size": 65580,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.37,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.37s): Subtle knock."
+      },
+      {
+        "path": "Other/white_noise_long.wav",
+        "size": 1063196,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 6.03,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:06): White noise long."
+      },
+      {
+        "path": "Other/white_noise_short.wav",
+        "size": 191824,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.09,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.09s): White noise short."
+      },
+      {
+        "path": "Other/whoosh_1.wav",
+        "size": 57388,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Whoosh 1."
+      },
+      {
+        "path": "Other/whoosh_2.wav",
+        "size": 135212,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.77,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.77s): Whoosh 2."
+      },
+      {
+        "path": "Retro/coin.wav",
+        "size": 29208,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Coin."
+      },
+      {
+        "path": "Retro/coin_2.wav",
+        "size": 29208,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Coin 2."
+      },
+      {
+        "path": "Retro/coin_3.wav",
+        "size": 44752,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Coin 3."
+      },
+      {
+        "path": "Retro/coin_4.wav",
+        "size": 42072,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Coin 4."
+      },
+      {
+        "path": "Retro/explosion_large.wav",
+        "size": 117410,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.33,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.33s): Explosion large."
+      },
+      {
+        "path": "Retro/explosion_medium.wav",
+        "size": 106990,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.21,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.21s): Explosion medium."
+      },
+      {
+        "path": "Retro/explosion_quick.wav",
+        "size": 57510,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.65,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.65s): Explosion quick."
+      },
+      {
+        "path": "Retro/explosion_small.wav",
+        "size": 61926,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.7,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.70s): Explosion small."
+      },
+      {
+        "path": "Retro/fall_quick.wav",
+        "size": 37964,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.43,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.43s): Fall quick."
+      },
+      {
+        "path": "Retro/ghost.wav",
+        "size": 58006,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.66,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.66s): Ghost."
+      },
+      {
+        "path": "Retro/grow_big.wav",
+        "size": 94534,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.07,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.07s): Grow big."
+      },
+      {
+        "path": "Retro/hurt.wav",
+        "size": 18996,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.21,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.21s): Hurt."
+      },
+      {
+        "path": "Retro/jump.wav",
+        "size": 49198,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Jump."
+      },
+      {
+        "path": "Retro/jump_short.wav",
+        "size": 29224,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.33,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.33s): Jump short."
+      },
+      {
+        "path": "Retro/jump_square.wav",
+        "size": 54454,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.62,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.62s): Jump square."
+      },
+      {
+        "path": "Retro/lose.wav",
+        "size": 93740,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.06,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.06s): Lose."
+      },
+      {
+        "path": "Retro/menu_blip.wav",
+        "size": 8488,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.1,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.10s): Menu blip."
+      },
+      {
+        "path": "Retro/power_down.wav",
+        "size": 45712,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.52,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.52s): Power down."
+      },
+      {
+        "path": "Retro/power_down_2.wav",
+        "size": 29738,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.34,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.34s): Power down 2."
+      },
+      {
+        "path": "Retro/power_up.wav",
+        "size": 56344,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.64,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.64s): Power up."
+      },
+      {
+        "path": "Retro/power_up_2.wav",
+        "size": 64716,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.73,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.73s): Power up 2."
+      },
+      {
+        "path": "Retro/punch.wav",
+        "size": 14160,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.16,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.16s): Punch."
+      },
+      {
+        "path": "Retro/throw.wav",
+        "size": 31068,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Throw."
+      },
+      {
+        "path": "Retro/undesired_effect.wav",
+        "size": 42428,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Undesired effect."
+      },
+      {
+        "path": "Retro/wobble.wav",
+        "size": 24752,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.28,
+          "sample_rate": 44100,
+          "channels": 1,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.28s): Wobble."
+      },
+      {
+        "path": "UI/cancel.wav",
+        "size": 26856,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.15,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.15s): Cancel."
+      },
+      {
+        "path": "UI/click_double_off.wav",
+        "size": 65580,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.37,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.37s): Click double off."
+      },
+      {
+        "path": "UI/click_double_off_2.wav",
+        "size": 110124,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.62s): Click double off 2."
+      },
+      {
+        "path": "UI/click_double_on.wav",
+        "size": 53292,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.3,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.30s): Click double on."
+      },
+      {
+        "path": "UI/click_double_on_2.wav",
+        "size": 94252,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.53,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.53s): Click double on 2."
+      },
+      {
+        "path": "UI/pop_1.wav",
+        "size": 38956,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.22,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.22s): Pop 1."
+      },
+      {
+        "path": "UI/pop_2.wav",
+        "size": 32812,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.19,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.19s): Pop 2."
+      },
+      {
+        "path": "UI/pop_3.wav",
+        "size": 41004,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.23,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.23s): Pop 3."
+      },
+      {
+        "path": "UI/pop_4.wav",
+        "size": 51244,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.29,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.29s): Pop 4."
+      },
+      {
+        "path": "UI/sci_fi_cancel.wav",
+        "size": 275028,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.56s): Sci fi cancel."
+      },
+      {
+        "path": "UI/sci_fi_confirm.wav",
+        "size": 263764,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.5,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.50s): Sci fi confirm."
+      },
+      {
+        "path": "UI/sci_fi_deselect.wav",
+        "size": 286292,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.62s): Sci fi deselect."
+      },
+      {
+        "path": "UI/sci_fi_disallow.wav",
+        "size": 263720,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.49,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.49s): Sci fi disallow."
+      },
+      {
+        "path": "UI/sci_fi_error.wav",
+        "size": 286212,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.62,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.62s): Sci fi error."
+      },
+      {
+        "path": "UI/sci_fi_hover.wav",
+        "size": 133320,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.76,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.76s): Sci fi hover."
+      },
+      {
+        "path": "UI/sci_fi_hover_high.wav",
+        "size": 101428,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.57,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.57s): Sci fi hover high."
+      },
+      {
+        "path": "UI/sci_fi_select.wav",
+        "size": 275028,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.56s): Sci fi select."
+      },
+      {
+        "path": "UI/sci_fi_select_big.wav",
+        "size": 297044,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 1.68,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (1.68s): Sci fi select big."
+      },
+      {
+        "path": "UI/select_1.wav",
+        "size": 22500,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.13,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.13s): Select 1."
+      },
+      {
+        "path": "UI/select_2.wav",
+        "size": 31264,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.18,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.18s): Select 2."
+      },
+      {
+        "path": "UI/select_3.wav",
+        "size": 31244,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.18,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.18s): Select 3."
+      },
+      {
+        "path": "UI/select_4.wav",
+        "size": 31172,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.18,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.18s): Select 4."
+      },
+      {
+        "path": "UI/synth_cancel.wav",
+        "size": 426960,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.42,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.42s): Synth cancel."
+      },
+      {
+        "path": "UI/synth_confirmation.wav",
+        "size": 445868,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.53,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.53s): Synth confirmation."
+      },
+      {
+        "path": "UI/synth_error.wav",
+        "size": 376824,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.14,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.14s): Synth error."
+      },
+      {
+        "path": "UI/synth_process_complete.wav",
+        "size": 399448,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.26,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.26s): Synth process complete."
+      },
+      {
+        "path": "UI/synth_shut_down.wav",
+        "size": 455968,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.58,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.58s): Synth shut down."
+      },
+      {
+        "path": "UI/synth_warning.wav",
+        "size": 372596,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 2.11,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (2.11s): Synth warning."
+      },
+      {
+        "path": "UI/toggle_off.wav",
+        "size": 75820,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.43,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.43s): Toggle off."
+      },
+      {
+        "path": "UI/toggle_on.wav",
+        "size": 84012,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.48,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.48s): Toggle on."
+      },
+      {
+        "path": "Weapons/harsh_thud.wav",
+        "size": 89644,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.51,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.51s): Harsh thud."
+      },
+      {
+        "path": "Weapons/shot_muffled.wav",
+        "size": 98860,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Shot muffled."
+      },
+      {
+        "path": "Weapons/sword_clash.wav",
+        "size": 61484,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.35,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.35s): Sword clash."
+      },
+      {
+        "path": "Weapons/sword_clash_2.wav",
+        "size": 47148,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.27,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.27s): Sword clash 2."
+      },
+      {
+        "path": "Weapons/sword_drop.wav",
+        "size": 170028,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.96,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.96s): Sword drop."
+      },
+      {
+        "path": "Weapons/sword_light.wav",
+        "size": 63532,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.36,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.36s): Sword light."
+      },
+      {
+        "path": "Weapons/sword_sharpen.wav",
+        "size": 98348,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.56,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.56s): Sword sharpen."
+      },
+      {
+        "path": "Weapons/sword_slice.wav",
+        "size": 135212,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.77,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.77s): Sword slice."
+      },
+      {
+        "path": "Weapons/sword_unsheath.wav",
+        "size": 124972,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.71,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.71s): Sword unsheath."
+      },
+      {
+        "path": "Weapons/weapon_drop.wav",
+        "size": 137260,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.78,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.78s): Weapon drop."
+      },
+      {
+        "path": "Weapons/weapon_equip.wav",
+        "size": 141356,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.8,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.80s): Weapon equip."
+      },
+      {
+        "path": "Weapons/weapon_equip_short.wav",
+        "size": 51244,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.29,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.29s): Weapon equip short."
+      },
+      {
+        "path": "Weapons/weapon_pick_up.wav",
+        "size": 159788,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.91,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.91s): Weapon pick up."
+      },
+      {
+        "path": "Weapons/weapon_unequip.wav",
+        "size": 116780,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.66,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.66s): Weapon unequip."
+      },
+      {
+        "path": "Weapons/weapon_upgrade.wav",
+        "size": 139308,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 0.79,
+          "sample_rate": 44100,
+          "channels": 2,
+          "role": "sfx"
+        },
+        "description": "Sound effect (0.79s): Weapon upgrade."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [],
+    "probe": {
+      "images": {
+        "count": 0,
+        "pixel_art": 0,
+        "size_buckets": {},
+        "palette_buckets": {},
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 400,
+        "sfx": 362,
+        "music": 0,
+        "other": 38,
+        "total_duration": 518.4
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "400 Sounds Pack"
+  },
+  "summary": "400 Sounds Pack by unknown author: 400 files (85.2 MB) — 362 short SFX.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:37:00Z"
+}

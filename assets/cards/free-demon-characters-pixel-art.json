@@ -1,0 +1,1639 @@
+{
+  "slug": "free-demon-characters-pixel-art",
+  "itch": {
+    "game_id": "local-free-demon-characters-pixel-art",
+    "title": "free-demon-characters-pixel-art",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "custom (see License.txt)",
+      "confidence": "medium",
+      "source": "License.txt",
+      "raw_span": "https://craftpix.net/file-licenses/"
+    },
+    "requires_attribution": "unknown",
+    "credit_line": "free-demon-characters-pixel-art by unknown author — custom (see License.txt) [license requires manual verification]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/free-demon-characters-pixel-art",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 98,
+    "total_bytes": 1052935,
+    "total_human": "1.0 MB",
+    "categories": {
+      "images": {
+        "count": 96,
+        "bytes": 1052709,
+        "label": "sprites/textures"
+      },
+      "docs": {
+        "count": 2,
+        "bytes": 226,
+        "label": "docs/licenses"
+      }
+    },
+    "notable_files": {
+      "docs": [
+        "License.txt",
+        "Readme.txt"
+      ],
+      "images": [
+        "PNG/Demon_warriors/Character1_face1.png",
+        "PNG/Demon_warriors/Character1_face2.png",
+        "PNG/Demon_warriors/Character1_face3.png",
+        "PNG/Demon_warriors/Character1_face4.png",
+        "PNG/Demon_warriors/Character2_face1.png",
+        "PNG/Demon_warriors/Character2_face2.png",
+        "PNG/Demon_warriors/Character2_face3.png",
+        "PNG/Demon_warriors/Character2_face4.png"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "License.txt",
+        "size": 35,
+        "category": "docs",
+        "description": "Document: License."
+      },
+      {
+        "path": "Readme.txt",
+        "size": 191,
+        "category": "docs",
+        "description": "Document: Readme."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character1_face1.png",
+        "size": 14796,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 121,
+          "height": 273,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 172,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demoness in flowing robe, idle pose; background or NPC asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character1_face2.png",
+        "size": 14876,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 121,
+          "height": 273,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 176,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demoness in flowing robe, idle pose; background or NPC asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character1_face3.png",
+        "size": 14909,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 121,
+          "height": 273,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 181,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demoness in flowing robe, idle pose; background or NPC asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character1_face4.png",
+        "size": 14907,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 121,
+          "height": 273,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 175,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demoness in flowing robe, idle pose; background or NPC asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character2_face1.png",
+        "size": 27235,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 200,
+          "height": 295,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demoness in blue armor, sword ready; combat or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character2_face2.png",
+        "size": 27414,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 200,
+          "height": 295,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demoness in blue armor, sword ready; combat or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character2_face3.png",
+        "size": 27281,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 200,
+          "height": 295,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demoness in blue armor, sword ready; combat or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character2_face4.png",
+        "size": 27267,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 200,
+          "height": 295,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demoness in blue armor, sword ready; combat or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character3_face1.png",
+        "size": 23238,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 141,
+          "height": 283,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with red robe, holding staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character3_face2.png",
+        "size": 23298,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 141,
+          "height": 283,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with red robe, holding staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character3_face3.png",
+        "size": 23294,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 141,
+          "height": 283,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with red robe, holding staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character3_face4.png",
+        "size": 23242,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 141,
+          "height": 283,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with red robe, holding staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character4_face1.png",
+        "size": 20998,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 134,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with green cloak, staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character4_face2.png",
+        "size": 21124,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 134,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with green cloak, staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character4_face3.png",
+        "size": 21063,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 134,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with purple armor, dual swords; melee combatant asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character4_face4.png",
+        "size": 21064,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 134,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with purple armor, dual swords; melee combatant asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character5_face1.png",
+        "size": 24449,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 168,
+          "height": 290,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with green cloak, staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character5_face2.png",
+        "size": 24568,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 168,
+          "height": 290,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with green cloak, staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character5_face3.png",
+        "size": 24434,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 168,
+          "height": 290,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with green cloak, staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character5_face4.png",
+        "size": 24507,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 168,
+          "height": 290,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon with green cloak, staff; magic caster or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character6_face1.png",
+        "size": 25257,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 185,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Spider-like demon, arms crossed; idle or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character6_face2.png",
+        "size": 25441,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 185,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Spider-like demon, arms crossed; idle or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character6_face3.png",
+        "size": 25326,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 185,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Spider-like demon, arms crossed; idle or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character6_face4.png",
+        "size": 25242,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 185,
+          "height": 288,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Spider-like demon, arms crossed; idle or enemy asset."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character7_face1.png",
+        "size": 21851,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 104,
+          "height": 281,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon lord in red robe and green cape; main character sprite."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character7_face2.png",
+        "size": 21935,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 104,
+          "height": 281,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon lord with hand on hip; idle animation frame."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character7_face3.png",
+        "size": 21905,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 104,
+          "height": 281,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon lord with hand on hip; idle animation frame."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character7_face4.png",
+        "size": 21822,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 104,
+          "height": 281,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon lord with hand on hip; idle animation frame."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character8_face1.png",
+        "size": 19372,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 100,
+          "height": 293,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon lord with hand on hip; idle animation frame."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character8_face2.png",
+        "size": 19690,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 100,
+          "height": 293,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon warrior with axe and armor; alternate character sprite."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character8_face3.png",
+        "size": 19483,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 100,
+          "height": 293,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon warrior with axe and armor; idle animation frame."
+      },
+      {
+        "path": "PNG/Demon_warriors/Character8_face4.png",
+        "size": 19416,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 100,
+          "height": 293,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Demon warrior with axe and armor; idle animation frame."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character1_face1.png",
+        "size": 3240,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 55,
+          "palette_bucket": "<=64"
+        },
+        "description": "Demon with purple skin and horns; back view."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character1_face2.png",
+        "size": 3323,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 60,
+          "palette_bucket": "<=64"
+        },
+        "description": "Demon with purple skin and horns; back view."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character1_face3.png",
+        "size": 3351,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 66,
+          "palette_bucket": "<=128"
+        },
+        "description": "Demon with purple skin and horns; back view."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character1_face4.png",
+        "size": 3341,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 58,
+          "palette_bucket": "<=64"
+        },
+        "description": "Demon with purple skin and horns; back view."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character2_face1.png",
+        "size": 5361,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 128,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-haired demon with red eyes; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character2_face2.png",
+        "size": 5520,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 149,
+          "palette_bucket": "<=256"
+        },
+        "description": "Blue-haired demon with red eyes; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character2_face3.png",
+        "size": 5413,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 125,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-haired demon with red eyes; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character2_face4.png",
+        "size": 5388,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 122,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-haired demon with red eyes; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character3_face1.png",
+        "size": 4418,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 135,
+          "palette_bucket": "<=256"
+        },
+        "description": "Brown-haired demon with skull; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character3_face2.png",
+        "size": 4453,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 143,
+          "palette_bucket": "<=256"
+        },
+        "description": "Brown-haired demon with skull; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character3_face3.png",
+        "size": 4457,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 132,
+          "palette_bucket": "<=256"
+        },
+        "description": "Brown-haired demon with skull; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character3_face4.png",
+        "size": 4417,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 131,
+          "palette_bucket": "<=256"
+        },
+        "description": "Brown-haired demon with skull; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character4_face1.png",
+        "size": 4148,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 111,
+          "palette_bucket": "<=128"
+        },
+        "description": "Purple-cloaked demon with horns; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character4_face2.png",
+        "size": 4231,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 119,
+          "palette_bucket": "<=128"
+        },
+        "description": "Purple-cloaked demon with horns; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character4_face3.png",
+        "size": 4194,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 115,
+          "palette_bucket": "<=128"
+        },
+        "description": "Purple-cloaked demon with horns; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character4_face4.png",
+        "size": 4193,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 117,
+          "palette_bucket": "<=128"
+        },
+        "description": "Purple-cloaked demon with horns; close-up face."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character5_face1.png",
+        "size": 4886,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 152,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with mask and staff; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character5_face2.png",
+        "size": 4997,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 166,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with mask and staff; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character5_face3.png",
+        "size": 4865,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 156,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with mask and staff; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character5_face4.png",
+        "size": 4928,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 158,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with mask and staff; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character6_face1.png",
+        "size": 5291,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 124,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blond horned demon with bone collar; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character6_face2.png",
+        "size": 5459,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 143,
+          "palette_bucket": "<=256"
+        },
+        "description": "Blond horned demon with bone collar; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character6_face3.png",
+        "size": 5337,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 129,
+          "palette_bucket": "<=256"
+        },
+        "description": "Blond horned demon with bone collar; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character6_face4.png",
+        "size": 5267,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 124,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blond horned demon with bone collar; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character7_face1.png",
+        "size": 5608,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 150,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with torch; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character7_face2.png",
+        "size": 5747,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 174,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with torch; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character7_face3.png",
+        "size": 5670,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 155,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with torch; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character7_face4.png",
+        "size": 5578,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 152,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with torch; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character8_face1.png",
+        "size": 4440,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 135,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character8_face2.png",
+        "size": 4761,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 165,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character8_face3.png",
+        "size": 4567,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 140,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces/Character8_face4.png",
+        "size": 4464,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 137,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character1_face1.png",
+        "size": 4577,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 55,
+          "palette_bucket": "<=64"
+        },
+        "description": "Purple-skinned demon with hands raised; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character1_face2.png",
+        "size": 4644,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 59,
+          "palette_bucket": "<=64"
+        },
+        "description": "Purple-skinned demon with hands raised; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character1_face3.png",
+        "size": 4679,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 65,
+          "palette_bucket": "<=128"
+        },
+        "description": "Purple-skinned demon with hands raised; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character1_face4.png",
+        "size": 4674,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "33-64",
+          "palette": 58,
+          "palette_bucket": "<=64"
+        },
+        "description": "Purple-skinned demon with hands raised; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character2_face1.png",
+        "size": 6431,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 127,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-haired demon with horns; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character2_face2.png",
+        "size": 6600,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 148,
+          "palette_bucket": "<=256"
+        },
+        "description": "Blue-haired demon with horns; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character2_face3.png",
+        "size": 6475,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 124,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-haired demon with horns; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character2_face4.png",
+        "size": 6462,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 121,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-haired demon with horns; enemy or NPC in fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character3_face1.png",
+        "size": 5778,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 135,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demon with red eyes and horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character3_face2.png",
+        "size": 5854,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 142,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demon with red eyes and horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character3_face3.png",
+        "size": 5839,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 131,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demon with red eyes and horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character3_face4.png",
+        "size": 5794,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 131,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demon with red eyes and horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character4_face1.png",
+        "size": 5396,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 110,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-skinned demon with purple eyes; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character4_face2.png",
+        "size": 5495,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 118,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-skinned demon with purple eyes; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character4_face3.png",
+        "size": 5456,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 114,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-skinned demon with purple eyes; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character4_face4.png",
+        "size": 5454,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 116,
+          "palette_bucket": "<=128"
+        },
+        "description": "Blue-skinned demon with purple eyes; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character5_face1.png",
+        "size": 6000,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 152,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with green eyes and mask; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character5_face2.png",
+        "size": 6102,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 165,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with green eyes and mask; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character5_face3.png",
+        "size": 6014,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 155,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with green eyes and mask; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character5_face4.png",
+        "size": 6054,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 157,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-skinned demon with green eyes and mask; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character6_face1.png",
+        "size": 6539,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 123,
+          "palette_bucket": "<=128"
+        },
+        "description": "Demon with blonde hair and white horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character6_face2.png",
+        "size": 6675,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 142,
+          "palette_bucket": "<=256"
+        },
+        "description": "Demon with blonde hair and white horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character6_face3.png",
+        "size": 6560,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 128,
+          "palette_bucket": "<=128"
+        },
+        "description": "Demon with blonde hair and white horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character6_face4.png",
+        "size": 6509,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 123,
+          "palette_bucket": "<=128"
+        },
+        "description": "Demon with blonde hair and white horns; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character7_face1.png",
+        "size": 6827,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 149,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with flame; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character7_face2.png",
+        "size": 6976,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 173,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with flame; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character7_face3.png",
+        "size": 6882,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 154,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with flame; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character7_face4.png",
+        "size": 6800,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 151,
+          "palette_bucket": "<=256"
+        },
+        "description": "Red-haired demon with flame; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character8_face1.png",
+        "size": 5670,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 134,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character8_face2.png",
+        "size": 5986,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 164,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character8_face3.png",
+        "size": 5764,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 139,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in dark fantasy game."
+      },
+      {
+        "path": "PNG/Demon_warriors_faces_transperent/Character8_face4.png",
+        "size": 5726,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 64,
+          "height": 64,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "33-64",
+          "palette": 136,
+          "palette_bucket": "<=256"
+        },
+        "description": "Purple-skinned demon with axe; enemy or NPC in dark fantasy game."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 24,
+    "archive_count": 0,
+    "docs": [
+      "License.txt",
+      "Readme.txt"
+    ],
+    "probe": {
+      "images": {
+        "count": 96,
+        "pixel_art": 6,
+        "size_buckets": {
+          "129-512": 32,
+          "33-64": 64
+        },
+        "palette_buckets": {
+          "<=256": 41,
+          ">256": 28,
+          "<=64": 6,
+          "<=128": 21
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "free-demon-characters-pixel-art"
+  },
+  "summary": "free-demon-characters-pixel-art by unknown author: 98 files (1.0 MB) — 96 images (6 pixel-art, mostly 33-64 px, 24 animation sequences), 2 docs/licenses.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:42:00Z",
+  "content": {
+    "description": "Eight demon/imp characters drawn in 2D pixel art, each with a full-body sprite (roughly 100-200 px tall) plus a matching 64x64 faceset, provided with and without transparent backgrounds. Designs include horned warriors, robed mages, winged and tailed variants, a masked/staff wielder, and armoured fighters in red, purple and blue palettes. Clear silhouettes suit RPG enemies, boss/minion casts, dialogue portraits, and party-select screens.",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:32Z",
+    "samples": null
+  }
+}

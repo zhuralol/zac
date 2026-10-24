@@ -1,0 +1,409 @@
+# 400 Sounds Pack — file catalogue
+
+Generated 2026-10-24T22:11:55Z · 400 files
+
+**Path:** `/var/home/zhura/Projects/downloads/400 Sounds Pack`
+**Credit:** 400 Sounds Pack by unknown author [license requires manual verification]
+
+## audio (400)
+
+- `Card and Board/card_draw_1.wav` (0.3s) — Sound effect (0.35s): Card draw 1.
+- `Card and Board/card_draw_2.wav` (0.2s) — Sound effect (0.23s): Card draw 2.
+- `Card and Board/card_draw_3.wav` (0.3s) — Sound effect (0.34s): Card draw 3.
+- `Card and Board/card_fan.wav` (0.4s) — Sound effect (0.39s): Card fan.
+- `Card and Board/card_fan_2.wav` (0.7s) — Sound effect (0.66s): Card fan 2.
+- `Card and Board/chips_drop.wav` (1.2s) — Sound effect (1.18s): Chips drop.
+- `Card and Board/chips_gather.wav` (0.4s) — Sound effect (0.36s): Chips gather.
+- `Card and Board/chips_gather_2.wav` (0.7s) — Sound effect (0.67s): Chips gather 2.
+- `Card and Board/chips_gather_3.wav` (0.5s) — Sound effect (0.51s): Chips gather 3.
+- `Card and Board/chips_in_sack_shake.wav` (2.4s) — Sound effect (2.39s): Chips in sack shake.
+- `Card and Board/chips_in_sack_short.wav` (0.6s) — Sound effect (0.60s): Chips in sack short.
+- `Card and Board/chips_place_1.wav` (0.3s) — Sound effect (0.34s): Chips place 1.
+- `Card and Board/chips_place_2.wav` (0.3s) — Sound effect (0.33s): Chips place 2.
+- `Card and Board/chips_place_3.wav` (0.1s) — Sound effect (0.15s): Chips place 3.
+- `Card and Board/chips_stack.wav` (0.3s) — Sound effect (0.28s): Chips stack.
+- `Card and Board/chips_stack_2.wav` (0.8s) — Sound effect (0.85s): Chips stack 2.
+- `Card and Board/dice_grab.wav` (0.3s) — Sound effect (0.34s): Dice grab.
+- `Card and Board/dice_roll_1.wav` (0.4s) — Sound effect (0.43s): Dice roll 1.
+- `Card and Board/dice_roll_2.wav` (0.5s) — Sound effect (0.54s): Dice roll 2.
+- `Card and Board/dice_roll_3.wav` (0.8s) — Sound effect (0.77s): Dice roll 3.
+- `Card and Board/dice_roll_4.wav` (0.6s) — Sound effect (0.63s): Dice roll 4.
+- `Card and Board/dice_shake_2.wav` (1.4s) — Sound effect (1.39s): Dice shake 2.
+- `Card and Board/dice_shake_3.wav` (0.9s) — Sound effect (0.94s): Dice shake 3.
+- `Card and Board/dice_shake_4.wav` (1.1s) — Sound effect (1.14s): Dice shake 4.
+- `Combat and Gore/bone_snap.wav` (0.9s) — Sound effect (0.93s): Bone snap.
+- `Combat and Gore/crunch.wav` (1.1s) — Sound effect (1.08s): Crunch.
+- `Combat and Gore/crunch_quick.wav` (0.3s) — Sound effect (0.35s): Crunch quick.
+- `Combat and Gore/crunch_splat.wav` (0.8s) — Sound effect (0.75s): Crunch splat.
+- `Combat and Gore/crunch_splat_2.wav` (0.6s) — Sound effect (0.60s): Crunch splat 2.
+- `Combat and Gore/kick.wav` (0.3s) — Sound effect (0.29s): Kick.
+- `Combat and Gore/punch.wav` (0.6s) — Sound effect (0.56s): Punch.
+- `Combat and Gore/punch_2.wav` (0.2s) — Sound effect (0.18s): Punch 2.
+- `Combat and Gore/punch_3.wav` (0.4s) — Sound effect (0.40s): Punch 3.
+- `Combat and Gore/slap.wav` (0.7s) — Sound effect (0.68s): Slap.
+- `Combat and Gore/splat_double_quick.wav` (0.5s) — Sound effect (0.48s): Splat double quick.
+- `Combat and Gore/splat_quick.wav` (0.3s) — Sound effect (0.33s): Splat quick.
+- `Combat and Gore/squelching_1.wav` (0.9s) — Sound effect (0.87s): Squelching 1.
+- `Combat and Gore/squelching_2.wav` (0.8s) — Sound effect (0.85s): Squelching 2.
+- `Combat and Gore/squelching_3.wav` (0.5s) — Sound effect (0.46s): Squelching 3.
+- `Combat and Gore/squelching_4.wav` (0.8s) — Sound effect (0.79s): Squelching 4.
+- `Combat and Gore/swipe.wav` (0.4s) — Sound effect (0.39s): Swipe.
+- `Environment/air_burst.wav` (0.3s) — Sound effect (0.30s): Air burst.
+- `Environment/ambient_wind.wav` (8.6s) — Audio clip (0:08): Ambient wind.
+- `Environment/clock_tick_only.wav` (0.9s) — Sound effect (0.94s): Clock tick only.
+- `Environment/clock_ticking.wav` (4.0s) — Audio clip (0:04): Clock ticking.
+- `Environment/clock_tock_only.wav` (1.0s) — Sound effect (0.98s): Clock tock only.
+- `Environment/creaky_door_long.wav` (4.0s) — Audio clip (0:03): Creaky door long.
+- `Environment/creaky_door_short.wav` (0.8s) — Sound effect (0.84s): Creaky door short.
+- `Environment/door_close.wav` (0.8s) — Sound effect (0.84s): Door close.
+- `Environment/door_knock.wav` (1.0s) — Sound effect (1.04s): Door knock.
+- `Environment/door_open.wav` (1.6s) — Sound effect (1.64s): Door open.
+- `Environment/fire_lighting.wav` (0.7s) — Sound effect (0.65s): Fire lighting.
+- `Environment/gurgling.wav` (2.2s) — Sound effect (2.16s): Gurgling.
+- `Environment/ice_in_water.wav` (0.5s) — Sound effect (0.49s): Ice in water.
+- `Environment/lock_lock.wav` (1.0s) — Sound effect (0.96s): Lock lock.
+- `Environment/lock_quick.wav` (0.6s) — Sound effect (0.62s): Lock quick.
+- `Environment/lock_unlock.wav` (0.8s) — Sound effect (0.81s): Lock unlock.
+- `Environment/water_babbling_loop.wav` (4.0s) — Audio clip (0:04): Water babbling loop.
+- `Environment/water_boiling_loop.wav` (10.0s) — Audio clip (0:10): Water boiling loop.
+- `Environment/water_dripping.wav` (17.1s) — Audio clip (0:17): Water dripping.
+- `Environment/water_drop_medium.wav` (0.7s) — Sound effect (0.68s): Water drop medium.
+- `Environment/water_drop_synthetic.wav` (0.1s) — Sound effect (0.07s): Water drop synthetic.
+- `Environment/water_splashing.wav` (1.1s) — Sound effect (1.15s): Water splashing.
+- `Environment/zipper_down.wav` (0.5s) — Sound effect (0.53s): Zipper down.
+- `Environment/zipper_up.wav` (0.3s) — Sound effect (0.35s): Zipper up.
+- `Footsteps/digital/digital_footstep_grass_1.wav` (0.3s) — Sound effect (0.32s): Digital footstep grass 1.
+- `Footsteps/digital/digital_footstep_grass_2.wav` (0.3s) — Sound effect (0.30s): Digital footstep grass 2.
+- `Footsteps/digital/digital_footstep_grass_3.wav` (0.3s) — Sound effect (0.31s): Digital footstep grass 3.
+- `Footsteps/digital/digital_footstep_grass_4.wav` (0.3s) — Sound effect (0.35s): Digital footstep grass 4.
+- `Footsteps/digital/digital_footstep_gravel_1.wav` (0.3s) — Sound effect (0.32s): Digital footstep gravel 1.
+- `Footsteps/digital/digital_footstep_gravel_2.wav` (0.3s) — Sound effect (0.30s): Digital footstep gravel 2.
+- `Footsteps/digital/digital_footstep_gravel_3.wav` (0.3s) — Sound effect (0.31s): Digital footstep gravel 3.
+- `Footsteps/digital/digital_footstep_gravel_4.wav` (0.3s) — Sound effect (0.35s): Digital footstep gravel 4.
+- `Footsteps/digital/digital_footstep_snow_1.wav` (0.3s) — Sound effect (0.32s): Digital footstep snow 1.
+- `Footsteps/digital/digital_footstep_snow_2.wav` (0.3s) — Sound effect (0.30s): Digital footstep snow 2.
+- `Footsteps/digital/digital_footstep_snow_3.wav` (0.3s) — Sound effect (0.31s): Digital footstep snow 3.
+- `Footsteps/digital/digital_footstep_snow_4.wav` (0.3s) — Sound effect (0.35s): Digital footstep snow 4.
+- `Footsteps/digital/digital_footstep_wood_1.wav` (0.3s) — Sound effect (0.32s): Digital footstep wood 1.
+- `Footsteps/digital/digital_footstep_wood_2.wav` (0.3s) — Sound effect (0.30s): Digital footstep wood 2.
+- `Footsteps/digital/digital_footstep_wood_3.wav` (0.3s) — Sound effect (0.31s): Digital footstep wood 3.
+- `Footsteps/digital/digital_footstep_wood_4.wav` (0.3s) — Sound effect (0.35s): Digital footstep wood 4.
+- `Footsteps/foley_creak_1.wav` (0.5s) — Sound effect (0.51s): Foley creak 1.
+- `Footsteps/foley_footstep_carpet_1.wav` (0.5s) — Sound effect (0.49s): Foley footstep carpet 1.
+- `Footsteps/foley_footstep_carpet_2.wav` (0.6s) — Sound effect (0.62s): Foley footstep carpet 2.
+- `Footsteps/foley_footstep_carpet_3.wav` (0.6s) — Sound effect (0.55s): Foley footstep carpet 3.
+- `Footsteps/foley_footstep_carpet_4.wav` (0.7s) — Sound effect (0.67s): Foley footstep carpet 4.
+- `Footsteps/foley_footstep_concrete_1.wav` (0.3s) — Sound effect (0.29s): Foley footstep concrete 1.
+- `Footsteps/foley_footstep_concrete_2.wav` (0.3s) — Sound effect (0.28s): Foley footstep concrete 2.
+- `Footsteps/foley_footstep_concrete_3.wav` (0.2s) — Sound effect (0.24s): Foley footstep concrete 3.
+- `Footsteps/foley_footstep_concrete_4.wav` (0.3s) — Sound effect (0.26s): Foley footstep concrete 4.
+- `Footsteps/foley_footstep_gravel_1.wav` (0.5s) — Sound effect (0.48s): Foley footstep gravel 1.
+- `Footsteps/foley_footstep_gravel_2.wav` (0.5s) — Sound effect (0.53s): Foley footstep gravel 2.
+- `Footsteps/foley_footstep_gravel_3.wav` (0.3s) — Sound effect (0.35s): Foley footstep gravel 3.
+- `Footsteps/foley_footstep_gravel_4.wav` (0.6s) — Sound effect (0.61s): Foley footstep gravel 4.
+- `Footsteps/foley_footstep_vinyl_1.wav` (0.5s) — Sound effect (0.46s): Foley footstep vinyl 1.
+- `Footsteps/foley_footstep_vinyl_2.wav` (0.4s) — Sound effect (0.37s): Foley footstep vinyl 2.
+- `Footsteps/foley_footstep_vinyl_3.wav` (0.4s) — Sound effect (0.38s): Foley footstep vinyl 3.
+- `Footsteps/foley_footstep_vinyl_4.wav` (0.6s) — Sound effect (0.55s): Foley footstep vinyl 4.
+- `Human/belch_1.wav` (0.4s) — Sound effect (0.42s): Belch 1.
+- `Human/belch_2.wav` (0.9s) — Sound effect (0.93s): Belch 2.
+- `Human/belch_3.wav` (0.3s) — Sound effect (0.33s): Belch 3.
+- `Human/cough_double.wav` (1.2s) — Sound effect (1.21s): Cough double.
+- `Human/cough_short.wav` (0.9s) — Sound effect (0.91s): Cough short.
+- `Human/man_0.wav` (0.6s) — Sound effect (0.55s): Man 0.
+- `Human/man_1.wav` (0.4s) — Sound effect (0.41s): Man 1.
+- `Human/man_10.wav` (0.4s) — Sound effect (0.41s): Man 10.
+- `Human/man_2.wav` (0.4s) — Sound effect (0.37s): Man 2.
+- `Human/man_3.wav` (0.5s) — Sound effect (0.48s): Man 3.
+- `Human/man_4.wav` (0.6s) — Sound effect (0.58s): Man 4.
+- `Human/man_5.wav` (0.5s) — Sound effect (0.51s): Man 5.
+- `Human/man_6.wav` (0.7s) — Sound effect (0.66s): Man 6.
+- `Human/man_7.wav` (0.5s) — Sound effect (0.49s): Man 7.
+- `Human/man_8.wav` (0.4s) — Sound effect (0.37s): Man 8.
+- `Human/man_9.wav` (0.5s) — Sound effect (0.51s): Man 9.
+- `Human/whistle.wav` (1.8s) — Sound effect (1.81s): Whistle.
+- `Items/air_pump.wav` (0.5s) — Sound effect (0.52s): Air pump.
+- `Items/book_close.wav` (0.2s) — Sound effect (0.19s): Book close.
+- `Items/book_open.wav` (0.7s) — Sound effect (0.72s): Book open.
+- `Items/broom_sweep_1.wav` (0.6s) — Sound effect (0.59s): Broom sweep 1.
+- `Items/broom_sweep_2.wav` (0.7s) — Sound effect (0.74s): Broom sweep 2.
+- `Items/coin_collect.wav` (1.4s) — Sound effect (1.40s): Coin collect.
+- `Items/coin_jingle_small.wav` (0.6s) — Sound effect (0.58s): Coin jingle small.
+- `Items/coins_gather_medium.wav` (0.9s) — Sound effect (0.88s): Coins gather medium.
+- `Items/coins_gather_quick.wav` (0.5s) — Sound effect (0.48s): Coins gather quick.
+- `Items/coins_gather_small.wav` (0.4s) — Sound effect (0.39s): Coins gather small.
+- `Items/gem_collect.wav` (1.7s) — Sound effect (1.68s): Gem collect.
+- `Items/heart_collect.wav` (0.8s) — Sound effect (0.79s): Heart collect.
+- `Items/item_equip.wav` (0.3s) — Sound effect (0.30s): Item equip.
+- `Items/jingle_bells_1.wav` (1.1s) — Sound effect (1.14s): Jingle bells 1.
+- `Items/jingle_bells_2.wav` (0.8s) — Sound effect (0.79s): Jingle bells 2.
+- `Items/keys_jingling.wav` (0.5s) — Sound effect (0.51s): Keys jingling.
+- `Items/map_close.wav` (0.6s) — Sound effect (0.60s): Map close.
+- `Items/map_open.wav` (0.6s) — Sound effect (0.60s): Map open.
+- `Items/page_turn.wav` (0.9s) — Sound effect (0.91s): Page turn.
+- `Items/pencil_eraser.wav` (0.8s) — Sound effect (0.84s): Pencil eraser.
+- `Items/pencil_scribble.wav` (2.4s) — Sound effect (2.36s): Pencil scribble.
+- `Items/shovel_dig.wav` (0.6s) — Sound effect (0.60s): Shovel dig.
+- `Items/tennis_ball_bounce_1.wav` (0.3s) — Sound effect (0.31s): Tennis ball bounce 1.
+- `Items/tennis_ball_bounce_2.wav` (0.2s) — Sound effect (0.24s): Tennis ball bounce 2.
+- `Machines/drill_whizz.wav` (2.0s) — Sound effect (2.00s): Drill whizz.
+- `Machines/hairdryer.wav` (2.2s) — Sound effect (2.18s): Hairdryer.
+- `Machines/hydraulic_down.wav` (0.9s) — Sound effect (0.94s): Hydraulic down.
+- `Machines/hydraulic_up.wav` (1.1s) — Sound effect (1.13s): Hydraulic up.
+- `Machines/industrial_door_close.wav` (0.8s) — Sound effect (0.81s): Industrial door close.
+- `Machines/industrial_door_open.wav` (0.9s) — Sound effect (0.93s): Industrial door open.
+- `Machines/razor_buzz.wav` (1.4s) — Sound effect (1.42s): Razor buzz.
+- `Match Three/match_synth_1.wav` (2.4s) — Sound effect (2.39s): Match synth 1.
+- `Match Three/match_synth_10_MAX.wav` (2.3s) — Sound effect (2.34s): Match synth 10 MAX.
+- `Match Three/match_synth_2.wav` (2.4s) — Sound effect (2.39s): Match synth 2.
+- `Match Three/match_synth_3.wav` (2.4s) — Sound effect (2.35s): Match synth 3.
+- `Match Three/match_synth_4.wav` (2.4s) — Sound effect (2.35s): Match synth 4.
+- `Match Three/match_synth_5.wav` (2.3s) — Sound effect (2.27s): Match synth 5.
+- `Match Three/match_synth_6.wav` (2.3s) — Sound effect (2.29s): Match synth 6.
+- `Match Three/match_synth_7.wav` (2.3s) — Sound effect (2.27s): Match synth 7.
+- `Match Three/match_synth_8.wav` (2.3s) — Sound effect (2.26s): Match synth 8.
+- `Match Three/match_synth_9.wav` (2.2s) — Sound effect (2.24s): Match synth 9.
+- `Match Three/match_xylophone_1.wav` (1.1s) — Sound effect (1.08s): Match xylophone 1.
+- `Match Three/match_xylophone_10_MAX.wav` (1.1s) — Sound effect (1.07s): Match xylophone 10 MAX.
+- `Match Three/match_xylophone_2.wav` (1.1s) — Sound effect (1.06s): Match xylophone 2.
+- `Match Three/match_xylophone_3.wav` (1.1s) — Sound effect (1.07s): Match xylophone 3.
+- `Match Three/match_xylophone_4.wav` (1.0s) — Sound effect (1.03s): Match xylophone 4.
+- `Match Three/match_xylophone_5.wav` (1.0s) — Sound effect (1.01s): Match xylophone 5.
+- `Match Three/match_xylophone_6.wav` (0.9s) — Sound effect (0.92s): Match xylophone 6.
+- `Match Three/match_xylophone_7.wav` (0.8s) — Sound effect (0.84s): Match xylophone 7.
+- `Match Three/match_xylophone_8.wav` (0.9s) — Sound effect (0.89s): Match xylophone 8.
+- `Match Three/match_xylophone_9.wav` (0.8s) — Sound effect (0.84s): Match xylophone 9.
+- `Materials/aluminium_can_pick_up.wav` (0.4s) — Sound effect (0.44s): Aluminium can pick up.
+- `Materials/aluminium_can_place.wav` (0.5s) — Sound effect (0.51s): Aluminium can place.
+- `Materials/bamboo_drop.wav` (0.3s) — Sound effect (0.31s): Bamboo drop.
+- `Materials/cardboard_box_close.wav` (1.2s) — Sound effect (1.17s): Cardboard box close.
+- `Materials/cardboard_drop.wav` (0.9s) — Sound effect (0.95s): Cardboard drop.
+- `Materials/cardboard_hit.wav` (0.7s) — Sound effect (0.68s): Cardboard hit.
+- `Materials/cardboard_pick_up.wav` (1.0s) — Sound effect (1.03s): Cardboard pick up.
+- `Materials/cardboard_push.wav` (1.3s) — Sound effect (1.32s): Cardboard push.
+- `Materials/cardboard_tear.wav` (1.1s) — Sound effect (1.14s): Cardboard tear.
+- `Materials/ceramic_jar_close.wav` (0.6s) — Sound effect (0.56s): Ceramic jar close.
+- `Materials/ceramic_jar_open.wav` (0.5s) — Sound effect (0.45s): Ceramic jar open.
+- `Materials/clothing_1.wav` (1.2s) — Sound effect (1.22s): Clothing 1.
+- `Materials/clothing_2.wav` (1.5s) — Sound effect (1.50s): Clothing 2.
+- `Materials/clothing_thud.wav` (0.7s) — Sound effect (0.66s): Clothing thud.
+- `Materials/concrete_scrape.wav` (0.9s) — Sound effect (0.86s): Concrete scrape.
+- `Materials/cork_stabbed.wav` (0.3s) — Sound effect (0.34s): Cork stabbed.
+- `Materials/glass_ping_big.wav` (1.2s) — Sound effect (1.17s): Glass ping big.
+- `Materials/glass_ping_small.wav` (0.7s) — Sound effect (0.67s): Glass ping small.
+- `Materials/metal_blunt_tap.wav` (0.4s) — Sound effect (0.42s): Metal blunt tap.
+- `Materials/metal_clang.wav` (0.6s) — Sound effect (0.59s): Metal clang.
+- `Materials/paper_move.wav` (0.7s) — Sound effect (0.65s): Paper move.
+- `Materials/paper_scrunch.wav` (1.0s) — Sound effect (1.01s): Paper scrunch.
+- `Materials/paper_sort.wav` (1.2s) — Sound effect (1.17s): Paper sort.
+- `Materials/paper_tear_1.wav` (0.9s) — Sound effect (0.87s): Paper tear 1.
+- `Materials/paper_tear_2.wav` (1.2s) — Sound effect (1.23s): Paper tear 2.
+- `Materials/pottery_clang.wav` (0.6s) — Sound effect (0.56s): Pottery clang.
+- `Materials/stone_push_long.wav` (2.5s) — Sound effect (2.48s): Stone push long.
+- `Materials/stone_push_medium.wav` (1.7s) — Sound effect (1.74s): Stone push medium.
+- `Materials/stone_push_short.wav` (0.9s) — Sound effect (0.93s): Stone push short.
+- `Materials/wood_small_drop.wav` (0.5s) — Sound effect (0.53s): Wood small drop.
+- `Materials/wood_small_gather.wav` (0.8s) — Sound effect (0.84s): Wood small gather.
+- `Materials/wood_small_hollow.wav` (0.5s) — Sound effect (0.45s): Wood small hollow.
+- `Materials/wood_small_pickup.wav` (0.6s) — Sound effect (0.56s): Wood small pickup.
+- `Musical Effects/8_bit_chime_positive.wav` (0.3s) — Sound effect (0.31s): 8 bit chime positive.
+- `Musical Effects/8_bit_chime_quick.wav` (0.4s) — Sound effect (0.38s): 8 bit chime quick.
+- `Musical Effects/8_bit_defeated.wav` (3.1s) — Audio clip (0:03): 8 bit defeated.
+- `Musical Effects/8_bit_inn.wav` (3.0s) — Sound effect (2.95s): 8 bit inn.
+- `Musical Effects/8_bit_level_complete.wav` (3.1s) — Audio clip (0:03): 8 bit level complete.
+- `Musical Effects/8_bit_level_start.wav` (2.1s) — Sound effect (2.08s): 8 bit level start.
+- `Musical Effects/8_bit_mystery.wav` (1.2s) — Sound effect (1.21s): 8 bit mystery.
+- `Musical Effects/8_bit_negative.wav` (0.8s) — Sound effect (0.83s): 8 bit negative.
+- `Musical Effects/8_bit_negative_long.wav` (0.8s) — Sound effect (0.83s): 8 bit negative long.
+- `Musical Effects/8_bit_negative_quick.wav` (0.4s) — Sound effect (0.38s): 8 bit negative quick.
+- `Musical Effects/8_bit_positive_long.wav` (1.2s) — Sound effect (1.21s): 8 bit positive long.
+- `Musical Effects/brass_chime_positive.wav` (0.4s) — Sound effect (0.40s): Brass chime positive.
+- `Musical Effects/brass_chime_quick.wav` (0.4s) — Sound effect (0.40s): Brass chime quick.
+- `Musical Effects/brass_defeated.wav` (3.1s) — Audio clip (0:03): Brass defeated.
+- `Musical Effects/brass_inn.wav` (3.0s) — Sound effect (2.98s): Brass inn.
+- `Musical Effects/brass_level_complete.wav` (3.1s) — Audio clip (0:03): Brass level complete.
+- `Musical Effects/brass_level_start.wav` (2.1s) — Sound effect (2.10s): Brass level start.
+- `Musical Effects/brass_mystery.wav` (1.2s) — Sound effect (1.23s): Brass mystery.
+- `Musical Effects/brass_negative.wav` (0.8s) — Sound effect (0.85s): Brass negative.
+- `Musical Effects/brass_negative_long.wav` (0.8s) — Sound effect (0.85s): Brass negative long.
+- `Musical Effects/brass_negative_quick.wav` (0.4s) — Sound effect (0.40s): Brass negative quick.
+- `Musical Effects/brass_positive_long.wav` (1.2s) — Sound effect (1.23s): Brass positive long.
+- `Musical Effects/grand_piano_chime_positive.wav` (1.0s) — Sound effect (0.98s): Grand piano chime positive.
+- `Musical Effects/grand_piano_chime_quick.wav` (1.1s) — Sound effect (1.08s): Grand piano chime quick.
+- `Musical Effects/grand_piano_defeated.wav` (3.9s) — Audio clip (0:03): Grand piano defeated.
+- `Musical Effects/grand_piano_inn.wav` (3.7s) — Audio clip (0:03): Grand piano inn.
+- `Musical Effects/grand_piano_level_complete.wav` (3.8s) — Audio clip (0:03): Grand piano level complete.
+- `Musical Effects/grand_piano_level_start.wav` (2.9s) — Sound effect (2.88s): Grand piano level start.
+- `Musical Effects/grand_piano_mystery.wav` (2.0s) — Sound effect (2.00s): Grand piano mystery.
+- `Musical Effects/grand_piano_negative.wav` (1.5s) — Sound effect (1.52s): Grand piano negative.
+- `Musical Effects/grand_piano_negative_long.wav` (1.6s) — Sound effect (1.64s): Grand piano negative long.
+- `Musical Effects/grand_piano_negative_quick.wav` (1.1s) — Sound effect (1.11s): Grand piano negative quick.
+- `Musical Effects/grand_piano_positive_long.wav` (1.9s) — Sound effect (1.94s): Grand piano positive long.
+- `Musical Effects/harpsichord_chime_positive.wav` (1.1s) — Sound effect (1.14s): Harpsichord chime positive.
+- `Musical Effects/harpsichord_chime_quick.wav` (1.1s) — Sound effect (1.07s): Harpsichord chime quick.
+- `Musical Effects/harpsichord_defeated.wav` (3.0s) — Sound effect (0:03): Harpsichord defeated.
+- `Musical Effects/harpsichord_inn.wav` (3.6s) — Audio clip (0:03): Harpsichord inn.
+- `Musical Effects/harpsichord_level_complete.wav` (3.7s) — Audio clip (0:03): Harpsichord level complete.
+- `Musical Effects/harpsichord_level_start.wav` (2.6s) — Sound effect (2.62s): Harpsichord level start.
+- `Musical Effects/harpsichord_mystery.wav` (1.5s) — Sound effect (1.50s): Harpsichord mystery.
+- `Musical Effects/harpsichord_negative.wav` (1.4s) — Sound effect (1.45s): Harpsichord negative.
+- `Musical Effects/harpsichord_negative_long.wav` (1.6s) — Sound effect (1.55s): Harpsichord negative long.
+- `Musical Effects/harpsichord_negative_quick.wav` (1.1s) — Sound effect (1.15s): Harpsichord negative quick.
+- `Musical Effects/harpsichord_positive_long.wav` (1.9s) — Sound effect (1.90s): Harpsichord positive long.
+- `Musical Effects/horror_sting.wav` (0.9s) — Sound effect (0.88s): Horror sting.
+- `Musical Effects/music_box_chime_positive.wav` (1.6s) — Sound effect (1.65s): Music box chime positive.
+- `Musical Effects/music_box_chime_quick.wav` (1.6s) — Sound effect (1.57s): Music box chime quick.
+- `Musical Effects/music_box_defeated.wav` (3.5s) — Audio clip (0:03): Music box defeated.
+- `Musical Effects/music_box_inn.wav` (4.1s) — Audio clip (0:04): Music box inn.
+- `Musical Effects/music_box_level_complete.wav` (4.2s) — Audio clip (0:04): Music box level complete.
+- `Musical Effects/music_box_level_start.wav` (3.1s) — Audio clip (0:03): Music box level start.
+- `Musical Effects/music_box_mystery.wav` (2.0s) — Sound effect (2.00s): Music box mystery.
+- `Musical Effects/music_box_negative.wav` (1.9s) — Sound effect (1.95s): Music box negative.
+- `Musical Effects/music_box_negative_long.wav` (2.0s) — Sound effect (2.05s): Music box negative long.
+- `Musical Effects/music_box_negative_quick.wav` (1.6s) — Sound effect (1.65s): Music box negative quick.
+- `Musical Effects/music_box_positive_long.wav` (2.4s) — Sound effect (2.40s): Music box positive long.
+- `Musical Effects/sitar_chime_positive.wav` (1.3s) — Sound effect (1.34s): Sitar chime positive.
+- `Musical Effects/sitar_chime_quick.wav` (1.3s) — Sound effect (1.26s): Sitar chime quick.
+- `Musical Effects/sitar_defeated.wav` (3.5s) — Audio clip (0:03): Sitar defeated.
+- `Musical Effects/sitar_inn.wav` (4.1s) — Audio clip (0:04): Sitar inn.
+- `Musical Effects/sitar_level_complete.wav` (3.9s) — Audio clip (0:03): Sitar level complete.
+- `Musical Effects/sitar_level_start.wav` (3.1s) — Audio clip (0:03): Sitar level start.
+- `Musical Effects/sitar_mystery.wav` (2.0s) — Sound effect (2.00s): Sitar mystery.
+- `Musical Effects/sitar_negative.wav` (1.7s) — Sound effect (1.66s): Sitar negative.
+- `Musical Effects/sitar_negative_long.wav` (2.0s) — Sound effect (2.05s): Sitar negative long.
+- `Musical Effects/sitar_negative_quick.wav` (1.5s) — Sound effect (1.48s): Sitar negative quick.
+- `Musical Effects/sitar_positive_long.wav` (2.4s) — Sound effect (2.35s): Sitar positive long.
+- `Musical Effects/steel_drums_chime_positive.wav` (1.1s) — Sound effect (1.15s): Steel drums chime positive.
+- `Musical Effects/steel_drums_chime_quick.wav` (1.1s) — Sound effect (1.07s): Steel drums chime quick.
+- `Musical Effects/steel_drums_defeated.wav` (3.0s) — Sound effect (0:03): Steel drums defeated.
+- `Musical Effects/steel_drums_inn.wav` (3.6s) — Audio clip (0:03): Steel drums inn.
+- `Musical Effects/steel_drums_level_complete.wav` (3.7s) — Audio clip (0:03): Steel drums level complete.
+- `Musical Effects/steel_drums_level_start.wav` (2.6s) — Sound effect (2.62s): Steel drums level start.
+- `Musical Effects/steel_drums_mystery.wav` (1.5s) — Sound effect (1.50s): Steel drums mystery.
+- `Musical Effects/steel_drums_negative.wav` (1.4s) — Sound effect (1.45s): Steel drums negative.
+- `Musical Effects/steel_drums_negative_long.wav` (1.6s) — Sound effect (1.55s): Steel drums negative long.
+- `Musical Effects/steel_drums_negative_quick.wav` (1.1s) — Sound effect (1.15s): Steel drums negative quick.
+- `Musical Effects/steel_drums_positive_long.wav` (1.9s) — Sound effect (1.90s): Steel drums positive long.
+- `Musical Effects/synth_bass_chime_positive.wav` (0.5s) — Sound effect (0.50s): Synth bass chime positive.
+- `Musical Effects/synth_bass_chime_quick.wav` (0.5s) — Sound effect (0.50s): Synth bass chime quick.
+- `Musical Effects/synth_bass_defeated.wav` (3.2s) — Audio clip (0:03): Synth bass defeated.
+- `Musical Effects/synth_bass_inn.wav` (3.1s) — Audio clip (0:03): Synth bass inn.
+- `Musical Effects/synth_bass_level_complete.wav` (3.2s) — Audio clip (0:03): Synth bass level complete.
+- `Musical Effects/synth_bass_level_start.wav` (2.2s) — Sound effect (2.20s): Synth bass level start.
+- `Musical Effects/synth_bass_mystery.wav` (1.3s) — Sound effect (1.32s): Synth bass mystery.
+- `Musical Effects/synth_bass_negative.wav` (0.9s) — Sound effect (0.95s): Synth bass negative.
+- `Musical Effects/synth_bass_negative_long.wav` (0.9s) — Sound effect (0.95s): Synth bass negative long.
+- `Musical Effects/synth_bass_negative_quick.wav` (0.5s) — Sound effect (0.50s): Synth bass negative quick.
+- `Musical Effects/synth_bass_positive_long.wav` (1.3s) — Sound effect (1.33s): Synth bass positive long.
+- `Musical Effects/vibraphone_chime_positive.wav` (1.4s) — Sound effect (1.37s): Vibraphone chime positive.
+- `Musical Effects/vibraphone_chime_quick.wav` (1.3s) — Sound effect (1.29s): Vibraphone chime quick.
+- `Musical Effects/vibraphone_defeated.wav` (3.3s) — Audio clip (0:03): Vibraphone defeated.
+- `Musical Effects/vibraphone_inn.wav` (3.9s) — Audio clip (0:03): Vibraphone inn.
+- `Musical Effects/vibraphone_level_complete.wav` (4.0s) — Audio clip (0:03): Vibraphone level complete.
+- `Musical Effects/vibraphone_level_start.wav` (3.0s) — Audio clip (0:03): Vibraphone level start.
+- `Musical Effects/vibraphone_mystery.wav` (1.7s) — Sound effect (1.72s): Vibraphone mystery.
+- `Musical Effects/vibraphone_negative.wav` (1.7s) — Sound effect (1.67s): Vibraphone negative.
+- `Musical Effects/vibraphone_negative_long.wav` (1.9s) — Sound effect (1.86s): Vibraphone negative long.
+- `Musical Effects/vibraphone_negative_quick.wav` (1.5s) — Sound effect (1.50s): Vibraphone negative quick.
+- `Musical Effects/vibraphone_positive_long.wav` (2.3s) — Sound effect (2.30s): Vibraphone positive long.
+- `Musical Effects/xylophone_chime_positive.wav` (1.0s) — Sound effect (1.04s): Xylophone chime positive.
+- `Musical Effects/xylophone_chime_quick.wav` (1.0s) — Sound effect (1.03s): Xylophone chime quick.
+- `Musical Effects/xylophone_defeated.wav` (2.9s) — Sound effect (2.94s): Xylophone defeated.
+- `Musical Effects/xylophone_inn.wav` (3.7s) — Audio clip (0:03): Xylophone inn.
+- `Musical Effects/xylophone_level_complete.wav` (3.4s) — Audio clip (0:03): Xylophone level complete.
+- `Musical Effects/xylophone_level_start.wav` (2.7s) — Sound effect (2.66s): Xylophone level start.
+- `Musical Effects/xylophone_mystery.wav` (1.4s) — Sound effect (1.45s): Xylophone mystery.
+- `Musical Effects/xylophone_negative.wav` (1.3s) — Sound effect (1.34s): Xylophone negative.
+- `Musical Effects/xylophone_negative_long.wav` (1.2s) — Sound effect (1.25s): Xylophone negative long.
+- `Musical Effects/xylophone_negative_quick.wav` (1.1s) — Sound effect (1.09s): Xylophone negative quick.
+- `Musical Effects/xylophone_positive_long.wav` (1.6s) — Sound effect (1.64s): Xylophone positive long.
+- `Other/applause.wav` (11.8s) — Audio clip (0:11): Applause.
+- `Other/controller_button_press.wav` (1.1s) — Sound effect (1.11s): Controller button press.
+- `Other/controller_button_press_2.wav` (1.4s) — Sound effect (1.38s): Controller button press 2.
+- `Other/drink_slurp.wav` (1.0s) — Sound effect (1.02s): Drink slurp.
+- `Other/elastic_twang.wav` (0.3s) — Sound effect (0.27s): Elastic twang.
+- `Other/finger_click.wav` (0.5s) — Sound effect (0.53s): Finger click.
+- `Other/ghost_long.wav` (4.2s) — Audio clip (0:04): Ghost long.
+- `Other/itching.wav` (1.3s) — Sound effect (1.31s): Itching.
+- `Other/keyboard_typing.wav` (3.6s) — Audio clip (0:03): Keyboard typing.
+- `Other/light_match.wav` (1.3s) — Sound effect (1.28s): Light match.
+- `Other/munching_food.wav` (1.1s) — Sound effect (1.15s): Munching food.
+- `Other/paste.wav` (0.8s) — Sound effect (0.82s): Paste.
+- `Other/record_scratch.wav` (0.3s) — Sound effect (0.31s): Record scratch.
+- `Other/slide_and_click.wav` (0.8s) — Sound effect (0.81s): Slide and click.
+- `Other/snap.wav` (0.3s) — Sound effect (0.26s): Snap.
+- `Other/subtle_knock.wav` (0.4s) — Sound effect (0.37s): Subtle knock.
+- `Other/white_noise_long.wav` (6.0s) — Audio clip (0:06): White noise long.
+- `Other/white_noise_short.wav` (1.1s) — Sound effect (1.09s): White noise short.
+- `Other/whoosh_1.wav` (0.3s) — Sound effect (0.33s): Whoosh 1.
+- `Other/whoosh_2.wav` (0.8s) — Sound effect (0.77s): Whoosh 2.
+- `Retro/coin.wav` (0.3s) — Sound effect (0.33s): Coin.
+- `Retro/coin_2.wav` (0.3s) — Sound effect (0.33s): Coin 2.
+- `Retro/coin_3.wav` (0.5s) — Sound effect (0.51s): Coin 3.
+- `Retro/coin_4.wav` (0.5s) — Sound effect (0.48s): Coin 4.
+- `Retro/explosion_large.wav` (1.3s) — Sound effect (1.33s): Explosion large.
+- `Retro/explosion_medium.wav` (1.2s) — Sound effect (1.21s): Explosion medium.
+- `Retro/explosion_quick.wav` (0.7s) — Sound effect (0.65s): Explosion quick.
+- `Retro/explosion_small.wav` (0.7s) — Sound effect (0.70s): Explosion small.
+- `Retro/fall_quick.wav` (0.4s) — Sound effect (0.43s): Fall quick.
+- `Retro/ghost.wav` (0.7s) — Sound effect (0.66s): Ghost.
+- `Retro/grow_big.wav` (1.1s) — Sound effect (1.07s): Grow big.
+- `Retro/hurt.wav` (0.2s) — Sound effect (0.21s): Hurt.
+- `Retro/jump.wav` (0.6s) — Sound effect (0.56s): Jump.
+- `Retro/jump_short.wav` (0.3s) — Sound effect (0.33s): Jump short.
+- `Retro/jump_square.wav` (0.6s) — Sound effect (0.62s): Jump square.
+- `Retro/lose.wav` (1.1s) — Sound effect (1.06s): Lose.
+- `Retro/menu_blip.wav` (0.1s) — Sound effect (0.10s): Menu blip.
+- `Retro/power_down.wav` (0.5s) — Sound effect (0.52s): Power down.
+- `Retro/power_down_2.wav` (0.3s) — Sound effect (0.34s): Power down 2.
+- `Retro/power_up.wav` (0.6s) — Sound effect (0.64s): Power up.
+- `Retro/power_up_2.wav` (0.7s) — Sound effect (0.73s): Power up 2.
+- `Retro/punch.wav` (0.2s) — Sound effect (0.16s): Punch.
+- `Retro/throw.wav` (0.3s) — Sound effect (0.35s): Throw.
+- `Retro/undesired_effect.wav` (0.5s) — Sound effect (0.48s): Undesired effect.
+- `Retro/wobble.wav` (0.3s) — Sound effect (0.28s): Wobble.
+- `UI/cancel.wav` (0.1s) — Sound effect (0.15s): Cancel.
+- `UI/click_double_off.wav` (0.4s) — Sound effect (0.37s): Click double off.
+- `UI/click_double_off_2.wav` (0.6s) — Sound effect (0.62s): Click double off 2.
+- `UI/click_double_on.wav` (0.3s) — Sound effect (0.30s): Click double on.
+- `UI/click_double_on_2.wav` (0.5s) — Sound effect (0.53s): Click double on 2.
+- `UI/pop_1.wav` (0.2s) — Sound effect (0.22s): Pop 1.
+- `UI/pop_2.wav` (0.2s) — Sound effect (0.19s): Pop 2.
+- `UI/pop_3.wav` (0.2s) — Sound effect (0.23s): Pop 3.
+- `UI/pop_4.wav` (0.3s) — Sound effect (0.29s): Pop 4.
+- `UI/sci_fi_cancel.wav` (1.6s) — Sound effect (1.56s): Sci fi cancel.
+- `UI/sci_fi_confirm.wav` (1.5s) — Sound effect (1.50s): Sci fi confirm.
+- `UI/sci_fi_deselect.wav` (1.6s) — Sound effect (1.62s): Sci fi deselect.
+- `UI/sci_fi_disallow.wav` (1.5s) — Sound effect (1.49s): Sci fi disallow.
+- `UI/sci_fi_error.wav` (1.6s) — Sound effect (1.62s): Sci fi error.
+- `UI/sci_fi_hover.wav` (0.8s) — Sound effect (0.76s): Sci fi hover.
+- `UI/sci_fi_hover_high.wav` (0.6s) — Sound effect (0.57s): Sci fi hover high.
+- `UI/sci_fi_select.wav` (1.6s) — Sound effect (1.56s): Sci fi select.
+- `UI/sci_fi_select_big.wav` (1.7s) — Sound effect (1.68s): Sci fi select big.
+- `UI/select_1.wav` (0.1s) — Sound effect (0.13s): Select 1.
+- `UI/select_2.wav` (0.2s) — Sound effect (0.18s): Select 2.
+- `UI/select_3.wav` (0.2s) — Sound effect (0.18s): Select 3.
+- `UI/select_4.wav` (0.2s) — Sound effect (0.18s): Select 4.
+- `UI/synth_cancel.wav` (2.4s) — Sound effect (2.42s): Synth cancel.
+- `UI/synth_confirmation.wav` (2.5s) — Sound effect (2.53s): Synth confirmation.
+- `UI/synth_error.wav` (2.1s) — Sound effect (2.14s): Synth error.
+- `UI/synth_process_complete.wav` (2.3s) — Sound effect (2.26s): Synth process complete.
+- `UI/synth_shut_down.wav` (2.6s) — Sound effect (2.58s): Synth shut down.
+- `UI/synth_warning.wav` (2.1s) — Sound effect (2.11s): Synth warning.
+- `UI/toggle_off.wav` (0.4s) — Sound effect (0.43s): Toggle off.
+- `UI/toggle_on.wav` (0.5s) — Sound effect (0.48s): Toggle on.
+- `Weapons/harsh_thud.wav` (0.5s) — Sound effect (0.51s): Harsh thud.
+- `Weapons/shot_muffled.wav` (0.6s) — Sound effect (0.56s): Shot muffled.
+- `Weapons/sword_clash.wav` (0.3s) — Sound effect (0.35s): Sword clash.
+- `Weapons/sword_clash_2.wav` (0.3s) — Sound effect (0.27s): Sword clash 2.
+- `Weapons/sword_drop.wav` (1.0s) — Sound effect (0.96s): Sword drop.
+- `Weapons/sword_light.wav` (0.4s) — Sound effect (0.36s): Sword light.
+- `Weapons/sword_sharpen.wav` (0.6s) — Sound effect (0.56s): Sword sharpen.
+- `Weapons/sword_slice.wav` (0.8s) — Sound effect (0.77s): Sword slice.
+- `Weapons/sword_unsheath.wav` (0.7s) — Sound effect (0.71s): Sword unsheath.
+- `Weapons/weapon_drop.wav` (0.8s) — Sound effect (0.78s): Weapon drop.
+- `Weapons/weapon_equip.wav` (0.8s) — Sound effect (0.80s): Weapon equip.
+- `Weapons/weapon_equip_short.wav` (0.3s) — Sound effect (0.29s): Weapon equip short.
+- `Weapons/weapon_pick_up.wav` (0.9s) — Sound effect (0.91s): Weapon pick up.
+- `Weapons/weapon_unequip.wav` (0.7s) — Sound effect (0.66s): Weapon unequip.
+- `Weapons/weapon_upgrade.wav` (0.8s) — Sound effect (0.79s): Weapon upgrade.

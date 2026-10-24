@@ -1,0 +1,647 @@
+# Delven Textures 1.2a — file catalogue
+
+Generated 2026-10-24T22:11:55Z · 632 files
+
+**Path:** `/var/home/zhura/Projects/downloads/Delven Textures 1.2a`
+**Credit:** Delven Textures 1.2a by unknown author — Custom (attribution required)
+
+## sprites/textures (627)
+
+- `CoverNewEx.png` (630x500) — Circular stone floor tile; dungeon or castle floors.
+- `Quake Palette/dlv_barreltop1a.bmp` (64x64) — Wooden circular floor tile; rustic or medieval interiors.
+- `Quake Palette/dlv_barreltop1b.bmp` (64x64) — Dark wooden circular floor tile; dungeon or fortress floors.
+- `Quake Palette/dlv_barreltop1c.bmp` (64x64) — Weathered stone circular floor tile; ancient or ruinous settings.
+- `Quake Palette/dlv_barreltop2a.bmp` (64x64) — Mossy stone circular floor tile; overgrown or abandoned areas.
+- `Quake Palette/dlv_barreltop2b.bmp` (64x64) — Dark wooden circular floor tile; dungeon or fortress floors.
+- `Quake Palette/dlv_barreltop2c.bmp` (64x64) — Circular stone floor tile with wood; dungeon or castle floors.
+- `Quake Palette/dlv_door1a.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door1b.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door1c.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door1d.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door2a.bmp` (128x128) — Double stone doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door2b.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door2c.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door2d.bmp` (128x128) — Double wooden doors with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door3a.bmp` (64x128) — Single wooden door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door3b.bmp` (64x128) — Single stone door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door3c.bmp` (64x128) — Single wooden door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door3d.bmp` (64x128) — Single wooden door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door4a.bmp` (64x128) — Single stone door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door4b.bmp` (64x128) — Single wooden door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door4c.bmp` (64x128) — Single wooden door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_door4d.bmp` (64x128) — Single stone door with metal hinges; entry points or barriers.
+- `Quake Palette/dlv_fabric1a.bmp` (128x128) — Green mossy stone texture; dungeon or castle floors.
+- `Quake Palette/dlv_fabric1b.bmp` (128x128) — Dark green fabric texture; UI backgrounds or environmental surfaces.
+- `Quake Palette/dlv_fabric1c.bmp` (128x128) — Green fabric with rounded corners; UI elements or decorative panels.
+- `Quake Palette/dlv_fabric1d.bmp` (64x128) — Vertical green fabric strip; borders or side panels.
+- `Quake Palette/dlv_fabric1e.bmp` (64x128) — Tall green fabric rectangle; narrow UI or interface components.
+- `Quake Palette/dlv_fabric2a.bmp` (128x128) — Dark blue fabric texture; UI or environmental backgrounds.
+- `Quake Palette/dlv_fabric2b.bmp` (128x128) — Blue fabric with vertical stripe; side panels or decorative borders.
+- `Quake Palette/dlv_fabric2c.bmp` (128x128) — Blue fabric with rounded corners; UI or interface elements.
+- `Quake Palette/dlv_fabric2d.bmp` (64x128) — Vertical blue fabric strip; borders or side panels.
+- `Quake Palette/dlv_fabric2e.bmp` (64x128) — Tall blue fabric rectangle; narrow UI or interface components.
+- `Quake Palette/dlv_fabric3a.bmp` (128x128) — Brown wood grain texture; floor or wall surfaces.
+- `Quake Palette/dlv_fabric3b.bmp` (128x128) — Wide brown wood texture; floor or wall backgrounds.
+- `Quake Palette/dlv_fabric3c.bmp` (128x128) — Brown wood with rounded corners; UI or interface elements.
+- `Quake Palette/dlv_fabric3d.bmp` (64x128) — Vertical brown wood strip; borders or side panels.
+- `Quake Palette/dlv_fabric3e.bmp` (64x128) — Tall brown wood rectangle; narrow UI or interface components.
+- `Quake Palette/dlv_fabric4a.bmp` (128x128) — Mottled green-brown texture; terrain or environmental surfaces.
+- `Quake Palette/dlv_fabric4b.bmp` (128x128) — Mottled green-brown texture; terrain or environmental surfaces.
+- `Quake Palette/dlv_fabric4c.bmp` (128x128) — Mottled green-brown with rounded corners; UI or interface elements.
+- `Quake Palette/dlv_fabric4d.bmp` (64x128) — Vertical mottled texture; borders or side panels.
+- `Quake Palette/dlv_fabric4e.bmp` (64x128) — Tall mottled rectangle; narrow UI or interface components.
+- `Quake Palette/dlv_fabric5a.bmp` (128x128) — Mottled blue-brown texture; terrain or environmental surfaces.
+- `Quake Palette/dlv_fabric5b.bmp` (128x128) — Mottled blue-brown texture; terrain or environmental surfaces.
+- `Quake Palette/dlv_fabric5c.bmp` (128x128) — Mottled blue-brown with rounded corners; UI or interface elements.
+- `Quake Palette/dlv_fabric5d.bmp` (64x128) — Vertical mottled texture; borders or side panels.
+- `Quake Palette/dlv_fabric5e.bmp` (64x128) — Tall mottled rectangle; narrow UI or interface components.
+- `Quake Palette/dlv_fabric6a.bmp` (128x128) — Rough brown stone wall texture; dungeon or castle interiors.
+- `Quake Palette/dlv_fabric6b.bmp` (128x128) — Stone wall with mossy patches; adds natural decay to environments.
+- `Quake Palette/dlv_fabric6c.bmp` (128x128) — Stone wall with glowing orange outline; UI or interactive elements.
+- `Quake Palette/dlv_fabric6d.bmp` (64x128) — Vertical stone pillar texture; structural support in buildings.
+- `Quake Palette/dlv_fabric6e.bmp` (64x128) — Stone pillar with glowing outline; interactive or highlighted objects.
+- `Quake Palette/dlv_ground1a.bmp` (128x128) — Dark textured stone surface; ground or wall base layer.
+- `Quake Palette/dlv_ground1b.bmp` (128x128) — Mossy stone ground texture; outdoor or forested areas.
+- `Quake Palette/dlv_ground1c.bmp` (128x128) — Sparse blue-green grass; low vegetation in open spaces.
+- `Quake Palette/dlv_ground1d.bmp` (128x128) — Dense green grass; ground cover for plains or meadows.
+- `Quake Palette/dlv_ground2a.bmp` (128x128) — Rocky terrain with sparse vegetation; rugged outdoor zones.
+- `Quake Palette/dlv_ground2b.bmp` (128x128) — Mossy stone surface; detailed ground or wall texture.
+- `Quake Palette/dlv_ground2c.bmp` (128x128) — Sparse blue-green grass; low vegetation in open areas.
+- `Quake Palette/dlv_ground2d.bmp` (128x128) — Dense green grass with soil; ground cover for natural areas.
+- `Quake Palette/dlv_ground3a.bmp` (128x128) — Sparse blue-green grass; low vegetation in open zones.
+- `Quake Palette/dlv_ground3b.bmp` (128x128) — Mossy stone ground texture; detailed ground layer.
+- `Quake Palette/dlv_ground3c.bmp` (128x128) — Rocky terrain with sparse vegetation; rugged outdoor zones.
+- `Quake Palette/dlv_ground4a.bmp` (128x128) — Dense green grass; ground cover for plains.
+- `Quake Palette/dlv_ground4b.bmp` (128x128) — Sparse green grass; low vegetation in open areas.
+- `Quake Palette/dlv_ground4c.bmp` (128x128) — Dense green grass with soil; ground cover for natural zones.
+- `Quake Palette/dlv_keys1.bmp` (64x64) — Stone tile with glowing blue symbol; UI or interactive elements.
+- `Quake Palette/dlv_keys2.bmp` (64x64) — Stone tile with glowing yellow symbol; UI or interactive elements.
+- `Quake Palette/dlv_keys3.bmp` (64x64) — Stone tile with glowing blue and yellow symbols; UI or interactive elements.
+- `Quake Palette/dlv_lantern1.bmp` (128x64) — Stained glass window with orange pattern; decorative interior elements.
+- `Quake Palette/dlv_lantern2.bmp` (128x64) — Stained glass window with blue pattern; decorative interior elements.
+- `Quake Palette/dlv_lantern3.bmp` (128x64) — Red and black stained glass window; decorative UI or environmental elements.
+- `Quake Palette/dlv_lantern4.bmp` (128x64) — Black stained glass window; decorative UI or environmental elements.
+- `Quake Palette/dlv_litmetal1a.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litmetal1b.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litmetal1c.bmp` (128x64) — Control panel with buttons and lights; interactive UI or machinery.
+- `Quake Palette/dlv_litmetal2a.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litmetal2b.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litmetal2c.bmp` (128x64) — Control panel with buttons and lights; interactive UI or machinery.
+- `Quake Palette/dlv_litstone1a.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litstone1b.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litstone1c.bmp` (128x64) — Control panel with buttons and lights; interactive UI or machinery.
+- `Quake Palette/dlv_litstone2a.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litstone2b.bmp` (128x128) — Metallic wall with red and blue lights; sci-fi or industrial environments.
+- `Quake Palette/dlv_litstone2c.bmp` (128x64) — Control panel with buttons and lights; interactive UI or machinery.
+- `Quake Palette/dlv_metalgen1.bmp` (128x128) — Rusted metal floor texture; dungeon or industrial ground surfaces.
+- `Quake Palette/dlv_metalgen2.bmp` (128x128) — Weathered metal floor texture; dungeon or industrial ground surfaces.
+- `Quake Palette/dlv_metalpan1a.bmp` (128x128) — Wooden floor with geometric pattern; indoor or rustic environments.
+- `Quake Palette/dlv_metalpan1b.bmp` (128x128) — Stone floor with geometric pattern; indoor or dungeon environments.
+- `Quake Palette/dlv_metalpan1c.bmp` (128x128) — Stone floor with geometric pattern; indoor or dungeon environments.
+- `Quake Palette/dlv_metalpan2a.bmp` (128x128) — Stone floor with geometric pattern; indoor or dungeon environments.
+- `Quake Palette/dlv_metalpan2b.bmp` (128x128) — Stone floor with geometric pattern; indoor or dungeon environments.
+- `Quake Palette/dlv_metalpan2c.bmp` (128x128) — Stone floor with geometric pattern; indoor or dungeon environments.
+- `Quake Palette/dlv_metalpan3a.bmp` (128x128) — Metallic floor panels with bolts; industrial or mechanical environments.
+- `Quake Palette/dlv_metalpan3b.bmp` (128x128) — Metallic floor panels with bolts; industrial or mechanical environments.
+- `Quake Palette/dlv_metalpan3c.bmp` (128x128) — Metal grate panels with rusted edges; dungeon floors or walls.
+- `Quake Palette/dlv_metalpan4a.bmp` (128x128) — Metal grate panels with orange accents; industrial or sci-fi environments.
+- `Quake Palette/dlv_metalpan4b.bmp` (128x128) — Metal grate panels with darker grates; dungeon or mechanical interiors.
+- `Quake Palette/dlv_metalpan4c.bmp` (128x128) — Metal grate panels with orange accents; industrial or sci-fi environments.
+- `Quake Palette/dlv_metalpip1a.bmp` (128x128) — Rusted metal wall texture; dungeon or abandoned structures.
+- `Quake Palette/dlv_metalpip1b.bmp` (128x128) — Weathered metal wall texture; outdoor or industrial settings.
+- `Quake Palette/dlv_metalpip2a.bmp` (128x128) — Rusted metal wall texture; dungeon or industrial interiors.
+- `Quake Palette/dlv_metalpip2b.bmp` (128x128) — Weathered metal wall texture; industrial or dungeon walls.
+- `Quake Palette/dlv_metalpip3a.bmp` (128x128) — Rusted metal wall texture with vertical seams; industrial or dungeon walls.
+- `Quake Palette/dlv_metalpip3b.bmp` (128x128) — Weathered metal wall texture with vertical seams; industrial or dungeon walls.
+- `Quake Palette/dlv_metalpip4a.bmp` (128x128) — Weathered metal wall texture with rivets; industrial or dungeon walls.
+- `Quake Palette/dlv_metalpip4b.bmp` (128x128) — Weathered metal wall texture with rivets; industrial or dungeon walls.
+- `Quake Palette/dlv_metalstr1a.bmp` (128x128) — Wooden planks with metal brackets; floor or wall panels.
+- `Quake Palette/dlv_metalstr1b.bmp` (128x128) — Stone tiles with metal brackets; dungeon or castle floors.
+- `Quake Palette/dlv_metalstr1c.bmp` (128x128) — Wooden planks with metal brackets; floor or wall panels.
+- `Quake Palette/dlv_metalstr1d.bmp` (128x128) — Wooden planks with metal brackets; floor or wall panels.
+- `Quake Palette/dlv_metalstr1e.bmp` (128x128) — Stone tiles with metal brackets; dungeon or castle floors.
+- `Quake Palette/dlv_metalstr2a.bmp` (128x128) — Stone tiles with metal brackets; dungeon or castle floors.
+- `Quake Palette/dlv_metalstr2b.bmp` (128x128) — Stone tiles with metal brackets; dungeon or castle floors.
+- `Quake Palette/dlv_metalstr2c.bmp` (128x128) — Stone tiles with metal brackets; dungeon or castle floors.
+- `Quake Palette/dlv_metalstr2d.bmp` (128x128) — Wooden planks with metal brackets; floor or wall panels.
+- `Quake Palette/dlv_metalstr2e.bmp` (128x128) — Wooden planks with metal brackets; floor or wall panels.
+- `Quake Palette/dlv_metaltrm1a.bmp` (128x128) — Rusted metal border with geometric pattern; decorative wall or floor trim.
+- `Quake Palette/dlv_metaltrm1b.bmp` (128x128) — Stone border with geometric pattern; decorative wall or floor trim.
+- `Quake Palette/dlv_metaltrm1c.bmp` (128x128) — Dark stone wall with horizontal grooves; dungeon or castle interior walls.
+- `Quake Palette/dlv_metaltrm2a.bmp` (128x128) — Stone wall with geometric patterns; decorative or structural wall sections.
+- `Quake Palette/dlv_metaltrm2b.bmp` (128x128) — Stone wall with repeating X patterns; wall texture for corridors or rooms.
+- `Quake Palette/dlv_metaltrm2c.bmp` (128x128) — Stone wall with X and groove patterns; wall texture for architectural details.
+- `Quake Palette/dlv_metaltrm3a.bmp` (128x128) — Stone wall with horizontal grooves; wall texture for dungeon or fortress walls.
+- `Quake Palette/dlv_metaltrm3b.bmp` (128x128) — Stone wall with geometric patterns; wall texture for game environments.
+- `Quake Palette/dlv_metaltrm3c.bmp` (128x128) — Stone wall with horizontal grooves; wall texture for dungeon or castle walls.
+- `Quake Palette/dlv_metaltrm4a.bmp` (128x128) — Stone wall with horizontal grooves; wall texture for game interiors.
+- `Quake Palette/dlv_metaltrm4b.bmp` (128x128) — Stone wall with horizontal grooves; wall texture for game environments.
+- `Quake Palette/dlv_metaltrm4c.bmp` (128x128) — Stone wall with vertical grooves; wall texture for game interiors.
+- `Quake Palette/dlv_metaltrm5.bmp` (128x64) — Stone wall with wavy grooves; wall texture for decorative or structural use.
+- `Quake Palette/dlv_metaltrm6.bmp` (128x64) — Stone wall with horizontal grooves; wall texture for game environments.
+- `Quake Palette/dlv_slateflr1a.bmp` (128x128) — Stone floor with square tiles; floor texture for game levels.
+- `Quake Palette/dlv_slateflr1b.bmp` (128x128) — Stone floor with ornate border; floor texture for decorative areas.
+- `Quake Palette/dlv_slateflr1c.bmp` (128x128) — Stone floor with corner pieces; floor texture for room corners.
+- `Quake Palette/dlv_slateflr1d.bmp` (128x128) — Stone floor with vertical grooves; floor texture for game interiors.
+- `Quake Palette/dlv_slateflr1e.bmp` (128x128) — Stone floor with ornate border; floor texture for decorative areas.
+- `Quake Palette/dlv_slateflr2a.bmp` (128x128) — Stone floor with square tiles; floor texture for game levels.
+- `Quake Palette/dlv_slateflr2b.bmp` (128x128) — Stone floor with ornate border; floor texture for decorative areas.
+- `Quake Palette/dlv_slateflr2c.bmp` (128x128) — Stone floor with corner pieces; floor texture for room corners.
+- `Quake Palette/dlv_slateflr2d.bmp` (128x128) — Stone floor with vertical grooves; floor texture for game interiors.
+- `Quake Palette/dlv_slateflr2e.bmp` (128x128) — Stone floor with ornate border; floor texture for decorative areas.
+- `Quake Palette/dlv_slateflr3a.bmp` (128x128) — Stone floor with mixed tiles; floor texture for game levels.
+- `Quake Palette/dlv_slateflr3b.bmp` (128x128) — Stone floor with ornate border; floor texture for decorative areas.
+- `Quake Palette/dlv_slateflr3c.bmp` (128x128) — Mossy stone floor with decorative golden patterns; dungeon or fantasy game floors.
+- `Quake Palette/dlv_slateflr3d.bmp` (128x128) — Stone floor with golden ornate borders; decorative pathways or entrances.
+- `Quake Palette/dlv_slateflr3e.bmp` (128x128) — Stone floor with golden rope-like patterns; thematic corridors or rooms.
+- `Quake Palette/dlv_slateflr4a.bmp` (128x128) — Plain stone floor tiles; generic dungeon or building floors.
+- `Quake Palette/dlv_slateflr4b.bmp` (128x128) — Stone floor with subtle texture; versatile flooring for indoor environments.
+- `Quake Palette/dlv_slateflr4c.bmp` (128x128) — Stone floor with a single brown tile; customizable floor sections.
+- `Quake Palette/dlv_slateflr5a.bmp` (128x128) — Uniform brown stone tiles; simple flooring for game levels.
+- `Quake Palette/dlv_slateflr5b.bmp` (128x128) — Brown stone tiles with grid pattern; modular floor design.
+- `Quake Palette/dlv_slateflr5c.bmp` (128x128) — Stone floor with central green tile; focal point or interactive area.
+- `Quake Palette/dlv_slateflr6a.bmp` (128x128) — Mixed brown and green stone tiles; varied terrain or dungeon sections.
+- `Quake Palette/dlv_slateflr6b.bmp` (128x128) — Brown and green stone tiles in staggered pattern; dynamic floor layouts.
+- `Quake Palette/dlv_slateflr6c.bmp` (128x128) — Mixed stone tiles with varied shapes; complex floor designs.
+- `Quake Palette/dlv_slategen1.bmp` (128x128) — Smooth brown stone texture; walls or ground surfaces.
+- `Quake Palette/dlv_slategen2.bmp` (128x128) — Mossy green stone texture; natural or ancient environments.
+- `Quake Palette/dlv_stonebrk1a.bmp` (128x128) — Grey stone brick wall; dungeon or fortress walls.
+- `Quake Palette/dlv_stonebrk1b.bmp` (128x128) — Grey stone brick wall with cracks; aged or damaged walls.
+- `Quake Palette/dlv_stonebrk1c.bmp` (128x128) — Grey stone brick wall with detailed texture; realistic wall surfaces.
+- `Quake Palette/dlv_stonebrk1d.bmp` (128x128) — Cracked grey stone wall; damaged or ancient structures.
+- `Quake Palette/dlv_stonebrk2a.bmp` (128x128) — Brown stone brick wall; rustic or medieval walls.
+- `Quake Palette/dlv_stonebrk2b.bmp` (128x128) — Dark stone brick wall with moss; natural or fantasy walls.
+- `Quake Palette/dlv_stonebrk2c.bmp` (128x128) — Weathered stone brick wall; aged or outdoor walls.
+- `Quake Palette/dlv_stonebrk2d.bmp` (128x128) — Dark stone brick wall with texture; detailed wall surfaces.
+- `Quake Palette/dlv_stonebrk3a.bmp` (128x128) — Dark stone brick wall with cracks; damaged or ancient walls.
+- `Quake Palette/dlv_stonebrk3b.bmp` (128x128) — Dark stone brick wall with varied texture; complex wall designs.
+- `Quake Palette/dlv_stonebrk4a.bmp` (128x128) — Dark gray brick wall texture; dungeon or castle interiors.
+- `Quake Palette/dlv_stonebrk4b.bmp` (128x128) — Mossy gray brick wall; damp, ancient environments.
+- `Quake Palette/dlv_stonebrk4c.bmp` (128x128) — Weathered gray brick wall; outdoor or ruin settings.
+- `Quake Palette/dlv_stonebrk4d.bmp` (128x128) — Cracked gray brick wall; damaged structures.
+- `Quake Palette/dlv_stonebrk4e.bmp` (128x128) — Rough gray brick wall; industrial or fortress walls.
+- `Quake Palette/dlv_stonebrk4f.bmp` (128x128) — Dark gray brick wall with moss; overgrown areas.
+- `Quake Palette/dlv_stonebrk5a.bmp` (128x128) — Brownish-gray brick wall; aged or rustic interiors.
+- `Quake Palette/dlv_stonebrk5b.bmp` (128x128) — Weathered brown brick wall; old buildings or ruins.
+- `Quake Palette/dlv_stonebrk5c.bmp` (128x128) — Brownish-gray brick wall with moss; damp interiors.
+- `Quake Palette/dlv_stonebrk5d.bmp` (128x128) — Cracked brown brick wall; damaged structures.
+- `Quake Palette/dlv_stonebrk5e.bmp` (128x128) — Rough brown brick wall; industrial or fortress walls.
+- `Quake Palette/dlv_stonebrk5f.bmp` (128x128) — Dark brown brick wall with moss; overgrown areas.
+- `Quake Palette/dlv_stonebrk6a.bmp` (128x128) — Dark gray stone wall texture; dungeon or castle interiors.
+- `Quake Palette/dlv_stonebrk6b.bmp` (128x128) — Mossy gray stone wall; damp, ancient environments.
+- `Quake Palette/dlv_stoneflr1a.bmp` (128x128) — Weathered gray stone wall; outdoor or ruin settings.
+- `Quake Palette/dlv_stoneflr1b.bmp` (128x128) — Cracked gray stone wall; damaged structures.
+- `Quake Palette/dlv_stoneflr1c.bmp` (128x128) — Rough gray stone wall; industrial or fortress walls.
+- `Quake Palette/dlv_stoneflr2a.bmp` (128x128) — Dark gray stone wall with moss; overgrown areas.
+- `Quake Palette/dlv_stoneflr2b.bmp` (128x128) — Dark brown stone wall texture; dungeon or castle interiors.
+- `Quake Palette/dlv_stoneflr2c.bmp` (128x128) — Mossy brown stone wall; damp, ancient environments.
+- `Quake Palette/dlv_stoneflr3a.bmp` (128x128) — Weathered brown stone wall; outdoor or ruin settings.
+- `Quake Palette/dlv_stoneflr3b.bmp` (128x128) — Cracked brown stone wall; damaged structures.
+- `Quake Palette/dlv_stoneflr3c.bmp` (128x128) — Rough brown stone wall; industrial or fortress walls.
+- `Quake Palette/dlv_stoneflr4a.bmp` (128x128) — Dark brown stone wall with moss; overgrown areas.
+- `Quake Palette/dlv_stoneflr4b.bmp` (128x128) — Stone floor with geometric patterns; dungeon or castle interiors.
+- `Quake Palette/dlv_stoneflr4c.bmp` (128x128) — Stone floor with orange accent patterns; decorative or highlighted areas.
+- `Quake Palette/dlv_stoneflr5a.bmp` (128x128) — Plain stone tile floor; basic flooring for game environments.
+- `Quake Palette/dlv_stoneflr5b.bmp` (128x128) — Stone floor with diamond patterns; decorative or thematic flooring.
+- `Quake Palette/dlv_stoneflr5c.bmp` (128x128) — Stone floor with orange diamond accents; highlighted or special zones.
+- `Quake Palette/dlv_stoneflr6a.bmp` (128x128) — Plain stone tile floor; basic flooring for game environments.
+- `Quake Palette/dlv_stoneflr6b.bmp` (128x128) — Stone floor with geometric patterns; dungeon or castle interiors.
+- `Quake Palette/dlv_stoneflr6c.bmp` (128x128) — Stone floor with orange diamond accents; highlighted or special zones.
+- `Quake Palette/dlv_stonegen1.bmp` (128x128) — Cracked stone texture; damaged or aged surfaces.
+- `Quake Palette/dlv_stonegen2.bmp` (128x128) — Dark stone texture; shadowed or dimly lit areas.
+- `Quake Palette/dlv_stonegrb1a.bmp` (128x128) — Stone floor with diamond patterns; decorative or thematic flooring.
+- `Quake Palette/dlv_stonegrb1b.bmp` (128x128) — Hexagonal stone tile floor; unique or stylized game environments.
+- `Quake Palette/dlv_stonegrb2a.bmp` (128x128) — Stone floor with diamond patterns; decorative or thematic flooring.
+- `Quake Palette/dlv_stonegrb2b.bmp` (128x128) — Hexagonal stone tile floor; unique or stylized game environments.
+- `Quake Palette/dlv_stonestep1a.bmp` (128x128) — Stone floor with horizontal grooves; textured or industrial surfaces.
+- `Quake Palette/dlv_stonestep1b.bmp` (128x128) — Stone floor with horizontal grooves; textured or industrial surfaces.
+- `Quake Palette/dlv_stonestep2a.bmp` (128x128) — Stone floor with horizontal grooves; textured or industrial surfaces.
+- `Quake Palette/dlv_stonestep2b.bmp` (128x128) — Stone floor with horizontal grooves; textured or industrial surfaces.
+- `Quake Palette/dlv_stonetrm1a.bmp` (128x128) — Cracked stone texture; damaged or aged surfaces.
+- `Quake Palette/dlv_stonetrm1b.bmp` (128x128) — Stone floor with orange geometric patterns; decorative or highlighted areas.
+- `Quake Palette/dlv_stonetrm1c.bmp` (128x128) — Stone floor with wavy patterns; decorative or thematic flooring.
+- `Quake Palette/dlv_stonetrm2a.bmp` (128x128) — Dark stone texture; shadowed or dimly lit areas.
+- `Quake Palette/dlv_stonetrm2b.bmp` (128x128) — Stone floor with orange geometric patterns; decorative or highlighted areas.
+- `Quake Palette/dlv_stonetrm2c.bmp` (128x128) — Stone floor with wavy patterns; decorative or thematic flooring.
+- `Quake Palette/dlv_stonetrm3a.bmp` (128x128) — Dark stone wall with horizontal grooves; dungeon or castle interiors.
+- `Quake Palette/dlv_stonetrm3b.bmp` (128x128) — Stone wall with golden diamond inlays; decorative or high-value areas.
+- `Quake Palette/dlv_stonetrm4a.bmp` (128x128) — Rough stone wall with horizontal grooves; dungeon or castle interiors.
+- `Quake Palette/dlv_stonetrm4b.bmp` (128x128) — Stone wall with golden diamond inlays; decorative or high-value areas.
+- `Quake Palette/dlv_stonetrm5.bmp` (128x64) — Stone wall with wavy golden trim; decorative or high-value areas.
+- `Quake Palette/dlv_stonetrm6.bmp` (128x64) — Stone wall with wavy golden trim; decorative or high-value areas.
+- `Quake Palette/dlv_stonewaf1a.bmp` (128x128) — Stone floor with square tiles; dungeon or castle interiors.
+- `Quake Palette/dlv_stonewaf1b.bmp` (128x128) — Stone floor with square tiles; dungeon or castle interiors.
+- `Quake Palette/dlv_stonewaf2a.bmp` (128x128) — Stone floor with square tiles; dungeon or castle interiors.
+- `Quake Palette/dlv_stonewaf2b.bmp` (128x128) — Stone floor with square tiles; dungeon or castle interiors.
+- `Quake Palette/dlv_window1a.bmp` (128x128) — Wooden lattice floor; warm, rustic interiors.
+- `Quake Palette/dlv_window1b.bmp` (128x128) — Greenish lattice floor; fantasy or magical interiors.
+- `Quake Palette/dlv_window1c.bmp` (128x128) — Dark stone floor with diamond patterns; dungeon or castle interiors.
+- `Quake Palette/dlv_window2a.bmp` (128x128) — Wooden lattice floor; warm, rustic interiors.
+- `Quake Palette/dlv_window2b.bmp` (128x128) — Greenish lattice floor; fantasy or magical interiors.
+- `Quake Palette/dlv_window2c.bmp` (128x128) — Dark stone floor with diamond patterns; dungeon or castle interiors.
+- `Quake Palette/dlv_window3a.bmp` (128x128) — Wooden lattice floor with decorative panels; warm, rustic interiors.
+- `Quake Palette/dlv_window3b.bmp` (128x128) — Greenish lattice floor with decorative panels; fantasy or magical interiors.
+- `Quake Palette/dlv_window3c.bmp` (128x128) — Dark stone floor with decorative panels; dungeon or castle interiors.
+- `Quake Palette/dlv_window4a.bmp` (128x128) — Wooden lattice floor with decorative panels; warm, rustic interiors.
+- `Quake Palette/dlv_window4b.bmp` (128x128) — Greenish lattice floor with decorative panels; fantasy or magical interiors.
+- `Quake Palette/dlv_window4c.bmp` (128x128) — Dark stone floor with decorative panels; dungeon or castle interiors.
+- `Quake Palette/dlv_wood1a.bmp` (128x128) — Wooden plank floor; warm, rustic interiors.
+- `Quake Palette/dlv_wood1b.bmp` (128x128) — Wooden plank floor; warm, rustic interiors.
+- `Quake Palette/dlv_wood1c.bmp` (128x128) — Dark wooden plank wall; dungeon or rustic interior walls.
+- `Quake Palette/dlv_wood2a.bmp` (128x128) — Wooden plank wall with subtle wear; interior walls or barricades.
+- `Quake Palette/dlv_wood2b.bmp` (128x128) — Wooden plank wall with varied grain; interior walls or floors.
+- `Quake Palette/dlv_wood2c.bmp` (128x128) — Wooden plank wall with weathered texture; dungeon or rustic walls.
+- `Quake Palette/dlv_wood3a.bmp` (128x128) — Dark wooden plank wall; dungeon or rustic interior walls.
+- `Quake Palette/dlv_wood3b.bmp` (128x128) — Wooden plank wall with horizontal grain; interior walls or floors.
+- `Quake Palette/dlv_wood3c.bmp` (128x128) — Dark wooden plank wall; dungeon or rustic interior walls.
+- `Quake Palette/dlv_wood4a.bmp` (128x128) — Wooden plank wall with subtle wear; interior walls or barricades.
+- `Quake Palette/dlv_wood4b.bmp` (128x128) — Wooden plank wall with varied grain; interior walls or floors.
+- `Quake Palette/dlv_wood4c.bmp` (128x128) — Wooden plank wall with weathered texture; dungeon or rustic walls.
+- `Quake Palette/dlv_wood5a.bmp` (128x128) — Dark wooden plank wall; dungeon or rustic interior walls.
+- `Quake Palette/dlv_wood5b.bmp` (128x128) — Wooden plank wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood5c.bmp` (128x128) — Stone brick wall with wooden frame; dungeon or castle walls.
+- `Quake Palette/dlv_wood5d.bmp` (128x128) — Stone brick wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood5e.bmp` (128x128) — Stone brick wall with varied texture; dungeon or castle walls.
+- `Quake Palette/dlv_wood5f.bmp` (128x128) — Stone brick wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood5g.bmp` (128x128) — Stone brick wall with varied texture; dungeon or castle walls.
+- `Quake Palette/dlv_wood5h.bmp` (128x128) — Stone brick wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood6a.bmp` (128x128) — Dark wooden plank wall; dungeon or rustic interior walls.
+- `Quake Palette/dlv_wood6b.bmp` (128x128) — Wooden plank wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood6c.bmp` (128x128) — Stone brick wall with varied texture; dungeon or castle walls.
+- `Quake Palette/dlv_wood6d.bmp` (128x128) — Stone brick wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood6e.bmp` (128x128) — Stone brick wall with varied texture; dungeon or castle walls.
+- `Quake Palette/dlv_wood6f.bmp` (128x128) — Wooden plank wall with X-bracing; door or gate frames.
+- `Quake Palette/dlv_wood6g.bmp` (128x128) — Stone wall with wooden cross brace; dungeon or castle interiors.
+- `Quake Palette/dlv_wood6h.bmp` (128x128) — Stone wall with wooden cross brace; dungeon or castle interiors.
+- `Quake Palette/dlv_wood7a.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood7b.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood7c.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood7d.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood8a.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood8b.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood8c.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_wood8d.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_woodgen1.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_woodgen2.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_woodstp1a.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_woodstp1b.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_woodstp2a.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/dlv_woodstp2b.bmp` (128x128) — Wooden plank wall with metal bands; rustic or medieval structures.
+- `Quake Palette/{dlv_metalgrt1.bmp` (128x128) — Red tiled floor with metal grout; indoor flooring for castles or temples.
+- `Quake Palette/{dlv_metalgrt2.bmp` (128x128) — Red tiled floor with metal grout; indoor flooring for castles or temples.
+- `Quake Palette/{dlv_metalgrt3.bmp` (128x128) — Red hexagonal tile floor with metal grout; indoor flooring for castles or temples.
+- `Quake Palette/{dlv_metalgrt4.bmp` (128x128) — Red hexagonal tile floor with metal grout; indoor flooring for castles or temples.
+- `Quake Palette/{dlv_tapestry1a.bmp` (128x128) — Green fabric with gold trim; banners or curtains for interiors.
+- `Quake Palette/{dlv_tapestry1b.bmp` (128x128) — Green fabric with gold trim; banners or curtains for interiors.
+- `Quake Palette/{dlv_tapestry1c.bmp` (64x128) — Green fabric with gold trim; banners or curtains for interiors.
+- `Quake Palette/{dlv_tapestry1d.bmp` (64x128) — Green fabric with gold trim; banners or curtains for interiors.
+- `Quake Palette/{dlv_tapestry2a.bmp` (128x128) — Blue fabric with gold geometric pattern; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry2b.bmp` (128x128) — Blue fabric with gold X-pattern; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry2c.bmp` (64x128) — Blue fabric with gold vertical lines; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry2d.bmp` (64x128) — Blue fabric with gold cross pattern; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry3a.bmp` (128x128) — Brown fabric with gold geometric pattern; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry3b.bmp` (128x128) — Brown fabric with gold X-pattern; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry3c.bmp` (64x128) — Brown fabric with gold vertical lines; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry3d.bmp` (64x128) — Brown fabric with gold cross pattern; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry4a.bmp` (128x128) — Worn green fabric with gold pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry4b.bmp` (128x128) — Worn green fabric with gold X-pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry4c.bmp` (64x128) — Worn green fabric with gold vertical lines; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry4d.bmp` (64x128) — Worn green fabric with gold cross pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry5a.bmp` (128x128) — Worn blue fabric with gold geometric pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry5b.bmp` (128x128) — Worn blue fabric with gold X-pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry5c.bmp` (64x128) — Worn blue fabric with gold vertical lines; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry5d.bmp` (64x128) — Worn blue fabric with gold cross pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry6a.bmp` (128x128) — Worn brown fabric with gold geometric pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry6b.bmp` (128x128) — Worn brown fabric with gold X-pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry6c.bmp` (64x128) — Worn brown fabric with gold vertical lines; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry6d.bmp` (64x128) — Worn brown fabric with gold cross pattern; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry7a.bmp` (128x64) — Green fabric with gold scalloped border; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry7b.bmp` (128x64) — Blue fabric with gold scalloped border; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry7c.bmp` (128x64) — Brown fabric with gold scalloped border; decorative banners or curtains.
+- `Quake Palette/{dlv_tapestry8a.bmp` (128x64) — Worn green fabric with gold scalloped border; damaged banners or curtains.
+- `Quake Palette/{dlv_tapestry8b.bmp` (128x64) — Decorative border with ornate patterns; UI elements or architectural accents.
+- `Quake Palette/{dlv_tapestry8c.bmp` (128x64) — Decorative border with ornate patterns; UI elements or architectural accents.
+- `True Colour/dlv_barreltop1a.png` (64x64) — Circular wooden door frame; dungeon or building entrances.
+- `True Colour/dlv_barreltop1b.png` (64x64) — Circular wooden door frame; dungeon or building entrances.
+- `True Colour/dlv_barreltop1c.png` (64x64) — Circular wooden door frame; dungeon or building entrances.
+- `True Colour/dlv_barreltop2a.png` (64x64) — Circular stone door frame; dungeon or building entrances.
+- `True Colour/dlv_barreltop2b.png` (64x64) — Circular wooden door frame; dungeon or building entrances.
+- `True Colour/dlv_barreltop2c.png` (64x64) — Circular wooden door frame; dungeon or building entrances.
+- `True Colour/dlv_door1a.png` (128x128) — Double wooden doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door1b.png` (128x128) — Double wooden doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door1c.png` (128x128) — Double wooden doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door1d.png` (128x128) — Double wooden doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door2a.png` (128x128) — Double stone doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door2b.png` (128x128) — Double stone doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door2c.png` (128x128) — Double wooden doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door2d.png` (128x128) — Double wooden doors with metal hinges; main entrances or gates.
+- `True Colour/dlv_door3a.png` (64x128) — Single wooden door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door3b.png` (64x128) — Single wooden door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door3c.png` (64x128) — Single wooden door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door3d.png` (64x128) — Single wooden door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door4a.png` (64x128) — Single stone door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door4b.png` (64x128) — Single stone door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door4c.png` (64x128) — Single stone door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_door4d.png` (64x128) — Single stone door with metal hinge; side entrances or small rooms.
+- `True Colour/dlv_fabric1a.png` (128x128) — Dark green crumpled fabric texture; UI backgrounds or environmental details.
+- `True Colour/dlv_fabric1b.png` (128x128) — Vertical green fabric strip; borders or panel edges.
+- `True Colour/dlv_fabric1c.png` (128x128) — Green fabric with rounded corners; UI elements or decorative frames.
+- `True Colour/dlv_fabric1d.png` (64x128) — Vertical green fabric with orange border; panel or divider.
+- `True Colour/dlv_fabric1e.png` (64x128) — Green fabric with rounded top/bottom; UI or interface component.
+- `True Colour/dlv_fabric2a.png` (128x128) — Blue crumpled fabric texture; skybox or background element.
+- `True Colour/dlv_fabric2b.png` (128x128) — Blue fabric with orange border; UI or decorative panel.
+- `True Colour/dlv_fabric2c.png` (128x128) — Blue fabric with rounded corners; UI or frame element.
+- `True Colour/dlv_fabric2d.png` (64x128) — Vertical blue fabric strip; border or divider.
+- `True Colour/dlv_fabric2e.png` (64x128) — Blue fabric with rounded corners; UI or frame component.
+- `True Colour/dlv_fabric3a.png` (128x128) — Brown crumpled fabric texture; floor or wall material.
+- `True Colour/dlv_fabric3b.png` (128x128) — Brown fabric with orange border; UI or panel element.
+- `True Colour/dlv_fabric3c.png` (128x128) — Brown fabric with rounded corners; UI or frame component.
+- `True Colour/dlv_fabric3d.png` (64x128) — Vertical brown fabric strip; border or divider.
+- `True Colour/dlv_fabric3e.png` (64x128) — Brown fabric with rounded corners; UI or frame element.
+- `True Colour/dlv_fabric4a.png` (128x128) — Mottled green-brown fabric texture; terrain or environmental detail.
+- `True Colour/dlv_fabric4b.png` (128x128) — Mottled green-brown fabric texture; terrain or environmental detail.
+- `True Colour/dlv_fabric4c.png` (128x128) — Mottled green-brown fabric with rounded corners; UI or frame element.
+- `True Colour/dlv_fabric4d.png` (64x128) — Mottled green-brown fabric strip; border or divider.
+- `True Colour/dlv_fabric4e.png` (64x128) — Mottled green-brown fabric with rounded corners; UI or frame element.
+- `True Colour/dlv_fabric5a.png` (128x128) — Mottled blue-brown fabric texture; terrain or environmental detail.
+- `True Colour/dlv_fabric5b.png` (128x128) — Mottled blue-brown fabric texture; terrain or environmental detail.
+- `True Colour/dlv_fabric5c.png` (128x128) — Mottled blue-brown fabric with rounded corners; UI or frame element.
+- `True Colour/dlv_fabric5d.png` (64x128) — Mottled blue-brown fabric strip; border or divider.
+- `True Colour/dlv_fabric5e.png` (64x128) — Stone wall with glowing blue runes; magical barriers or enchanted architecture.
+- `True Colour/dlv_fabric6a.png` (128x128) — Rustic wooden plank texture; floors or walls in rustic or fantasy settings.
+- `True Colour/dlv_fabric6b.png` (128x128) — Weathered stone texture; dungeon or castle walls.
+- `True Colour/dlv_fabric6c.png` (128x128) — Stone wall with glowing orange runes; magical or cursed structures.
+- `True Colour/dlv_fabric6d.png` (64x128) — Rough stone texture; dungeon or ruin surfaces.
+- `True Colour/dlv_fabric6e.png` (64x128) — Stone wall with glowing orange runes; magical or cursed structures.
+- `True Colour/dlv_ground1a.png` (128x128) — Dirt ground texture; outdoor or dungeon floors.
+- `True Colour/dlv_ground1b.png` (128x128) — Grass and dirt mix texture; natural terrain or pathways.
+- `True Colour/dlv_ground1c.png` (128x128) — Grass and dirt mix texture; natural terrain or pathways.
+- `True Colour/dlv_ground1d.png` (128x128) — Green grass texture; natural ground cover.
+- `True Colour/dlv_ground2a.png` (128x128) — Rough stone texture; dungeon or ruin surfaces.
+- `True Colour/dlv_ground2b.png` (128x128) — Dirt ground texture; outdoor or dungeon floors.
+- `True Colour/dlv_ground2c.png` (128x128) — Grass and dirt mix texture; natural terrain or pathways.
+- `True Colour/dlv_ground2d.png` (128x128) — Grass and dirt mix texture; natural terrain or pathways.
+- `True Colour/dlv_ground3a.png` (128x128) — Grass and dirt mix texture; natural terrain or pathways.
+- `True Colour/dlv_ground3b.png` (128x128) — Stone wall with glowing blue runes; magical barriers or enchanted architecture.
+- `True Colour/dlv_ground3c.png` (128x128) — Stone wall with glowing orange runes; magical or cursed structures.
+- `True Colour/dlv_ground4a.png` (128x128) — Green grass texture; natural ground cover.
+- `True Colour/dlv_ground4b.png` (128x128) — Green grass texture; natural ground cover.
+- `True Colour/dlv_ground4c.png` (128x128) — Grass and dirt mix texture; natural terrain or pathways.
+- `True Colour/dlv_keys1.png` (64x64) — Stone wall with glowing blue runes; magical barriers or enchanted architecture.
+- `True Colour/dlv_keys2.png` (64x64) — Stone wall with glowing orange runes; magical or cursed structures.
+- `True Colour/dlv_keys3.png` (64x64) — Stone wall with glowing blue runes; magical barriers or enchanted architecture.
+- `True Colour/dlv_lantern1.png` (128x64) — Stained glass window texture; decorative elements in fantasy buildings.
+- `True Colour/dlv_lantern2.png` (128x64) — Stained glass window with geometric patterns; decorative in fantasy or gothic game environments.
+- `True Colour/dlv_lantern3.png` (128x64) — Red stained glass window; adds vibrant color and thematic detail to interiors.
+- `True Colour/dlv_lantern4.png` (128x64) — Black stained glass window; creates contrast and mood in darker settings.
+- `True Colour/dlv_litmetal1a.png` (128x128) — Horizontal wooden plank wall; background or structural element in rustic builds.
+- `True Colour/dlv_litmetal1b.png` (128x128) — Wooden panel wall with red and blue lights; interactive UI or control panel backdrop.
+- `True Colour/dlv_litmetal1c.png` (128x64) — Control panel with buttons and indicators; UI interface for machinery or tech systems.
+- `True Colour/dlv_litmetal2a.png` (128x128) — Wooden plank wall with red and blue lights; variant of #3 with different lighting.
+- `True Colour/dlv_litmetal2b.png` (128x128) — Wooden plank wall with red and blue lights; variant of #3 with different lighting.
+- `True Colour/dlv_litmetal2c.png` (128x64) — Control panel with buttons and indicators; variant of #5 with different layout.
+- `True Colour/dlv_litstone1a.png` (128x128) — Wooden plank wall with red and blue lights; variant of #3 with different lighting.
+- `True Colour/dlv_litstone1b.png` (128x128) — Control panel with buttons and indicators; variant of #5 with different layout.
+- `True Colour/dlv_litstone1c.png` (128x64) — Control panel with buttons and indicators; variant of #5 with different layout.
+- `True Colour/dlv_litstone2a.png` (128x128) — Rough stone wall texture; dungeon or cave environment surfaces.
+- `True Colour/dlv_litstone2b.png` (128x128) — Rough stone wall texture; variant of #12 with different lighting or angle.
+- `True Colour/dlv_litstone2c.png` (128x64) — Control panel with buttons and indicators; variant of #5 with different layout.
+- `True Colour/dlv_metalgen1.png` (128x128) — Worn wooden floor texture; ground surface for rustic or medieval settings.
+- `True Colour/dlv_metalgen2.png` (128x128) — Worn stone floor texture; ground surface for dungeon or ancient ruins.
+- `True Colour/dlv_metalpan1a.png` (128x128) — Wooden floor with geometric patterns; decorative flooring for interiors.
+- `True Colour/dlv_metalpan1b.png` (128x128) — Stone floor with cross pattern; dungeon or castle floor tiles.
+- `True Colour/dlv_metalpan1c.png` (128x128) — Stone floor with cross pattern; variant of #18 with different lighting.
+- `True Colour/dlv_metalpan2a.png` (128x128) — Stone floor with cross pattern; variant of #18 with different lighting.
+- `True Colour/dlv_metalpan2b.png` (128x128) — Stone floor with cross pattern; variant of #18 with different lighting.
+- `True Colour/dlv_metalpan2c.png` (128x128) — Stone floor with cross pattern; variant of #18 with different lighting.
+- `True Colour/dlv_metalpan3a.png` (128x128) — Wooden floor with geometric patterns; variant of #17 with different layout.
+- `True Colour/dlv_metalpan3b.png` (128x128) — Metal grate panels with rusted edges; dungeon floors or walls.
+- `True Colour/dlv_metalpan3c.png` (128x128) — Metal grate panels with rusted edges; dungeon floors or walls.
+- `True Colour/dlv_metalpan4a.png` (128x128) — Metal grate panels with rusted edges; dungeon floors or walls.
+- `True Colour/dlv_metalpan4b.png` (128x128) — Metal grate panels with rusted edges; dungeon floors or walls.
+- `True Colour/dlv_metalpan4c.png` (128x128) — Metal grate panels with rusted edges; dungeon floors or walls.
+- `True Colour/dlv_metalpip1a.png` (128x128) — Rusted metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip1b.png` (128x128) — Rusted metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip2a.png` (128x128) — Weathered metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip2b.png` (128x128) — Weathered metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip3a.png` (128x128) — Rusted metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip3b.png` (128x128) — Rusted metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip4a.png` (128x128) — Weathered metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalpip4b.png` (128x128) — Weathered metal wall texture; dungeon walls or barriers.
+- `True Colour/dlv_metalstr1a.png` (128x128) — Wooden plank wall with metal brackets; dungeon walls or doors.
+- `True Colour/dlv_metalstr1b.png` (128x128) — Stone wall with metal grid; dungeon walls or floors.
+- `True Colour/dlv_metalstr1c.png` (128x128) — Stone wall with metal grid; dungeon walls or floors.
+- `True Colour/dlv_metalstr1d.png` (128x128) — Wooden plank wall with metal brackets; dungeon walls or doors.
+- `True Colour/dlv_metalstr1e.png` (128x128) — Wooden plank wall with metal brackets; dungeon walls or doors.
+- `True Colour/dlv_metalstr2a.png` (128x128) — Stone wall with metal grid; dungeon walls or floors.
+- `True Colour/dlv_metalstr2b.png` (128x128) — Stone wall with metal grid; dungeon walls or floors.
+- `True Colour/dlv_metalstr2c.png` (128x128) — Stone wall with metal grid; dungeon walls or floors.
+- `True Colour/dlv_metalstr2d.png` (128x128) — Wooden plank wall with metal brackets; dungeon walls or doors.
+- `True Colour/dlv_metalstr2e.png` (128x128) — Wooden plank wall with metal brackets; dungeon walls or doors.
+- `True Colour/dlv_metaltrm1a.png` (128x128) — Rusted metal panel with engraved pattern; decorative wall or door frame.
+- `True Colour/dlv_metaltrm1b.png` (128x128) — Stone wall with geometric patterns; dungeon or castle interiors.
+- `True Colour/dlv_metaltrm1c.png` (128x128) — Stone wall with X-patterns; architectural details or decorative walls.
+- `True Colour/dlv_metaltrm2a.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm2b.png` (128x128) — Stone wall with X-patterns; architectural details or decorative walls.
+- `True Colour/dlv_metaltrm2c.png` (128x128) — Stone wall with X-patterns; architectural details or decorative walls.
+- `True Colour/dlv_metaltrm3a.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm3b.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm3c.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm4a.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm4b.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm4c.png` (128x128) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm5.png` (128x64) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_metaltrm6.png` (128x64) — Stone wall with horizontal grooves; structural or background surfaces.
+- `True Colour/dlv_slateflr1a.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr1b.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr1c.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr1d.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr1e.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr2a.png` (128x128) — Stone floor with grid; dungeon or castle interiors.
+- `True Colour/dlv_slateflr2b.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr2c.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr2d.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr2e.png` (128x128) — Tile floor with grid and border; indoor flooring or dungeon tiles.
+- `True Colour/dlv_slateflr3a.png` (128x128) — Stone floor with grid; dungeon or castle interiors.
+- `True Colour/dlv_slateflr3b.png` (128x128) — Ornate golden border tile; decorative walls or pathways in fantasy settings.
+- `True Colour/dlv_slateflr3c.png` (128x128) — Mixed stone tile with golden accents; versatile flooring or wall sections.
+- `True Colour/dlv_slateflr3d.png` (128x128) — Vertical golden pattern tile; column or pillar designs in interiors.
+- `True Colour/dlv_slateflr3e.png` (128x128) — Horizontal golden pattern tile; ceiling or wall accents with decorative lines.
+- `True Colour/dlv_slateflr4a.png` (128x128) — Plain gray stone tile; basic flooring or wall surfaces for neutral areas.
+- `True Colour/dlv_slateflr4b.png` (128x128) — Dark stone tile with subtle texture; dungeon floors or shadowy corridors.
+- `True Colour/dlv_slateflr4c.png` (128x128) — Mixed brown and gray tile; varied flooring for different terrain types.
+- `True Colour/dlv_slateflr5a.png` (128x128) — Uniform brown tile; simple flooring for consistent areas.
+- `True Colour/dlv_slateflr5b.png` (128x128) — Uniform gray tile; plain flooring or wall surfaces for neutral zones.
+- `True Colour/dlv_slateflr5c.png` (128x128) — Gray tile with central dark square; focal point for rooms or special areas.
+- `True Colour/dlv_slateflr6a.png` (128x128) — Mixed brown and gray tile; varied flooring for different terrain types.
+- `True Colour/dlv_slateflr6b.png` (128x128) — Mixed brown and gray tile; varied flooring for different terrain types.
+- `True Colour/dlv_slateflr6c.png` (128x128) — Mixed brown and gray tile; varied flooring for different terrain types.
+- `True Colour/dlv_slategen1.png` (128x128) — Uniform brown tile; simple flooring for consistent areas.
+- `True Colour/dlv_slategen2.png` (128x128) — Uniform gray tile; plain flooring or wall surfaces for neutral zones.
+- `True Colour/dlv_stonebrk1a.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk1b.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk1c.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk1d.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk2a.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk2b.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk2c.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk2d.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk3a.png` (128x128) — Stone brick wall texture; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk3b.png` (128x128) — Dark stone wall with rough texture; dungeon or castle interiors.
+- `True Colour/dlv_stonebrk4a.png` (128x128) — Smooth grey brick wall; indoor environments.
+- `True Colour/dlv_stonebrk4b.png` (128x128) — Grey brick wall with subtle wear; game interiors.
+- `True Colour/dlv_stonebrk4c.png` (128x128) — Dark stone wall with vertical cracks; dungeon walls.
+- `True Colour/dlv_stonebrk4d.png` (128x128) — Weathered stone wall with moss; outdoor or ruin areas.
+- `True Colour/dlv_stonebrk4e.png` (128x128) — Rough stone wall with visible mortar; dungeon or fortress walls.
+- `True Colour/dlv_stonebrk4f.png` (128x128) — Dark stone wall with mossy patches; outdoor or ancient ruins.
+- `True Colour/dlv_stonebrk5a.png` (128x128) — Grey brick wall with worn texture; indoor walls.
+- `True Colour/dlv_stonebrk5b.png` (128x128) — Dark stone wall with rough surface; dungeon or cave walls.
+- `True Colour/dlv_stonebrk5c.png` (128x128) — Weathered stone wall with horizontal cracks; dungeon or ruin walls.
+- `True Colour/dlv_stonebrk5d.png` (128x128) — Rough stone wall with moss and cracks; outdoor or ruin areas.
+- `True Colour/dlv_stonebrk5e.png` (128x128) — Stone wall with decorative border; architectural elements.
+- `True Colour/dlv_stonebrk5f.png` (128x128) — Cracked stone floor; dungeon or ruin floors.
+- `True Colour/dlv_stonebrk6a.png` (128x128) — Stone floor with ornate border; indoor floors.
+- `True Colour/dlv_stonebrk6b.png` (128x128) — Stone floor with glowing decorative border; magical or special areas.
+- `True Colour/dlv_stoneflr1a.png` (128x128) — Cracked stone floor with subtle texture; dungeon floors.
+- `True Colour/dlv_stoneflr1b.png` (128x128) — Stone floor with ornate border; architectural floors.
+- `True Colour/dlv_stoneflr1c.png` (128x128) — Stone floor with glowing decorative border; magical or special areas.
+- `True Colour/dlv_stoneflr2a.png` (128x128) — Cracked stone floor with rough texture; dungeon or ruin floors.
+- `True Colour/dlv_stoneflr2b.png` (128x128) — Stone floor with ornate border; indoor floors.
+- `True Colour/dlv_stoneflr2c.png` (128x128) — Stone floor with glowing decorative border; magical or special areas.
+- `True Colour/dlv_stoneflr3a.png` (128x128) — Stone floor with subtle texture; dungeon or ruin floors.
+- `True Colour/dlv_stoneflr3b.png` (128x128) — Stone floor with decorative diamond patterns; indoor floors.
+- `True Colour/dlv_stoneflr3c.png` (128x128) — Stone floor with glowing decorative patterns; magical or special areas.
+- `True Colour/dlv_stoneflr4a.png` (128x128) — Plain stone floor tile; basic ground surface for dungeons or interiors.
+- `True Colour/dlv_stoneflr4b.png` (128x128) — Stone floor with engraved diamond patterns; decorative flooring in ancient or magical settings.
+- `True Colour/dlv_stoneflr4c.png` (128x128) — Stone floor with glowing orange geometric patterns; highlights or interactive zones.
+- `True Colour/dlv_stoneflr5a.png` (128x128) — Simple stone tile grid; foundational floor texture for modular level design.
+- `True Colour/dlv_stoneflr5b.png` (128x128) — Stone floor with diamond motifs; aesthetic flooring for fantasy or medieval environments.
+- `True Colour/dlv_stoneflr5c.png` (128x128) — Stone floor with glowing orange diamond accents; visual cues or special area markers.
+- `True Colour/dlv_stoneflr6a.png` (128x128) — Stone floor with grid lines; structured ground for precise placement in levels.
+- `True Colour/dlv_stoneflr6b.png` (128x128) — Stone floor with diamond and cross patterns; ornate flooring for significant areas.
+- `True Colour/dlv_stoneflr6c.png` (128x128) — Stone floor with glowing orange diamond accents; interactive or event-triggered zones.
+- `True Colour/dlv_stonegen1.png` (128x128) — Cracked stone texture; damaged or aged surfaces for environmental storytelling.
+- `True Colour/dlv_stonegen2.png` (128x128) — Dark stone texture; atmospheric background for dimly lit or ominous areas.
+- `True Colour/dlv_stonegrb1a.png` (128x128) — Stone floor with diamond grid; decorative or functional flooring with patterned design.
+- `True Colour/dlv_stonegrb1b.png` (128x128) — Hexagonal stone tile pattern; modular flooring for unique architectural designs.
+- `True Colour/dlv_stonegrb2a.png` (128x128) — Stone floor with diamond and cross patterns; ornate flooring for significant areas.
+- `True Colour/dlv_stonegrb2b.png` (128x128) — Hexagonal stone tile pattern; modular flooring for unique architectural designs.
+- `True Colour/dlv_stonestp1a.png` (128x128) — Stone wall with horizontal grooves; textured wall for corridors or barriers.
+- `True Colour/dlv_stonestp1b.png` (128x128) — Stone wall with horizontal grooves; textured wall for corridors or barriers.
+- `True Colour/dlv_stonestp2a.png` (128x128) — Stone wall with horizontal grooves; textured wall for corridors or barriers.
+- `True Colour/dlv_stonestp2b.png` (128x128) — Stone wall with horizontal grooves; textured wall for corridors or barriers.
+- `True Colour/dlv_stonetrm1a.png` (128x128) — Cracked stone texture; damaged or aged surfaces for environmental storytelling.
+- `True Colour/dlv_stonetrm1b.png` (128x128) — Stone floor with glowing orange geometric patterns; highlights or interactive zones.
+- `True Colour/dlv_stonetrm1c.png` (128x128) — Stone wall with zigzag grooves; decorative or functional wall texture.
+- `True Colour/dlv_stonetrm2a.png` (128x128) — Dark stone texture; atmospheric background for dimly lit or ominous areas.
+- `True Colour/dlv_stonetrm2b.png` (128x128) — Stone floor with glowing orange geometric patterns; highlights or interactive zones.
+- `True Colour/dlv_stonetrm2c.png` (128x128) — Dark stone wall with zigzag grooves; dungeon or fortress interiors.
+- `True Colour/dlv_stonetrm3a.png` (128x128) — Cracked stone wall texture; ancient ruins or damaged structures.
+- `True Colour/dlv_stonetrm3b.png` (128x128) — Stone wall with orange inlay pattern; decorative or magical architecture.
+- `True Colour/dlv_stonetrm4a.png` (128x128) — Dark stone wall with horizontal grooves; dungeon or castle walls.
+- `True Colour/dlv_stonetrm4b.png` (128x128) — Stone wall with orange inlay and recessed panels; ornate or ceremonial walls.
+- `True Colour/dlv_stonetrm5.png` (128x64) — Stone wall with orange inlay and wavy edge; decorative border or transition.
+- `True Colour/dlv_stonetrm6.png` (128x64) — Stone wall with orange inlay and wavy edge; decorative border or transition.
+- `True Colour/dlv_stonewaf1a.png` (128x128) — Stone floor with square tiles; dungeon or castle floors.
+- `True Colour/dlv_stonewaf1b.png` (128x128) — Stone floor with square tiles; dungeon or castle floors.
+- `True Colour/dlv_stonewaf2a.png` (128x128) — Dark stone floor with square tiles; dungeon or castle floors.
+- `True Colour/dlv_stonewaf2b.png` (128x128) — Stone floor with square tiles; dungeon or castle floors.
+- `True Colour/dlv_window1a.png` (128x128) — Tan woven pattern floor; indoor or decorative flooring.
+- `True Colour/dlv_window1b.png` (128x128) — Green woven pattern floor; indoor or decorative flooring.
+- `True Colour/dlv_window1c.png` (128x128) — Dark woven pattern floor; indoor or decorative flooring.
+- `True Colour/dlv_window2a.png` (128x128) — Tan woven pattern floor; indoor or decorative flooring.
+- `True Colour/dlv_window2b.png` (128x128) — Green woven pattern floor; indoor or decorative flooring.
+- `True Colour/dlv_window2c.png` (128x128) — Dark woven pattern floor; indoor or decorative flooring.
+- `True Colour/dlv_window3a.png` (128x128) — Mixed pattern floor with geometric shapes; indoor or decorative flooring.
+- `True Colour/dlv_window3b.png` (128x128) — Mixed pattern floor with geometric shapes; indoor or decorative flooring.
+- `True Colour/dlv_window3c.png` (128x128) — Mixed pattern floor with geometric shapes; indoor or decorative flooring.
+- `True Colour/dlv_window4a.png` (128x128) — Mixed pattern floor with geometric shapes; indoor or decorative flooring.
+- `True Colour/dlv_window4b.png` (128x128) — Mixed pattern floor with geometric shapes; indoor or decorative flooring.
+- `True Colour/dlv_window4c.png` (128x128) — Mixed pattern floor with geometric shapes; indoor or decorative flooring.
+- `True Colour/dlv_wood1a.png` (128x128) — Wooden plank floor; indoor or rustic flooring.
+- `True Colour/dlv_wood1b.png` (128x128) — Dark wooden plank wall; interior dungeon or rustic building walls.
+- `True Colour/dlv_wood1c.png` (128x128) — Wooden plank wall with vertical grain; similar to #0 but different texture variation.
+- `True Colour/dlv_wood2a.png` (128x128) — Dark wooden plank wall with subtle wear; dungeon or old structure walls.
+- `True Colour/dlv_wood2b.png` (128x128) — Wooden plank wall with horizontal grain; consistent with other wood textures.
+- `True Colour/dlv_wood2c.png` (128x128) — Wooden plank wall with varied grain and knots; adds visual interest to walls.
+- `True Colour/dlv_wood3a.png` (128x128) — Dark wooden plank wall with slight texture variation; seamless tiling for walls.
+- `True Colour/dlv_wood3b.png` (128x128) — Wooden plank wall with diagonal planks; unique wall texture for game environments.
+- `True Colour/dlv_wood3c.png` (128x128) — Wooden plank wall with horizontal planks; standard wood texture for interiors.
+- `True Colour/dlv_wood4a.png` (128x128) — Dark wooden plank wall with subtle wear; suitable for dungeon or rustic walls.
+- `True Colour/dlv_wood4b.png` (128x128) — Wooden plank wall with horizontal planks and slight variation; seamless tiling.
+- `True Colour/dlv_wood4c.png` (128x128) — Wooden plank wall with diagonal planks; adds variety to wooden wall textures.
+- `True Colour/dlv_wood5a.png` (128x128) — Dark wooden plank wall with vertical planks; consistent wood texture for walls.
+- `True Colour/dlv_wood5b.png` (128x128) — Wooden door with X-bracing; functional door asset for game environments.
+- `True Colour/dlv_wood5c.png` (128x128) — Stone brick wall; dungeon or castle wall texture for game backgrounds.
+- `True Colour/dlv_wood5d.png` (128x128) — Wooden door with X-bracing; similar to #12 but different angle or lighting.
+- `True Colour/dlv_wood5e.png` (128x128) — Stone brick wall with varied texture; adds realism to dungeon walls.
+- `True Colour/dlv_wood5f.png` (128x128) — Wooden door with X-bracing; different wood texture for door assets.
+- `True Colour/dlv_wood5g.png` (128x128) — Stone brick wall with varied texture; seamless tiling for walls.
+- `True Colour/dlv_wood5h.png` (128x128) — Stone brick wall with X-bracing; wall texture with structural detail.
+- `True Colour/dlv_wood6a.png` (128x128) — Dark wooden plank wall with vertical planks; seamless tiling for walls.
+- `True Colour/dlv_wood6b.png` (128x128) — Wooden door with X-bracing; different wood texture for door assets.
+- `True Colour/dlv_wood6c.png` (128x128) — Stone brick wall with varied texture; seamless tiling for walls.
+- `True Colour/dlv_wood6d.png` (128x128) — Wooden door with X-bracing; different wood texture for door assets.
+- `True Colour/dlv_wood6e.png` (128x128) — Stone brick wall with varied texture; seamless tiling for walls.
+- `True Colour/dlv_wood6f.png` (128x128) — Stone wall with wooden cross braces; dungeon or fortress interiors.
+- `True Colour/dlv_wood6g.png` (128x128) — Standard stone brick wall; common dungeon or castle walls.
+- `True Colour/dlv_wood6h.png` (128x128) — Stone wall with wooden cross braces; structural support in fortresses.
+- `True Colour/dlv_wood7a.png` (128x128) — Wooden plank wall with metal bands; rustic or industrial interiors.
+- `True Colour/dlv_wood7b.png` (128x128) — Wooden plank wall with metal bands; similar to #3 but different angle.
+- `True Colour/dlv_wood7c.png` (128x128) — Vertical wooden plank wall; simple background or fence texture.
+- `True Colour/dlv_wood7d.png` (128x128) — Wooden plank wall with horizontal metal bands; rustic barrier.
+- `True Colour/dlv_wood8a.png` (128x128) — Wooden plank wall with horizontal metal bands; similar to #6.
+- `True Colour/dlv_wood8b.png` (128x128) — Wooden plank wall with horizontal metal bands; similar to #6.
+- `True Colour/dlv_wood8c.png` (128x128) — Wooden plank wall with horizontal metal bands; similar to #6.
+- `True Colour/dlv_wood8d.png` (128x128) — Wooden plank wall with horizontal metal bands; similar to #6.
+- `True Colour/dlv_woodgen1.png` (128x128) — Wooden grid frame; window or door frame design.
+- `True Colour/dlv_woodgen2.png` (128x128) — Dark wooden plank wall; atmospheric dungeon or attic texture.
+- `True Colour/dlv_woodstp1a.png` (128x128) — Dark wooden plank wall; similar to #12 but different lighting.
+- `True Colour/dlv_woodstp1b.png` (128x128) — Dark wooden plank wall; similar to #12 and #13.
+- `True Colour/dlv_woodstp2a.png` (128x128) — Dark wooden plank wall; similar to #12, #13, and #14.
+- `True Colour/dlv_woodstp2b.png` (128x128) — Dark wooden plank wall; similar to #12, #13, and #14.
+- `True Colour/{dlv_metalgrt1.png` (128x128) — Wooden grid frame; similar to #11 but different design.
+- `True Colour/{dlv_metalgrt2.png` (128x128) — Metal grid frame; window or door frame design.
+- `True Colour/{dlv_metalgrt3.png` (128x128) — Wooden hexagonal lattice; decorative or structural element.
+- `True Colour/{dlv_metalgrt4.png` (128x128) — Metal hexagonal lattice; decorative or structural element.
+- `True Colour/{dlv_tapestry1a.png` (128x128) — Green fabric with gold trim; banner or flag texture.
+- `True Colour/{dlv_tapestry1b.png` (128x128) — Green fabric with gold trim; similar to #21 but different shape.
+- `True Colour/{dlv_tapestry1c.png` (64x128) — Green fabric with gold trim; similar to #21 and #22.
+- `True Colour/{dlv_tapestry1d.png` (64x128) — Green banner with gold geometric pattern; decorative flags or UI elements.
+- `True Colour/{dlv_tapestry2a.png` (128x128) — Blue banner with gold crisscross design; in-game banners or faction flags.
+- `True Colour/{dlv_tapestry2b.png` (128x128) — Dark blue banner with gold X-pattern; decorative flags or UI backgrounds.
+- `True Colour/{dlv_tapestry2c.png` (64x128) — Vertical gold pattern on blue; UI borders or decorative panels.
+- `True Colour/{dlv_tapestry2d.png` (64x128) — Blue banner with gold knot design; faction banners or decorative elements.
+- `True Colour/{dlv_tapestry3a.png` (128x128) — Brown banner with gold X-pattern; in-game flags or UI backgrounds.
+- `True Colour/{dlv_tapestry3b.png` (128x128) — Brown banner with gold X-pattern; decorative flags or UI elements.
+- `True Colour/{dlv_tapestry3c.png` (64x128) — Brown banner with gold vertical lines; UI backgrounds or decorative panels.
+- `True Colour/{dlv_tapestry3d.png` (64x128) — Brown banner with gold X-pattern; decorative flags or UI elements.
+- `True Colour/{dlv_tapestry4a.png` (128x128) — Worn green banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry4b.png` (128x128) — Worn green banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry4c.png` (64x128) — Worn green banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry4d.png` (64x128) — Worn green banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry5a.png` (128x128) — Purple banner with gold X-pattern; faction banners or UI backgrounds.
+- `True Colour/{dlv_tapestry5b.png` (128x128) — Worn purple banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry5c.png` (64x128) — Purple banner with gold vertical lines; UI borders or decorative panels.
+- `True Colour/{dlv_tapestry5d.png` (64x128) — Purple banner with gold X-pattern; faction banners or UI elements.
+- `True Colour/{dlv_tapestry6a.png` (128x128) — Brown banner with gold X-pattern; decorative flags or UI elements.
+- `True Colour/{dlv_tapestry6b.png` (128x128) — Worn brown banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry6c.png` (64x128) — Brown banner with gold vertical lines; UI backgrounds or decorative panels.
+- `True Colour/{dlv_tapestry6d.png` (64x128) — Worn brown banner with gold pattern; damaged flags or UI elements.
+- `True Colour/{dlv_tapestry7a.png` (128x64) — Green banner with gold scalloped edge; UI borders or decorative panels.
+- `True Colour/{dlv_tapestry7b.png` (128x64) — Blue banner with gold scalloped edge; UI borders or decorative panels.
+- `True Colour/{dlv_tapestry7c.png` (128x64) — Brown banner with gold scalloped edge; UI borders or decorative panels.
+- `True Colour/{dlv_tapestry8a.png` (128x64) — Mossy stone wall texture; dungeon or ruin interiors.
+- `True Colour/{dlv_tapestry8b.png` (128x64) — Weathered stone wall with purple hue; fantasy dungeon or castle walls.
+- `True Colour/{dlv_tapestry8c.png` (128x64) — Rustic stone wall with orange tint; ancient ruins or fire-damaged structures.
+
+## docs/licenses (2)
+
+- `Attribution and License.txt` (802 B) — Document: Attribution and License.
+- `Running the map.txt` (398 B) — Document: Running the map.
+
+## other (3)
+
+- `delven_example.bsp` (2.8 MB) — File: Delven example.
+- `delven_example.lit` (522.3 KB) — File: Delven example.
+- `str_delven.wad` (5.9 MB) — File: Str delven.

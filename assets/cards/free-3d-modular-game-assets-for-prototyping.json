@@ -1,0 +1,872 @@
+{
+  "slug": "free-3d-modular-game-assets-for-prototyping",
+  "itch": {
+    "game_id": "local-free-3d-modular-game-assets-for-prototyping",
+    "title": "Free 3D Modular Game Assets For Prototyping",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "CC0 / Public Domain",
+      "confidence": "high",
+      "source": "License.txt",
+      "raw_span": "dev83@gmail.com patreon: https://www.patreon.com/rgsdev This asset is under CC0 License Public domain and free to use on any project, even commercial. Cr"
+    },
+    "requires_attribution": "no",
+    "credit_line": "Free 3D Modular Game Assets For Prototyping by unknown author — CC0 / Public Domain [attribution not required; credit optional]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/Free 3D Modular Game Assets For Prototyping",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 83,
+    "total_bytes": 2920453,
+    "total_human": "2.8 MB",
+    "categories": {
+      "models_3d": {
+        "count": 81,
+        "bytes": 2919852,
+        "label": "3D models"
+      },
+      "docs": {
+        "count": 1,
+        "bytes": 283,
+        "label": "docs/licenses"
+      },
+      "images": {
+        "count": 1,
+        "bytes": 318,
+        "label": "sprites/textures"
+      }
+    },
+    "notable_files": {
+      "docs": [
+        "License.txt"
+      ],
+      "images": [
+        "texture.png"
+      ],
+      "models_3d": [
+        "Character/Character.fbx",
+        "Pieces/arrow.fbx",
+        "Pieces/box.fbx",
+        "Pieces/coin.fbx",
+        "Pieces/cone.fbx",
+        "Pieces/cone1.fbx",
+        "Pieces/cone2.fbx",
+        "Pieces/cone3.fbx"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "License.txt",
+        "size": 283,
+        "category": "docs",
+        "description": "Document: License."
+      },
+      {
+        "path": "texture.png",
+        "size": 318,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 8,
+          "height": 8,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "<=16",
+          "palette": 64,
+          "palette_bucket": "<=64"
+        },
+        "description": "Dark textured floor tile; dungeon or cave flooring."
+      },
+      {
+        "path": "Character/Character.fbx",
+        "size": 230092,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Character."
+      },
+      {
+        "path": "Pieces/arrow.fbx",
+        "size": 18876,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Arrow."
+      },
+      {
+        "path": "Pieces/box.fbx",
+        "size": 19388,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Box."
+      },
+      {
+        "path": "Pieces/coin.fbx",
+        "size": 19020,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Coin."
+      },
+      {
+        "path": "Pieces/cone.fbx",
+        "size": 18268,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cone."
+      },
+      {
+        "path": "Pieces/cone1.fbx",
+        "size": 18236,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cone1."
+      },
+      {
+        "path": "Pieces/cone2.fbx",
+        "size": 18220,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cone2."
+      },
+      {
+        "path": "Pieces/cone3.fbx",
+        "size": 18364,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cone3."
+      },
+      {
+        "path": "Pieces/cone4.fbx",
+        "size": 19004,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cone4."
+      },
+      {
+        "path": "Pieces/cube.fbx",
+        "size": 18220,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube."
+      },
+      {
+        "path": "Pieces/cube4.fbx",
+        "size": 18348,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube4."
+      },
+      {
+        "path": "Pieces/cube5.fbx",
+        "size": 18316,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube5."
+      },
+      {
+        "path": "Pieces/cube6.fbx",
+        "size": 18348,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube6."
+      },
+      {
+        "path": "Pieces/cube7.fbx",
+        "size": 18316,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube7."
+      },
+      {
+        "path": "Pieces/cube8.fbx",
+        "size": 18348,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube8."
+      },
+      {
+        "path": "Pieces/cube9.fbx",
+        "size": 18508,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cube9."
+      },
+      {
+        "path": "Pieces/cylinder.fbx",
+        "size": 18300,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cylinder."
+      },
+      {
+        "path": "Pieces/cylinder1.fbx",
+        "size": 19420,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cylinder1."
+      },
+      {
+        "path": "Pieces/cylinder2.fbx",
+        "size": 18300,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cylinder2."
+      },
+      {
+        "path": "Pieces/cylinder3.fbx",
+        "size": 19420,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cylinder3."
+      },
+      {
+        "path": "Pieces/cylinder4.fbx",
+        "size": 18300,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cylinder4."
+      },
+      {
+        "path": "Pieces/cylinder5.fbx",
+        "size": 19420,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Cylinder5."
+      },
+      {
+        "path": "Pieces/door.fbx",
+        "size": 18460,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Door."
+      },
+      {
+        "path": "Pieces/door1.fbx",
+        "size": 18476,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Door1."
+      },
+      {
+        "path": "Pieces/door2.fbx",
+        "size": 18476,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Door2."
+      },
+      {
+        "path": "Pieces/door3.fbx",
+        "size": 18492,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Door3."
+      },
+      {
+        "path": "Pieces/fence edge.fbx",
+        "size": 19388,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Fence edge."
+      },
+      {
+        "path": "Pieces/fence wood.fbx",
+        "size": 18380,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Fence wood."
+      },
+      {
+        "path": "Pieces/fence.fbx",
+        "size": 18588,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Fence."
+      },
+      {
+        "path": "Pieces/fence2.fbx",
+        "size": 18780,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Fence2."
+      },
+      {
+        "path": "Pieces/fence3.fbx",
+        "size": 18412,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Fence3."
+      },
+      {
+        "path": "Pieces/ground corner.fbx",
+        "size": 18076,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ground corner."
+      },
+      {
+        "path": "Pieces/ground.fbx",
+        "size": 18156,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ground."
+      },
+      {
+        "path": "Pieces/ground1.fbx",
+        "size": 18332,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ground1."
+      },
+      {
+        "path": "Pieces/key.fbx",
+        "size": 20732,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Key."
+      },
+      {
+        "path": "Pieces/ladder.fbx",
+        "size": 19676,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ladder."
+      },
+      {
+        "path": "Pieces/ladder1.fbx",
+        "size": 21148,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ladder1."
+      },
+      {
+        "path": "Pieces/pillar.fbx",
+        "size": 18300,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Pillar."
+      },
+      {
+        "path": "Pieces/pillar1.fbx",
+        "size": 18364,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Pillar1."
+      },
+      {
+        "path": "Pieces/pillar2.fbx",
+        "size": 18300,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Pillar2."
+      },
+      {
+        "path": "Pieces/pillar3.fbx",
+        "size": 18572,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Pillar3."
+      },
+      {
+        "path": "Pieces/pillar4.fbx",
+        "size": 18364,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Pillar4."
+      },
+      {
+        "path": "Pieces/railing edge.fbx",
+        "size": 20716,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Railing edge."
+      },
+      {
+        "path": "Pieces/railing.fbx",
+        "size": 19468,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Railing."
+      },
+      {
+        "path": "Pieces/ramp.fbx",
+        "size": 18220,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ramp."
+      },
+      {
+        "path": "Pieces/ramp1.fbx",
+        "size": 18220,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Ramp1."
+      },
+      {
+        "path": "Pieces/sphere.fbx",
+        "size": 18812,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sphere."
+      },
+      {
+        "path": "Pieces/sphere1.fbx",
+        "size": 21372,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sphere1."
+      },
+      {
+        "path": "Pieces/sphere2.fbx",
+        "size": 31564,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sphere2."
+      },
+      {
+        "path": "Pieces/spike.fbx",
+        "size": 18284,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Spike."
+      },
+      {
+        "path": "Pieces/spikes big.fbx",
+        "size": 18524,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Spikes big."
+      },
+      {
+        "path": "Pieces/spikes small.fbx",
+        "size": 18524,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Spikes small."
+      },
+      {
+        "path": "Pieces/stairs corner.fbx",
+        "size": 21644,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Stairs corner."
+      },
+      {
+        "path": "Pieces/stairs corner1.fbx",
+        "size": 21884,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Stairs corner1."
+      },
+      {
+        "path": "Pieces/stairs.fbx",
+        "size": 19660,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Stairs."
+      },
+      {
+        "path": "Pieces/stairs1.fbx",
+        "size": 18588,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Stairs1."
+      },
+      {
+        "path": "Pieces/stairs2.fbx",
+        "size": 18380,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Stairs2."
+      },
+      {
+        "path": "Pieces/toggle switch.fbx",
+        "size": 18636,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Toggle switch."
+      },
+      {
+        "path": "Pieces/torus.fbx",
+        "size": 19100,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Torus."
+      },
+      {
+        "path": "Pieces/wall corner bottom.fbx",
+        "size": 18172,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner bottom."
+      },
+      {
+        "path": "Pieces/wall corner bottom1.fbx",
+        "size": 18172,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner bottom1."
+      },
+      {
+        "path": "Pieces/wall corner bottom2.fbx",
+        "size": 18172,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner bottom2."
+      },
+      {
+        "path": "Pieces/wall corner top.fbx",
+        "size": 18332,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner top."
+      },
+      {
+        "path": "Pieces/wall corner top1.fbx",
+        "size": 18236,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner top1."
+      },
+      {
+        "path": "Pieces/wall corner.fbx",
+        "size": 18428,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner."
+      },
+      {
+        "path": "Pieces/wall corner1.fbx",
+        "size": 18524,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner1."
+      },
+      {
+        "path": "Pieces/wall corner4.fbx",
+        "size": 18540,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall corner4."
+      },
+      {
+        "path": "Pieces/wall door.fbx",
+        "size": 18508,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall door."
+      },
+      {
+        "path": "Pieces/wall door1.fbx",
+        "size": 18716,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall door1."
+      },
+      {
+        "path": "Pieces/wall door2.fbx",
+        "size": 18732,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall door2."
+      },
+      {
+        "path": "Pieces/wall window.fbx",
+        "size": 18748,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall window."
+      },
+      {
+        "path": "Pieces/wall window1.fbx",
+        "size": 18588,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall window1."
+      },
+      {
+        "path": "Pieces/wall.fbx",
+        "size": 18268,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall."
+      },
+      {
+        "path": "Pieces/wall1.fbx",
+        "size": 18156,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Wall1."
+      },
+      {
+        "path": "Pieces/window.fbx",
+        "size": 18476,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Window."
+      },
+      {
+        "path": "Pieces/window1.fbx",
+        "size": 18508,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Window1."
+      },
+      {
+        "path": "Sample 1/Sample 1.fbx",
+        "size": 274076,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sample 1."
+      },
+      {
+        "path": "Sample 2/Sample 2.fbx",
+        "size": 411836,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sample 2."
+      },
+      {
+        "path": "Sample 3/Sample 3.fbx",
+        "size": 144636,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sample 3."
+      },
+      {
+        "path": "Sample 4/Sample 4.fbx",
+        "size": 376044,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sample 4."
+      },
+      {
+        "path": "Sample 5/Sample 5.fbx",
+        "size": 61884,
+        "category": "models_3d",
+        "facts": {
+          "kind": "other"
+        },
+        "description": "3D model: Sample 5."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [
+      "License.txt"
+    ],
+    "probe": {
+      "images": {
+        "count": 1,
+        "pixel_art": 1,
+        "size_buckets": {
+          "<=16": 1
+        },
+        "palette_buckets": {
+          "<=64": 1
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "Free 3D Modular Game Assets For Prototyping"
+  },
+  "summary": "Free 3D Modular Game Assets For Prototyping by unknown author: 83 files (2.8 MB) — 1 images (1 pixel-art, mostly <=16 px), 81 3D models, 1 docs/licenses.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:40:49Z",
+  "content": {
+    "description": "This is a low-poly modular 3D environment kit (81 FBX/OBJ-style model files) for prototyping, not a 2D sprite pack. Its only bitmap is an 8x8 palette strip used as a flat colour atlas. Expect modular walls, floors, props and grid-snapped pieces for blockouts. Use for greyboxing levels, testing scale and collision, or as placeholder geometry; add real materials and textures before shipping.",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:32Z",
+    "samples": null
+  }
+}

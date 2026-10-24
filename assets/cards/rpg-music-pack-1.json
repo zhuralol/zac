@@ -1,0 +1,304 @@
+{
+  "slug": "rpg-music-pack-1",
+  "itch": {
+    "game_id": "local-rpg-music-pack-1",
+    "title": "RPG MUSIC PACK 1",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "unspecified",
+      "confidence": "none",
+      "source": null,
+      "raw_span": null
+    },
+    "requires_attribution": "unknown",
+    "credit_line": "RPG MUSIC PACK 1 by unknown author [license requires manual verification]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/RPG MUSIC PACK 1",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 15,
+    "total_bytes": 171540320,
+    "total_human": "163.6 MB",
+    "categories": {
+      "audio": {
+        "count": 14,
+        "bytes": 168653546,
+        "label": "audio"
+      },
+      "images": {
+        "count": 1,
+        "bytes": 2886774,
+        "label": "sprites/textures"
+      }
+    },
+    "notable_files": {
+      "audio": [
+        "CASUAL TAVERN.mp3",
+        "CASUAL TAVERN.wav",
+        "COMPLETE MYSTERY.mp3",
+        "FANTASY SAVE ZONE.mp3",
+        "FRESH EVENT.wav",
+        "GROOVY TOWN SQUARE.wav",
+        "MINTY SHOP.mp3",
+        "MINTY SHOP.wav"
+      ],
+      "images": [
+        "banner.png"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "CASUAL TAVERN.mp3",
+        "size": 4480320,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 112.01,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (1:52): CASUAL TAVERN."
+      },
+      {
+        "path": "CASUAL TAVERN.wav",
+        "size": 32256080,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 112.0,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (1:52): CASUAL TAVERN."
+      },
+      {
+        "path": "COMPLETE MYSTERY.mp3",
+        "size": 1160640,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 29.02,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:29): COMPLETE MYSTERY."
+      },
+      {
+        "path": "FANTASY SAVE ZONE.mp3",
+        "size": 2400000,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 60.0,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (1:00): FANTASY SAVE ZONE."
+      },
+      {
+        "path": "FRESH EVENT.wav",
+        "size": 3191930,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 11.08,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:11): FRESH EVENT."
+      },
+      {
+        "path": "GROOVY TOWN SQUARE.wav",
+        "size": 13123670,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 45.57,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (0:45): GROOVY TOWN SQUARE."
+      },
+      {
+        "path": "MINTY SHOP.mp3",
+        "size": 4955520,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 123.89,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (2:03): MINTY SHOP."
+      },
+      {
+        "path": "MINTY SHOP.wav",
+        "size": 35674922,
+        "category": "audio",
+        "facts": {
+          "kind": "skipped"
+        },
+        "description": "Audio clip: MINTY SHOP."
+      },
+      {
+        "path": "ONCE-CHERISHED HIDEAWAY.mp3",
+        "size": 4147200,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 103.68,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (1:43): ONCE CHERISHED HIDEAWAY."
+      },
+      {
+        "path": "ONCE-CHERISHED HIDEAWAY.wav",
+        "size": 29859920,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 103.68,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (1:43): ONCE CHERISHED HIDEAWAY."
+      },
+      {
+        "path": "SIGNIFICANT HIDEAWAY.wav",
+        "size": 13824080,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 48.0,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (0:48): SIGNIFICANT HIDEAWAY."
+      },
+      {
+        "path": "STINKY CAVES.wav",
+        "size": 17837504,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 61.94,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (1:01): STINKY CAVES."
+      },
+      {
+        "path": "STRANGE APPROACH.mp3",
+        "size": 240000,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 6.0,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "short-music-or-voice"
+        },
+        "description": "Audio clip (0:06): STRANGE APPROACH."
+      },
+      {
+        "path": "VIBEY BATTLE.mp3",
+        "size": 5501760,
+        "category": "audio",
+        "facts": {
+          "kind": "audio",
+          "duration": 137.54,
+          "sample_rate": 48000,
+          "channels": 2,
+          "role": "music"
+        },
+        "description": "Music track (2:17): VIBEY BATTLE."
+      },
+      {
+        "path": "banner.png",
+        "size": 2886774,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 2390,
+          "height": 956,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette_bucket": ">256"
+        },
+        "description": "PlayStation Classic console and controller; game asset for retro-themed RPGs or nostalgia-driven scenes."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [],
+    "probe": {
+      "images": {
+        "count": 1,
+        "pixel_art": 0,
+        "size_buckets": {
+          ">512": 1
+        },
+        "palette_buckets": {
+          ">256": 1
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 13,
+        "sfx": 0,
+        "music": 10,
+        "other": 3,
+        "total_duration": 954.4
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 1
+    },
+    "folder": "RPG MUSIC PACK 1"
+  },
+  "summary": "RPG MUSIC PACK 1 by unknown author: 15 files (163.6 MB) — 1 images (mostly >512 px), 10 music tracks.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:51:17Z",
+  "content": {
+    "description": "This is an audio-first pack; its only bitmap is a 2390x956 promotional banner showing a grey PlayStation console and controller. There are no game sprites or textures here, only music tracks. Use the card's audio counts when selecting tracks; do not treat the banner as usable game art.",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:33Z",
+    "samples": null
+  }
+}

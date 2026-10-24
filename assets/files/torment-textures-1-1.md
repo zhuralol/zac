@@ -1,0 +1,214 @@
+# Torment Textures 1.1 — file catalogue
+
+Generated 2026-10-24T22:11:55Z · 199 files
+
+**Path:** `/var/home/zhura/Projects/downloads/Torment Textures 1.1`
+**Credit:** Torment Textures 1.1 by unknown author — Custom (attribution required)
+
+## sprites/textures (197)
+
+- `CoverNewEx.png` (630x500) — Vertical red wood plank texture; walls or flooring in horror games.
+- `Quake Palette/+0str_bloodfall.bmp` (32x256) — Vertical red wood plank texture; walls or flooring in horror games.
+- `Quake Palette/+1str_bloodfall.bmp` (32x256) — Vertical red wood plank texture; walls or flooring in horror games.
+- `Quake Palette/+2str_bloodfall.bmp` (32x256) — Red splatter texture; blood or gore effects in horror games.
+- `Quake Palette/+3str_bloodfall.bmp` (32x256) — Red splatter texture; blood or gore effects in horror games.
+- `Quake Palette/+4str_bloodfall.bmp` (32x256) — Red cracked surface texture; damaged walls or floors in horror games.
+- `Quake Palette/+5str_bloodfall.bmp` (32x256) — Red cracked surface texture; damaged walls or floors in horror games.
+- `Quake Palette/+6str_bloodfall.bmp` (32x256) — Red cracked surface texture; damaged walls or floors in horror games.
+- `Quake Palette/+7str_bloodfall.bmp` (32x256) — Metal diamond plate texture; industrial or mechanical surfaces.
+- `Quake Palette/str_blood.bmp` (64x64) — Metal diamond plate texture; industrial or mechanical surfaces.
+- `Quake Palette/str_blood_large.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games.
+- `Quake Palette/str_bloodvein1.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 1/9)
+- `Quake Palette/str_bloodvein2.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 2/9)
+- `Quake Palette/str_bloodvein3.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 3/9)
+- `Quake Palette/str_bloodvein4.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 4/9)
+- `Quake Palette/str_bloodvein5.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 5/9)
+- `Quake Palette/str_bloodvein6.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 6/9)
+- `Quake Palette/str_bloodvein7.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 7/9)
+- `Quake Palette/str_bloodvein8.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 8/9)
+- `Quake Palette/str_bloodvein9.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games. (frame 9/9)
+- `Quake Palette/str_metalflr1.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 1/8)
+- `Quake Palette/str_metalflr2.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 2/8)
+- `Quake Palette/str_metalflr3.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 3/8)
+- `Quake Palette/str_metalflr4.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 4/8)
+- `Quake Palette/str_metalflr5.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 5/8)
+- `Quake Palette/str_metalflr6.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 6/8)
+- `Quake Palette/str_metalflr7.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 7/8)
+- `Quake Palette/str_metalflr8.bmp` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 8/8)
+- `Quake Palette/str_metalgen1.bmp` (256x256) — Worn red fabric texture; clothing or upholstery in games.
+- `Quake Palette/str_metalgen2.bmp` (256x256) — Horizontal wood plank texture; floors or walls in games.
+- `Quake Palette/str_metalgen3.bmp` (256x256) — Horizontal wood plank texture with holes; floors or walls in games.
+- `Quake Palette/str_metalgen4.bmp` (256x256) — Worn metal texture; industrial or mechanical surfaces.
+- `Quake Palette/str_metalgen5.bmp` (256x256) — Worn metal texture; industrial or mechanical surfaces.
+- `Quake Palette/str_metalgen6.bmp` (256x256) — Worn metal texture with holes; industrial or mechanical surfaces.
+- `Quake Palette/str_metalgrbl1.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 1/8)
+- `Quake Palette/str_metalgrbl2.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 2/8)
+- `Quake Palette/str_metalgrbl3.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 3/8)
+- `Quake Palette/str_metalgrbl4.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 4/8)
+- `Quake Palette/str_metalgrbl5.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 5/8)
+- `Quake Palette/str_metalgrbl6.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 6/8)
+- `Quake Palette/str_metalgrbl7.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 7/8)
+- `Quake Palette/str_metalgrbl8.bmp` (256x256) — Rusted metal grid with circular patterns; industrial or sci-fi environments. (frame 8/8)
+- `Quake Palette/str_metalpan1.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 1/8)
+- `Quake Palette/str_metalpan2.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 2/8)
+- `Quake Palette/str_metalpan3.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 3/8)
+- `Quake Palette/str_metalpan4.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 4/8)
+- `Quake Palette/str_metalpan5.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 5/8)
+- `Quake Palette/str_metalpan6.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 6/8)
+- `Quake Palette/str_metalpan7.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 7/8)
+- `Quake Palette/str_metalpan8.bmp` (256x256) — Weathered stone wall with red stains; dungeon or horror game backgrounds. (frame 8/8)
+- `Quake Palette/str_rotwoodgen1.bmp` (256x256) — Dark wooden planks; floor or wall textures for rustic settings.
+- `Quake Palette/str_rotwoodgen2.bmp` (256x256) — Horizontal wood grain; flooring or paneling in medieval or fantasy games.
+- `Quake Palette/str_rotwoodgen3.bmp` (256x256) — Wooden planks with rivets; modular furniture or vehicle interiors.
+- `Quake Palette/str_stonebrk1.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 1/8)
+- `Quake Palette/str_stonebrk2.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 2/8)
+- `Quake Palette/str_stonebrk3.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 3/8)
+- `Quake Palette/str_stonebrk4.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 4/8)
+- `Quake Palette/str_stonebrk5.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 5/8)
+- `Quake Palette/str_stonebrk6.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 6/8)
+- `Quake Palette/str_stonebrk7.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 7/8)
+- `Quake Palette/str_stonebrk8.bmp` (256x256) — Stone brick wall with red streaks; dungeon walls or blood-splattered areas. (frame 8/8)
+- `Quake Palette/str_stoneflr1.bmp` (256x256) — Square stone tiles; flooring or wall textures for medieval or fantasy games.
+- `Quake Palette/str_stoneflr2.bmp` (256x256) — Square stone tiles with raised edges; modular dungeon or castle floors.
+- `Quake Palette/str_stoneflr3.bmp` (256x256) — Stone tile with subtle texture; generic floor or wall surface.
+- `Quake Palette/str_stoneflr4.bmp` (256x256) — Stone tile with cross pattern; dungeon or ruin flooring.
+- `Quake Palette/str_stoneflr5.bmp` (256x256) — Stone tile with red stains; blood-splattered dungeon walls.
+- `Quake Palette/str_stoneflr6.bmp` (256x256) — Square stone tiles with red streaks; blood-splattered floors or walls.
+- `Quake Palette/str_stonegen1.bmp` (256x256) — Plain stone texture; generic floor or wall surface.
+- `Quake Palette/str_stonegen2.bmp` (256x256) — Stone texture with horizontal lines; dungeon or ruin walls.
+- `Quake Palette/str_stonegen3.bmp` (256x256) — Stone floor with skull pattern; horror game floors or traps.
+- `Quake Palette/str_stonegen4.bmp` (256x256) — Stone wall with red streaks; blood-splattered dungeon walls.
+- `Quake Palette/str_stonegen5.bmp` (256x256) — Stone wall with red streaks; blood-splattered dungeon walls.
+- `Quake Palette/str_stonegen6.bmp` (256x256) — Stone floor with skull pattern; horror game floors or traps.
+- `Quake Palette/str_stonerubble.bmp` (256x256) — Rough, cracked stone surface; ideal for dungeon walls or ancient ruins.
+- `Quake Palette/str_stonewall1.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 1/8)
+- `Quake Palette/str_stonewall2.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 2/8)
+- `Quake Palette/str_stonewall3.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 3/8)
+- `Quake Palette/str_stonewall4.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 4/8)
+- `Quake Palette/str_stonewall5.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 5/8)
+- `Quake Palette/str_stonewall6.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 6/8)
+- `Quake Palette/str_stonewall7.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 7/8)
+- `Quake Palette/str_stonewall8.bmp` (256x256) — Weathered wooden planks with vertical grain; perfect for floors or fences. (frame 8/8)
+- `Quake Palette/str_wasteland1.bmp` (512x512) — Wavy, fiery orange texture; suitable for lava or molten surfaces.
+- `Quake Palette/str_wasteland2.bmp` (512x512) — Dark, rippled stone; good for underwater or shadowy terrain.
+- `Quake Palette/str_wasteland3.bmp` (512x512) — Sandy dunes with subtle ridges; use for desert landscapes.
+- `Quake Palette/str_wasteland4.bmp` (512x512) — Orange-red sand with scattered rocks; ideal for arid, rocky terrain.
+- `Quake Palette/str_wasteland5.bmp` (512x512) — Dark, textured sand with small pebbles; perfect for desert floors.
+- `Quake Palette/str_wasteland6.bmp` (512x512) — Lighter sand with scattered rocks; suitable for varied desert surfaces.
+- `Quake Palette/{str_bloodgunk.bmp` (256x256) — Pinkish ground with scattered rocks; good for alien or fantasy worlds.
+- `Quake Palette/{str_bloodweb1.bmp` (256x256) — Cracked red surface with black fissures; ideal for damaged or volcanic terrain.
+- `Quake Palette/{str_bloodweb2.bmp` (256x256) — Red cracked ground with dark veins; perfect for lava or toxic zones.
+- `Quake Palette/{str_bloodweb3.bmp` (256x256) — Red branching cracks; great for broken or organic surfaces.
+- `Quake Palette/{str_grating1.bmp` (256x256) — Grid of red tiles with dark lines; useful for tiled floors or platforms.
+- `Quake Palette/{str_grating2.bmp` (256x256) — Grid with vertical lines; suitable for structured environments.
+- `Quake Palette/{str_grating3.bmp` (256x256) — Vertical grid with horizontal bars; ideal for industrial or mechanical settings.
+- `Quake Palette/{str_grating4.bmp` (256x256) — Red grid with dark lines; good for modular game environments.
+- `Quake Palette/{str_grating5.bmp` (256x256) — Red grid with dark lines; useful for tiled floors or platforms.
+- `Quake Palette/{str_grating6.bmp` (256x256) — Vertical red bars with dark lines; perfect for barriers or fences.
+- `True Colour/+0str_bloodfall.png` (32x256) — Red vertical stripes; ideal for walls or decorative elements.
+- `True Colour/+1str_bloodfall.png` (32x256) — Red vertical stripes; suitable for walls or decorative elements.
+- `True Colour/+2str_bloodfall.png` (32x256) — Red vertical stripes; good for walls or decorative elements.
+- `True Colour/+3str_bloodfall.png` (32x256) — Red vertical stripes; ideal for walls or decorative elements.
+- `True Colour/+4str_bloodfall.png` (32x256) — Red wooden plank texture; walls or floors in fantasy or horror games.
+- `True Colour/+5str_bloodfall.png` (32x256) — Red wooden plank texture; walls or floors in fantasy or horror games.
+- `True Colour/+6str_bloodfall.png` (32x256) — Red wooden plank texture; walls or floors in fantasy or horror games.
+- `True Colour/+7str_bloodfall.png` (32x256) — Red wooden plank texture; walls or floors in fantasy or horror games.
+- `True Colour/str_blood.png` (64x64) — Red splattered texture; blood or corrosive liquid effects.
+- `True Colour/str_blood_large.png` (256x256) — Red splattered texture; blood or corrosive liquid effects.
+- `True Colour/str_bloodvein1.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 1/9)
+- `True Colour/str_bloodvein2.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 2/9)
+- `True Colour/str_bloodvein3.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 3/9)
+- `True Colour/str_bloodvein4.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 4/9)
+- `True Colour/str_bloodvein5.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 5/9)
+- `True Colour/str_bloodvein6.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 6/9)
+- `True Colour/str_bloodvein7.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 7/9)
+- `True Colour/str_bloodvein8.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 8/9)
+- `True Colour/str_bloodvein9.png` (256x256) — Red and gray organic texture; wounds or decayed surfaces. (frame 9/9)
+- `True Colour/str_bloodvein_mask1.png` (256x256) — Cracked black and white texture; broken surfaces or terrain.
+- `True Colour/str_bloodvein_mask2.png` (256x256) — White speckled texture; snow, ash, or particle effects.
+- `True Colour/str_metalflr1.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 1/8)
+- `True Colour/str_metalflr2.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 2/8)
+- `True Colour/str_metalflr3.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 3/8)
+- `True Colour/str_metalflr4.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 4/8)
+- `True Colour/str_metalflr5.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 5/8)
+- `True Colour/str_metalflr6.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 6/8)
+- `True Colour/str_metalflr7.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 7/8)
+- `True Colour/str_metalflr8.png` (256x256) — Metal diamond plate texture; industrial or mechanical surfaces. (frame 8/8)
+- `True Colour/str_metalgen1.png` (256x256) — Weathered brown wood texture; rustic or aged environments.
+- `True Colour/str_metalgen2.png` (256x256) — Weathered brown wood texture; rustic or aged environments.
+- `True Colour/str_metalgen3.png` (256x256) — Brown wood with perforated base; flooring or industrial panels.
+- `True Colour/str_metalgen4.png` (256x256) — Dark gray stone texture; dungeon or cave walls.
+- `True Colour/str_metalgen5.png` (256x256) — Dark gray stone texture; dungeon or cave walls.
+- `True Colour/str_metalgen6.png` (256x256) — Dark gray stone with perforated base; flooring or industrial panels.
+- `True Colour/str_metalgrbl1.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 1/8)
+- `True Colour/str_metalgrbl2.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 2/8)
+- `True Colour/str_metalgrbl3.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 3/8)
+- `True Colour/str_metalgrbl4.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 4/8)
+- `True Colour/str_metalgrbl5.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 5/8)
+- `True Colour/str_metalgrbl6.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 6/8)
+- `True Colour/str_metalgrbl7.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 7/8)
+- `True Colour/str_metalgrbl8.png` (256x256) — Mixed stone tile texture; modular flooring or wall sections. (frame 8/8)
+- `True Colour/str_metalpan1.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 1/8)
+- `True Colour/str_metalpan2.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 2/8)
+- `True Colour/str_metalpan3.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 3/8)
+- `True Colour/str_metalpan4.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 4/8)
+- `True Colour/str_metalpan5.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 5/8)
+- `True Colour/str_metalpan6.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 6/8)
+- `True Colour/str_metalpan7.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 7/8)
+- `True Colour/str_metalpan8.png` (256x256) — Rusted metal grid texture; industrial or fantasy game environments with decayed machinery. (frame 8/8)
+- `True Colour/str_rotwoodgen1.png` (256x256) — Wooden plank floor texture; rustic or medieval game settings for flooring or platforms.
+- `True Colour/str_rotwoodgen2.png` (256x256) — Wooden plank wall texture; interior walls or barricades in fantasy or survival games.
+- `True Colour/str_rotwoodgen3.png` (256x256) — Wooden plank wall with rivets; decorative or structural elements in game environments.
+- `True Colour/str_stonebrk1.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 1/8)
+- `True Colour/str_stonebrk2.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 2/8)
+- `True Colour/str_stonebrk3.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 3/8)
+- `True Colour/str_stonebrk4.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 4/8)
+- `True Colour/str_stonebrk5.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 5/8)
+- `True Colour/str_stonebrk6.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 6/8)
+- `True Colour/str_stonebrk7.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 7/8)
+- `True Colour/str_stonebrk8.png` (256x256) — Stone wall with bloodstains; horror or dark fantasy game backgrounds for grim areas. (frame 8/8)
+- `True Colour/str_stoneflr1.png` (256x256) — Square stone tile floor; dungeon or castle floors in RPGs or adventure games.
+- `True Colour/str_stoneflr2.png` (256x256) — Square stone tile floor with rounded edges; varied flooring for game level design.
+- `True Colour/str_stoneflr3.png` (256x256) — Stone wall with horizontal grooves; architectural detail for game interiors or ruins.
+- `True Colour/str_stoneflr4.png` (256x256) — Stone wall with vertical cracks; damaged or aged walls in game environments.
+- `True Colour/str_stoneflr5.png` (256x256) — Stone wall with bloodstains; horror game backgrounds for bloodied or violent areas.
+- `True Colour/str_stoneflr6.png` (256x256) — Square stone tile floor with rounded edges; varied flooring for game level design.
+- `True Colour/str_stonegen1.png` (256x256) — Stone wall with horizontal grooves; architectural detail for game interiors or ruins.
+- `True Colour/str_stonegen2.png` (256x256) — Stone wall with horizontal grooves; architectural detail for game interiors or ruins.
+- `True Colour/str_stonegen3.png` (256x256) — Stone wall with skull pattern border; decorative or ominous game environment borders.
+- `True Colour/str_stonegen4.png` (256x256) — Stone wall with vertical bloodstains; horror game backgrounds for bloodied areas.
+- `True Colour/str_stonegen5.png` (256x256) — Stone wall with vertical bloodstains; horror game backgrounds for bloodied areas.
+- `True Colour/str_stonegen6.png` (256x256) — Stone wall with skull pattern border; decorative or ominous game environment borders.
+- `True Colour/str_stonerubble.png` (256x256) — Rough stone texture; natural surfaces or terrain in game environments.
+- `True Colour/str_stonewall1.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 1/8)
+- `True Colour/str_stonewall2.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 2/8)
+- `True Colour/str_stonewall3.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 3/8)
+- `True Colour/str_stonewall4.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 4/8)
+- `True Colour/str_stonewall5.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 5/8)
+- `True Colour/str_stonewall6.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 6/8)
+- `True Colour/str_stonewall7.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 7/8)
+- `True Colour/str_stonewall8.png` (256x256) — Cracked stone wall texture; dungeon or ruin environments. (frame 8/8)
+- `True Colour/str_wasteland1.png` (512x512) — Reddish sand dunes; desert or alien terrain backgrounds.
+- `True Colour/str_wasteland2.png` (512x512) — Dark gray sand dunes; atmospheric desert or wasteland scenes.
+- `True Colour/str_wasteland3.png` (512x512) — Light gray sand dunes; varied desert or beach surfaces.
+- `True Colour/str_wasteland4.png` (512x512) — Orange sand dunes with rocks; desert landscapes with detail.
+- `True Colour/str_wasteland5.png` (512x512) — Dark gray sand dunes with rocks; gritty desert or canyon areas.
+- `True Colour/str_wasteland6.png` (512x512) — Light gray sand dunes with rocks; detailed desert or beach zones.
+- `True Colour/{str_bloodgunk.png` (256x256) — Mossy rock patches; naturalistic terrain or cave interiors.
+- `True Colour/{str_bloodweb1.png` (256x256) — Red glowing cracks; hazardous or magical terrain effects.
+- `True Colour/{str_bloodweb2.png` (256x256) — Cracked, glowing red surface; lava or hazardous terrain in dark environments.
+- `True Colour/{str_bloodweb3.png` (256x256) — Fragmented red cracks; destructible or environmental damage effects in game scenes.
+- `True Colour/{str_grating1.png` (256x256) — Grid pattern; UI overlays or modular tile placement.
+- `True Colour/{str_grating2.png` (256x256) — Grid pattern with subtle texture; modular game world tiles.
+- `True Colour/{str_grating3.png` (256x256) — Grid pattern with vertical lines; structured game environments.
+- `True Colour/{str_grating4.png` (256x256) — Grid with red lines; damaged or corrupted game zones.
+- `True Colour/{str_grating5.png` (256x256) — Grid with red and gray lines; layered game terrain.
+- `True Colour/{str_grating6.png` (256x256) — Grid with red lines and specks; damaged or magical game areas.
+
+## docs/licenses (1)
+
+- `Attribution and License.txt` (805 B) — Document: Attribution and License.
+
+## other (1)
+
+- `str_torment_ex.wad` (8.9 MB) — File: Str torment ex.

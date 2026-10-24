@@ -1,0 +1,339 @@
+# free_fantasy_hero_25_character_pack — file catalogue
+
+Generated 2026-10-24T22:11:55Z · 330 files
+
+**Path:** `/var/home/zhura/Projects/downloads/free_fantasy_hero_25_character_pack`
+**Credit:** free_fantasy_hero_25_character_pack by unknown author [license requires manual verification]
+
+## sprites/textures (330)
+
+- `25_full/f_101_1.png` (361x630) — Male knight in full armor, standing idle. Use for combat or exploration scenes.
+- `25_full/f_101_2.png` (354x637) — Male knight in armor, holding sword. Use for attack or stance animations.
+- `25_full/f_101_3.png` (764x522) — Male knight in armor, mid-swing. Use for melee attack animations.
+- `25_full/f_102_1.png` (289x591) — Female mage in green robes, hands clasped. Use for casting or idle poses.
+- `25_full/f_102_2.png` (288x591) — Female mage in green robes, hands clasped. Use for casting or idle poses.
+- `25_full/f_102_3.png` (467x589) — Female mage in green robes, holding staff. Use for spellcasting animations.
+- `25_full/f_103_1.png` (293x700) — Male rogue in red cape, hand to face. Use for stealth or reaction poses.
+- `25_full/f_103_2.png` (284x701) — Male rogue in red cape, gesturing. Use for dialogue or action poses.
+- `25_full/f_103_3.png` (440x696) — Male rogue in red cape, sword drawn. Use for combat or attack animations.
+- `25_full/f_104_1.png` (303x622) — Female warrior in blue dress, standing. Use for idle or stance poses.
+- `25_full/f_104_2.png` (293x620) — Female warrior in blue dress, hands clasped. Use for casting or idle poses.
+- `25_full/f_104_3.png` (455x606) — Female warrior in blue dress, posing. Use for attack or action animations.
+- `25_full/f_105_1.png` (369x693) — Male barbarian in armor, arms crossed. Use for idle or defensive poses.
+- `25_full/f_105_2.png` (372x692) — Male barbarian in armor, fists raised. Use for attack or stance animations.
+- `25_full/f_105_3.png` (494x659) — Male barbarian with axe, mid-swing. Use for melee attack animations.
+- `25_full/f_106_1.png` (270x615) — Female warrior in fur-lined armor, standing. Use for idle or stance poses.
+- `25_full/f_106_2.png` (268x614) — Female warrior in fur-lined armor, hands clasped. Use for casting or idle poses.
+- `25_full/f_106_3.png` (383x597) — Female warrior in fur-lined armor, axe raised. Use for attack animations.
+- `25_full/f_107_1.png` (481x718) — Male king in ornate armor, standing. Use for royal or combat scenes.
+- `25_full/f_107_2.png` (481x717) — Male king in ornate armor, hand raised. Use for dialogue or action poses.
+- `25_full/f_107_3.png` (569x779) — Male king in ornate armor, sword drawn. Use for combat or attack animations.
+- `25_full/f_108_1.png` (230x623) — Female priestess in white robes, standing. Use for idle or casting poses.
+- `25_full/f_108_2.png` (323x624) — Female priestess in white robes, hands clasped. Use for casting or idle poses.
+- `25_full/f_108_3.png` (353x625) — Female priestess in white robes, gesturing. Use for spellcasting or action animations.
+- `25_full/f_109_1.png` (235x637) — Chef in white coat, standing confidently; kitchen or tavern NPC.
+- `25_full/f_109_2.png` (217x637) — Chef with arms crossed, neutral stance; dialogue or idle animation.
+- `25_full/f_109_3.png` (383x620) — Chef mid-jump, holding tools; dynamic action or attack frame.
+- `25_full/f_110_1.png` (419x694) — Blue-robed cleric with staff, hands clasped; prayer or casting pose.
+- `25_full/f_110_2.png` (419x692) — Cleric with hands clasped, standing still; idle or spellcasting frame.
+- `25_full/f_110_3.png` (568x733) — Cleric holding cross, commanding stance; battle or leadership pose.
+- `25_full/f_111_1.png` (344x681) — Red-haired warrior with sword, ready stance; combat or attack animation.
+- `25_full/f_111_2.png` (345x681) — Warrior with sword, slight turn; idle or movement frame.
+- `25_full/f_111_3.png` (555x669) — Warrior in combat stance, sword drawn; attack or defense animation.
+- `25_full/f_112_1.png` (440x685) — Heavy armored knight, standing firm; defense or idle pose.
+- `25_full/f_112_2.png` (470x670) — Knight with red sash, aggressive stance; attack or charge animation.
+- `25_full/f_112_3.png` (652x657) — Knight with shield and mace, defensive stance; block or counter frame.
+- `25_full/f_113_1.png` (233x585) — White-haired warrior, standing alert; idle or patrol animation.
+- `25_full/f_113_2.png` (305x585) — White-haired warrior, gesturing; dialogue or interaction frame.
+- `25_full/f_113_3.png` (454x578) — Warrior in combat stance, dual swords; attack or combo animation.
+- `25_full/f_114_1.png` (326x644) — Red-haired mage, hands raised; spellcasting or casting animation.
+- `25_full/f_114_2.png` (346x645) — Mage with staff, dynamic pose; attack or spell animation.
+- `25_full/f_114_3.png` (421x644) — Mage with dual blades, aggressive stance; melee or combo animation.
+- `25_full/f_115_1.png` (269x647) — Black-armored knight, standing still; idle or guard frame.
+- `25_full/f_115_2.png` (225x647) — Knight with arms crossed, neutral stance; dialogue or idle animation.
+- `25_full/f_115_3.png` (704x658) — Knight with polearm, charging stance; attack or charge animation.
+- `25_full/f_116_1.png` (368x658) — Red-armored warrior, hands raised; spellcasting or casting animation.
+- `25_full/f_116_2.png` (437x662) — Warrior with staff, dynamic pose; attack or spell animation.
+- `25_full/f_116_3.png` (479x716) — Warrior with dual swords, aggressive stance; melee or combo animation.
+- `25_full/f_117_1.png` (391x652) — Purple-dressed witch with star motifs; magical spellcasting or idle animation.
+- `25_full/f_117_2.png` (409x660) — Witch in dynamic pose, holding staff; combat or spellcasting action.
+- `25_full/f_117_3.png` (461x671) — Witch with glowing staff; casting powerful magic.
+- `25_full/f_118_1.png` (314x675) — Muscular warrior in armor; standing ready for battle.
+- `25_full/f_118_2.png` (380x676) — Warrior with sword and shield; defensive stance.
+- `25_full/f_118_3.png` (569x676) — Dual-axe wielding warrior; aggressive attack animation.
+- `25_full/f_119_1.png` (263x568) — Red-haired girl in maid outfit; idle or dialogue pose.
+- `25_full/f_119_2.png` (365x567) — Girl with raised hand; casting or gesturing action.
+- `25_full/f_119_3.png` (353x568) — Girl holding magnifying glass; investigation or discovery.
+- `25_full/f_120_1.png` (460x672) — Bearded wizard in robe; standing in contemplative pose.
+- `25_full/f_120_2.png` (437x672) — Wizard with crossed arms; idle or defensive stance.
+- `25_full/f_120_3.png` (557x614) — Skull-bearing wizard; aggressive or summoning animation.
+- `25_full/f_121_1.png` (239x658) — Dark-clad female with crossed arms; idle or defensive stance.
+- `25_full/f_121_2.png` (346x659) — Female with hands out; idle or dialogue pose.
+- `25_full/f_121_3.png` (507x652) — Female with rifle and sword; dual-weapon combat.
+- `25_full/f_122_1.png` (310x642) — Blue-robed dancer; graceful movement or dance animation.
+- `25_full/f_122_2.png` (436x635) — Dancer with flowing skirt; dynamic dance or attack.
+- `25_full/f_122_3.png` (655x660) — Dancer with spinning weapon; acrobatic combat.
+- `25_full/f_123_1.png` (289x690) — Pirate captain with hat; idle or commanding pose.
+- `25_full/f_123_2.png` (289x692) — Pirate with hand on chin; thoughtful or idle pose.
+- `25_full/f_123_3.png` (473x707) — Pirate with rifle; aiming or shooting animation.
+- `25_full/f_124_1.png` (268x664) — Blue-haired warrior in armor; standing ready.
+- `25_full/f_124_2.png` (460x669) — Blue-haired warrior with flowing cape; dynamic action.
+- `25_full/f_124_3.png` (402x733) — Shield and spear-wielding warrior; defensive or attack stance.
+- `25_full/f_125_1.png` (323x540) — Angel with white wings and halo; divine support or healing character.
+- `25_full/f_125_2.png` (536x602) — Angel in dynamic pose with ribbon; magical or celebratory animation.
+- `25_full/f_125_3.png` (462x587) — Angel wielding bow; ranged combat or archer class.
+- `25_full_with_shadow/fs_101_1.png` (361x630) — Angel with bow and arrow; combat-focused ranged unit.
+- `25_full_with_shadow/fs_101_2.png` (354x637) — Heavy armored knight; frontline melee fighter.
+- `25_full_with_shadow/fs_101_3.png` (764x522) — Knight in dynamic attack stance; aggressive melee combatant.
+- `25_full_with_shadow/fs_102_1.png` (289x591) — Mystic in green robes; spellcasting or support role.
+- `25_full_with_shadow/fs_102_2.png` (288x591) — Mystic with clasped hands; prayer or meditation state.
+- `25_full_with_shadow/fs_102_3.png` (467x589) — Mystic holding glowing staff; active spellcasting.
+- `25_full_with_shadow/fs_103_1.png` (293x700) — Mystic in dynamic pose; magical attack animation.
+- `25_full_with_shadow/fs_103_2.png` (284x701) — Rogue with cape and hat; stealth or backstabber class.
+- `25_full_with_shadow/fs_103_3.png` (440x696) — Rogue wielding axe; aggressive melee attacker.
+- `25_full_with_shadow/fs_104_1.png` (303x624) — Blue-clad warrior with high slit dress; agile melee fighter.
+- `25_full_with_shadow/fs_104_2.png` (293x622) — Warrior in standing pose; balanced combat stance.
+- `25_full_with_shadow/fs_104_3.png` (455x606) — Warrior in dynamic pose; powerful attack animation.
+- `25_full_with_shadow/fs_105_1.png` (369x693) — Berserker with crossed arms; defensive or taunt stance.
+- `25_full_with_shadow/fs_105_2.png` (372x692) — Berserker in battle stance; aggressive melee combatant.
+- `25_full_with_shadow/fs_105_3.png` (494x659) — Berserker wielding axe; heavy-hitting melee unit.
+- `25_full_with_shadow/fs_106_1.png` (270x627) — Winter warrior in fur-lined armor; cold environment fighter.
+- `25_full_with_shadow/fs_106_2.png` (268x617) — Winter warrior in standing pose; balanced combat stance.
+- `25_full_with_shadow/fs_106_3.png` (383x597) — Winter warrior in dynamic pose; powerful attack animation.
+- `25_full_with_shadow/fs_107_1.png` (481x721) — Kingly armored warrior; high-tier melee leader.
+- `25_full_with_shadow/fs_107_2.png` (481x719) — Kingly warrior with cape; commanding or defensive stance.
+- `25_full_with_shadow/fs_107_3.png` (569x779) — Kingly warrior wielding sword; aggressive melee combatant.
+- `25_full_with_shadow/fs_108_1.png` (230x625) — Female warrior in flowing white robes, holding a staff; fantasy RPG character model.
+- `25_full_with_shadow/fs_108_2.png` (323x627) — Female warrior with long hair, holding a staff; fantasy RPG character model.
+- `25_full_with_shadow/fs_108_3.png` (353x625) — Female warrior with long hair, holding a staff; fantasy RPG character model.
+- `25_full_with_shadow/fs_109_1.png` (235x638) — Female warrior with long hair, holding a staff; fantasy RPG character model.
+- `25_full_with_shadow/fs_109_2.png` (217x638) — Female chef in white uniform, hands on hips; fantasy RPG character model.
+- `25_full_with_shadow/fs_109_3.png` (383x621) — Female chef in white uniform, holding a tray; fantasy RPG character model.
+- `25_full_with_shadow/fs_110_1.png` (419x702) — Red-haired cleric in blue robes, hands clasped; fantasy RPG character model.
+- `25_full_with_shadow/fs_110_2.png` (419x694) — Red-haired cleric in blue robes, hands clasped; fantasy RPG character model.
+- `25_full_with_shadow/fs_110_3.png` (568x740) — Red-haired cleric in blue robes, holding a staff; fantasy RPG character model.
+- `25_full_with_shadow/fs_111_1.png` (344x682) — Red-haired warrior in blue armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_111_2.png` (345x681) — Red-haired warrior in blue armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_111_3.png` (555x669) — Red-haired warrior in blue armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_112_1.png` (440x691) — Bald warrior in spiked armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_112_2.png` (470x670) — Bald warrior in spiked armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_112_3.png` (652x657) — Bald warrior in spiked armor, holding a mace; fantasy RPG character model.
+- `25_full_with_shadow/fs_113_1.png` (233x585) — White-haired warrior in armor, holding a shield; fantasy RPG character model.
+- `25_full_with_shadow/fs_113_2.png` (305x585) — White-haired warrior in armor, hands out; fantasy RPG character model.
+- `25_full_with_shadow/fs_113_3.png` (454x578) — White-haired warrior in armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_114_1.png` (326x645) — Red-haired warrior in blue coat, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_114_2.png` (346x645) — Red-haired warrior in blue coat, hands out; fantasy RPG character model.
+- `25_full_with_shadow/fs_114_3.png` (421x644) — Red-haired warrior in blue coat, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_115_1.png` (269x647) — Female warrior in silver armor, holding a sword; fantasy RPG character model.
+- `25_full_with_shadow/fs_115_2.png` (225x647) — Female warrior in silver armor, hands clasped; fantasy RPG character model.
+- `25_full_with_shadow/fs_115_3.png` (704x658) — Female warrior in silver armor, holding a spear; fantasy RPG character model.
+- `25_full_with_shadow/fs_116_1.png` (368x658) — Jester with red and gold armor; festive or comedic character in combat or idle scenes.
+- `25_full_with_shadow/fs_116_2.png` (437x663) — Jester in dynamic pose; versatile animation for comedic or chaotic gameplay.
+- `25_full_with_shadow/fs_116_3.png` (479x716) — Jester wielding dual swords; melee combat animation for fast-paced action.
+- `25_full_with_shadow/fs_117_1.png` (391x653) — Purple witch in elegant dress; magical spellcasting or idle stance.
+- `25_full_with_shadow/fs_117_2.png` (409x662) — Witch with floating stars; enchantment or summoning animation.
+- `25_full_with_shadow/fs_117_3.png` (461x673) — Witch holding staff; casting magic or ranged attack animation.
+- `25_full_with_shadow/fs_118_1.png` (314x676) — Bearded warrior in leather armor; grounded melee combat stance.
+- `25_full_with_shadow/fs_118_2.png` (380x676) — Warrior with dual blades; dynamic attack or defensive pose.
+- `25_full_with_shadow/fs_118_3.png` (569x676) — Warrior wielding axes; heavy-hitting melee animation.
+- `25_full_with_shadow/fs_119_1.png` (263x568) — Red-haired mage in dress; spellcasting or magical attack animation.
+- `25_full_with_shadow/fs_119_2.png` (365x567) — Mage with floating orb; casting or magical effect animation.
+- `25_full_with_shadow/fs_119_3.png` (353x568) — Mage holding mirror; defensive or magical reflection animation.
+- `25_full_with_shadow/fs_120_1.png` (460x673) — Blue-robed wizard with beard; arcane spellcasting or idle stance.
+- `25_full_with_shadow/fs_120_2.png` (437x673) — Wizard in ornate robes; magical attack or transformation animation.
+- `25_full_with_shadow/fs_120_3.png` (557x616) — Wizard holding skull; dark magic or summoning animation.
+- `25_full_with_shadow/fs_121_1.png` (239x658) — Purple-clad rogue; stealth or agility-based movement animation.
+- `25_full_with_shadow/fs_121_2.png` (346x661) — Rogue with dual pistols; ranged combat or quick attack animation.
+- `25_full_with_shadow/fs_121_3.png` (507x652) — Rogue with rifle and sword; hybrid combat or tactical stance.
+- `25_full_with_shadow/fs_122_1.png` (310x644) — Purple-draped dancer; graceful movement or dance animation.
+- `25_full_with_shadow/fs_122_2.png` (436x636) — Dancer with flowing skirt; acrobatic or performance animation.
+- `25_full_with_shadow/fs_122_3.png` (655x662) — Dancer with spinning blades; high-speed melee or combo animation.
+- `25_full_with_shadow/fs_123_1.png` (289x690) — Steampunk pirate with hat; ranged or mechanical attack animation.
+- `25_full_with_shadow/fs_123_2.png` (289x692) — Pirate with dual pistols; fast-paced combat or shooting animation.
+- `25_full_with_shadow/fs_123_3.png` (473x708) — Pirate with rifle; ranged combat or tactical positioning animation.
+- `25_full_with_shadow/fs_124_1.png` (268x666) — Female knight in ornate armor, ready for battle. Use as a playable character or NPC in fantasy RPGs.
+- `25_full_with_shadow/fs_124_2.png` (460x669) — Female warrior with flowing blue hair and armor, mid-action. Ideal for dynamic combat animations or cutscenes.
+- `25_full_with_shadow/fs_124_3.png` (402x734) — Female knight holding shield and spear. Perfect for defensive stance animations or team-based combat roles.
+- `25_full_with_shadow/fs_125_1.png` (323x541) — Angel with white wings and halo, standing calmly. Suitable for divine or support character designs.
+- `25_full_with_shadow/fs_125_2.png` (536x652) — Angel in flowing white robe, holding a staff. Great for healing or magic caster roles in fantasy games.
+- `25_full_with_shadow/fs_125_3.png` (462x644) — Angel archer with bow and wings, in dynamic pose. Excellent for ranged combat or agile character classes.
+- `25_pose/p_101.png` (2117x1207) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 1/25)
+- `25_pose/p_102.png` (2026x1122) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 2/25)
+- `25_pose/p_103.png` (1740x1213) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 3/25)
+- `25_pose/p_104.png` (1457x1076) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 4/25)
+- `25_pose/p_105.png` (1737x1235) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 5/25)
+- `25_pose/p_106.png` (1799x1210) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 6/25)
+- `25_pose/p_107.png` (2333x1500) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 7/25)
+- `25_pose/p_108.png` (1900x1075) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 8/25)
+- `25_pose/p_109.png` (1450x1176) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 9/25)
+- `25_pose/p_110.png` (1644x1122) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 10/25)
+- `25_pose/p_111.png` (2407x1234) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 11/25)
+- `25_pose/p_112.png` (1877x1138) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 12/25)
+- `25_pose/p_113.png` (1352x1067) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 13/25)
+- `25_pose/p_114.png` (2114x1268) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 14/25)
+- `25_pose/p_115.png` (1373x992) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 15/25)
+- `25_pose/p_116.png` (1569x1520) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 16/25)
+- `25_pose/p_117.png` (1904x1307) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 17/25)
+- `25_pose/p_118.png` (2400x1258) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 18/25)
+- `25_pose/p_119.png` (1822x1113) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 19/25)
+- `25_pose/p_120.png` (2230x1170) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 20/25)
+- `25_pose/p_121.png` (1146x1011) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 21/25)
+- `25_pose/p_122.png` (1923x1074) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 22/25)
+- `25_pose/p_123.png` (1618x1210) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 23/25)
+- `25_pose/p_124.png` (1811x1361) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 24/25)
+- `25_pose/p_125.png` (1663x1325) — Bearded warrior with sword and cape, aggressive stance. Use for melee fighters or boss characters. (frame 25/25)
+- `25_upper/101_1.png` (697x1010) — White-haired warrior with sword, mid-swing. Ideal for attack animations or fast-paced combat sequences.
+- `25_upper/101_2.png` (697x1010) — Red-haired mage with staff and cape, casting. Perfect for spellcasting or magical abilities.
+- `25_upper/101_3.png` (697x1010) — Heavy armored knight, standing confidently. Great for tank or frontline character designs.
+- `25_upper/101_4.png` (697x1010) — Armored knight with red accents, side view. Use for varied camera angles or character portraits.
+- `25_upper/101_5.png` (697x1010) — Armored knight, front view. Ideal for character selection screens or inventory displays.
+- `25_upper/101_6.png` (697x1010) — Armored knight, three-quarter view. Useful for detailed character models or 3D game assets.
+- `25_upper/102_1.png` (633x1008) — Green-robed mage with ornate headpiece, standing. Perfect for spellcaster or support roles.
+- `25_upper/102_2.png` (633x1008) — Green-robed mage, side view. Great for varied character perspectives or UI elements.
+- `25_upper/102_3.png` (633x1008) — Green-robed mage, three-quarter view. Useful for detailed character models or game cutscenes.
+- `25_upper/102_4.png` (633x1008) — Green-robed mage, front view. Ideal for character portraits or dialogue scenes.
+- `25_upper/102_5.png` (633x1008) — Green-robed mage, side view. Perfect for dynamic camera angles or battle animations.
+- `25_upper/102_6.png` (633x1008) — Green-robed mage, three-quarter view. Great for detailed character models or game UI.
+- `25_upper/103_1.png` (797x1138) — Dark-robed pirate with hat and sword, confident stance. Excellent for rogue or pirate character designs.
+- `25_upper/103_2.png` (797x1138) — Dark-robed pirate, side view. Ideal for varied camera angles or character portraits.
+- `25_upper/103_3.png` (797x1138) — Dark-robed pirate, three-quarter view. Perfect for detailed character models or game cutscenes.
+- `25_upper/103_4.png` (797x1138) — Male noble in ornate coat; dialogue or cutscene character.
+- `25_upper/103_5.png` (797x1138) — Male noble in ornate coat; dialogue or cutscene character.
+- `25_upper/103_6.png` (797x1138) — Male noble in ornate coat; dialogue or cutscene character.
+- `25_upper/104_1.png` (691x982) — Female in blue qipao; combat or idle animation.
+- `25_upper/104_2.png` (691x982) — Female in blue qipao; combat or idle animation.
+- `25_upper/104_3.png` (691x982) — Female in blue qipao; combat or idle animation.
+- `25_upper/104_4.png` (691x982) — Female in blue qipao; combat or idle animation.
+- `25_upper/104_5.png` (691x982) — Female in blue qipao; combat or idle animation.
+- `25_upper/104_6.png` (691x982) — Female in blue qipao; combat or idle animation.
+- `25_upper/105_1.png` (845x1182) — Bald warrior in armor; melee combat or stance.
+- `25_upper/105_2.png` (845x1182) — Bald warrior in armor; melee combat or stance.
+- `25_upper/105_3.png` (845x1182) — Bald warrior in armor; melee combat or stance.
+- `25_upper/105_4.png` (845x1182) — Bald warrior in armor; melee combat or stance.
+- `25_upper/105_5.png` (845x1182) — Bald warrior in armor; melee combat or stance.
+- `25_upper/105_6.png` (845x1182) — Bald warrior in armor; melee combat or stance.
+- `25_upper/106_1.png` (821x1071) — Fur-hooded character; cold environment or stealth.
+- `25_upper/106_2.png` (821x1071) — Fur-hooded character; cold environment or stealth.
+- `25_upper/106_3.png` (821x1071) — Fur-hooded character; cold environment or stealth.
+- `25_upper/106_4.png` (821x1071) — Fur-hooded character; cold environment or stealth.
+- `25_upper/106_5.png` (821x1071) — Fur-hooded character; cold environment or stealth.
+- `25_upper/106_6.png` (821x1071) — Fur-hooded character; cold environment or stealth.
+- `25_upper/107_1.png` (1213x1218) — Bearded warrior in fur cloak; boss or elite enemy.
+- `25_upper/107_2.png` (1213x1218) — Bearded warrior in fur cloak; boss or elite enemy.
+- `25_upper/107_3.png` (1213x1218) — Bearded warrior in fur cloak; boss or elite enemy.
+- `25_upper/107_4.png` (1213x1218) — Bearded king in fur-lined armor; boss or quest giver.
+- `25_upper/107_5.png` (1213x1218) — King with fur cloak, holding weapon; battle or dialogue pose.
+- `25_upper/107_6.png` (1213x1218) — King in armor, hand on chest; emotional or victory pose.
+- `25_upper/108_1.png` (674x977) — Female warrior with tribal attire; combat or idle animation.
+- `25_upper/108_2.png` (674x977) — Female warrior with tribal attire; standing pose.
+- `25_upper/108_3.png` (674x977) — Female warrior with tribal attire; side view.
+- `25_upper/108_4.png` (674x977) — Chef in white uniform; cooking or quest interaction.
+- `25_upper/108_5.png` (674x977) — Chef in white uniform; holding utensil; cooking pose.
+- `25_upper/108_6.png` (674x977) — Chef in white uniform; side view; cooking action.
+- `25_upper/109_1.png` (671x1063) — Red-haired noble in blue robes; standing pose.
+- `25_upper/109_2.png` (671x1063) — Noble in blue robes; hands clasped; dialogue or prayer.
+- `25_upper/109_3.png` (671x1063) — Noble in blue robes; side view; emotional expression.
+- `25_upper/109_4.png` (671x1063) — Noble in blue robes; front view; calm demeanor.
+- `25_upper/109_5.png` (671x1063) — Noble in blue robes; side view; calm stance.
+- `25_upper/109_6.png` (671x1063) — Noble in blue robes; front view; hands clasped.
+- `25_upper/110_1.png` (870x1103) — Red-haired warrior in blue armor; battle stance.
+- `25_upper/110_2.png` (870x1103) — Warrior in blue armor; side view; combat readiness.
+- `25_upper/110_3.png` (870x1103) — Warrior in blue armor; back view; battle stance.
+- `25_upper/110_4.png` (870x1103) — Warrior in blue armor; front view; battle stance.
+- `25_upper/110_5.png` (870x1103) — Warrior in blue armor; side view; battle stance.
+- `25_upper/110_6.png` (870x1103) — Warrior in blue armor; front view; battle stance.
+- `25_upper/111_1.png` (870x1105) — Warrior in blue armor; dynamic battle pose.
+- `25_upper/111_2.png` (870x1105) — Warrior in blue armor; side view; dynamic pose.
+- `25_upper/111_3.png` (870x1105) — Warrior in blue armor; back view; dynamic pose.
+- `25_upper/111_4.png` (870x1105) — Female warrior with red hair and blue armor, standing pose for character selection or cutscenes.
+- `25_upper/111_5.png` (870x1105) — Same female warrior, slightly turned, for varied animation frames or UI display.
+- `25_upper/111_6.png` (870x1105) — Same female warrior, different stance, for dynamic character presentation or combat animations.
+- `25_upper/112_1.png` (940x1064) — Bald male warrior in heavy armor, standing pose, for boss or elite enemy sprites.
+- `25_upper/112_2.png` (940x1064) — Same male warrior, slight turn, for animation variety or UI display.
+- `25_upper/112_3.png` (940x1064) — Same male warrior, different stance, for combat or cinematic use.
+- `25_upper/112_4.png` (940x1064) — White-haired male in blue and white armor, standing pose, for party member or NPC.
+- `25_upper/112_5.png` (940x1064) — Same white-haired male, turned slightly, for animation or UI variation.
+- `25_upper/112_6.png` (940x1064) — Same white-haired male, different stance, for dynamic character presentation.
+- `25_upper/113_1.png` (562x990) — Red-haired male in gold and blue armor, standing pose, for hero or quest giver.
+- `25_upper/113_2.png` (562x990) — Same red-haired male, slight turn, for animation or UI variation.
+- `25_upper/113_3.png` (562x990) — Same red-haired male, different stance, for combat or cinematic use.
+- `25_upper/113_4.png` (562x990) — Red-haired male in gold and blue armor, turned pose, for party member or NPC.
+- `25_upper/113_5.png` (562x990) — Same red-haired male, slight turn, for animation or UI variation.
+- `25_upper/113_6.png` (562x990) — Same red-haired male, different stance, for dynamic character presentation.
+- `25_upper/114_1.png` (769x1092) — Black-haired male in red and silver armor, standing pose, for hero or main character.
+- `25_upper/114_2.png` (769x1092) — Same black-haired male, slight turn, for animation or UI variation.
+- `25_upper/114_3.png` (769x1092) — Same black-haired male, different stance, for combat or cinematic use.
+- `25_upper/114_4.png` (769x1092) — Black-haired male in red and silver armor, turned pose, for party member or NPC.
+- `25_upper/114_5.png` (769x1092) — Same black-haired male, slight turn, for animation or UI variation.
+- `25_upper/114_6.png` (769x1092) — Same black-haired male, different stance, for dynamic character presentation.
+- `25_upper/115_1.png` (677x1011) — Black-haired male in red and silver armor, standing pose, for hero or main character.
+- `25_upper/115_2.png` (677x1011) — Same black-haired male, slight turn, for animation or UI variation.
+- `25_upper/115_3.png` (677x1011) — Same black-haired male, different stance, for combat or cinematic use.
+- `25_upper/115_4.png` (677x1011) — Male knight in red and silver armor, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/115_5.png` (677x1011) — Male knight in red and silver armor, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/115_6.png` (677x1011) — Male knight in red and silver armor, back view. Used for character sprites in fantasy RPGs.
+- `25_upper/116_1.png` (750x1155) — Male knight in red and silver armor, three-quarter view. Used for character sprites in fantasy RPGs.
+- `25_upper/116_2.png` (750x1155) — Female mage in red and blue outfit, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/116_3.png` (750x1155) — Female mage in red and blue outfit, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/116_4.png` (750x1155) — Female mage in red and blue outfit, back view. Used for character sprites in fantasy RPGs.
+- `25_upper/116_5.png` (750x1155) — Female mage in red and blue outfit, three-quarter view. Used for character sprites in fantasy RPGs.
+- `25_upper/116_6.png` (750x1155) — Female mage in red and blue outfit, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/117_1.png` (857x1126) — Female mage in purple dress with flower hat, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/117_2.png` (857x1126) — Female mage in purple dress with flower hat, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/117_3.png` (857x1126) — Female mage in purple dress with flower hat, back view. Used for character sprites in fantasy RPGs.
+- `25_upper/117_4.png` (857x1126) — Female mage in purple dress with flower hat, three-quarter view. Used for character sprites in fantasy RPGs.
+- `25_upper/117_5.png` (857x1126) — Female mage in purple dress with flower hat, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/117_6.png` (857x1126) — Female mage in purple dress with flower hat, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/118_1.png` (753x1171) — Male warrior in dark armor, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/118_2.png` (753x1171) — Male warrior in dark armor, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/118_3.png` (753x1171) — Male warrior in dark armor, back view. Used for character sprites in fantasy RPGs.
+- `25_upper/118_4.png` (753x1171) — Male warrior in dark armor, three-quarter view. Used for character sprites in fantasy RPGs.
+- `25_upper/118_5.png` (753x1171) — Male warrior in dark armor, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/118_6.png` (753x1171) — Male warrior in dark armor, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/119_1.png` (738x984) — Female mage in white dress with red hair, front view. Used for character sprites in fantasy RPGs.
+- `25_upper/119_2.png` (738x984) — Female mage in white dress with red hair, side view. Used for character sprites in fantasy RPGs.
+- `25_upper/119_3.png` (738x984) — Female mage in white dress with red hair, back view. Used for character sprites in fantasy RPGs.
+- `25_upper/119_4.png` (738x984) — Red-haired mage with staff; fantasy RPG character sprite.
+- `25_upper/119_5.png` (738x984) — Red-haired mage with staff; fantasy RPG character sprite.
+- `25_upper/119_6.png` (738x984) — Red-haired mage with staff; fantasy RPG character sprite.
+- `25_upper/120_1.png` (1007x1086) — Bearded wizard in dark robe; fantasy RPG character sprite.
+- `25_upper/120_2.png` (1007x1086) — Bearded wizard in dark robe; fantasy RPG character sprite.
+- `25_upper/120_3.png` (1007x1086) — Bearded wizard in dark robe; fantasy RPG character sprite.
+- `25_upper/120_4.png` (1007x1086) — Bearded wizard in dark robe; fantasy RPG character sprite.
+- `25_upper/120_5.png` (1007x1086) — Bearded wizard in dark robe; fantasy RPG character sprite.
+- `25_upper/120_6.png` (1007x1086) — Bearded wizard in dark robe; fantasy RPG character sprite.
+- `25_upper/121_1.png` (813x1016) — Dark-haired female in purple outfit; fantasy RPG character sprite.
+- `25_upper/121_2.png` (813x1016) — Dark-haired female in purple outfit; fantasy RPG character sprite.
+- `25_upper/121_3.png` (813x1016) — Dark-haired female in purple outfit; fantasy RPG character sprite.
+- `25_upper/121_4.png` (813x1016) — Dark-haired female in purple outfit; fantasy RPG character sprite.
+- `25_upper/121_5.png` (813x1016) — Dark-haired female in purple outfit; fantasy RPG character sprite.
+- `25_upper/121_6.png` (813x1016) — Dark-haired female in purple outfit; fantasy RPG character sprite.
+- `25_upper/122_1.png` (817x1012) — Masked female in blue outfit; fantasy RPG character sprite.
+- `25_upper/122_2.png` (817x1012) — Masked female in blue outfit; fantasy RPG character sprite.
+- `25_upper/122_3.png` (817x1012) — Masked female in blue outfit; fantasy RPG character sprite.
+- `25_upper/122_4.png` (817x1012) — Masked female in blue outfit; fantasy RPG character sprite.
+- `25_upper/122_5.png` (817x1012) — Masked female in blue outfit; fantasy RPG character sprite.
+- `25_upper/122_6.png` (817x1012) — Masked female in blue outfit; fantasy RPG character sprite.
+- `25_upper/123_1.png` (767x1117) — Bearded male in armor; fantasy RPG character sprite.
+- `25_upper/123_2.png` (767x1117) — Bearded male in armor; fantasy RPG character sprite.
+- `25_upper/123_3.png` (767x1117) — Bearded male in armor; fantasy RPG character sprite.
+- `25_upper/123_4.png` (767x1117) — Male knight in dark armor, front view. Used for character models or cutscenes.
+- `25_upper/123_5.png` (767x1117) — Male knight in dark armor, side view. Used for character models or cutscenes.
+- `25_upper/123_6.png` (767x1117) — Male knight in dark armor, back view. Used for character models or cutscenes.
+- `25_upper/124_1.png` (752x1138) — Female knight in silver armor, front view. Used for character models or cutscenes.
+- `25_upper/124_2.png` (752x1138) — Female knight in silver armor, side view. Used for character models or cutscenes.
+- `25_upper/124_3.png` (752x1138) — Female knight in silver armor, back view. Used for character models or cutscenes.
+- `25_upper/124_4.png` (752x1138) — Female knight in silver armor, front view. Used for character models or cutscenes.
+- `25_upper/124_5.png` (752x1138) — Female knight in silver armor, side view. Used for character models or cutscenes.
+- `25_upper/124_6.png` (752x1138) — Female knight in silver armor, back view. Used for character models or cutscenes.
+- `25_upper/125_1.png` (893x993) — Angel with white wings, front view. Used for character models or cutscenes.
+- `25_upper/125_2.png` (893x993) — Angel with white wings, side view. Used for character models or cutscenes.
+- `25_upper/125_3.png` (893x993) — Angel with white wings, back view. Used for character models or cutscenes.
+- `25_upper/125_4.png` (893x993) — Angel with white wings, front view. Used for character models or cutscenes.
+- `25_upper/125_5.png` (893x993) — Angel with white wings, side view. Used for character models or cutscenes.
+- `25_upper/125_6.png` (893x993) — Angel with white wings, back view. Used for character models or cutscenes.
+- `background_char_ready/background_1.png` (1920x1080) — Stone bridge over water, urban environment. Used for level design or background.
+- `background_char_ready/background_2.png` (1920x1080) — Cityscape with buildings, open plaza. Used for level design or background.
+- `background_char_ready/background_3.png` (1920x1080) — Wooden interior with torches, tavern-like. Used for level design or background.
+- `background_char_ready/background_4.png` (1920x1080) — Traditional East Asian street with torii gate. Used for level design or background.
+- `background_char_ready/background_5.png` (1920x1080) — Open grassy field with distant mountains. Used for level design or background.

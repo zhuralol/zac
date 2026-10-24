@@ -1,0 +1,1409 @@
+{
+  "slug": "weapons-and-tools",
+  "itch": {
+    "game_id": "local-weapons-and-tools",
+    "title": "weapons_and_tools",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "CC BY 4.0",
+      "confidence": "high",
+      "source": "LICENSE.txt",
+      "raw_span": "Licensed under the terms of the CC-By 4.0 license. https://creativecommons.org/licenses/by/4.0/ This means: - You may freely copy and distribute this material in any medi"
+    },
+    "requires_attribution": "yes",
+    "credit_line": "weapons_and_tools by unknown author — CC BY 4.0"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/weapons_and_tools",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 11,
+    "total_bytes": 97413,
+    "total_human": "95.1 KB",
+    "categories": {
+      "images": {
+        "count": 7,
+        "bytes": 60617,
+        "label": "sprites/textures"
+      },
+      "source_projects": {
+        "count": 3,
+        "bytes": 36172,
+        "label": "source projects"
+      },
+      "docs": {
+        "count": 1,
+        "bytes": 624,
+        "label": "docs/licenses"
+      }
+    },
+    "notable_files": {
+      "docs": [
+        "LICENSE.txt"
+      ],
+      "images": [
+        "extra_resources.png",
+        "extra_resources_outlined.png",
+        "preview.png",
+        "resources.png",
+        "title.png",
+        "weapon_and_tools.png",
+        "weapon_and_tools_outlined.png"
+      ],
+      "source_projects": [
+        "resources.ase",
+        "title.ase",
+        "weapon_and_tools.ase"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "LICENSE.txt",
+        "size": 624,
+        "category": "docs",
+        "description": "Document: LICENSE."
+      },
+      {
+        "path": "extra_resources.png",
+        "size": 2095,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 48,
+          "height": 72,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "65-128",
+          "palette": 28,
+          "palette_bucket": "<=32"
+        },
+        "description": "Metal helmet and leather belt; character equipment for RPGs."
+      },
+      {
+        "path": "extra_resources_outlined.png",
+        "size": 2086,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 48,
+          "height": 72,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "65-128",
+          "palette": 28,
+          "palette_bucket": "<=32"
+        },
+        "description": "Metal helmet and leather belt; character equipment for RPGs."
+      },
+      {
+        "path": "preview.png",
+        "size": 13816,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 336,
+          "height": 238,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 58,
+          "palette_bucket": "<=64"
+        },
+        "description": "Master Work logo with assorted tools; game title or workshop UI."
+      },
+      {
+        "path": "resources.ase",
+        "size": 2605,
+        "category": "source_projects",
+        "description": "Editable source project: Resources."
+      },
+      {
+        "path": "resources.png",
+        "size": 2095,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 48,
+          "height": 72,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "65-128",
+          "palette": 28,
+          "palette_bucket": "<=32"
+        },
+        "description": "Metal helmet and leather belt; character equipment for RPGs."
+      },
+      {
+        "path": "title.ase",
+        "size": 19147,
+        "category": "source_projects",
+        "description": "Editable source project: Title."
+      },
+      {
+        "path": "title.png",
+        "size": 21661,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 432,
+          "height": 432,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "129-512",
+          "palette": 62,
+          "palette_bucket": "<=64"
+        },
+        "description": "Master Work logo with assorted tools; game title or workshop UI."
+      },
+      {
+        "path": "weapon_and_tools.ase",
+        "size": 14420,
+        "category": "source_projects",
+        "description": "Editable source project: Weapon and tools."
+      },
+      {
+        "path": "weapon_and_tools.png",
+        "size": 9415,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 192,
+          "height": 168,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 83,
+          "palette_bucket": "<=128"
+        },
+        "description": "Pixel art weapons and tools sprite sheet with 56 distinct items.",
+        "sheet": {
+          "grid": {
+            "cols": 8,
+            "rows": 7,
+            "cell_w": 24,
+            "cell_h": 24,
+            "gutter": 0.89,
+            "fill": 1.0,
+            "cells": 56
+          },
+          "kind": "atlas",
+          "cells": [
+            {
+              "index": 0,
+              "row": 0,
+              "col": 0,
+              "x": 0,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 1,
+              "row": 0,
+              "col": 1,
+              "x": 24,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 2,
+              "row": 0,
+              "col": 2,
+              "x": 48,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "torch"
+            },
+            {
+              "index": 3,
+              "row": 0,
+              "col": 3,
+              "x": 72,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "bow"
+            },
+            {
+              "index": 4,
+              "row": 0,
+              "col": 4,
+              "x": 96,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "helmet"
+            },
+            {
+              "index": 5,
+              "row": 0,
+              "col": 5,
+              "x": 120,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 6,
+              "row": 0,
+              "col": 6,
+              "x": 144,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 7,
+              "row": 0,
+              "col": 7,
+              "x": 168,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 8,
+              "row": 1,
+              "col": 0,
+              "x": 0,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 9,
+              "row": 1,
+              "col": 1,
+              "x": 24,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 10,
+              "row": 1,
+              "col": 2,
+              "x": 48,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "dagger"
+            },
+            {
+              "index": 11,
+              "row": 1,
+              "col": 3,
+              "x": 72,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "bow"
+            },
+            {
+              "index": 12,
+              "row": 1,
+              "col": 4,
+              "x": 96,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "armor"
+            },
+            {
+              "index": 13,
+              "row": 1,
+              "col": 5,
+              "x": 120,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 14,
+              "row": 1,
+              "col": 6,
+              "x": 144,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 15,
+              "row": 1,
+              "col": 7,
+              "x": 168,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 16,
+              "row": 2,
+              "col": 0,
+              "x": 0,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 17,
+              "row": 2,
+              "col": 1,
+              "x": 24,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 18,
+              "row": 2,
+              "col": 2,
+              "x": 48,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 19,
+              "row": 2,
+              "col": 3,
+              "x": 72,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "crossbow"
+            },
+            {
+              "index": 20,
+              "row": 2,
+              "col": 4,
+              "x": 96,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 21,
+              "row": 2,
+              "col": 5,
+              "x": 120,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 22,
+              "row": 2,
+              "col": 6,
+              "x": 144,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 23,
+              "row": 2,
+              "col": 7,
+              "x": 168,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 24,
+              "row": 3,
+              "col": 0,
+              "x": 0,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 25,
+              "row": 3,
+              "col": 1,
+              "x": 24,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 26,
+              "row": 3,
+              "col": 2,
+              "x": 48,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 27,
+              "row": 3,
+              "col": 3,
+              "x": 72,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "gun"
+            },
+            {
+              "index": 28,
+              "row": 3,
+              "col": 4,
+              "x": 96,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "hammer"
+            },
+            {
+              "index": 29,
+              "row": 3,
+              "col": 5,
+              "x": 120,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "wooden block"
+            },
+            {
+              "index": 30,
+              "row": 3,
+              "col": 6,
+              "x": 144,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "wooden block"
+            },
+            {
+              "index": 31,
+              "row": 3,
+              "col": 7,
+              "x": 168,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "wooden block"
+            },
+            {
+              "index": 32,
+              "row": 4,
+              "col": 0,
+              "x": 0,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 33,
+              "row": 4,
+              "col": 1,
+              "x": 24,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 34,
+              "row": 4,
+              "col": 2,
+              "x": 48,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "dagger"
+            },
+            {
+              "index": 35,
+              "row": 4,
+              "col": 3,
+              "x": 72,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 36,
+              "row": 4,
+              "col": 4,
+              "x": 96,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 37,
+              "row": 4,
+              "col": 5,
+              "x": 120,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 38,
+              "row": 4,
+              "col": 6,
+              "x": 144,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "hammer"
+            },
+            {
+              "index": 39,
+              "row": 4,
+              "col": 7,
+              "x": 168,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "scythe"
+            },
+            {
+              "index": 40,
+              "row": 5,
+              "col": 0,
+              "x": 0,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 41,
+              "row": 5,
+              "col": 1,
+              "x": 24,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 42,
+              "row": 5,
+              "col": 2,
+              "x": 48,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 43,
+              "row": 5,
+              "col": 3,
+              "x": 72,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 44,
+              "row": 5,
+              "col": 4,
+              "x": 96,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 45,
+              "row": 5,
+              "col": 5,
+              "x": 120,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 46,
+              "row": 5,
+              "col": 6,
+              "x": 144,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "shovel"
+            },
+            {
+              "index": 47,
+              "row": 5,
+              "col": 7,
+              "x": 168,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "shovel"
+            },
+            {
+              "index": 48,
+              "row": 6,
+              "col": 0,
+              "x": 0,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 49,
+              "row": 6,
+              "col": 1,
+              "x": 24,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 50,
+              "row": 6,
+              "col": 2,
+              "x": 48,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 51,
+              "row": 6,
+              "col": 3,
+              "x": 72,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 52,
+              "row": 6,
+              "col": 4,
+              "x": 96,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 53,
+              "row": 6,
+              "col": 5,
+              "x": 120,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 54,
+              "row": 6,
+              "col": 6,
+              "x": 144,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 55,
+              "row": 6,
+              "col": 7,
+              "x": 168,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            }
+          ]
+        }
+      },
+      {
+        "path": "weapon_and_tools_outlined.png",
+        "size": 9449,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 192,
+          "height": 168,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette": 83,
+          "palette_bucket": "<=128"
+        },
+        "description": "Pixel art sprite sheet containing various weapons and tools for game assets.",
+        "sheet": {
+          "grid": {
+            "cols": 8,
+            "rows": 7,
+            "cell_w": 24,
+            "cell_h": 24,
+            "gutter": 0.86,
+            "fill": 1.0,
+            "cells": 56
+          },
+          "kind": "atlas",
+          "cells": [
+            {
+              "index": 0,
+              "row": 0,
+              "col": 0,
+              "x": 0,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 1,
+              "row": 0,
+              "col": 1,
+              "x": 24,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 2,
+              "row": 0,
+              "col": 2,
+              "x": 48,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "bow"
+            },
+            {
+              "index": 3,
+              "row": 0,
+              "col": 3,
+              "x": 72,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "crossbow"
+            },
+            {
+              "index": 4,
+              "row": 0,
+              "col": 4,
+              "x": 96,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "mace"
+            },
+            {
+              "index": 5,
+              "row": 0,
+              "col": 5,
+              "x": 120,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 6,
+              "row": 0,
+              "col": 6,
+              "x": 144,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 7,
+              "row": 0,
+              "col": 7,
+              "x": 168,
+              "y": 0,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 8,
+              "row": 1,
+              "col": 0,
+              "x": 0,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "dagger"
+            },
+            {
+              "index": 9,
+              "row": 1,
+              "col": 1,
+              "x": 24,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 10,
+              "row": 1,
+              "col": 2,
+              "x": 48,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "spear"
+            },
+            {
+              "index": 11,
+              "row": 1,
+              "col": 3,
+              "x": 72,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "bow"
+            },
+            {
+              "index": 12,
+              "row": 1,
+              "col": 4,
+              "x": 96,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 13,
+              "row": 1,
+              "col": 5,
+              "x": 120,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 14,
+              "row": 1,
+              "col": 6,
+              "x": 144,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 15,
+              "row": 1,
+              "col": 7,
+              "x": 168,
+              "y": 24,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 16,
+              "row": 2,
+              "col": 0,
+              "x": 0,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 17,
+              "row": 2,
+              "col": 1,
+              "x": 24,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 18,
+              "row": 2,
+              "col": 2,
+              "x": 48,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 19,
+              "row": 2,
+              "col": 3,
+              "x": 72,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "crossbow"
+            },
+            {
+              "index": 20,
+              "row": 2,
+              "col": 4,
+              "x": 96,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 21,
+              "row": 2,
+              "col": 5,
+              "x": 120,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 22,
+              "row": 2,
+              "col": 6,
+              "x": 144,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 23,
+              "row": 2,
+              "col": 7,
+              "x": 168,
+              "y": 48,
+              "w": 24,
+              "h": 24,
+              "description": "shield"
+            },
+            {
+              "index": 24,
+              "row": 3,
+              "col": 0,
+              "x": 0,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 25,
+              "row": 3,
+              "col": 1,
+              "x": 24,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 26,
+              "row": 3,
+              "col": 2,
+              "x": 48,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 27,
+              "row": 3,
+              "col": 3,
+              "x": 72,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "gun"
+            },
+            {
+              "index": 28,
+              "row": 3,
+              "col": 4,
+              "x": 96,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "hammer"
+            },
+            {
+              "index": 29,
+              "row": 3,
+              "col": 5,
+              "x": 120,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "wood"
+            },
+            {
+              "index": 30,
+              "row": 3,
+              "col": 6,
+              "x": 144,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "cloth"
+            },
+            {
+              "index": 31,
+              "row": 3,
+              "col": 7,
+              "x": 168,
+              "y": 72,
+              "w": 24,
+              "h": 24,
+              "description": "cloth"
+            },
+            {
+              "index": 32,
+              "row": 4,
+              "col": 0,
+              "x": 0,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 33,
+              "row": 4,
+              "col": 1,
+              "x": 24,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 34,
+              "row": 4,
+              "col": 2,
+              "x": 48,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 35,
+              "row": 4,
+              "col": 3,
+              "x": 72,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 36,
+              "row": 4,
+              "col": 4,
+              "x": 96,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 37,
+              "row": 4,
+              "col": 5,
+              "x": 120,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 38,
+              "row": 4,
+              "col": 6,
+              "x": 144,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "hammer"
+            },
+            {
+              "index": 39,
+              "row": 4,
+              "col": 7,
+              "x": 168,
+              "y": 96,
+              "w": 24,
+              "h": 24,
+              "description": "scythe"
+            },
+            {
+              "index": 40,
+              "row": 5,
+              "col": 0,
+              "x": 0,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 41,
+              "row": 5,
+              "col": 1,
+              "x": 24,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 42,
+              "row": 5,
+              "col": 2,
+              "x": 48,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 43,
+              "row": 5,
+              "col": 3,
+              "x": 72,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 44,
+              "row": 5,
+              "col": 4,
+              "x": 96,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 45,
+              "row": 5,
+              "col": 5,
+              "x": 120,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 46,
+              "row": 5,
+              "col": 6,
+              "x": 144,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "axe"
+            },
+            {
+              "index": 47,
+              "row": 5,
+              "col": 7,
+              "x": 168,
+              "y": 120,
+              "w": 24,
+              "h": 24,
+              "description": "shovel"
+            },
+            {
+              "index": 48,
+              "row": 6,
+              "col": 0,
+              "x": 0,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 49,
+              "row": 6,
+              "col": 1,
+              "x": 24,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 50,
+              "row": 6,
+              "col": 2,
+              "x": 48,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 51,
+              "row": 6,
+              "col": 3,
+              "x": 72,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 52,
+              "row": 6,
+              "col": 4,
+              "x": 96,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 53,
+              "row": 6,
+              "col": 5,
+              "x": 120,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 54,
+              "row": 6,
+              "col": 6,
+              "x": 144,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            },
+            {
+              "index": 55,
+              "row": 6,
+              "col": 7,
+              "x": 168,
+              "y": 144,
+              "w": 24,
+              "h": 24,
+              "description": "sword"
+            }
+          ]
+        }
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [
+      "LICENSE.txt"
+    ],
+    "probe": {
+      "images": {
+        "count": 7,
+        "pixel_art": 5,
+        "size_buckets": {
+          "65-128": 3,
+          "129-512": 4
+        },
+        "palette_buckets": {
+          "<=32": 3,
+          "<=64": 2,
+          "<=128": 2
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "weapons_and_tools"
+  },
+  "summary": "weapons_and_tools by unknown author: 11 files (95.1 KB) — 7 images (5 pixel-art, mostly 129-512 px), 3 source projects, 1 docs/licenses.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:32:57Z",
+  "content": {
+    "description": "Pixel-art blacksmith inventory atlas titled \"Master Work\": swords, axes, maces, spears, crossbows, shields, helmets, bombs, potions, tools and miscellaneous gear arranged on 192x168 sprite sheets, with a second outlined variant plus extra resource props. Steel, leather and red accents on transparent backgrounds. Designed as item icons for inventories, loot drops, shops and crafting UI in pixel-art RPGs.",
+    "model": "manual",
+    "described_at": "2026-10-24T21:11:53Z",
+    "samples": null
+  }
+}

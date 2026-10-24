@@ -1,0 +1,164 @@
+{
+  "slug": "fantasyuifree",
+  "itch": {
+    "game_id": "local-fantasyuifree",
+    "title": "FantasyUIfree",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "unspecified",
+      "confidence": "none",
+      "source": null,
+      "raw_span": null
+    },
+    "requires_attribution": "unknown",
+    "credit_line": "FantasyUIfree by unknown author [license requires manual verification]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/FantasyUIfree",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 4,
+    "total_bytes": 29240,
+    "total_human": "28.6 KB",
+    "categories": {
+      "images": {
+        "count": 4,
+        "bytes": 29240,
+        "label": "sprites/textures"
+      }
+    },
+    "notable_files": {
+      "images": [
+        "DragonHpBar2.png",
+        "DragonHpBar3.png",
+        "Dragonhpbar.png",
+        "freefantasy.png"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "DragonHpBar2.png",
+        "size": 1804,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 896,
+          "height": 32,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 16,
+          "palette_bucket": "<=16"
+        },
+        "description": "Red health bar; displays player's current health in combat or exploration."
+      },
+      {
+        "path": "DragonHpBar3.png",
+        "size": 1817,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 896,
+          "height": 32,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 16,
+          "palette_bucket": "<=16"
+        },
+        "description": "Wooden sign with 'PLAY', 'LOAD', 'EXIT'; main menu interface buttons."
+      },
+      {
+        "path": "Dragonhpbar.png",
+        "size": 1855,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 896,
+          "height": 32,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": ">512",
+          "palette": 16,
+          "palette_bucket": "<=16"
+        },
+        "description": "Empty wooden sign; placeholder for custom text or dynamic game messages."
+      },
+      {
+        "path": "freefantasy.png",
+        "size": 23764,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 256,
+          "height": 256,
+          "frames": 1,
+          "pixel_art": false,
+          "size_bucket": "129-512",
+          "palette_bucket": ">256"
+        },
+        "description": "Numeric keypad and symbols; input for inventory, crafting, or puzzle solving."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [],
+    "probe": {
+      "images": {
+        "count": 4,
+        "pixel_art": 0,
+        "size_buckets": {
+          ">512": 3,
+          "129-512": 1
+        },
+        "palette_buckets": {
+          "<=16": 3,
+          ">256": 1
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "FantasyUIfree"
+  },
+  "summary": "FantasyUIfree by unknown author: 4 files (28.6 KB) — 4 images (mostly >512 px).",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:40:22Z",
+  "content": {
+    "description": "Pixel-art wooden fantasy UI kit: menu panels with Play/Load/Exit and options layouts, a three-state red health bar, a wooden crate/chest, gold and blue orb icons, small checkbox and button states, directional arrow buttons, and coloured gem indicators. Warm brown wood with gold trim. Suited to RPG menus, HUD frames and dialog boxes in pixel-art games; pieces are separate PNGs on transparent backgrounds (256x256 sheet plus 896x32 bar strips).",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:32Z",
+    "samples": null
+  }
+}

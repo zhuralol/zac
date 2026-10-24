@@ -1,0 +1,339 @@
+{
+  "slug": "codexlevelbuilder1-1-1",
+  "itch": {
+    "game_id": "local-codexlevelbuilder1-1-1",
+    "title": "CodexLevelBuilder1.1.1",
+    "url": null,
+    "author": null,
+    "author_url": null,
+    "classification": "assets",
+    "cover_url": null,
+    "published_at": null,
+    "created_at": null,
+    "acquired": "local",
+    "owned_key": false,
+    "sources": [
+      "local-import"
+    ]
+  },
+  "description": "",
+  "tags": [],
+  "attribution": {
+    "author": null,
+    "author_url": null,
+    "published_at": null,
+    "license": {
+      "type": "custom (see addons/codex/LICENSE.txt)",
+      "confidence": "medium",
+      "source": "addons/codex/LICENSE.txt",
+      "raw_span": "--Codex Level Builder--\r\nCreated by Ugly Duckling Games\r\n\r\nFeel free to modify and redistribute Codex as you please.\r\nJust keep this file."
+    },
+    "requires_attribution": "unknown",
+    "credit_line": "CodexLevelBuilder1.1.1 by unknown author — custom (see addons/codex/LICENSE.txt) [license requires manual verification]"
+  },
+  "local": {
+    "downloaded": true,
+    "path": "/var/home/zhura/Projects/downloads/CodexLevelBuilder1.1.1",
+    "scanned_at": "2026-10-24T21:20:08Z",
+    "file_count": 29,
+    "total_bytes": 1304986,
+    "total_human": "1.2 MB",
+    "categories": {
+      "other": {
+        "count": 21,
+        "bytes": 51212,
+        "label": "other"
+      },
+      "vector": {
+        "count": 3,
+        "bytes": 6054,
+        "label": "vector art"
+      },
+      "images": {
+        "count": 3,
+        "bytes": 501,
+        "label": "sprites/textures"
+      },
+      "docs": {
+        "count": 2,
+        "bytes": 1247219,
+        "label": "docs/licenses"
+      }
+    },
+    "notable_files": {
+      "docs": [
+        "Codex Documentation.pdf",
+        "addons/codex/LICENSE.txt"
+      ],
+      "other": [
+        "addons/codex/level_builder_addon.gd",
+        "addons/codex/plugin.cfg",
+        "addons/codex/classes/face_shading.gd",
+        "addons/codex/classes/level_mesh_builder.gd",
+        "addons/codex/classes/level_tile.gd",
+        "addons/codex/classes/level_tile_cull.gd",
+        "addons/codex/classes/level_tile_invisible.gd",
+        "addons/codex/classes/levelchunk.gd"
+      ],
+      "vector": [
+        "addons/codex/classes/icons/LevelBuilder.svg",
+        "addons/codex/classes/icons/LevelChunk.svg",
+        "addons/codex/classes/icons/LevelTile.svg"
+      ],
+      "images": [
+        "addons/codex/textures/Default.png",
+        "addons/codex/textures/NoDraw1.png",
+        "addons/codex/textures/NoDraw2.png"
+      ]
+    },
+    "manifest": [
+      {
+        "path": "Codex Documentation.pdf",
+        "size": 1247081,
+        "category": "docs",
+        "description": "Document: Codex Documentation."
+      },
+      {
+        "path": "addons/codex/LICENSE.txt",
+        "size": 138,
+        "category": "docs",
+        "description": "Document: LICENSE."
+      },
+      {
+        "path": "addons/codex/level_builder_addon.gd",
+        "size": 3352,
+        "category": "other",
+        "description": "File: Level builder addon."
+      },
+      {
+        "path": "addons/codex/plugin.cfg",
+        "size": 316,
+        "category": "other",
+        "description": "File: Plugin."
+      },
+      {
+        "path": "addons/codex/classes/face_shading.gd",
+        "size": 378,
+        "category": "other",
+        "description": "File: Face shading."
+      },
+      {
+        "path": "addons/codex/classes/level_mesh_builder.gd",
+        "size": 26533,
+        "category": "other",
+        "description": "File: Level mesh builder."
+      },
+      {
+        "path": "addons/codex/classes/level_tile.gd",
+        "size": 6485,
+        "category": "other",
+        "description": "File: Level tile."
+      },
+      {
+        "path": "addons/codex/classes/level_tile_cull.gd",
+        "size": 201,
+        "category": "other",
+        "description": "File: Level tile cull."
+      },
+      {
+        "path": "addons/codex/classes/level_tile_invisible.gd",
+        "size": 277,
+        "category": "other",
+        "description": "File: Level tile invisible."
+      },
+      {
+        "path": "addons/codex/classes/levelchunk.gd",
+        "size": 407,
+        "category": "other",
+        "description": "File: Levelchunk."
+      },
+      {
+        "path": "addons/codex/classes/levelmaterial.gd",
+        "size": 602,
+        "category": "other",
+        "description": "File: Levelmaterial."
+      },
+      {
+        "path": "addons/codex/classes/material_properties.gd",
+        "size": 543,
+        "category": "other",
+        "description": "File: Material properties."
+      },
+      {
+        "path": "addons/codex/classes/tile_shape_data.gd",
+        "size": 298,
+        "category": "other",
+        "description": "File: Tile shape data."
+      },
+      {
+        "path": "addons/codex/classes/icons/LevelBuilder.svg",
+        "size": 1708,
+        "category": "vector",
+        "description": "Vector graphic: LevelBuilder."
+      },
+      {
+        "path": "addons/codex/classes/icons/LevelBuilder.svg.import",
+        "size": 894,
+        "category": "other",
+        "description": "File: LevelBuilder.svg."
+      },
+      {
+        "path": "addons/codex/classes/icons/LevelChunk.svg",
+        "size": 2146,
+        "category": "vector",
+        "description": "Vector graphic: LevelChunk."
+      },
+      {
+        "path": "addons/codex/classes/icons/LevelChunk.svg.import",
+        "size": 888,
+        "category": "other",
+        "description": "File: LevelChunk.svg."
+      },
+      {
+        "path": "addons/codex/classes/icons/LevelTile.svg",
+        "size": 2200,
+        "category": "vector",
+        "description": "Vector graphic: LevelTile."
+      },
+      {
+        "path": "addons/codex/classes/icons/LevelTile.svg.import",
+        "size": 885,
+        "category": "other",
+        "description": "File: LevelTile.svg."
+      },
+      {
+        "path": "addons/codex/globals/lb_global.gd",
+        "size": 4271,
+        "category": "other",
+        "description": "File: Lb global."
+      },
+      {
+        "path": "addons/codex/materials/material_default.tres",
+        "size": 776,
+        "category": "other",
+        "description": "File: Material default."
+      },
+      {
+        "path": "addons/codex/materials/material_invis_wall.tres",
+        "size": 842,
+        "category": "other",
+        "description": "File: Material invis wall."
+      },
+      {
+        "path": "addons/codex/materials/material_nodraw.tres",
+        "size": 841,
+        "category": "other",
+        "description": "File: Material nodraw."
+      },
+      {
+        "path": "addons/codex/textures/Default.png",
+        "size": 153,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 32,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "17-32",
+          "palette": 2,
+          "palette_bucket": "<=16"
+        },
+        "description": "Checkerboard floor texture; game environments or UI backgrounds."
+      },
+      {
+        "path": "addons/codex/textures/Default.png.import",
+        "size": 776,
+        "category": "other",
+        "description": "File: Default.png."
+      },
+      {
+        "path": "addons/codex/textures/NoDraw1.png",
+        "size": 181,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 32,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "17-32",
+          "palette": 2,
+          "palette_bucket": "<=16"
+        },
+        "description": "Diagonal red stripes; hazard zones or UI elements."
+      },
+      {
+        "path": "addons/codex/textures/NoDraw1.png.import",
+        "size": 824,
+        "category": "other",
+        "description": "File: NoDraw1.png."
+      },
+      {
+        "path": "addons/codex/textures/NoDraw2.png",
+        "size": 167,
+        "category": "images",
+        "facts": {
+          "kind": "image",
+          "width": 32,
+          "height": 32,
+          "frames": 1,
+          "pixel_art": true,
+          "size_bucket": "17-32",
+          "palette": 2,
+          "palette_bucket": "<=16"
+        },
+        "description": "Diagonal orange-yellow stripes; warm lighting effects or decorative patterns."
+      },
+      {
+        "path": "addons/codex/textures/NoDraw2.png.import",
+        "size": 823,
+        "category": "other",
+        "description": "File: NoDraw2.png."
+      }
+    ],
+    "manifest_truncated": false,
+    "animation_sequences": 0,
+    "archive_count": 0,
+    "docs": [
+      "Codex Documentation.pdf",
+      "addons/codex/LICENSE.txt"
+    ],
+    "probe": {
+      "images": {
+        "count": 3,
+        "pixel_art": 3,
+        "size_buckets": {
+          "17-32": 3
+        },
+        "palette_buckets": {
+          "<=16": 3
+        },
+        "animated_frames": 0
+      },
+      "audio": {
+        "count": 0,
+        "sfx": 0,
+        "music": 0,
+        "other": 0,
+        "total_duration": 0.0
+      },
+      "models_3d": {
+        "count": 0,
+        "meshes": 0,
+        "animations": 0
+      },
+      "unprobed": 0
+    },
+    "folder": "CodexLevelBuilder1.1.1"
+  },
+  "summary": "CodexLevelBuilder1.1.1 by unknown author: 29 files (1.2 MB) — 3 images (3 pixel-art, mostly 17-32 px), 3 vector art, 2 docs/licenses.",
+  "created_at": "2026-10-24T15:45:26Z",
+  "updated_at": "2026-10-24T21:33:24Z",
+  "content": {
+    "description": "Three 32x32 editor textures from the Codex Level Builder Godot addon: a skin-toned checker, red/black hazard stripes, and orange/yellow diagonal stripes. These are tool/gizmo and preview textures, not game-ready art. Useful only if you are working on the Codex addon itself or need a quick warning/checker swatch in an editor UI.",
+    "model": "manual",
+    "described_at": "2026-10-24T16:05:32Z",
+    "samples": null
+  }
+}

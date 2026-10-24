@@ -1,0 +1,718 @@
+# ttrpg_legend_too-many-charaters_1.1.1 — file catalogue
+
+Generated 2026-10-24T22:11:55Z · 706 files
+
+**Path:** `/var/home/zhura/Projects/downloads/ttrpg_legend_too-many-charaters_1.1.1`
+**Credit:** ttrpg_legend_too-many-charaters_1.1.1 by unknown author — Custom (attribution required)
+
+## sprites/textures (703)
+
+- `Faceset/avatar_attorney_darkelve_man_01.png` (512x505) — Dark-skinned elf with braids and gold armor; fantasy RPG character portrait.
+- `Faceset/avatar_bard_human_man_01_A.png` (512x512) — Purple-hatted character with curly hair; customizable avatar for TTRPGs.
+- `Faceset/avatar_bard_human_man_01_B.png` (512x512) — Purple-hatted character with calm expression; alternate portrait for RPGs.
+- `Faceset/avatar_circus_avian_woman_01.png` (512x512) — Bird-like creature in straw hat; unique NPC or monster for game worlds.
+- `Faceset/avatar_circus_elve_man_01.png` (512x504) — Masked blonde elf; mysterious character for dialogue or combat scenes.
+- `Faceset/avatar_circus_elve_woman_01.png` (512x509) — Golden-horned character with purple hair; fantasy boss or party member.
+- `Faceset/avatar_circus_elve_woman_01_alt.png` (512x498) — Smiling elf with gold jewelry; friendly NPC or quest giver.
+- `Faceset/avatar_circus_halfelin_woman_01.png` (512x512) — Elf with red hat and bandaged face; wounded character or sidekick.
+- `Faceset/avatar_circus_human_woman_01.png` (512x512) — Red-haired character with ornate headdress; regal or villainous NPC.
+- `Faceset/avatar_deity_man_01.png` (512x496) — Dragon-like creature with horns; monster or mount for fantasy games.
+- `Faceset/avatar_deity_man_02.png` (512x512) — Muscular red-skinned demon; boss or enemy in combat encounters.
+- `Faceset/avatar_deity_man_03.png` (512x491) — Unicorn-horned demon with purple armor; unique enemy or ally.
+- `Faceset/avatar_deity_woman_01.png` (512x512) — Blue-skinned horned monster; dungeon boss or enemy.
+- `Faceset/avatar_deity_woman_02.png` (512x512) — Dark-armored character with glowing eyes; mysterious antagonist.
+- `Faceset/avatar_deity_woman_03.png` (512x506) — Silver-haired character with blue outfit; hero or mage portrait.
+- `Faceset/avatar_deity_woman_04.png` (512x512) — Green-skinned creature with horns; monster or NPC for fantasy.
+- `Faceset/avatar_demon_cyclope_woman_01.png` (512x512) — Pink-haired character with open mouth; expressive NPC or enemy.
+- `Faceset/avatar_demon_darkelve_woman_02.png` (512x461) — Dark-haired character with glowing eyes; stealthy or villainous NPC.
+- `Faceset/avatar_demon_elve_man_01.png` (512x512) — Red-skinned horned creature; enemy or comedic character.
+- `Faceset/avatar_demon_halfelin_woman_01.png` (512x491) — Red-haired horned character with sharp teeth; fierce enemy or ally.
+- `Faceset/avatar_demon_human_man_01.png` (512x468) — Zombie-like character with yellow eyes; undead enemy or NPC.
+- `Faceset/avatar_demon_human_woman_01.png` (512x512) — Blue-skinned character with red eyes; magical or villainous NPC.
+- `Faceset/avatar_doctor_sylvan_woman_01.png` (512x512) — Sunflower-hatted character; cheerful NPC or environmental element.
+- `Faceset/avatar_highpriest_elve_woman_01.png` (512x512) — Silver-haired character with gold jewelry; elegant NPC or hero.
+- `Faceset/avatar_highpriest_human_man_01.png` (512x472) — Bearded man in red coat; NPC or player character portrait.
+- `Faceset/avatar_highpriest_human_man_02.png` (512x496) — Man in pirate hat with beard; pirate or adventurer character.
+- `Faceset/avatar_highwizard_darkelve_man_01.png` (512x488) — Dark-skinned elf with red eyes; fantasy race character.
+- `Faceset/avatar_highwizard_elve_man_01.png` (512x512) — Silver-haired elf in purple robe; mage or noble character.
+- `Faceset/avatar_highwizard_elve_woman_01.png` (512x512) — Witch in black hat; spellcaster or villain character.
+- `Faceset/avatar_highwizard_human_man_03.png` (512x487) — White-haired man in purple cloak; mysterious or rogue character.
+- `Faceset/avatar_highwizard_human_woman_01.png` (512x512) — Blonde woman with braids; adventurer or healer character.
+- `Faceset/avatar_highwizard_human_woman_02.png` (512x512) — Old man with glasses and gold armor; wise or veteran character.
+- `Faceset/avatar_highwizard_stellar_woman_01.png` (512x486) — Pale-skinned elf with orange armor; warrior or assassin character.
+- `Faceset/avatar_highwizard_unkow_man_01.png` (512x512) — Muffled hooded figure; stealth or rogue character.
+- `Faceset/avatar_jobless_ondin_woman_01.png` (512x512) — Blue-skinned creature with horns; monster or ally character.
+- `Faceset/avatar_knight_elve_man_01.png` (512x489) — Dark-haired elf with red eyes; villain or rogue character.
+- `Faceset/avatar_knight_elve_man_02.png` (512x512) — Smiling elf with mask; mischievous or trickster character.
+- `Faceset/avatar_knight_human_man_01.png` (512x496) — Bearded knight in armor; warrior or hero character.
+- `Faceset/avatar_knight_human_man_02.png` (512x488) — Wanderer with wide-brimmed hat; explorer or scout character.
+- `Faceset/avatar_knight_human_man_03.png` (512x485) — Brown-haired man with fur; barbarian or ranger character.
+- `Faceset/avatar_knight_human_man_04.png` (512x492) — Grinning orc with armor; monster or ally character.
+- `Faceset/avatar_knight_human_man_04_alt.png` (512x493) — Wearing helmet with sword; soldier or fighter character.
+- `Faceset/avatar_knight_human_man_05.png` (512x492) — Dark-haired woman with green eyes; rogue or assassin character.
+- `Faceset/avatar_knight_human_man_06.png` (512x491) — Bearded man in yellow armor; warrior or hero character.
+- `Faceset/avatar_knight_raceless_man_01.png` (512x492) — Green-armored warrior; fighter or tank character.
+- `Faceset/avatar_marine_orc_man_01.png` (512x501) — Gremlin with hat and staff; monster or comic character.
+- `Faceset/avatar_noble_darkelve_woman_01.png` (512x498) — Woman with red outfit and flower; bard or rogue character.
+- `Faceset/avatar_noble_elve_man_01.png` (512x493) — Dark-haired man with pointed ears; villain or rogue character.
+- `Faceset/avatar_noble_elve_man_02.png` (512x512) — Bearded elven king with crown; fantasy RPG NPC or party leader.
+- `Faceset/avatar_noble_elve_woman_01.png` (512x512) — Dark-haired elven noble; quest giver or high-ranking character.
+- `Faceset/avatar_noble_human_man_01.png` (512x489) — Middle-aged human with glasses; merchant or scholar NPC.
+- `Faceset/avatar_noble_human_man_02.png` (512x489) — Red-haired crowned king; royal character or boss.
+- `Faceset/avatar_noble_human_woman_01.png` (512x493) — Crowned elven queen; royal NPC or party member.
+- `Faceset/avatar_noble_human_woman_02.png` (512x493) — Blonde-haired human woman; party member or companion.
+- `Faceset/avatar_noble_human_woman_03.png` (512x490) — Red-haired woman in yellow dress; NPC or companion.
+- `Faceset/avatar_noble_human_woman_05.png` (512x487) — Brown-haired woman in red jacket; adventurer or NPC.
+- `Faceset/avatar_noble_unknow_man_01.png` (512x512) — Masked hooded figure; thief or mysterious character.
+- `Faceset/avatar_pirate_cyclope_man_01.png` (512x512) — Blonde-haired pirate woman; pirate or rogue NPC.
+- `Faceset/avatar_pirate_cyclope_man_02.png` (512x495) — Elven pirate with bandana; pirate or crew member.
+- `Faceset/avatar_priest_elve_man_01.png` (512x512) — Goggled elven warrior; combatant or specialist.
+- `Faceset/avatar_priest_elve_woman_01.png` (512x486) — White-haired elven mage; spellcaster or NPC.
+- `Faceset/avatar_priest_human_woman_01.png` (512x483) — Red-haired woman with staff; cleric or mage NPC.
+- `Faceset/avatar_ranger_elve_man_01.png` (512x512) — Gray-haired elven elder; wise NPC or mentor.
+- `Faceset/avatar_ranger_elve_man_02.png` (512x512) — Bearded elven pirate; pirate or rogue NPC.
+- `Faceset/avatar_ranger_elve_woman_01.png` (512x512) — Elven archer with eyepatch; ranged combatant or NPC.
+- `Faceset/avatar_resident_avian_man_01.png` (512x512) — Eagle-headed humanoid; unique NPC or boss.
+- `Faceset/avatar_resident_avian_woman_01.png` (512x512) — Red-haired bird-like creature; monster or companion.
+- `Faceset/avatar_resident_cyclope_man_01.png` (512x512) — Blue-hatted elven villain; antagonist or boss.
+- `Faceset/avatar_resident_cyclope_woman_01.png` (512x496) — Blue-haired elven mage; spellcaster or NPC.
+- `Faceset/avatar_resident_cyclope_woman_02.png` (512x512) — Brown-haired elven rogue; stealthy NPC or companion.
+- `Faceset/avatar_resident_darkelve_man_01.png` (512x493) — Gray-haired human with beard; elder or NPC.
+- `Faceset/avatar_resident_darkelve_man_02.png` (512x500) — Red-hatted human with curly hair; NPC or companion.
+- `Faceset/avatar_resident_darkelve_woman_01.png` (512x487) — Dark-skinned elf with short hair; fantasy RPG character portrait.
+- `Faceset/avatar_resident_darkelve_woman_02.png` (512x512) — Elf in wide-brimmed hat; adventurer or rogue character portrait.
+- `Faceset/avatar_resident_darkelve_woman_03.png` (512x484) — Elf with curly hair and child; family or companion character portrait.
+- `Faceset/avatar_resident_darkelve_woman_04.png` (512x512) — White-haired elf with braids; noble or mage character portrait.
+- `Faceset/avatar_resident_darkelve_woman_05.png` (512x512) — Silver-haired elf with rose; elegant or noble character portrait.
+- `Faceset/avatar_resident_dwarf_man_01.png` (512x501) — Bearded man with glasses; scholarly or veteran character portrait.
+- `Faceset/avatar_resident_elve_man_01.png` (512x496) — Half-elf with blonde hair; noble or royal character portrait.
+- `Faceset/avatar_resident_elve_man_02.png` (512x512) — Bearded elf with glasses; grizzled veteran or scholar portrait.
+- `Faceset/avatar_resident_elve_man_03.png` (512x512) — Blond-haired elf with glasses; scholarly or neutral character portrait.
+- `Faceset/avatar_resident_elve_woman_01.png` (512x512) — Blond-haired elf in top hat; aristocratic or formal character portrait.
+- `Faceset/avatar_resident_elve_woman_01_alt.png` (512x512) — Blond-haired elf with collar; elegant or noble character portrait.
+- `Faceset/avatar_resident_elve_woman_02.png` (512x512) — Red-haired elf with choker; stylish or rebellious character portrait.
+- `Faceset/avatar_resident_elve_woman_03.png` (512x512) — Blond-haired elf with glasses; scholarly or neutral character portrait.
+- `Faceset/avatar_resident_elve_woman_04.png` (512x512) — Brown-haired elf with braids; adventurous or friendly character portrait.
+- `Faceset/avatar_resident_goblin_man_01.png` (512x495) — Green-skinned elf with hat; goblin or orc character portrait.
+- `Faceset/avatar_resident_goblin_woman_01.png` (499x512) — Red-haired green-skinned elf; mischievous or chaotic character portrait.
+- `Faceset/avatar_resident_halfelin_woman_01.png` (512x483) — Brown-haired elf with pigtails; playful or cheerful character portrait.
+- `Faceset/avatar_resident_human_man_01.png` (512x474) — Bald man with glasses; grizzled or authoritative character portrait.
+- `Faceset/avatar_resident_human_man_02.png` (512x482) — Gray-haired man with beard; veteran or wise character portrait.
+- `Faceset/avatar_resident_human_man_03.png` (512x482) — Red-haired man with beard; rugged or adventurous character portrait.
+- `Faceset/avatar_resident_human_man_04.png` (512x512) — Bearded man with hat; farmer or laborer character portrait.
+- `Faceset/avatar_resident_human_man_05.png` (512x487) — Dark-haired man with necklace; simple or rustic character portrait.
+- `Faceset/avatar_resident_human_man_06_A.png` (512x496) — Bearded man with hat; rugged or adventurous character portrait.
+- `Faceset/avatar_resident_human_man_06_B.png` (512x512) — Bearded man with hat and rose; noble or romantic character portrait.
+- `Faceset/avatar_resident_human_man_06_C.png` (512x512) — Police officer with mustache and hat; game NPC or quest giver.
+- `Faceset/avatar_resident_human_woman_01.png` (512x487) — Smiling elf with pipe; dialogue or companion character.
+- `Faceset/avatar_resident_human_woman_02.png` (512x486) — Red-haired woman in medieval attire; player character or ally.
+- `Faceset/avatar_resident_human_woman_03.png` (471x484) — Blonde woman with flower; NPC or quest-related character.
+- `Faceset/avatar_resident_human_woman_04.png` (512x494) — Smiling blonde woman with red collar; NPC or companion.
+- `Faceset/avatar_resident_human_woman_05.png` (512x492) — Brown-haired woman with cat ears; unique NPC or companion.
+- `Faceset/avatar_resident_human_woman_06.png` (512x489) — Dark-haired woman in purple robe; mage or villain NPC.
+- `Faceset/avatar_resident_ondin_man_01.png` (512x512) — Blue-skinned goblin with hat; enemy or comedic NPC.
+- `Faceset/avatar_resident_ondin_man_02.png` (512x512) — White-haired demon with horns; boss or enemy character.
+- `Faceset/avatar_resident_ondin_woman_01.png` (512x512) — Pale-skinned elf with horns; NPC or enemy character.
+- `Faceset/avatar_resident_orc_woman_01.png` (512x512) — Green-skinned goblin with fur; enemy or NPC.
+- `Faceset/avatar_resident_sylvan_man_01.png` (512x512) — Red-haired ogre with axe; enemy or boss character.
+- `Faceset/avatar_resident_sylvan_man_02.png` (512x512) — Wooden-skinned king with crown; royal NPC or boss.
+- `Faceset/avatar_resident_sylvan_man_03.png` (512x507) — Green-skinned elf with bow; ally or NPC.
+- `Faceset/avatar_resident_sylvan_woman_01.png` (512x512) — Zombie with glasses and hat; comedic or enemy NPC.
+- `Faceset/avatar_scholar_elve_woman_01.png` (492x500) — Red-haired elf with flute; musician or NPC.
+- `Faceset/avatar_scholar_elve_woman_02.png` (512x512) — Red-haired elf with glasses; NPC or companion.
+- `Faceset/avatar_scholar_human_man_01.png` (512x512) — Bearded man with glasses; NPC or quest giver.
+- `Faceset/avatar_scholar_human_man_02.png` (512x503) — Bearded man in yellow coat; NPC or merchant.
+- `Faceset/avatar_scholar_human_woman_01.png` (512x499) — Blonde woman with glasses; NPC or companion.
+- `Faceset/avatar_unknow_darkelve_boy_01.png` (512x487) — White-haired elf with pointed ears; NPC or ally.
+- `Faceset/avatar_unknow_elve_man_01.png` (512x512) — Armored knight with helmet; player character or boss.
+- `Faceset/avatar_warrior_avian_man_01_A.png` (512x512) — Bird-like creature with red hat; companion or NPC.
+- `Faceset/avatar_warrior_avian_man_01_B.png` (512x512) — Bird-like creature with yellow beak; companion or NPC.
+- `Faceset/avatar_warrior_cyclope_woman_01.png` (512x501) — Smiling pink-haired elf with braids; party member or NPC portrait.
+- `Faceset/avatar_warrior_darkelve_man_01.png` (512x485) — Bearded dark-skinned elf in armor; combatant or quest-giver.
+- `Faceset/avatar_warrior_darkelve_man_02.png` (512x512) — Serious white-haired elf with pointed ears; leader or mage.
+- `Faceset/avatar_warrior_darkelve_woman_01.png` (512x489) — Afro-haired elf in yellow hood; rogue or scout.
+- `Faceset/avatar_warrior_darkelve_woman_02_A.png` (512x512) — Gray-haired elf with green collar; stealthy or mystical character.
+- `Faceset/avatar_warrior_darkelve_woman_02_B.png` (512x512) — White-haired elf with red eyes; mysterious or powerful figure.
+- `Faceset/avatar_warrior_darkelve_woman_02_C.png` (512x512) — Dark-skinned elf with braids and beads; trader or artisan.
+- `Faceset/avatar_warrior_darkelve_woman_02_D.png` (512x512) — White-haired elf with green accents; healer or support character.
+- `Faceset/avatar_warrior_darkelve_woman_03.png` (512x512) — White-haired elf with sword; warrior or fighter.
+- `Faceset/avatar_warrior_dwarf_man_01.png` (469x487) — Brown-haired elf with beard; thinker or strategist.
+- `Faceset/avatar_warrior_dwarf_man_02.png` (512x512) — Bearded dark-skinned elf in armor; heavy hitter or tank.
+- `Faceset/avatar_warrior_elve_man_01.png` (512x512) — Red-bandana elf with smirk; rogue or trickster.
+- `Faceset/avatar_warrior_elve_man_02.png` (512x484) — Masked dark-skinned elf with grin; assassin or stealth character.
+- `Faceset/avatar_warrior_elve_man_03.png` (512x470) — Blue-bandana white-haired elf; rogue or scout.
+- `Faceset/avatar_warrior_elve_man_04.png` (512x512) — Blond-haired elf with beard; warrior or leader.
+- `Faceset/avatar_warrior_elve_man_05.png` (512x512) — Pink-haired elf with tongue out; mischievous or comic character.
+- `Faceset/avatar_warrior_elve_woman_01.png` (512x489) — Golden-haired elf with bow; archer or ranger.
+- `Faceset/avatar_warrior_elve_woman_02.png` (512x500) — Blond-haired elf with sad expression; NPC or quest giver.
+- `Faceset/avatar_warrior_elve_woman_03.png` (512x498) — Green-skinned elf with mask; monster or enemy.
+- `Faceset/avatar_warrior_goblin_woman_01.png` (512x512) — Green-skinned elf with armor; enemy or boss.
+- `Faceset/avatar_warrior_human_girl_01.png` (512x487) — Red-haired elf with serious look; fighter or mage.
+- `Faceset/avatar_warrior_human_girl_01_alt.png` (512x484) — Red-haired elf with weapon; combatant or hero.
+- `Faceset/avatar_warrior_human_man_01.png` (512x488) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 1/11)
+- `Faceset/avatar_warrior_human_man_02.png` (512x486) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 2/11)
+- `Faceset/avatar_warrior_human_man_03.png` (512x479) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 3/11)
+- `Faceset/avatar_warrior_human_man_04.png` (512x485) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 4/11)
+- `Faceset/avatar_warrior_human_man_05.png` (512x481) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 5/11)
+- `Faceset/avatar_warrior_human_man_06.png` (512x487) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 6/11)
+- `Faceset/avatar_warrior_human_man_07.png` (512x482) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 7/11)
+- `Faceset/avatar_warrior_human_man_08.png` (512x484) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 8/11)
+- `Faceset/avatar_warrior_human_man_09.png` (512x482) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 9/11)
+- `Faceset/avatar_warrior_human_man_10.png` (512x512) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 10/11)
+- `Faceset/avatar_warrior_human_man_11.png` (512x512) — Bearded blonde warrior in fur-lined coat; versatile character portrait for RPGs. (frame 11/11)
+- `Faceset/avatar_warrior_human_woman_01.png` (512x480) — Blonde-haired character with sword; combat-ready hero portrait.
+- `Faceset/avatar_warrior_human_woman_02.png` (512x487) — Purple-robed hooded figure; mysterious NPC or mage portrait.
+- `Faceset/avatar_warrior_human_woman_03.png` (512x512) — Blonde-haired character with fur collar; adventurer or rogue portrait.
+- `Faceset/avatar_warrior_human_woman_04.png` (512x480) — Red-haired female with scar; battle-worn character portrait.
+- `Faceset/avatar_warrior_human_woman_05.png` (512x481) — Brown-haired character in red armor; standard adventurer portrait.
+- `Faceset/avatar_warrior_human_woman_06.png` (512x475) — Red-haired female with green armor; fantasy warrior portrait.
+- `Faceset/avatar_warrior_human_woman_07.png` (512x512) — Red-hatted character with confident grin; charismatic NPC portrait.
+- `Faceset/avatar_warrior_ondin_man_01.png` (512x496) — Blue-skinned elf with horns; fantasy race portrait.
+- `Faceset/avatar_warrior_ondin_man_02.png` (512x512) — Blue-skinned demonic character; villain or enemy portrait.
+- `Faceset/avatar_warrior_ondin_woman_01_A.png` (512x500) — White-haired blue-skinned demon; detailed enemy portrait.
+- `Faceset/avatar_warrior_ondin_woman_01_B.png` (512x512) — White-haired blue-skinned demon with gem; unique enemy portrait.
+- `Faceset/avatar_warrior_ondin_woman_01_C.png` (512x512) — White-haired blue-skinned demon with armor; armored enemy portrait.
+- `Faceset/avatar_warrior_ondin_woman_02.png` (512x502) — Blue-skinned character with headband; fantasy race portrait.
+- `Faceset/avatar_warrior_orc_man_01.png` (512x505) — Green-skinned goblin with beard; comedic or enemy portrait.
+- `Faceset/avatar_warrior_orc_man_02.png` (512x512) — Green-skinned goblin with sharp teeth; aggressive enemy portrait.
+- `Faceset/avatar_warrior_orc_man_03.png` (512x512) — Green-skinned goblin with armor; armored enemy portrait.
+- `Faceset/avatar_warrior_orc_woman_01.png` (512x488) — White-haired green-skinned character; fantasy race portrait.
+- `Faceset/avatar_warrior_sylvan_man_01.png` (512x512) — Red-hatted character with grimace; unique NPC portrait.
+- `Faceset/avatar_warrior_unknow_woman_01.png` (512x512) — Character with helmet and goggles; tech or futuristic portrait.
+- `Faceset/avatar_wizard_avian_man_01.png` (512x512) — Blue-feathered bird-like character; unique NPC or companion portrait.
+- `Faceset/avatar_wizard_cyclope_man_01.png` (512x512) — Character with hat and bowtie; stylish or comedic NPC portrait.
+- `Faceset/avatar_wizard_darkelve_man_01.png` (512x488) — Elven male with dark skin and red armor; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_dwarf_man_01.png` (512x512) — Bearded man with yellow eyes and armor; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_elve_man_01.png` (512x493) — Spiky-haired man in purple armor; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_elve_man_02.png` (512x512) — Blonde-haired elf with pointed ears; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_elve_woman_01.png` (512x511) — Blonde-haired woman with glasses; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_elve_woman_02.png` (512x512) — White-haired elf with blue eyes; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_goblin_woman_01.png` (512x512) — Green-skinned elf with red hair; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_goblin_woman_02.png` (512x512) — Green-skinned elf with dark hair; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_goblin_woman_03.png` (512x512) — Green-skinned elf in hat; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_goblin_woman_04.png` (512x512) — Green-skinned elf with white hair; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_halfelin_man_01.png` (512x512) — Brown-haired man with glasses and beard; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_halfelin_woman_01.png` (512x512) — Dark-haired woman with earrings; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_man_01.png` (512x487) — Dark-haired man in green; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_man_02.png` (512x512) — Bearded old man with hat; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_man_03.png` (512x484) — Man with green headband; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_man_04.png` (512x487) — Bald man with purple cloak; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_man_05.png` (512x512) — Man with brown hat and long beard; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_man_07.png` (512x512) — White-haired old man; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_woman_01.png` (512x487) — Dark-haired woman in purple; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_woman_02.png` (512x512) — Woman with red hat and braided hair; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_woman_03.png` (512x489) — Blonde-haired woman with earrings; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_woman_04.png` (512x485) — Brown-haired woman with headband; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_human_woman_05.png` (512x512) — Woman with wide-brimmed hat; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_sylvan_boy_01_A.png` (512x512) — Red-haired woman with spiky hair; fantasy RPG character portrait.
+- `Faceset/avatar_wizard_sylvan_boy_01_B.png` (512x512) — Red-haired character with sunglasses; customizable avatar or NPC in fantasy RPG.
+- `Faceset/avatar_wizard_sylvan_boy_01_C.png` (512x512) — Same character as #0, alternate pose; dynamic character animation or dialogue options.
+- `Full Art/attorney_darkelve_man_01.png` (1570x2468) — Red-coated nobleman; quest giver or party member in fantasy setting.
+- `Full Art/bard_human_man_01_A.png` (1810x3356) — Purple-robed musician; background NPC or event trigger in tavern or town.
+- `Full Art/bard_human_man_01_B.png` (1340x2531) — Purple-clad mage with hat; spellcaster or quest companion.
+- `Full Art/circus_avian_woman_01.png` (1186x2336) — Golden-robed king; boss or quest leader in royal-themed areas.
+- `Full Art/circus_elve_man_01.png` (1166x2354) — Muscular warrior in red and gold; combatant or party member in action scenes.
+- `Full Art/circus_elve_woman_01.png` (1904x3350) — Purple-and-gold armored warrior; battle-ready character or boss.
+- `Full Art/circus_elve_woman_01_alt.png` (1904x3350) — Green-and-yellow armored dancer; event NPC or performance trigger.
+- `Full Art/circus_halfelin_woman_01.png` (1498x1702) — Red-robed sage with staff; magic user or puzzle solver.
+- `Full Art/circus_human_woman_01.png` (1504x2537) — Yellow-and-white robed mage; spellcaster or dialogue NPC.
+- `Full Art/deity_man_01.png` (4096x6116) — Golden-robed dragon lord; boss or major antagonist.
+- `Full Art/deity_man_02.png` (4078x3123) — Red-armored demon with claws; enemy or boss in combat.
+- `Full Art/deity_man_03.png` (2744x4680) — Purple-and-gold armored warrior; battle-ready character or boss.
+- `Full Art/deity_woman_01.png` (4100x3940) — Octopus-like creature with tentacles; enemy or environmental hazard.
+- `Full Art/deity_woman_02.png` (2880x3662) — Black-robed witch with horns; enemy or boss in dark magic scenes.
+- `Full Art/deity_woman_03.png` (2968x3662) — Blue-and-gold armored mage; spellcaster or party member.
+- `Full Art/deity_woman_04.png` (1844x2764) — Green-skinned tree-like creature; enemy or environmental obstacle.
+- `Full Art/demon_cyclope_woman_01.png` (2048x2684) — Pink-haired monster with tentacles; enemy or boss in dungeon.
+- `Full Art/demon_darkelve_woman_02.png` (2036x2220) — Dark-armored warrior with sword; combatant or party member.
+- `Full Art/demon_elve_man_01.png` (2960x3960) — Red-haired warrior with crescent blade; melee fighter or boss.
+- `Full Art/demon_halfelin_woman_01.png` (2406x3984) — Red-haired demoness with horns; enemy or boss in dark fantasy.
+- `Full Art/demon_human_man_01.png` (1554x1722) — White-feathered warrior with armor; party member or boss in snowy areas.
+- `Full Art/demon_human_woman_01.png` (1964x2352) — Blue-green ethereal creature; enemy or boss in magical zones.
+- `Full Art/doctor_sylvan_woman_01.png` (844x2536) — Sun-worshiping cleric with staff; party member or NPC in fantasy RPG.
+- `Full Art/highpriest_elve_woman_01.png` (1231x2684) — Warrior with axe and cape; combatant or quest-giver in TTRPG.
+- `Full Art/highpriest_human_man_01.png` (1068x2096) — Red-robed mage gesturing; spellcaster for game mechanics.
+- `Full Art/highpriest_human_man_02.png` (1365x2049) — Purple-robed wizard with staff; magic user in RPG.
+- `Full Art/highwizard_darkelve_man_01.png` (3512x5622) — Blue-robed warrior with sword; melee fighter for gameplay.
+- `Full Art/highwizard_elve_man_01.png` (2944x4596) — Dark-robed mage with staff; spellcaster for game mechanics.
+- `Full Art/highwizard_elve_woman_01.png` (2686x3413) — Green-robed mage with book; knowledge-based NPC or player.
+- `Full Art/highwizard_human_man_03.png` (1080x2068) — Purple-robed mage with staff; magic user in RPG.
+- `Full Art/highwizard_human_woman_01.png` (3044x6686) — White-robed knight with sword; combatant or quest-giver.
+- `Full Art/highwizard_human_woman_02.png` (1676x3146) — Green-robed noble with cane; dialogue or quest NPC.
+- `Full Art/highwizard_stellar_woman_01.png` (2946x4596) — Orange-robed vampire with bat wings; enemy or NPC.
+- `Full Art/highwizard_unkow_man_01.png` (2683x2639) — Purple-robed mage with staff; magic user in RPG.
+- `Full Art/jobless_ondin_girl_01.png` (506x1616) — Blue-skinned warrior with shield; melee fighter for gameplay.
+- `Full Art/knight_elve_man_01.png` (1722x1971) — Red-robed warrior with shield; combatant or quest-giver.
+- `Full Art/knight_elve_man_02.png` (4056x4704) — Red-robed warrior with sword; melee fighter for gameplay.
+- `Full Art/knight_human_man_01.png` (1380x2251) — Knight in armor with shield; combatant or quest-giver.
+- `Full Art/knight_human_man_02.png` (1036x2244) — Gray-robed warrior with sword; melee fighter for gameplay.
+- `Full Art/knight_human_man_03.png` (1035x2280) — White-armored warrior with sword; combatant or quest-giver.
+- `Full Art/knight_human_man_04.png` (1152x2096) — White-armored warrior with sword; melee fighter for gameplay.
+- `Full Art/knight_human_man_04_alt.png` (1152x2096) — White-armored warrior with sword; melee fighter for gameplay.
+- `Full Art/knight_human_man_05.png` (1236x2262) — Dark-robed warrior with sword; melee fighter for gameplay.
+- `Full Art/knight_human_man_06.png` (1332x2136) — White-robed knight with sword; combatant or quest-giver.
+- `Full Art/knight_raceless_man_01.png` (3070x3559) — Green-armored warrior with sword; melee fighter for gameplay.
+- `Full Art/marine_orc_man_01.png` (2356x3290) — Dark-robed warrior with sword; melee fighter for gameplay.
+- `Full Art/noble_darkelve_woman_01.png` (1750x3281) — Red-robed noblewoman with cape; fantasy RPG character sprite.
+- `Full Art/noble_elve_man_01.png` (2024x2271) — Dark-robed man with cape; fantasy RPG character sprite.
+- `Full Art/noble_elve_man_02.png` (2044x3734) — Bearded wizard with staff; fantasy RPG character sprite.
+- `Full Art/noble_elve_woman_01.png` (1448x2536) — Warrior woman with fan; fantasy RPG character sprite.
+- `Full Art/noble_human_man_01.png` (864x2069) — Green-coated nobleman with cane; fantasy RPG character sprite.
+- `Full Art/noble_human_man_02.png` (2168x4616) — King with crown and scepter; fantasy RPG character sprite.
+- `Full Art/noble_human_woman_01.png` (750x2133) — Black-and-red armored woman; fantasy RPG character sprite.
+- `Full Art/noble_human_woman_02.png` (1076x2056) — Red-and-blue gowned woman; fantasy RPG character sprite.
+- `Full Art/noble_human_woman_03.png` (1104x2048) — Yellow-gowned woman; fantasy RPG character sprite.
+- `Full Art/noble_human_woman_05.png` (996x2030) — Red-and-white armored woman; fantasy RPG character sprite.
+- `Full Art/noble_unknow_man_01.png` (793x1366) — Masked man with cloak; fantasy RPG character sprite.
+- `Full Art/pirate_cyclope_man_01.png` (2488x3662) — Red-clothed rogue with sword; fantasy RPG character sprite.
+- `Full Art/pirate_cyclope_man_02.png` (2356x3922) — Blue-robed man with sword; fantasy RPG character sprite.
+- `Full Art/priest_elve_man_01.png` (1629x2916) — Purple-robed man with cape; fantasy RPG character sprite.
+- `Full Art/priest_elve_woman_01.png` (992x2044) — Green-robed man with staff; fantasy RPG character sprite.
+- `Full Art/priest_human_woman_01.png` (1014x2007) — Red-robed woman with staff; fantasy RPG character sprite.
+- `Full Art/ranger_elve_man_01.png` (2208x4386) — Elven archer with bow; fantasy RPG character sprite.
+- `Full Art/ranger_elve_man_02.png` (1871x2028) — Bearded man with large weapon; fantasy RPG character sprite.
+- `Full Art/ranger_elve_woman_01.png` (2112x4596) — Archer with bow and quiver; fantasy RPG character sprite.
+- `Full Art/resident_avian_man_01.png` (1497x2683) — Elderly man with cloak; fantasy RPG character sprite.
+- `Full Art/resident_avian_woman_01.png` (1348x2395) — Warrior with fan and armor; fantasy RPG character sprite.
+- `Full Art/resident_cyclope_man_01.png` (1055x2265) — Blue-uniformed man with hat; fantasy RPG character sprite.
+- `Full Art/resident_cyclope_woman_01.png` (1216x2219) — Blue-haired woman with staff; fantasy RPG character sprite.
+- `Full Art/resident_cyclope_woman_02.png` (1216x2529) — Brown-haired woman with armor; fantasy RPG character sprite.
+- `Full Art/resident_darkelve_man_01.png` (784x2068) — Bearded man in apron and boots; tavern worker or merchant.
+- `Full Art/resident_darkelve_man_02.png` (1268x2401) — Red-robed figure with staff; wizard or cleric.
+- `Full Art/resident_darkelve_woman_01.png` (1074x2045) — Yellow-dressed woman with fan; noble or entertainer.
+- `Full Art/resident_darkelve_woman_02.png` (855x1949) — Black-cloaked woman with hat; mysterious rogue or assassin.
+- `Full Art/resident_darkelve_woman_03.png` (1014x2024) — Green-dressed woman with apron; housekeeper or cook.
+- `Full Art/resident_darkelve_woman_04.png` (1380x2519) — Green-robed woman with fan; noble or courtier.
+- `Full Art/resident_darkelve_woman_05.png` (1388x2610) — Elven woman in green and red; mage or noble.
+- `Full Art/resident_dwarf_man_01.png` (944x1859) — Bearded man with axe; barbarian or warrior.
+- `Full Art/resident_elve_man_01.png` (1540x2324) — Red-cloaked man with cape; noble or adventurer.
+- `Full Art/resident_elve_man_02.png` (1032x2395) — Bearded man in brown robe; scholar or monk.
+- `Full Art/resident_elve_man_03.png` (1096x2387) — Blond woman in green coat; merchant or traveler.
+- `Full Art/resident_elve_woman_01.png` (976x2453) — Blue-dressed woman with top hat; aristocrat or spy.
+- `Full Art/resident_elve_woman_01_alt.png` (976x2453) — Elven woman in blue armor; warrior or scout.
+- `Full Art/resident_elve_woman_02.png` (1045x2395) — Red-clothed woman with weapon; fighter or rogue.
+- `Full Art/resident_elve_woman_03.png` (1096x2387) — Green-clothed woman with arms crossed; adventurer or mage.
+- `Full Art/resident_elve_woman_04.png` (1088x2536) — Red-dressed woman in long dress; noble or priestess.
+- `Full Art/resident_goblin_man_01.png` (832x1676) — Green-skinned man with vest; goblin or thief.
+- `Full Art/resident_goblin_woman_01.png` (720x1308) — Green-skinned man sitting; goblin or rogue.
+- `Full Art/resident_halfelin_woman_01.png` (1016x1642) — Woman in apron with hair in buns; cook or servant.
+- `Full Art/resident_human_man_01.png` (1328x1980) — Bearded man with staff; wizard or sage.
+- `Full Art/resident_human_man_02.png` (1232x2092) — Man with shovel; laborer or miner.
+- `Full Art/resident_human_man_03.png` (1040x1972) — Man with pipe and cane; gentleman or rogue.
+- `Full Art/resident_human_man_04.png` (1192x2092) — Man in overalls with axe; lumberjack or farmer.
+- `Full Art/resident_human_man_05.png` (750x2006) — Man in green vest with camera; explorer or scout.
+- `Full Art/resident_human_man_06_A.png` (1804x3494) — Bearded man with backpack and axe; adventurer or rogue character.
+- `Full Art/resident_human_man_06_B.png` (1588x2575) — Man with green aura and pistol; magic user or rogue.
+- `Full Art/resident_human_man_06_C.png` (1378x2418) — Man in cape holding plant; wizard or herbalist.
+- `Full Art/resident_human_woman_01.png` (594x2018) — Woman in armor with sword; warrior or knight.
+- `Full Art/resident_human_woman_02.png` (876x2048) — Woman in skirt and boots; rogue or scout.
+- `Full Art/resident_human_woman_03.png` (570x2069) — Woman in apron and dress; merchant or healer.
+- `Full Art/resident_human_woman_04.png` (956x2096) — Woman in red skirt and corset; bard or dancer.
+- `Full Art/resident_human_woman_05.png` (796x2008) — Woman in green dress; mage or cleric.
+- `Full Art/resident_human_woman_06.png` (2530x3404) — Woman in purple cloak with sword; noble or assassin.
+- `Full Art/resident_ondin_man_01.png` (1316x2287) — Blue-skinned man with tail; beastman or druid.
+- `Full Art/resident_ondin_man_02.png` (1484x2756) — Blue-skinned woman with tail; beastman or sorceress.
+- `Full Art/resident_ondin_woman_01.png` (1485x2503) — Half-dragon woman with tail; dragonborn or rogue.
+- `Full Art/resident_orc_woman_01.png` (1152x2307) — Green-skinned woman with book; witch or scholar.
+- `Full Art/resident_sylvan_man_01.png` (1792x2216) — Red-skinned man with staff; barbarian or druid.
+- `Full Art/resident_sylvan_man_02.png` (1066x2559) — Man with crown and robe; king or priest.
+- `Full Art/resident_sylvan_man_03.png` (1192x2427) — Man in red shirt and hat; rogue or thief.
+- `Full Art/resident_sylvan_woman_01.png` (1145x2664) — Green-skinned man with hat; goblin or scout.
+- `Full Art/scholar_elve_woman_01.png` (964x2280) — Red-haired woman with flute; bard or dancer.
+- `Full Art/scholar_elve_woman_02.png` (936x2447) — Woman in white robe with red headscarf; cleric or healer.
+- `Full Art/scholar_human_man_01.png` (1218x2487) — Man in orange coat; noble or merchant.
+- `Full Art/scholar_human_man_02.png` (1200x2339) — Man in red coat; noble or merchant.
+- `Full Art/scholar_human_woman_01.png` (1026x1928) — Man in green vest; adventurer or scout.
+- `Full Art/unknow_darkelve_boy_01.png` (2564x4144) — Man in tunic and boots; commoner or farmer.
+- `Full Art/unknow_elve_man_01.png` (1184x2463) — Man in dark robe with sword; assassin or rogue.
+- `Full Art/warrior_avian_man_01_A.png` (1888x3174) — Bird-like humanoid with bow; fantasy RPG character for combat or stealth roles.
+- `Full Art/warrior_avian_man_01_B.png` (1692x2496) — Feathered humanoid with bow; fantasy RPG character for ranged attacks.
+- `Full Art/warrior_cyclope_woman_01.png` (1580x2169) — Pink-haired mage with staff; spellcasting character for magic-based gameplay.
+- `Full Art/warrior_darkelve_man_01.png` (3024x3511) — Red-robed warrior with mace; melee combatant for heavy damage.
+- `Full Art/warrior_darkelve_man_02.png` (1370x2479) — Bearded warrior with axe; frontline fighter for close combat.
+- `Full Art/warrior_darkelve_woman_01.png` (1180x2336) — Dark-skinned mage with staff; spellcaster for magical abilities.
+- `Full Art/warrior_darkelve_woman_02_A.png` (2544x3474) — Green-robed warrior with axe; melee fighter with utility items.
+- `Full Art/warrior_darkelve_woman_02_B.png` (1354x2317) — Green-robed warrior with axe; melee fighter with utility items.
+- `Full Art/warrior_darkelve_woman_02_C.png` (1693x2062) — Green-robed warrior with axe; melee fighter with utility items.
+- `Full Art/warrior_darkelve_woman_02_D.png` (1541x2450) — Green-robed warrior with axe; melee fighter with utility items.
+- `Full Art/warrior_darkelve_woman_03.png` (2002x2438) — Blue-armored warrior with shield; defensive combatant for tank roles.
+- `Full Art/warrior_dwarf_man_01.png` (864x1589) — Red-haired rogue with chain; agile character for stealth or backstabbing.
+- `Full Art/warrior_dwarf_man_02.png` (2176x3100) — Bearded knight with shield; heavy armor tank for front-line defense.
+- `Full Art/warrior_elve_man_01.png` (988x2618) — Red-cloaked warrior with sword; balanced melee fighter.
+- `Full Art/warrior_elve_man_02.png` (1528x2478) — Dark-clad rogue with sword; stealthy assassin for surprise attacks.
+- `Full Art/warrior_elve_man_03.png` (1516x1532) — Blue-robed swordsman; agile melee fighter with sword skills.
+- `Full Art/warrior_elve_man_04.png` (1307x2265) — Orange-robed warrior with sword; balanced melee combatant.
+- `Full Art/warrior_elve_man_05.png` (1466x2586) — Red-haired rogue with chain; agile character for stealth or backstabbing.
+- `Full Art/warrior_elve_woman_01.png` (2336x4610) — Blond warrior with sword; balanced melee fighter for combat.
+- `Full Art/warrior_elve_woman_02.png` (1002x1994) — Blond warrior with sword; balanced melee fighter for combat.
+- `Full Art/warrior_elve_woman_03.png` (2070x3582) — Green-skinned warrior with sword; melee fighter with unique appearance.
+- `Full Art/warrior_goblin_woman_01.png` (1770x1893) — Green-skinned warrior with sword; melee fighter with unique appearance.
+- `Full Art/warrior_human_girl_01.png` (2646x4170) — White-robed warrior with sword; balanced melee fighter.
+- `Full Art/warrior_human_girl_01_alt.png` (2568x4248) — Red-haired warrior with axe; heavy melee combatant for damage.
+- `Full Art/warrior_human_man_01.png` (999x2036) — Knight in silver armor with red cape; combat or quest party member. (frame 1/11)
+- `Full Art/warrior_human_man_02.png` (1206x2129) — Knight in silver armor with red cape; combat or quest party member. (frame 2/11)
+- `Full Art/warrior_human_man_03.png` (2792x4456) — Knight in silver armor with red cape; combat or quest party member. (frame 3/11)
+- `Full Art/warrior_human_man_04.png` (3456x4508) — Knight in silver armor with red cape; combat or quest party member. (frame 4/11)
+- `Full Art/warrior_human_man_05.png` (1422x1965) — Knight in silver armor with red cape; combat or quest party member. (frame 5/11)
+- `Full Art/warrior_human_man_06.png` (3687x4268) — Knight in silver armor with red cape; combat or quest party member. (frame 6/11)
+- `Full Art/warrior_human_man_07.png` (879x2045) — Knight in silver armor with red cape; combat or quest party member. (frame 7/11)
+- `Full Art/warrior_human_man_08.png` (1164x1907) — Knight in silver armor with red cape; combat or quest party member. (frame 8/11)
+- `Full Art/warrior_human_man_09.png` (2002x3662) — Knight in silver armor with red cape; combat or quest party member. (frame 9/11)
+- `Full Art/warrior_human_man_10.png` (2112x3006) — Knight in silver armor with red cape; combat or quest party member. (frame 10/11)
+- `Full Art/warrior_human_man_11.png` (1796x2343) — Knight in silver armor with red cape; combat or quest party member. (frame 11/11)
+- `Full Art/warrior_human_woman_01.png` (1700x2048) — Female warrior with axe and fur cloak; melee fighter or support character.
+- `Full Art/warrior_human_woman_02.png` (1128x2051) — Blunt weapon user in brown coat; tank or utility class.
+- `Full Art/warrior_human_woman_03.png` (1192x2096) — Purple-robed archer; ranged attacker or stealthy character.
+- `Full Art/warrior_human_woman_04.png` (1060x2004) — Red-haired archer with bow; ranged combat specialist.
+- `Full Art/warrior_human_woman_05.png` (916x1996) — Red-jacketed fighter with shield; balanced melee or support role.
+- `Full Art/warrior_human_woman_06.png` (2836x3536) — Green-robed swordswoman; agile melee or magic user.
+- `Full Art/warrior_human_woman_07.png` (1944x2513) — Red-hatted warrior with sword; versatile front-line fighter.
+- `Full Art/warrior_ondin_man_01.png` (1768x2318) — Blue-skinned archer with shield; ranged or defensive character.
+- `Full Art/warrior_ondin_man_02.png` (2926x2384) — Blue-skinned warrior with wings; aerial or ranged combatant.
+- `Full Art/warrior_ondin_woman_01_A.png` (3190x3404) — Yellow-robed archer with bow; ranged support or scout.
+- `Full Art/warrior_ondin_woman_01_B.png` (2220x2314) — Blue-skinned warrior with curved blade; agile melee fighter.
+- `Full Art/warrior_ondin_woman_01_C.png` (2907x2511) — Dark-armored fighter with axe; heavy hitter or tank.
+- `Full Art/warrior_ondin_woman_02.png` (983x2364) — Red-robed mage with shield; magic caster or support.
+- `Full Art/warrior_orc_man_01.png` (1038x2366) — Green-armored fighter; balanced melee or utility class.
+- `Full Art/warrior_orc_man_02.png` (1033x2359) — Green-skinned warrior with axe; brute force melee character.
+- `Full Art/warrior_orc_man_03.png` (1723x2862) — Green-skinned armored warrior; heavy tank or frontline fighter.
+- `Full Art/warrior_orc_woman_01.png` (2072x3534) — White-armored fighter with shield; defensive or support role.
+- `Full Art/warrior_sylvan_man_01.png` (1569x2490) — Red-robed mage with shield; magic user or support.
+- `Full Art/warrior_unknow_woman_01.png` (1476x2583) — Green-armored fighter with sword; balanced melee character.
+- `Full Art/wizard_avian_man_01.png` (1652x2535) — Purple-robed mage with staff; magic caster or support.
+- `Full Art/wizard_cyclope_man_01.png` (1546x2472) — Black-robed mage with staff; spellcaster or utility character.
+- `Full Art/wizard_darkelve_man_01.png` (3136x4508) — Red-robed warrior with sword; combat character in fantasy RPG.
+- `Full Art/wizard_dwarf_man_01.png` (967x2002) — Bearded dwarf with staff; dungeon explorer or mage.
+- `Full Art/wizard_elve_man_01.png` (4148x4897) — Purple-robed mage with staff; spellcaster in fantasy game.
+- `Full Art/wizard_elve_man_02.png` (1624x2329) — Blue-robed knight with sword; melee fighter or paladin.
+- `Full Art/wizard_elve_woman_01.png` (1707x2039) — Green-robed cleric with staff; healing or support character.
+- `Full Art/wizard_elve_woman_02.png` (1179x2055) — Blue-robed wizard with staff; magic user in fantasy RPG.
+- `Full Art/wizard_goblin_woman_01.png` (2094x3198) — Green-skinned warrior with dual weapons; melee combatant.
+- `Full Art/wizard_goblin_woman_02.png` (1328x1696) — Red-robed warrior with gun; hybrid fighter in fantasy setting.
+- `Full Art/wizard_goblin_woman_03.png` (1285x2004) — Green-skinned mage with staff; spellcaster with unique look.
+- `Full Art/wizard_goblin_woman_04.png` (944x1761) — Orange-robed mage with staff; magic user in fantasy game.
+- `Full Art/wizard_halfelin_man_01.png` (1183x2256) — Blue-robed rogue with bow; stealth or ranged attacker.
+- `Full Art/wizard_halfelin_woman_01.png` (1186x1897) — Brown-robed bard with instrument; music or social character.
+- `Full Art/wizard_human_man_01.png` (1299x2202) — Green-robed ranger with bow; ranged combatant in wilderness.
+- `Full Art/wizard_human_man_02.png` (1311x1742) — Bearded wizard with staff; classic fantasy mage.
+- `Full Art/wizard_human_man_03.png` (756x1959) — Green-robed warrior with sword; melee fighter in fantasy RPG.
+- `Full Art/wizard_human_man_04.png` (1328x1980) — Purple-robed vampire lord; boss or antagonist character.
+- `Full Art/wizard_human_man_05.png` (1468x2381) — Brown-robed rogue with sword; stealth or melee character.
+- `Full Art/wizard_human_man_07.png` (1306x2483) — Red-robed wizard with staff; magic user in fantasy game.
+- `Full Art/wizard_human_woman_01.png` (1560x2156) — Purple-robed scholar with book; lore or support character.
+- `Full Art/wizard_human_woman_02.png` (2736x3750) — Red-robed mage with staff; magic user in fantasy RPG.
+- `Full Art/wizard_human_woman_03.png` (1044x2205) — Green-robed warrior with sword; melee fighter in fantasy game.
+- `Full Art/wizard_human_woman_04.png` (1504x2262) — Brown-robed warrior with sword; melee combatant.
+- `Full Art/wizard_human_woman_05.png` (1899x2442) — Brown-robed dancer with staff; support or entertainer.
+- `Full Art/wizard_sylvan_boy_01_A.png` (2626x2924) — Red-robed warrior with sword; melee fighter in fantasy RPG.
+- `Full Art/wizard_sylvan_boy_01_B.png` (1225x1687) — Armored knight with shield; combat or party member in fantasy RPG.
+- `Full Art/wizard_sylvan_boy_01_C.png` (1071x2030) — Dark-robed mage with staff; spellcaster or dungeon crawler.
+- `Outdated character (Unamed)/outdated_01.png` (1350x2106) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 1/103)
+- `Outdated character (Unamed)/outdated_03.png` (657x2056) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 2/103)
+- `Outdated character (Unamed)/outdated_04.png` (995x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 3/103)
+- `Outdated character (Unamed)/outdated_05.png` (1224x2144) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 4/103)
+- `Outdated character (Unamed)/outdated_06.png` (1056x1412) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 5/103)
+- `Outdated character (Unamed)/outdated_07.png` (1269x1395) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 6/103)
+- `Outdated character (Unamed)/outdated_08.png` (624x1356) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 7/103)
+- `Outdated character (Unamed)/outdated_09.png` (1047x1764) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 8/103)
+- `Outdated character (Unamed)/outdated_10.png` (916x1996) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 9/103)
+- `Outdated character (Unamed)/outdated_100.png` (669x2097) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 10/103)
+- `Outdated character (Unamed)/outdated_101.png` (669x2097) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 11/103)
+- `Outdated character (Unamed)/outdated_102.png` (976x2404) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 12/103)
+- `Outdated character (Unamed)/outdated_103.png` (900x1948) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 13/103)
+- `Outdated character (Unamed)/outdated_104.png` (840x1953) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 14/103)
+- `Outdated character (Unamed)/outdated_105.png` (1026x1928) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 15/103)
+- `Outdated character (Unamed)/outdated_11.png` (1038x1908) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 16/103)
+- `Outdated character (Unamed)/outdated_12.png` (1072x2335) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 17/103)
+- `Outdated character (Unamed)/outdated_13.png` (752x1168) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 18/103)
+- `Outdated character (Unamed)/outdated_14.png` (1107x1938) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 19/103)
+- `Outdated character (Unamed)/outdated_15.png` (1377x2073) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 20/103)
+- `Outdated character (Unamed)/outdated_16.png` (1036x2052) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 21/103)
+- `Outdated character (Unamed)/outdated_17.png` (732x1470) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 22/103)
+- `Outdated character (Unamed)/outdated_18.png` (867x2066) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 23/103)
+- `Outdated character (Unamed)/outdated_19.png` (810x1359) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 24/103)
+- `Outdated character (Unamed)/outdated_20.png` (1164x2144) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 25/103)
+- `Outdated character (Unamed)/outdated_21.png` (1164x2144) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 26/103)
+- `Outdated character (Unamed)/outdated_22.png` (1230x2030) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 27/103)
+- `Outdated character (Unamed)/outdated_23.png` (1168x2196) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 28/103)
+- `Outdated character (Unamed)/outdated_24.png` (1431x2019) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 29/103)
+- `Outdated character (Unamed)/outdated_25.png` (1077x1517) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 30/103)
+- `Outdated character (Unamed)/outdated_26.png` (1164x2070) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 31/103)
+- `Outdated character (Unamed)/outdated_27.png` (788x1968) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 32/103)
+- `Outdated character (Unamed)/outdated_28.png` (1384x1956) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 33/103)
+- `Outdated character (Unamed)/outdated_29.png` (1149x1973) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 34/103)
+- `Outdated character (Unamed)/outdated_30.png` (909x1961) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 35/103)
+- `Outdated character (Unamed)/outdated_31.png` (827x1602) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 36/103)
+- `Outdated character (Unamed)/outdated_32.png` (1780x2052) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 37/103)
+- `Outdated character (Unamed)/outdated_33.png` (1068x1466) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 38/103)
+- `Outdated character (Unamed)/outdated_34.png` (1400x2525) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 39/103)
+- `Outdated character (Unamed)/outdated_36.png` (993x1839) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 40/103)
+- `Outdated character (Unamed)/outdated_37.png` (1002x2022) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 41/103)
+- `Outdated character (Unamed)/outdated_38.png` (1269x2141) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 42/103)
+- `Outdated character (Unamed)/outdated_39.png` (472x1375) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 43/103)
+- `Outdated character (Unamed)/outdated_40.png` (669x2097) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 44/103)
+- `Outdated character (Unamed)/outdated_41.png` (1552x2260) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 45/103)
+- `Outdated character (Unamed)/outdated_42.png` (1248x2036) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 46/103)
+- `Outdated character (Unamed)/outdated_43.png` (801x1188) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 47/103)
+- `Outdated character (Unamed)/outdated_44.png` (984x2010) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 48/103)
+- `Outdated character (Unamed)/outdated_45.png` (906x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 49/103)
+- `Outdated character (Unamed)/outdated_46.png` (447x1257) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 50/103)
+- `Outdated character (Unamed)/outdated_47.png` (1116x2193) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 51/103)
+- `Outdated character (Unamed)/outdated_48.png` (2055x1673) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 52/103)
+- `Outdated character (Unamed)/outdated_49.png` (936x1774) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 53/103)
+- `Outdated character (Unamed)/outdated_50.png` (1336x2128) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 54/103)
+- `Outdated character (Unamed)/outdated_51.png` (852x2115) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 55/103)
+- `Outdated character (Unamed)/outdated_52.png` (1047x2075) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 56/103)
+- `Outdated character (Unamed)/outdated_53.png` (813x2000) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 57/103)
+- `Outdated character (Unamed)/outdated_54.png` (1116x2060) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 58/103)
+- `Outdated character (Unamed)/outdated_55.png` (1173x2010) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 59/103)
+- `Outdated character (Unamed)/outdated_56.png` (1167x2013) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 60/103)
+- `Outdated character (Unamed)/outdated_57.png` (1755x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 61/103)
+- `Outdated character (Unamed)/outdated_58.png` (1223x1977) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 62/103)
+- `Outdated character (Unamed)/outdated_59.png` (1412x2296) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 63/103)
+- `Outdated character (Unamed)/outdated_60.png` (849x1851) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 64/103)
+- `Outdated character (Unamed)/outdated_61.png` (1320x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 65/103)
+- `Outdated character (Unamed)/outdated_62.png` (1212x2007) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 66/103)
+- `Outdated character (Unamed)/outdated_63.png` (1278x2060) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 67/103)
+- `Outdated character (Unamed)/outdated_64.png` (876x1956) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 68/103)
+- `Outdated character (Unamed)/outdated_65.png` (774x1281) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 69/103)
+- `Outdated character (Unamed)/outdated_66.png` (1160x2016) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 70/103)
+- `Outdated character (Unamed)/outdated_67.png` (740x1488) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 71/103)
+- `Outdated character (Unamed)/outdated_68.png` (1476x1961) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 72/103)
+- `Outdated character (Unamed)/outdated_69.png` (1788x1864) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 73/103)
+- `Outdated character (Unamed)/outdated_70.png` (960x2028) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 74/103)
+- `Outdated character (Unamed)/outdated_71.png` (819x2076) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 75/103)
+- `Outdated character (Unamed)/outdated_72.png` (1005x2021) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 76/103)
+- `Outdated character (Unamed)/outdated_73.png` (708x2068) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 77/103)
+- `Outdated character (Unamed)/outdated_74.png` (880x2048) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 78/103)
+- `Outdated character (Unamed)/outdated_75.png` (932x1496) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 79/103)
+- `Outdated character (Unamed)/outdated_76.png` (1161x2070) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 80/103)
+- `Outdated character (Unamed)/outdated_77.png` (636x1852) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 81/103)
+- `Outdated character (Unamed)/outdated_78.png` (1620x1916) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 82/103)
+- `Outdated character (Unamed)/outdated_79.png` (1248x1893) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 83/103)
+- `Outdated character (Unamed)/outdated_80.png` (783x2018) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 84/103)
+- `Outdated character (Unamed)/outdated_81.png` (744x1514) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 85/103)
+- `Outdated character (Unamed)/outdated_82.png` (756x1932) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 86/103)
+- `Outdated character (Unamed)/outdated_83.png` (972x2063) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 87/103)
+- `Outdated character (Unamed)/outdated_84.png` (654x1917) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 88/103)
+- `Outdated character (Unamed)/outdated_85.png` (1257x2130) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 89/103)
+- `Outdated character (Unamed)/outdated_86.png` (1140x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 90/103)
+- `Outdated character (Unamed)/outdated_87.png` (969x1491) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 91/103)
+- `Outdated character (Unamed)/outdated_88.png` (969x1491) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 92/103)
+- `Outdated character (Unamed)/outdated_89.png` (1086x1967) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 93/103)
+- `Outdated character (Unamed)/outdated_90.png` (2096x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 94/103)
+- `Outdated character (Unamed)/outdated_91.png` (1236x2692) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 95/103)
+- `Outdated character (Unamed)/outdated_92.png` (1254x1794) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 96/103)
+- `Outdated character (Unamed)/outdated_93.png` (993x1856) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 97/103)
+- `Outdated character (Unamed)/outdated_94.png` (1101x2096) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 98/103)
+- `Outdated character (Unamed)/outdated_95.png` (942x2064) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 99/103)
+- `Outdated character (Unamed)/outdated_96.png` (1224x2044) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 100/103)
+- `Outdated character (Unamed)/outdated_97.png` (827x2045) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 101/103)
+- `Outdated character (Unamed)/outdated_98.png` (864x1889) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 102/103)
+- `Outdated character (Unamed)/outdated_99.png` (1002x1994) — Blue-cloaked archer; ranged fighter or stealthy character. (frame 103/103)
+- `Sticker/sticker_attorney_darkelve_man_01.png` (486x509) — Bearded warrior with axe; melee fighter or boss.
+- `Sticker/sticker_bard_human_man_01_A.png` (486x509) — Purple-hatted woman; NPC or companion with dialogue.
+- `Sticker/sticker_bard_human_man_01_B.png` (512x512) — Same as #4, different expression; emotional or narrative scene.
+- `Sticker/sticker_circus_avian_woman_01.png` (512x512) — Red-feathered bird-like creature; companion or enemy.
+- `Sticker/sticker_circus_elve_man_01.png` (512x512) — Masked blonde warrior; stealth or disguise character.
+- `Sticker/sticker_circus_elve_woman_01.png` (512x512) — Elven noble with horns; quest giver or faction leader.
+- `Sticker/sticker_circus_elve_woman_01_alt.png` (512x512) — Smiling elven woman; friendly NPC or ally.
+- `Sticker/sticker_circus_halfelin_woman_01.png` (512x512) — Headband-wearing warrior; battle or dialogue asset.
+- `Sticker/sticker_circus_human_woman_01.png` (512x512) — Red-haired armored woman; combatant or hero.
+- `Sticker/sticker_deity_man_01.png` (486x505) — Dragon with crown; boss or lore character.
+- `Sticker/sticker_deity_man_02.png` (486x509) — Bearded demon with horns; enemy or boss.
+- `Sticker/sticker_deity_man_03.png` (485x500) — Purple-clad devil; enemy or boss.
+- `Sticker/sticker_deity_woman_01.png` (486x509) — Dark-skinned demon; enemy or boss.
+- `Sticker/sticker_deity_woman_02.png` (486x509) — Mechanical dragon; boss or environmental asset.
+- `Sticker/sticker_deity_woman_03.png` (512x512) — Silver-haired woman; NPC or companion.
+- `Sticker/sticker_deity_woman_04.png` (512x512) — Green-skinned orc; enemy or NPC.
+- `Sticker/sticker_demon_cyclope_woman_01.png` (486x491) — Pink-haired woman; NPC or companion.
+- `Sticker/sticker_demon_darkelve_woman_02.png` (455x470) — Dark-haired demon; enemy or boss.
+- `Sticker/sticker_demon_elve_man_01.png` (486x509) — Red-skinned demon; enemy or boss.
+- `Sticker/sticker_demon_halfelin_woman_01.png` (481x500) — Red-haired horned demon with sharp teeth; enemy or NPC in fantasy RPG.
+- `Sticker/sticker_demon_human_man_01.png` (466x477) — Zombie with stitched face and glowing eyes; undead enemy or quest giver.
+- `Sticker/sticker_demon_human_woman_01.png` (512x512) — Blue-skinned creature with red eyes; magical or chaotic entity.
+- `Sticker/sticker_doctor_sylvan_woman_01.png` (486x509) — Sunflower-headed humanoid; nature-themed NPC or ally.
+- `Sticker/sticker_highpriest_elve_woman_01.png` (512x512) — Silver-haired woman with mechanical arm; tech-savvy character or companion.
+- `Sticker/sticker_highpriest_human_man_01.png` (471x481) — Bearded elderly man; wise mentor or elder NPC.
+- `Sticker/sticker_highpriest_human_man_02.png` (486x505) — Bearded man in red armor; warrior or leader character.
+- `Sticker/sticker_highwizard_darkelve_man_01.png` (484x497) — Dark-skinned elf with pointed ears; fantasy race NPC or ally.
+- `Sticker/sticker_highwizard_elve_man_01.png` (486x505) — White-haired elf with purple armor; noble or magical character.
+- `Sticker/sticker_highwizard_elve_woman_01.png` (486x509) — Witch in black hat; spellcaster or villainous NPC.
+- `Sticker/sticker_highwizard_human_man_03.png` (435x496) — Gray-haired woman in purple; mysterious or scholarly NPC.
+- `Sticker/sticker_highwizard_human_woman_01.png` (486x509) — Smiling woman with braided hair; friendly NPC or companion.
+- `Sticker/sticker_highwizard_human_woman_02.png` (512x512) — Old man with monocle and armor; veteran or advisor NPC.
+- `Sticker/sticker_highwizard_stellar_woman_01.png` (486x495) — Pale-skinned elf with orange armor; stealthy or arcane character.
+- `Sticker/sticker_highwizard_unkow_man_01.png` (512x512) — Hooded figure with bandaged face; mysterious or rogue NPC.
+- `Sticker/sticker_jobless_ondin_woman_01.png` (512x512) — Blue-skinned creature with horns; beast or magical NPC.
+- `Sticker/sticker_knight_elve_man_01.png` (486x498) — Dark-haired elf with red eyes; sinister or powerful NPC.
+- `Sticker/sticker_knight_elve_man_02.png` (486x494) — Smiling elf with sharp teeth; mischievous or villainous NPC.
+- `Sticker/sticker_knight_human_man_01.png` (486x505) — Bearded knight in helmet; heroic or combat-focused NPC.
+- `Sticker/sticker_knight_human_man_02.png` (486x497) — Wide-brimmed hat-wearing man; explorer or merchant NPC.
+- `Sticker/sticker_knight_human_man_03.png` (486x494) — Brown-haired man with headband; commoner or adventurer NPC.
+- `Sticker/sticker_knight_human_man_04.png` (486x501) — Grinning orc with metal helmet; brute or enemy NPC.
+- `Sticker/sticker_knight_human_man_04_alt.png` (486x502) — Bearded man with metal helmet; warrior or guard NPC.
+- `Sticker/sticker_knight_human_man_05.png` (486x501) — Black-haired woman with green eyes; rogue or assassin NPC.
+- `Sticker/sticker_knight_human_man_06.png` (486x500) — Bearded man in armor, ready for battle; character portrait for RPGs.
+- `Sticker/sticker_knight_raceless_man_01.png` (476x501) — Green-armored warrior with helmet; combat-ready character art.
+- `Sticker/sticker_marine_orc_man_01.png` (472x509) — Goblin with hat and weapon; enemy or NPC for fantasy games.
+- `Sticker/sticker_noble_darkelve_woman_01.png` (407x507) — Elven woman with flower; NPC or companion portrait.
+- `Sticker/sticker_noble_elve_man_01.png` (486x502) — Elven man with glasses; character or quest-giver art.
+- `Sticker/sticker_noble_elve_man_02.png` (512x512) — Bearded king with crown; royal character or boss.
+- `Sticker/sticker_noble_elve_woman_01.png` (512x512) — Elven woman with dark hair; NPC or party member.
+- `Sticker/sticker_noble_human_man_01.png` (466x498) — Man with long hair and glasses; character portrait.
+- `Sticker/sticker_noble_human_man_02.png` (438x498) — King with crown and beard; royal or leader character.
+- `Sticker/sticker_noble_human_woman_01.png` (413x502) — Crowned elven woman; queen or noble character.
+- `Sticker/sticker_noble_human_woman_02.png` (480x502) — Blonde woman with hand to mouth; expressive NPC.
+- `Sticker/sticker_noble_human_woman_03.png` (480x499) — Red-haired woman with earrings; character portrait.
+- `Sticker/sticker_noble_human_woman_05.png` (471x496) — Brown-haired woman in red; party member or ally.
+- `Sticker/sticker_noble_unknow_man_01.png` (512x512) — Masked warrior with hat; stealth or rogue character.
+- `Sticker/sticker_pirate_cyclope_man_01.png` (512x512) — Blonde woman with hat; character portrait.
+- `Sticker/sticker_pirate_cyclope_man_02.png` (461x504) — Elven man with headwrap; NPC or ally art.
+- `Sticker/sticker_priest_elve_man_01.png` (512x512) — Glasses-wearing elf; character or companion.
+- `Sticker/sticker_priest_elve_woman_01.png` (454x495) — Blond-haired elf with necklace; character portrait.
+- `Sticker/sticker_priest_human_woman_01.png` (474x492) — Woman in red hood with staff; mage or spellcaster.
+- `Sticker/sticker_ranger_elve_man_01.png` (450x488) — Old elf with mustache; elder NPC or mentor.
+- `Sticker/sticker_ranger_elve_man_02.png` (512x512) — Bearded elf with bandana; rogue or adventurer.
+- `Sticker/sticker_ranger_elve_woman_01.png` (486x509) — Elven man with eyepatch; pirate or explorer.
+- `Sticker/sticker_resident_avian_man_01.png` (512x512) — Eagle-headed creature; monster or boss.
+- `Sticker/sticker_resident_avian_woman_01.png` (512x512) — Bird-like creature with goggles; unique NPC or enemy.
+- `Sticker/sticker_resident_cyclope_man_01.png` (486x509) — Grinning goblin with blue hat; chaotic NPC or enemy in fantasy RPG.
+- `Sticker/sticker_resident_cyclope_woman_01.png` (512x512) — Blue-haired elf with gold earrings; customizable character portrait.
+- `Sticker/sticker_resident_cyclope_woman_02.png` (512x512) — Smiling brown-haired elf with eye patch; player character or ally.
+- `Sticker/sticker_resident_darkelve_man_01.png` (486x502) — Bearded grey-haired elf; elder NPC or quest giver.
+- `Sticker/sticker_resident_darkelve_man_02.png` (512x512) — Red-hatted elf with beard; merchant or companion.
+- `Sticker/sticker_resident_darkelve_woman_01.png` (431x496) — Black-haired elf with pointed ears; customizable character portrait.
+- `Sticker/sticker_resident_darkelve_woman_02.png` (486x509) — Elf in wide-brimmed hat; adventurer or rogue class.
+- `Sticker/sticker_resident_darkelve_woman_03.png` (486x493) — Dark-skinned elf with child; family or support character.
+- `Sticker/sticker_resident_darkelve_woman_04.png` (512x512) — White-haired elf with rose; noble or mage class.
+- `Sticker/sticker_resident_darkelve_woman_05.png` (512x512) — Elven woman with glasses and rose; scholar or mage.
+- `Sticker/sticker_resident_dwarf_man_01.png` (512x512) — Bearded man with glasses; wizard or strategist.
+- `Sticker/sticker_resident_elve_man_01.png` (486x505) — Blond-haired elf in formal attire; noble or diplomat.
+- `Sticker/sticker_resident_elve_man_02.png` (512x512) — Bearded elf with glasses; grizzled veteran or mentor.
+- `Sticker/sticker_resident_elve_man_03.png` (512x512) — Blond-haired elf with glasses; customizable character portrait.
+- `Sticker/sticker_resident_elve_woman_01.png` (512x512) — Blond-haired elf in hat; rogue or scout class.
+- `Sticker/sticker_resident_elve_woman_01_alt.png` (512x512) — Blond-haired elf with bow; archer or ranger class.
+- `Sticker/sticker_resident_elve_woman_02.png` (512x512) — Red-haired elf with earrings; customizable character portrait.
+- `Sticker/sticker_resident_elve_woman_03.png` (512x512) — Blond-haired elf with glasses; customizable character portrait.
+- `Sticker/sticker_resident_elve_woman_04.png` (512x512) — Brown-haired elf with braids; customizable character portrait.
+- `Sticker/sticker_resident_goblin_man_01.png` (486x504) — Green-skinned goblin with red bandana; enemy or comic relief.
+- `Sticker/sticker_resident_goblin_woman_01.png` (448x509) — Red-haired goblin with sharp teeth; enemy or comic relief.
+- `Sticker/sticker_resident_halfelin_woman_01.png` (486x492) — Brown-haired elf with ponytail; customizable character portrait.
+- `Sticker/sticker_resident_human_man_01.png` (485x483) — Bald man with glasses; NPC or quest giver.
+- `Sticker/sticker_resident_human_man_02.png` (467x491) — Bearded man in suit; NPC or quest giver.
+- `Sticker/sticker_resident_human_man_03.png` (486x491) — Bearded man with stern expression; NPC or player character portrait.
+- `Sticker/sticker_resident_human_man_04.png` (486x509) — Bearded man in hat holding axe; adventurer or fighter character.
+- `Sticker/sticker_resident_human_man_05.png` (444x496) — Long-haired man with green shirt; generic character portrait.
+- `Sticker/sticker_resident_human_man_06_A.png` (486x505) — Bearded man in cap with gear; rugged adventurer or mercenary.
+- `Sticker/sticker_resident_human_man_06_B.png` (512x512) — Mustachioed man in hat with gold trim; noble or officer character.
+- `Sticker/sticker_resident_human_man_06_C.png` (512x512) — Smiling mustachioed man in uniform; leader or commander portrait.
+- `Sticker/sticker_resident_human_woman_01.png` (479x496) — Dark-haired woman with yellow scarf; mysterious or rogue character.
+- `Sticker/sticker_resident_human_woman_02.png` (445x495) — Curly-haired woman with red hair; expressive NPC or companion.
+- `Sticker/sticker_resident_human_woman_03.png` (426x493) — Blonde woman with flower in hair; cheerful or healer character.
+- `Sticker/sticker_resident_human_woman_04.png` (476x503) — Blonde woman with red hair and blue pendant; mage or archer.
+- `Sticker/sticker_resident_human_woman_05.png` (445x501) — Brown-haired woman with pointed ears; elf or forest dweller.
+- `Sticker/sticker_resident_human_woman_06.png` (454x498) — Dark-haired woman in purple cloak; mage or assassin portrait.
+- `Sticker/sticker_resident_ondin_man_01.png` (512x512) — Blue-skinned creature with red hat; goblin or monster NPC.
+- `Sticker/sticker_resident_ondin_man_02.png` (512x512) — White-haired creature with blue skin; undead or magical being.
+- `Sticker/sticker_resident_ondin_woman_01.png` (512x512) — Pale-skinned creature with horns; demon or spirit character.
+- `Sticker/sticker_resident_orc_woman_01.png` (512x512) — Green-skinned creature with gray hair; orc or troll NPC.
+- `Sticker/sticker_resident_sylvan_man_01.png` (486x509) — Red-haired creature with dark eyes; chaotic or berserker.
+- `Sticker/sticker_resident_sylvan_man_02.png` (512x512) — Green-skinned creature with crown; king or warlord portrait.
+- `Sticker/sticker_resident_sylvan_man_03.png` (512x512) — Green-haired creature with gold jewelry; tribal or barbarian.
+- `Sticker/sticker_resident_sylvan_woman_01.png` (512x512) — Green-skinned creature with goggles; scientist or engineer.
+- `Sticker/sticker_scholar_elve_woman_01.png` (471x509) — Red-haired elf with glasses; scholarly or arcane character.
+- `Sticker/sticker_scholar_elve_woman_02.png` (512x512) — Red-haired elf with glasses and blue pendant; mage or scholar.
+- `Sticker/sticker_scholar_human_man_01.png` (512x512) — Bearded man with glasses and red hair; grizzled veteran.
+- `Sticker/sticker_scholar_human_man_02.png` (512x512) — Bearded man with glasses and yellow shirt; merchant or scholar.
+- `Sticker/sticker_scholar_human_woman_01.png` (486x508) — Blonde-haired character with glasses; customizable portrait for RPG character sheets or UI avatars.
+- `Sticker/sticker_unknow_darkelve_boy_01.png` (479x496) — White-haired elf with pointed ears; versatile portrait asset for fantasy RPG character customization.
+- `Sticker/sticker_unknow_elve_man_01.png` (512x512) — Dark-armored character with purple accents; combat-ready portrait for game UI or character selection.
+- `Sticker/sticker_warrior_avian_man_01_A.png` (486x509) — Bird-like creature with red hood; fantasy creature portrait for party members or enemy sprites.
+- `Sticker/sticker_warrior_avian_man_01_B.png` (512x512) — Eagle-like creature with red crest; fantasy creature portrait for game UI or party member visuals.
+- `Sticker/sticker_warrior_cyclope_woman_01.png` (486x493) — Pink-haired character with wide grin; expressive portrait for RPG character customization or dialogue scenes.
+- `Sticker/sticker_warrior_darkelve_man_01.png` (471x494) — Bearded elder with white hair; NPC or quest-giver portrait for RPG game interfaces.
+- `Sticker/sticker_warrior_darkelve_man_02.png` (512x512) — Long-haired elf with weary expression; portrait for RPG character or quest-related UI elements.
+- `Sticker/sticker_warrior_darkelve_woman_01.png` (486x498) — Afro-haired character with pointed ears; diverse portrait asset for RPG character customization.
+- `Sticker/sticker_warrior_darkelve_woman_02_A.png` (459x509) — Silver-haired elf with green collar; fantasy portrait for RPG character or party member UI.
+- `Sticker/sticker_warrior_darkelve_woman_02_B.png` (512x512) — White-haired elf with red eyes; expressive portrait for RPG character or dialogue scenes.
+- `Sticker/sticker_warrior_darkelve_woman_02_C.png` (512x512) — Adorned elf with braided hair; detailed portrait for RPG character or UI customization.
+- `Sticker/sticker_warrior_darkelve_woman_02_D.png` (512x512) — Silver-haired elf with gold earring; fantasy portrait for RPG character or party member visuals.
+- `Sticker/sticker_warrior_darkelve_woman_03.png` (512x512) — White-haired elf with staff; fantasy portrait for RPG character or quest-related UI.
+- `Sticker/sticker_warrior_dwarf_man_01.png` (457x496) — Brown-haired character with beard; versatile portrait for RPG character or UI avatars.
+- `Sticker/sticker_warrior_dwarf_man_02.png` (472x484) — Bearded warrior with armor; combat-ready portrait for RPG character or party member UI.
+- `Sticker/sticker_warrior_elve_man_01.png` (458x491) — Red-bandana-wearing elf; expressive portrait for RPG character or dialogue scenes.
+- `Sticker/sticker_warrior_elve_man_02.png` (448x493) — Masked character with sharp grin; stealth or rogue portrait for RPG UI or character selection.
+- `Sticker/sticker_warrior_elve_man_03.png` (475x479) — Blue-bandana-wearing character; customizable portrait for RPG character or UI avatars.
+- `Sticker/sticker_warrior_elve_man_04.png` (486x509) — Blonde-haired character with beard; fantasy portrait for RPG character or party member visuals.
+- `Sticker/sticker_warrior_elve_man_05.png` (512x512) — Pink-haired character with tongue out; expressive portrait for RPG character or dialogue scenes.
+- `Sticker/sticker_warrior_elve_woman_01.png` (486x498) — Golden-haired elf with braids; fantasy portrait for RPG character or party member UI.
+- `Sticker/sticker_warrior_elve_woman_02.png` (486x509) — Blonde-haired elf with sad expression; portrait for RPG character or emotional dialogue scenes.
+- `Sticker/sticker_warrior_elve_woman_03.png` (452x507) — Green-cloaked character with mask; mysterious portrait for RPG character or stealth UI.
+- `Sticker/sticker_warrior_goblin_woman_01.png` (512x512) — Green-skinned goblin with white hair; fantasy RPG character portrait.
+- `Sticker/sticker_warrior_human_girl_01.png` (486x496) — Red-haired warrior with sword; combat-ready character asset.
+- `Sticker/sticker_warrior_human_girl_01_alt.png` (486x493) — Red-haired armored warrior; battle-ready character portrait.
+- `Sticker/sticker_warrior_human_man_01.png` (485x497) — Bearded man with glasses; NPC or companion character. (frame 1/11)
+- `Sticker/sticker_warrior_human_man_02.png` (486x495) — Bearded man with glasses; NPC or companion character. (frame 2/11)
+- `Sticker/sticker_warrior_human_man_03.png` (486x488) — Bearded man with glasses; NPC or companion character. (frame 3/11)
+- `Sticker/sticker_warrior_human_man_04.png` (486x494) — Bearded man with glasses; NPC or companion character. (frame 4/11)
+- `Sticker/sticker_warrior_human_man_05.png` (471x490) — Bearded man with glasses; NPC or companion character. (frame 5/11)
+- `Sticker/sticker_warrior_human_man_06.png` (471x496) — Bearded man with glasses; NPC or companion character. (frame 6/11)
+- `Sticker/sticker_warrior_human_man_07.png` (423x491) — Bearded man with glasses; NPC or companion character. (frame 7/11)
+- `Sticker/sticker_warrior_human_man_08.png` (486x493) — Bearded man with glasses; NPC or companion character. (frame 8/11)
+- `Sticker/sticker_warrior_human_man_09.png` (486x491) — Bearded man with glasses; NPC or companion character. (frame 9/11)
+- `Sticker/sticker_warrior_human_man_10.png` (486x509) — Bearded man with glasses; NPC or companion character. (frame 10/11)
+- `Sticker/sticker_warrior_human_man_11.png` (512x512) — Bearded man with glasses; NPC or companion character. (frame 11/11)
+- `Sticker/sticker_warrior_human_woman_01.png` (461x489) — Blonde woman with stern expression; party member or quest giver.
+- `Sticker/sticker_warrior_human_woman_02.png` (452x496) — Purple-hooded figure with spiral pendant; mysterious character.
+- `Sticker/sticker_warrior_human_woman_03.png` (449x482) — Blonde-haired character with tribal markings; adventurer portrait.
+- `Sticker/sticker_warrior_human_woman_04.png` (425x489) — Red-haired woman with freckles; NPC or ally character.
+- `Sticker/sticker_warrior_human_woman_05.png` (483x490) — Brown-haired woman in red jacket; friendly companion asset.
+- `Sticker/sticker_warrior_human_woman_06.png` (464x484) — Red-haired woman with green scarf; versatile character portrait.
+- `Sticker/sticker_warrior_human_woman_07.png` (512x512) — Smiling character in red hat; merchant or comic relief NPC.
+- `Sticker/sticker_warrior_ondin_man_01.png` (512x512) — Blue-skinned elf with horns; fantasy race character.
+- `Sticker/sticker_warrior_ondin_man_02.png` (512x512) — Blue-skinned demon with horns; villain or enemy asset.
+- `Sticker/sticker_warrior_ondin_woman_01_A.png` (486x509) — Blue-skinned character with white hair; fantasy race portrait.
+- `Sticker/sticker_warrior_ondin_woman_01_B.png` (512x512) — Blue-skinned character with ornate helmet; elite enemy or boss.
+- `Sticker/sticker_warrior_ondin_woman_01_C.png` (512x512) — White-haired blue-skinned character with horns; fantasy race portrait.
+- `Sticker/sticker_warrior_ondin_woman_02.png` (512x512) — Blue-skinned character with tribal headgear; exotic NPC or ally.
+- `Sticker/sticker_warrior_orc_man_01.png` (512x512) — Green-skinned goblin with beard; comedic or sidekick character.
+- `Sticker/sticker_warrior_orc_man_02.png` (512x512) — Green-skinned goblin with sharp teeth; aggressive enemy asset.
+- `Sticker/sticker_warrior_orc_man_03.png` (512x512) — Green-skinned goblin with tusks; boss or elite enemy.
+- `Sticker/sticker_warrior_orc_woman_01.png` (486x497) — Green-skinned character with white hair; versatile fantasy portrait.
+- `Sticker/sticker_warrior_sylvan_man_01.png` (512x512) — Red-haired character with wide grin; humorous or chaotic NPC.
+- `Sticker/sticker_warrior_unknow_woman_01.png` (512x512) — Robot with helmet and glowing eye; sci-fi or fantasy game NPC.
+- `Sticker/sticker_wizard_avian_man_01.png` (512x512) — Blue bird-like creature with glasses; quirky companion or enemy.
+- `Sticker/sticker_wizard_cyclope_man_01.png` (486x509) — Bearded man in hat and bowtie; merchant or rogue character.
+- `Sticker/sticker_wizard_darkelve_man_01.png` (486x497) — Dark-skinned elf with pointed ears; fantasy adventurer or NPC.
+- `Sticker/sticker_wizard_dwarf_man_01.png` (512x512) — Bearded blonde man with scar; warrior or quest giver.
+- `Sticker/sticker_wizard_elve_man_01.png` (486x502) — Spiky-haired elf with purple attire; villain or boss character.
+- `Sticker/sticker_wizard_elve_man_02.png` (512x512) — Blonde-haired elf with pointed ears; friendly NPC or companion.
+- `Sticker/sticker_wizard_elve_woman_01.png` (486x486) — Blonde-haired woman with glasses; scholar or mage character.
+- `Sticker/sticker_wizard_elve_woman_02.png` (486x509) — White-haired elf with necklace; noble or wise NPC.
+- `Sticker/sticker_wizard_goblin_woman_01.png` (486x500) — Green-skinned elf with red hair; rogue or assassin character.
+- `Sticker/sticker_wizard_goblin_woman_02.png` (512x512) — Goblin with orange scarf; comedic or minor enemy.
+- `Sticker/sticker_wizard_goblin_woman_03.png` (512x512) — Green-skinned goblin with hat; mischievous or sidekick NPC.
+- `Sticker/sticker_wizard_goblin_woman_04.png` (512x512) — Green-skinned elf with white hair; arcane or mystical NPC.
+- `Sticker/sticker_wizard_halfelin_man_01.png` (512x512) — Bearded man with glasses; grumpy merchant or mentor.
+- `Sticker/sticker_wizard_halfelin_woman_01.png` (512x512) — Smiling elf with braided hair; cheerful companion or ally.
+- `Sticker/sticker_wizard_human_man_01.png` (482x496) — Serious-looking man with dark hair; main character or hero.
+- `Sticker/sticker_wizard_human_man_02.png` (465x489) — Old man with beard and hat; wise elder or quest giver.
+- `Sticker/sticker_wizard_human_man_03.png` (473x493) — Man with green gem headband; noble or commander NPC.
+- `Sticker/sticker_wizard_human_man_04.png` (486x496) — Bald man with purple robe; sorcerer or villain.
+- `Sticker/sticker_wizard_human_man_05.png` (512x512) — Man with long beard and hat; grizzled veteran or NPC.
+- `Sticker/sticker_wizard_human_man_07.png` (512x512) — Old man with white beard; wise mentor or NPC.
+- `Sticker/sticker_wizard_human_woman_01.png` (438x496) — Dark-haired woman in purple; mysterious or rogue character.
+- `Sticker/sticker_wizard_human_woman_02.png` (486x501) — Woman in red hat with braid; adventurous or NPC.
+- `Sticker/sticker_wizard_human_woman_03.png` (464x498) — Blonde-haired woman with green gem; healer or mage NPC.
+- `Sticker/sticker_wizard_human_woman_04.png` (472x494) — Female character with brown hair and helmet; combat or exploration sprite.
+- `Sticker/sticker_wizard_human_woman_05.png` (512x512) — Smiling character with hat and necklace; dialogue or idle animation frame.
+- `Sticker/sticker_wizard_sylvan_boy_01 _A.png` (486x509) — Red-haired character with flower crown; battle or action pose sprite.
+- `Sticker/sticker_wizard_sylvan_boy_01_B.png` (512x512) — Red-haired character with sunglasses; alternate battle or idle frame.
+- `Sticker/sticker_wizard_sylvan_boy_01_C.png` (512x512) — Pink-haired character with goggles; unique character portrait or sprite.
+
+## docs/licenses (3)
+
+- `Outdated character (Unamed)/[--Read me first--].txt` (346 B) — Document: [ Read me first ].
+- `Update Log.txt` (1001 B) — Document: Update Log.
+- `[--Read me first--].txt` (596 B) — Document: [ Read me first ].
