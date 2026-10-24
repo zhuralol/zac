@@ -8,12 +8,20 @@ from typing import Any
 from .config import Config
 from .licensing import build_attribution
 from .taxonomy import category_label
-from .util import human_bytes, info, now_iso, read_json, slug_from_url, slugify, warn, write_json
+from .util import human_bytes, info, normalize_name, now_iso, read_json, slug_from_url, slugify, warn, write_json
 
 
 def card_path(config: Config, slug: str) -> Path:
     assert config.paths is not None
     return config.paths.cards / f"{slug}.json"
+
+
+LOCAL_ID_PREFIX = "local-"
+
+
+def is_local_card(card: dict[str, Any]) -> bool:
+    """True for cards bootstrapped from a downloads folder (no itch metadata)."""
+    return str((card.get("itch") or {}).get("game_id") or "").startswith(LOCAL_ID_PREFIX)
 
 
 def load_cards(cards_dir: Path) -> dict[str, dict[str, Any]]:
@@ -85,11 +93,30 @@ def merge_ingest(config: Config, records: dict[str, dict[str, Any]]) -> dict[str
         slug = by_game_id.get(gid)
         if slug is None:
             base = slug_from_url(record.get("url") or "") or slugify(record.get("title") or "asset")
-            slug = base
-            if slug in existing and str((existing[slug].get("itch") or {}).get("game_id")) != gid:
-                slug = f"{base}-{gid}"
-            card = _new_card(record, slug)
-            created += 1
+            candidate = existing.get(base)
+            if candidate is None or not is_local_card(candidate):
+                # `import-dir` slugs may differ by version suffix or punctuation.
+                wanted_slug = normalize_name(base)
+                wanted_title = normalize_name(record.get("title") or "")
+                for other in existing.values():
+                    if not is_local_card(other):
+                        continue
+                    if normalize_name(other.get("slug")) == wanted_slug or (
+                        wanted_title and normalize_name((other.get("itch") or {}).get("title")) == wanted_title
+                    ):
+                        candidate = other
+                        break
+            if candidate is not None and is_local_card(candidate):
+                # Adopt a card created by `import-dir` instead of duplicating it.
+                slug = candidate["slug"]
+                card = candidate
+                updated += 1
+            else:
+                slug = base
+                if candidate is not None and str((candidate.get("itch") or {}).get("game_id")) != gid:
+                    slug = f"{base}-{gid}"
+                card = _new_card(record, slug)
+                created += 1
         else:
             card = existing[slug]
             updated += 1

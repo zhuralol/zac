@@ -27,10 +27,23 @@ _PATTERNS: list[tuple[re.Pattern[str], str, str]] = [
     (re.compile(r"\bogl\b|open\s+game\s+license", re.I), "OGL", "yes"),
     (re.compile(r"royalty[ -]?free", re.I), "Royalty-free (custom terms)", "unknown"),
     (re.compile(r"no\s+attribution\s+(?:is\s+)?(?:required|necessary)", re.I), "Custom (no attribution required)", "no"),
-    (re.compile(r"attribution\s+(?:is\s+)?required", re.I), "Custom (attribution required)", "yes"),
-    (re.compile(r"free\s+for\s+(?:personal\s+and\s+)?commercial\s+use|commercial\s+use\s+(?:is\s+)?(?:allowed|permitted)", re.I),
+    (re.compile(r"(?:credits?|attribution)\s+(?:are|is)?\s*not\s+(?:mandatory|required)", re.I),
+     "Custom (no attribution required)", "no"),
+    (re.compile(r"credit\s+is\s+not\s+required|no\s+credit\s+required", re.I), "Custom (no attribution required)", "no"),
+    (re.compile(r"attribution\s+(?:is\s+)?required|with\s+attribution|proper\s+credit|please\s+credit", re.I),
+     "Custom (attribution required)", "yes"),
+    (re.compile(r"free\s+for\s+(?:personal\s+and\s+)?commercial\s+use|commercial\s+use\s+(?:is\s+)?(?:allowed|permitted)|"
+                r"even\s+commercial", re.I),
      "Custom (commercial use permitted)", "unknown"),
 ]
+
+_CC_URL = re.compile(
+    r"creativecommons\.org/(?:"
+    r"(?P<zero>publicdomain/zero)"
+    r"|licenses/(?P<kind>by(?:-[a-z]{2})*)/(?P<version>\d+\.\d+)"
+    r")",
+    re.I,
+)
 
 _UNSPECIFIED = {
     "type": "unspecified",
@@ -53,6 +66,24 @@ def detect_license(text: str) -> dict[str, Any] | None:
     """Return the strongest license match in `text`, or None."""
     if not text:
         return None
+
+    # Creative Commons URLs are the most specific signal we can get.
+    url_match = _CC_URL.search(text)
+    if url_match:
+        if url_match.group("zero"):
+            cc_type, requires = "CC0 / Public Domain", "no"
+        else:
+            kind = url_match.group("kind").lower()
+            cc_type = "CC " + kind.upper() + " " + url_match.group("version")
+            requires = "yes"
+        return {
+            "type": cc_type,
+            "confidence": "medium",
+            "source": "page",
+            "raw_span": _span(text, url_match),
+            "requires_attribution": requires,
+        }
+
     best: tuple[int, dict[str, Any]] | None = None
     for order, (pattern, name, requires) in enumerate(_PATTERNS):
         match = pattern.search(text)

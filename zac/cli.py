@@ -10,6 +10,7 @@ from pathlib import Path
 from . import __version__
 from .cards import load_cards, merge_enrich, merge_ingest
 from .config import Config, load_config
+from .importer import import_directory
 from .itch_api import ItchAPI, collect_assets, save_download_keys
 from .page_parser import POLITE_DELAY, fetch_page
 from .render import render_all
@@ -85,6 +86,15 @@ def cmd_ingest_url(args: argparse.Namespace) -> int:
     merge_ingest(cfg, {str(record["game_id"]): record})
     merge_enrich(cfg, slug, parsed)
     print(f"added manual card: {slug}")
+    return 0
+
+
+def cmd_import_dir(args: argparse.Namespace) -> int:
+    cfg = _cfg(args)
+    downloads = Path(args.downloads_dir).expanduser().resolve() if args.downloads_dir else None
+    stats = import_directory(cfg, downloads, include_empty=args.include_empty)
+    print(f"cards created: {stats['created']}, already present: {stats['skipped']}, empty skipped: {stats['empty']}")
+    print("next: run `python -m zac scan` (with the same --downloads-dir) and then `python -m zac render`")
     return 0
 
 
@@ -172,6 +182,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("url")
     p.add_argument("--classification", default="assets")
     p.set_defaults(func=cmd_ingest_url)
+
+    p = sub.add_parser("import-dir", help="bootstrap cards from a downloads folder (no API key needed)")
+    p.add_argument("--downloads-dir", default=None, help="folder containing one subfolder per asset")
+    p.add_argument("--include-empty", action="store_true", help="also create cards for empty folders")
+    p.set_defaults(func=cmd_import_dir)
 
     p = sub.add_parser("enrich", help="scrape asset pages for description, tags, author")
     p.add_argument("--force", action="store_true", help="ignore page cache")

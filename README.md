@@ -73,6 +73,7 @@ probed only when their path/size/mtime fingerprint changes.
 | `collections` | list your itch.io collections with IDs and game counts |
 | `ingest` | merge owned download keys + configured collections into cards |
 | `ingest-url <url>` | add one asset page manually (delisted/private assets) |
+| `import-dir [--downloads-dir PATH]` | bootstrap cards from folders without itch metadata/API key |
 | `enrich [--force] [--limit N]` | scrape asset pages for description/tags/author |
 | `scan [--no-probe] [--force] [--no-interactive]` | match folders and analyze contents |
 | `render` | regenerate `ASSETS.md` and `ATTRIBUTION.md` |
@@ -207,6 +208,18 @@ python -m zac ingest-url https://author.itch.io/pack-name
 ```
 
 The card is created from the public page and marked `acquired: "manual"`.
+
+If you have packs on disk but no API key (or they came from elsewhere), bootstrap
+cards from the folder structure and let `scan` discover licenses from the files:
+
+```bash
+python -m zac import-dir --downloads-dir /path/to/downloads
+python -m zac scan --downloads-dir /path/to/downloads --no-interactive
+python -m zac render
+```
+
+A later `ingest` adopts these local cards by matching title/slug, so no
+duplicates are created.
 
 ## Tests
 

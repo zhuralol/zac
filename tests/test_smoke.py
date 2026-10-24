@@ -217,5 +217,35 @@ class EndToEndTests(unittest.TestCase):
         self.assertTrue((self.cfg.scan_cache / "probe.json").exists())
 
 
+
+class LicenseUrlAndPhrasingTests(unittest.TestCase):
+    def test_cc_url_variants(self) -> None:
+        found = detect_license("terms here: https://creativecommons.org/licenses/by-nc/4.0/")
+        assert found is not None
+        self.assertEqual(found["type"], "CC BY-NC 4.0")
+        self.assertEqual(found["requires_attribution"], "yes")
+
+        found = detect_license("see creativecommons.org/publicdomain/zero/1.0/")
+        assert found is not None
+        self.assertIn("CC0", found["type"])
+        self.assertEqual(found["requires_attribution"], "no")
+
+    def test_credit_phrasing(self) -> None:
+        found = detect_license("Credits are not mandatory, but much appreciated!")
+        assert found is not None
+        self.assertEqual(found["requires_attribution"], "no")
+
+        found = detect_license("Distribute in open source projects (with attribution)")
+        assert found is not None
+        self.assertEqual(found["requires_attribution"], "yes")
+
+        found = detect_license("Free to use on any project, even commercial.")
+        assert found is not None
+        self.assertIn("commercial use permitted", found["type"])
+
+        found = detect_license("Please Credit Me with : [https://ddant1100.itch.io]")
+        assert found is not None
+        self.assertEqual(found["requires_attribution"], "yes")
+
 if __name__ == "__main__":
     unittest.main()

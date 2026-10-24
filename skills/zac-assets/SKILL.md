@@ -117,6 +117,7 @@ when the user asks to update the inventory, or when an asset is clearly missing:
 python -m zac collections        # list collections; user edits config.toml
 python -m zac ingest             # owned keys + configured collections
 python -m zac ingest-url <url>   # delisted/private asset, manual fallback
+python -m zac import-dir --downloads-dir <dir>  # no API key: cards from folders
 python -m zac enrich             # descriptions, tags, author, license hints
 python -m zac scan               # after new downloads or re-downloads
 python -m zac render             # regenerate ASSETS.md and ATTRIBUTION.md
