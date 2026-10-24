@@ -51,8 +51,8 @@ class SheetTests(unittest.TestCase):
         self.assertEqual(len(samples), 6)
         parents = {rel.rsplit("/", 1)[0] for _, rel in samples}
         self.assertEqual(parents, {"enemies", "tiles", "ui"})
-        # first file of every sampled folder is included (rest pose / first frame)
-        self.assertIn("enemies/enemies_00.png", {rel for _, rel in samples})
+        # samples come from the middle of each sequence, not blank first frames
+        self.assertIn("enemies/enemies_03.png", {rel for _, rel in samples})
 
     def test_contact_sheet_is_labeled(self) -> None:
         sheet, meta = build_contact_sheet(self.card, 6)

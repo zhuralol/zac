@@ -107,13 +107,17 @@ def sample_images(card: dict[str, Any], limit: int = MAX_TILES) -> list[tuple[Pa
         if len(items) <= per_dir:
             picks.extend(items)
             continue
-        # Always include the first file (usually the rest pose / first frame).
-        idxs = {0}
-        remaining = per_dir - 1
-        if remaining > 0:
-            step = (len(items) - 1) / remaining
-            idxs.update(min(len(items) - 1, int(round(1 + i * step))) for i in range(remaining))
-        picks.extend(items[i] for i in sorted(idxs))
+        # Spread across the folder. For animation folders the first frame is
+        # often blank, so sample mid-sequence rather than always index 0.
+        if per_dir == 1:
+            idxs = [len(items) // 2]
+        else:
+            # Avoid the blank first/last frames: distribute inside the sequence.
+            idxs = sorted({
+                min(len(items) - 1, max(0, int(round((i + 1) * (len(items) - 1) / (per_dir + 1)))))
+                for i in range(per_dir)
+            })
+        picks.extend(items[i] for i in idxs)
 
     if len(picks) > limit:
         step = len(picks) / limit
