@@ -74,6 +74,7 @@ probed only when their path/size/mtime fingerprint changes.
 | `ingest` | merge owned download keys + configured collections into cards |
 | `ingest-url <url>` | add one asset page manually (delisted/private assets) |
 | `import-dir [--downloads-dir PATH]` | bootstrap cards from folders without itch metadata/API key |
+| `describe [--slug S] [--dry-run DIR] [--set S]` | caption what sprites/textures actually show |
 | `enrich [--force] [--limit N]` | scrape asset pages for description/tags/author |
 | `scan [--no-probe] [--force] [--no-interactive]` | match folders and analyze contents |
 | `render` | regenerate `ASSETS.md` and `ATTRIBUTION.md` |
@@ -198,6 +199,50 @@ ln -s "$PWD/skills/zac-assets" ~/.config/opencode/skills/zac-assets
 
 Set `ZAC_ROOT=/path/to/checkout` if the inventory is not in the working directory
 or `~/Projects/zac`.
+
+## Describing what the art actually shows
+
+Counts and dimensions do not tell you what is drawn. `describe` builds a contact
+sheet of up to 24 representative images per pack (spread across subfolders, first
+frames included) and asks a vision model to catalogue it. The description is
+stored in the card as `content.description` and rendered as **Looks like:** in
+`ASSETS.md`.
+
+```bash
+# OpenAI or any OpenAI-compatible endpoint (OpenRouter, vLLM, LM Studio, ...)
+export ZAC_VISION_API_KEY=...        # or OPENAI_API_KEY
+python -m zac describe --model gpt-4o-mini
+
+# Local Ollama with a vision model
+python -m zac describe --provider ollama --model qwen2.5vl:7b
+
+# Only some packs, or redo existing descriptions
+python -m zac describe --slug delven-textures-1-2a --force
+```
+
+Configure defaults in `config.toml`:
+
+```toml
+[vision]
+provider = "openai"                  # or "ollama"
+model = "gpt-4o-mini"
+base_url = "https://api.openai.com/v1"   # for Ollama: http://localhost:11434
+```
+
+### No vision backend? Use your agent (or your own eyes)
+
+`--dry-run` writes the same contact sheets to disk so an agent with image
+reading, or a human, can inspect them and store a description:
+
+```bash
+python -m zac describe --dry-run /tmp/zac-sheets
+# inspect the sheets, then:
+python -m zac describe --set delven-textures-1-2a --text-file description.txt
+```
+
+This is the same storage path as the model output, so rendering and the agent
+skill work identically. The skill uses this fallback automatically when no
+provider is configured.
 
 ## Delisted / private assets
 

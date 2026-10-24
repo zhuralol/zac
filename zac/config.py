@@ -26,7 +26,21 @@ keys = "keys.json"
 matches = "assets/matches.json"
 assets_md = "ASSETS.md"
 attribution_md = "ATTRIBUTION.md"
+
+[vision]
+# Provider for `python -m zac describe`: "openai" (any OpenAI-compatible
+# /chat/completions endpoint) or "ollama" (local server with a vision model).
+# provider = "openai"
+# model = "gpt-4o-mini"
+# base_url = "https://api.openai.com/v1"
 """
+
+
+@dataclass
+class VisionConfig:
+    provider: str = "openai"
+    model: str | None = None
+    base_url: str | None = None
 
 
 @dataclass
@@ -46,6 +60,7 @@ class Config:
     collections: list[str] = field(default_factory=list)
     classifications: list[str] = field(default_factory=lambda: ["assets"])
     paths: Paths | None = None
+    vision: VisionConfig = field(default_factory=VisionConfig)
     source: Path | None = None
 
     @property
@@ -86,4 +101,17 @@ def load_config(config_path: str = "config.toml", *, create: bool = True) -> Con
     )
     collections = [str(c) for c in raw.get("collections", []) if str(c).strip()]
     classifications = [str(c).strip().lower() for c in raw.get("classifications", ["assets"]) if str(c).strip()]
-    return Config(root=root, collections=collections, classifications=classifications or ["assets"], paths=paths, source=path)
+    vision_raw = raw.get("vision", {})
+    vision = VisionConfig(
+        provider=str(vision_raw.get("provider", "openai")).lower(),
+        model=(str(vision_raw["model"]) if vision_raw.get("model") else None),
+        base_url=vision_raw.get("base_url"),
+    )
+    return Config(
+        root=root,
+        collections=collections,
+        classifications=classifications or ["assets"],
+        paths=paths,
+        vision=vision,
+        source=path,
+    )

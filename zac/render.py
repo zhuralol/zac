@@ -175,6 +175,10 @@ def render_card(card: dict[str, Any]) -> list[str]:
         lines.append(f"> {card['summary']}")
         lines.append("")
 
+    if (card.get("content") or {}).get("description"):
+        lines.append(f"**Looks like:** {card['content']['description']}")
+        lines.append("")
+
     if card.get("description"):
         desc = card["description"].strip()
         lines.append("**itch.io description:**")

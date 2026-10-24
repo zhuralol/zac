@@ -49,6 +49,20 @@ python <skill-dir>/scripts/find_assets.py --json --tag ui
 `~/.claude/skills/zac-assets` or `~/.config/opencode/skills/zac-assets`).
 Set `ZAC_ROOT` or pass `--root` if auto-detection fails.
 
+## Describing what the art shows
+
+Counts and dimensions are not content. Check `content.description` on the card
+first; `ASSETS.md` renders it as **Looks like:**. If it is missing:
+
+- With a vision backend configured, run `python -m zac describe --slug <slug>`
+  (or `--force` to redo). Providers live under `[vision]` in `config.toml`.
+- With no backend, run `python -m zac describe --dry-run <dir>`, **look at the
+  contact sheets yourself** (you have image reading), then store your observation
+  with `python -m zac describe --set <slug> --text-file <file>`. This uses the
+  same storage path, so the inventory stays complete and offline-friendly.
+- Never describe a pack from its name alone. Do not invent motifs, styles, or
+  contents that the sheet/card does not show.
+
 ## Using assets in a game
 
 Before you write imports/loaders for a pack, check the card:
@@ -120,6 +134,7 @@ python -m zac ingest-url <url>   # delisted/private asset, manual fallback
 python -m zac import-dir --downloads-dir <dir>  # no API key: cards from folders
 python -m zac enrich             # descriptions, tags, author, license hints
 python -m zac scan               # after new downloads or re-downloads
+python -m zac describe           # what the sprites/textures actually show
 python -m zac render             # regenerate ASSETS.md and ATTRIBUTION.md
 python -m zac update             # all of the above
 ```
