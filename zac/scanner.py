@@ -405,7 +405,7 @@ def run_scan(
     assert config.paths is not None
     cards = load_cards(config.paths.cards)
     if not cards:
-        warn(f"no asset cards found in {config.paths.cards}; run `python -m ledger ingest` first")
+        warn(f"no asset cards found in {config.paths.cards}; run `python -m zac ingest` first")
         return {"matched": 0, "scanned": 0}
 
     info(f"matching folders in {config.paths.downloads} ...")

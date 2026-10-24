@@ -16,7 +16,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-USER_AGENT = "art-classifyer/1.0 (local asset ledger; +https://itch.io)"
+USER_AGENT = "ZAC/1.0 (Zhura's Asset Classifier; local asset ledger; +https://itch.io)"
 
 _VERSION_SUFFIX = re.compile(r"[_\- ]?v\d+(?:[._]\d+)*$", re.IGNORECASE)
 _NON_ALNUM = re.compile(r"[^a-z0-9]+")

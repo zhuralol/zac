@@ -9,10 +9,10 @@ from pathlib import Path
 from .util import info
 
 DEFAULT_CONFIG = """\
-# itch.io asset ledger configuration
+# ZAC — Zhura's Asset Classifier — configuration
 #
 # List the collections that contain your art assets (including free ones).
-# Run `python -m ledger collections` to see names and ids.
+# Run `python -m zac collections` to see names and ids.
 collections = []
 
 # Which itch.io classifications count as assets. "assets" is the standard value.

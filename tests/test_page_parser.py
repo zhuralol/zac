@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import unittest
 
-from ledger.page_parser import html_to_markdown, parse_page
+from zac.page_parser import html_to_markdown, parse_page
 
 PAGE = """
 <html><head>

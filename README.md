@@ -1,4 +1,4 @@
-# art_classifyer — itch.io asset ledger
+# ZAC — Zhura's Asset Classifier
 
 Keeps a local inventory of the **art assets you own on itch.io** so a game-dev
 LLM knows what you have, what is actually inside each pack, and how each pack
@@ -39,28 +39,28 @@ font glyph counts).
 
 ```bash
 # 1. See your collections and pick the ones that contain assets
-python -m ledger collections
+python -m zac collections
 
 # 2. Add them to config.toml
 #    collections = ["My Game Assets", "Pixel Art"]
 
 # 3. Pull inventory (owned keys + configured collections)
-python -m ledger ingest
+python -m zac ingest
 
 # 4. Scrape descriptions, tags, and license hints
-python -m ledger enrich
+python -m zac enrich
 
 # 5. Download packs manually into downloads/<pack name>/ and scan them
-python -m ledger scan
+python -m zac scan
 
 # 6. Generate the Markdown your LLM reads
-python -m ledger render
+python -m zac render
 ```
 
 Or run steps 3–6 in one go:
 
 ```bash
-python -m ledger update
+python -m zac update
 ```
 
 `update` is incremental: page requests are conditional (ETag), and files are
@@ -184,7 +184,7 @@ are grouped under **needs review**.
 `/profile/owned-keys` only returns published games. For anything missing:
 
 ```bash
-python -m ledger ingest-url https://author.itch.io/pack-name
+python -m zac ingest-url https://author.itch.io/pack-name
 ```
 
 The card is created from the public page and marked `acquired: "manual"`.

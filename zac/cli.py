@@ -1,4 +1,4 @@
-"""Command-line interface for the itch.io asset ledger."""
+"""Command-line interface for ZAC (Zhura's Asset Classifier)."""
 
 from __future__ import annotations
 
@@ -93,7 +93,7 @@ def cmd_enrich(args: argparse.Namespace) -> int:
     assert cfg.paths is not None
     cards = load_cards(cfg.paths.cards)
     if not cards:
-        warn(f"no cards in {cfg.paths.cards}; run `python -m ledger ingest` first")
+        warn(f"no cards in {cfg.paths.cards}; run `python -m zac ingest` first")
         return 1
     targets = sorted(cards.values(), key=lambda c: ((c.get("itch") or {}).get("title") or ""))
     if args.limit:
@@ -154,7 +154,7 @@ def cmd_update(args: argparse.Namespace) -> int:
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog="python -m ledger",
+        prog="python -m zac",
         description="Inventory owned itch.io art assets as JSON cards + LLM-friendly Markdown.",
     )
     parser.add_argument("--version", action="version", version=f"%(prog)s {__version__}")

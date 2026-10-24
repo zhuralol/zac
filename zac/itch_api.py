@@ -184,7 +184,7 @@ def collect_assets(config: Config, api: ItchAPI | None = None) -> tuple[dict[str
         for name in config.collections:
             found = by_name.get(name.strip().lower()) or by_id.get(name.strip())
             if not found:
-                warn(f"collection not found: {name!r} (run `python -m ledger collections`)")
+                warn(f"collection not found: {name!r} (run `python -m zac collections`)")
                 continue
             matched.append(found)
             info(f"  using collection {found.get('id')}: {found.get('title')}")

@@ -13,13 +13,13 @@ from pathlib import Path
 
 from PIL import Image
 
-from ledger.cards import load_cards
-from ledger.config import load_config
-from ledger.licensing import build_attribution, detect_license
-from ledger.render import render_all
-from ledger.scanner import match_score, run_scan
-from ledger.taxonomy import classify, is_junk_file
-from ledger.util import normalize_name, slugify
+from zac.cards import load_cards
+from zac.config import load_config
+from zac.licensing import build_attribution, detect_license
+from zac.render import render_all
+from zac.scanner import match_score, run_scan
+from zac.taxonomy import classify, is_junk_file
+from zac.util import normalize_name, slugify
 
 TITLE = "Pixel Necro Pack v2"
 AUTHOR = "Pixel Poison"
