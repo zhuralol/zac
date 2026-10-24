@@ -1,0 +1,18 @@
+# itch.io asset ledger configuration
+#
+# List the collections that contain your art assets (including free ones).
+# Run `python -m ledger collections` to see names and ids, then put them here:
+collections = []
+
+# Which itch.io classifications count as assets. "assets" is the standard value.
+# Games, tools and soundtracks are always excluded.
+classifications = ["assets"]
+
+[paths]
+downloads = "downloads"
+cards = "assets/cards"
+cache = ".cache"
+keys = "keys.json"
+matches = "assets/matches.json"
+assets_md = "ASSETS.md"
+attribution_md = "ATTRIBUTION.md"

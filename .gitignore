@@ -1,0 +1,16 @@
+# Secrets / machine-specific
+keys.json
+.cache/
+downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Editors
+.DS_Store
+.idea/
+.vscode/
