@@ -154,7 +154,7 @@ def build_items(card: dict[str, Any], *, include_sheets: bool = True) -> list[It
                 grid = None
             else:
                 grid = (entry.get("sheet") or {}).get("grid") or detect_grid(base / entry["path"])
-            confident = bool(grid and grid.get("cells", 0) >= 4
+            confident = bool(grid and grid.get("cells", 0) >= 6
                              and grid.get("gutter", 0) >= 0.85 and grid.get("fill", 0) >= 0.85
                              and min(grid.get("cell_w", 0), grid.get("cell_h", 0)) >= 16)
             if grid and (named_sheet or confident):

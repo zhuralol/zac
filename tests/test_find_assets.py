@@ -71,6 +71,11 @@ class FindAssetsTests(unittest.TestCase):
                 "credit_line": "Ambient Audio by Test Artist — CC0 / Public Domain",
             },
         )
+        pixel["local"]["manifest"] = [
+            {"path": "weapon_and_tools.png", "category": "images", "size": 100,
+             "description": "Grid of weapons and tools for inventory UI."}
+        ]
+        pixel["local"]["facts"] = {"width": 192, "height": 168}
         for card in (pixel, tiles, audio):
             (cards_dir / f"{card['slug']}.json").write_text(json.dumps(card), encoding="utf-8")
 
@@ -113,6 +118,14 @@ class FindAssetsTests(unittest.TestCase):
         self.assertEqual(data[0]["slug"], "free-tiles")
         self.assertEqual(data[0]["license"], "unspecified")
         self.assertFalse(data[0]["downloaded"])
+
+    def test_file_query_searches_descriptions(self) -> None:
+        result = self.run_script("--file-query", "weapons")
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertIn("weapon_and_tools.png", result.stdout)
+        self.assertIn("Grid of weapons", result.stdout)
+        missing = self.run_script("--file-query", "nonexistent-thing")
+        self.assertEqual(missing.returncode, 1)
 
     def test_no_match_and_bad_root(self) -> None:
         no_match = self.run_script("definitely-not-an-asset")
