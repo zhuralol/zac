@@ -222,7 +222,7 @@ def build_contact_sheet(card: dict[str, Any], limit: int = MAX_TILES) -> tuple[A
     return sheet, meta
 
 
-def _png_bytes(image: Any) -> bytes:
+def png_bytes(image: Any) -> bytes:
     buf = io.BytesIO()
     image.save(buf, format="PNG", optimize=True)
     return buf.getvalue()
@@ -346,7 +346,7 @@ def describe_card(
         return None
     sheet, meta = build_contact_sheet(card, limit)
     prompt = build_prompt(card, len(meta))
-    text = call_vision(settings, prompt, _png_bytes(sheet))
+    text = call_vision(settings, prompt, png_bytes(sheet))
     if not text:
         raise RuntimeError("vision model returned an empty description")
     set_description(config, card, text, model=settings.label(), samples=len(meta))

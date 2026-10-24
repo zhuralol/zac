@@ -23,7 +23,7 @@ from .taxonomy import (
 from .util import human_bytes, info, now_iso, read_json, sha1, warn, write_json
 
 _SEQUENCE = re.compile(r"^(?P<prefix>.*?)[ _-]?(?P<num>\d{1,3})$", re.IGNORECASE)
-_MAX_MANIFEST = 2000
+_MAX_MANIFEST = 50000
 _MAX_NOTABLE = 8
 _MAX_DOCS = 6
 _MAX_DOC_BYTES = 2 * 1024 * 1024
@@ -144,19 +144,28 @@ def _new_aggregate() -> dict[str, Any]:
     }
 
 
-def _add_file(agg: dict[str, Any], rel: str, size: int, *, notable: bool = True) -> str:
+def _add_file(agg: dict[str, Any], rel: str, size: int, *, notable: bool = True) -> dict[str, Any]:
     cat = classify(rel)
     agg["categories"][cat]["count"] += 1
     agg["categories"][cat]["bytes"] += size
     agg["file_count"] += 1
     agg["total_bytes"] += size
+    entry: dict[str, Any] = {"path": rel, "size": size, "category": cat}
     if len(agg["manifest"]) < _MAX_MANIFEST:
-        agg["manifest"].append({"path": rel, "size": size, "category": cat})
+        agg["manifest"].append(entry)
     else:
         agg["manifest_truncated"] = True
     if notable and len(agg["notable"][cat]) < _MAX_NOTABLE:
         agg["notable"][cat].append(rel)
-    return cat
+    return entry
+
+
+def _compact_facts(facts: dict[str, Any]) -> dict[str, Any]:
+    keep = ("kind", "width", "height", "frames", "pixel_art", "size_bucket",
+            "palette", "palette_bucket", "duration", "sample_rate", "channels",
+            "role", "meshes", "nodes", "materials", "animations", "vertices",
+            "faces", "objects", "glyphs", "name")
+    return {k: facts[k] for k in keep if facts.get(k) is not None}
 
 
 def _record_facts(agg: dict[str, Any], rel: str, facts: dict[str, Any]) -> None:
@@ -217,7 +226,8 @@ def _collect_doc(agg: dict[str, Any], rel: str, text: str) -> None:
 
 
 def _probe_local_file(
-    agg: dict[str, Any], abs_path: str, rel: str, size: int, mtime: float, cache: dict[str, Any], deep: bool
+    agg: dict[str, Any], abs_path: str, rel: str, size: int, mtime: float,
+    cache: dict[str, Any], deep: bool, entry: dict[str, Any] | None = None,
 ) -> None:
     cat = classify(rel)
     if deep and cat in _PROBE_CATEGORIES:
@@ -225,6 +235,8 @@ def _probe_local_file(
             return
         facts = probe_path(abs_path, rel, size=size, mtime=mtime, cache=cache)
         _record_facts(agg, rel, facts)
+        if entry is not None and facts.get("kind") not in ("doc", "unprobed"):
+            entry["facts"] = _compact_facts(facts)
         if facts.get("kind") == "doc":
             _collect_doc(agg, rel, facts.get("text") or "")
     elif cat == "docs" and is_probable_license_doc(rel) and size <= _MAX_DOC_BYTES:
@@ -248,7 +260,8 @@ def _scan_zip(
                     continue
                 rel = f"{rel_base}!/{name}"
                 size = int(member.file_size)
-                cat = _add_file(agg, rel, size)
+                entry = _add_file(agg, rel, size)
+                cat = entry["category"]
                 if deep and cat in _PROBE_CATEGORIES and size <= min(MAX_PROBE_BYTES, 20 * 1024 * 1024):
                     key = sha1(f"{rel}|{size}|{int(mtime)}")
                     facts = cache.get(key)
@@ -260,6 +273,8 @@ def _scan_zip(
                         facts = probe_bytes(name, data)
                         cache[key] = facts
                     _record_facts(agg, rel, facts)
+                    if facts.get("kind") not in ("doc", "unprobed"):
+                        entry["facts"] = _compact_facts(facts)
                     if facts.get("kind") == "doc":
                         _collect_doc(agg, rel, facts.get("text") or "")
                 elif cat == "docs" and is_probable_license_doc(name) and size <= _MAX_DOC_BYTES and deep is False:
@@ -284,7 +299,8 @@ def _scan_tar(
                     continue
                 rel = f"{rel_base}!/{name}"
                 size = int(member.size)
-                cat = _add_file(agg, rel, size)
+                entry = _add_file(agg, rel, size)
+                cat = entry["category"]
                 if deep and cat in _PROBE_CATEGORIES and size <= min(MAX_PROBE_BYTES, 20 * 1024 * 1024):
                     fh = tf.extractfile(member)
                     if fh is None:
@@ -294,6 +310,8 @@ def _scan_tar(
                     facts = cache.get(key) or probe_bytes(name, data)
                     cache[key] = facts
                     _record_facts(agg, rel, facts)
+                    if facts.get("kind") not in ("doc", "unprobed"):
+                        entry["facts"] = _compact_facts(facts)
     except (tarfile.TarError, OSError) as exc:
         warn(f"could not read archive {rel_base}: {exc}")
 
@@ -342,8 +360,8 @@ def scan_folder(
             elif rel.lower().endswith(".7z"):
                 _scan_7z(agg, str(abs_path), rel)
             continue
-        _add_file(agg, rel, size)
-        _probe_local_file(agg, str(abs_path), rel, size, stat.st_mtime, cache, deep)
+        entry = _add_file(agg, rel, size)
+        _probe_local_file(agg, str(abs_path), rel, size, stat.st_mtime, cache, deep, entry)
 
     sequences = sum(1 for nums in agg["sequences"].values() if len(nums) >= 3)
     probe = agg["probe"]

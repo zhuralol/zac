@@ -75,6 +75,7 @@ probed only when their path/size/mtime fingerprint changes.
 | `ingest-url <url>` | add one asset page manually (delisted/private assets) |
 | `import-dir [--downloads-dir PATH]` | bootstrap cards from folders without itch metadata/API key |
 | `describe [--slug S] [--dry-run DIR] [--set S]` | caption what sprites/textures actually show |
+| `describe-files [--slug S] [--batch N]` | catalogue every file, with sprite-sheet grids and cell coordinates |
 | `enrich [--force] [--limit N]` | scrape asset pages for description/tags/author |
 | `scan [--no-probe] [--force] [--no-interactive]` | match folders and analyze contents |
 | `render` | regenerate `ASSETS.md` and `ATTRIBUTION.md` |
@@ -253,6 +254,34 @@ python -m zac ingest-url https://author.itch.io/pack-name
 ```
 
 The card is created from the public page and marked `acquired: "manual"`.
+
+### Per-file catalogue
+
+`describe` describes packs; `describe-files` describes **every file**, which is
+what an agent needs to actually load art:
+
+```bash
+python -m zac describe-files                 # every downloaded pack
+python -m zac describe-files --slug weapons-and-tools --force
+python -m zac describe-files --no-sheets     # skip grid analysis
+```
+
+It writes `assets/files/<slug>.md` (one entry per file) and enriches each card
+manifest entry with `description`. Strategies keep the cost sane:
+
+- numbered frame sequences are described once, then every frame gets
+  `"<description> (frame i/N)"`
+- standalone images are described in batches of `--batch` tiles per model call
+- sprite sheets get a detected grid and per-cell pixel rectangles. Atlases are
+  labelled per cell by the vision model; animation strips get frame numbers.
+- audio/3D/fonts/docs get metadata-based descriptions without model calls
+
+Search the catalogue from a shell or an agent:
+
+```bash
+python skills/zac-assets/scripts/find_assets.py --file-query "wooden door"
+python skills/zac-assets/scripts/find_assets.py --file-query "fireball" --json
+```
 
 If you have packs on disk but no API key (or they came from elsewhere), bootstrap
 cards from the folder structure and let `scan` discover licenses from the files:

@@ -11,6 +11,7 @@ from . import __version__
 from .cards import load_cards, merge_enrich, merge_ingest
 from .config import Config, load_config
 from .describe import MAX_TILES, describe_card, dry_run, set_description, settings_from_config
+from .filedesc import describe_files_for_card
 from .importer import import_directory
 from .itch_api import ItchAPI, collect_assets, save_download_keys
 from .page_parser import POLITE_DELAY, fetch_page
@@ -173,6 +174,52 @@ def cmd_describe(args: argparse.Namespace) -> int:
     return 0 if not failed else 1
 
 
+def cmd_describe_files(args: argparse.Namespace) -> int:
+    cfg = _cfg(args)
+    assert cfg.paths is not None
+    cards = sorted(
+        load_cards(cfg.paths.cards).values(),
+        key=lambda c: ((c.get("itch") or {}).get("title") or c.get("slug") or "").lower(),
+    )
+    cards = [c for c in cards if (c.get("local") or {}).get("downloaded")]
+    if args.slug:
+        wanted = set(args.slug)
+        cards = [c for c in cards if c.get("slug") in wanted]
+    if args.limit:
+        cards = cards[: args.limit]
+    if not cards:
+        print("no downloaded asset packs to catalogue")
+        return 0
+
+    settings = settings_from_config(cfg, args)
+    totals = {"described": 0, "sheets": 0, "batches": 0, "failed": 0}
+    for index, card in enumerate(cards, 1):
+        info(f"[{index}/{len(cards)}] {card['slug']} via {settings.label()}")
+        try:
+            stats = describe_files_for_card(
+                cfg,
+                card,
+                settings,
+                force=args.force,
+                batch_tiles=args.batch,
+                include_sheets=not args.no_sheets,
+            )
+        except SystemExit as exc:
+            print(exc.code, file=sys.stderr)
+            return 1
+        except Exception as exc:
+            warn(f"  failed: {exc}")
+            continue
+        for key in totals:
+            totals[key] += stats.get(key, 0)
+    print(
+        f"files described: {totals['described']:,}; sheets: {totals['sheets']}; "
+        f"batches: {totals['batches']}"
+    )
+    print("run `python -m zac render` to refresh ASSETS.md and assets/files/*.md")
+    return 0
+
+
 def cmd_enrich(args: argparse.Namespace) -> int:
     cfg = _cfg(args)
     assert cfg.paths is not None
@@ -277,6 +324,17 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--text", default=None, help="description text for --set")
     p.add_argument("--text-file", default=None, help="read description text for --set from a file")
     p.set_defaults(func=cmd_describe)
+
+    p = sub.add_parser("describe-files", help="catalogue every file, including sprite-sheet grids and cells")
+    p.add_argument("--slug", action="append", default=[], help="only these card slugs (repeatable)")
+    p.add_argument("--limit", type=int, default=0, help="only the first N packs")
+    p.add_argument("--batch", type=int, default=MAX_TILES, help=f"tiles per request (default {MAX_TILES})")
+    p.add_argument("--no-sheets", action="store_true", help="skip sprite-sheet grid overlays")
+    p.add_argument("--force", action="store_true", help="re-describe files that already have a description")
+    p.add_argument("--provider", choices=["openai", "ollama"], default=None)
+    p.add_argument("--model", default=None)
+    p.add_argument("--base-url", default=None)
+    p.set_defaults(func=cmd_describe_files)
 
     p = sub.add_parser("enrich", help="scrape asset pages for description, tags, author")
     p.add_argument("--force", action="store_true", help="ignore page cache")

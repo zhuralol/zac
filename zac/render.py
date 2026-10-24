@@ -204,6 +204,9 @@ def render_card(card: dict[str, Any]) -> list[str]:
 
     lines.append(f"**Credit:** {attr.get('credit_line') or 'unknown'}")
     lines.append("")
+    if (local.get("manifest")):
+        lines.append(f"**File catalogue:** [assets/files/{card.get('slug')}.md](assets/files/{card.get('slug')}.md)")
+        lines.append("")
     lines.append(f"*Card detail: `assets/cards/{card.get('slug')}.json`*")
     lines.append("")
     return lines
@@ -298,5 +301,99 @@ def render_attribution_md(config: Config) -> Path:
     return path
 
 
+_CATEGORY_ORDER = [
+    "images", "audio", "models_3d", "fonts", "vector", "tilemaps",
+    "source_projects", "shaders", "docs", "archives", "other",
+]
+
+
+def _facts_label(entry: dict) -> str:
+    facts = entry.get("facts") or {}
+    if facts.get("width") and facts.get("height"):
+        label = f"{facts['width']}x{facts['height']}"
+        if facts.get("frames", 1) > 1:
+            label += f", {facts['frames']} frames"
+        return label
+    if facts.get("duration"):
+        return f"{facts['duration']:.1f}s"
+    if facts.get("meshes"):
+        return f"{facts['meshes']} meshes"
+    if facts.get("glyphs"):
+        return f"{facts['glyphs']} glyphs"
+    return human_bytes(entry.get("size", 0))
+
+
+def render_files_md(config: Config) -> Path:
+    """Write one file-level catalogue per pack under assets/files/."""
+    assert config.paths is not None
+    out_dir = config.paths.cards.parent / "files"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    cards = list(load_cards(config.paths.cards).values())
+    cards.sort(key=lambda c: ((c.get("itch") or {}).get("title") or c.get("slug") or "").lower())
+
+    written = 0
+    for card in cards:
+        manifest = (card.get("local") or {}).get("manifest") or []
+        if not manifest:
+            continue
+        itch = card.get("itch") or {}
+        lines = [
+            f"# {itch.get('title') or card.get('slug')} — file catalogue",
+            "",
+            f"Generated {now_iso()} · {len(manifest):,} files",
+            "",
+        ]
+        local = card.get("local") or {}
+        if local.get("path"):
+            lines.append(f"**Path:** `{local['path']}`")
+        credit = (card.get("attribution") or {}).get("credit_line")
+        if credit:
+            lines.append(f"**Credit:** {credit}")
+        lines.append("")
+
+        buckets: dict[str, list[dict]] = {}
+        for entry in manifest:
+            buckets.setdefault(entry.get("category", "other"), []).append(entry)
+
+        for category in _CATEGORY_ORDER:
+            entries = buckets.pop(category, None)
+            if not entries:
+                continue
+            lines.append(f"## {category_label(category)} ({len(entries):,})")
+            lines.append("")
+            for entry in sorted(entries, key=lambda e: e["path"]):
+                description = entry.get("description") or "no description yet"
+                lines.append(f"- `{entry['path']}` ({_facts_label(entry)}) — {description}")
+                sheet = entry.get("sheet") or {}
+                grid = sheet.get("grid")
+                if grid:
+                    lines.append(
+                        f"  - sheet: {grid['cols']}x{grid['rows']} grid, "
+                        f"{grid['cell_w']}x{grid['cell_h']} px cells, {sheet.get('kind') or 'unknown'}"
+                    )
+                    for cell in sheet.get("cells") or []:
+                        desc = cell.get("description")
+                        if not desc:
+                            continue
+                        lines.append(
+                            f"  - cell ({cell['row']},{cell['col']}) "
+                            f"x={cell['x']} y={cell['y']} w={cell['w']} h={cell['h']} — {desc}"
+                        )
+            lines.append("")
+        for category, entries in buckets.items():
+            lines.append(f"## {category_label(category)} ({len(entries):,})")
+            lines.append("")
+            for entry in sorted(entries, key=lambda e: e["path"]):
+                lines.append(f"- `{entry['path']}` ({_facts_label(entry)}) — {entry.get('description') or 'no description yet'}")
+            lines.append("")
+
+        path = out_dir / f"{card['slug']}.md"
+        path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+        written += 1
+    info(f"wrote {written} file catalogue(s) to {out_dir}")
+    return out_dir
+
+
 def render_all(config: Config) -> tuple[Path, Path]:
+    render_files_md(config)
     return render_assets_md(config), render_attribution_md(config)

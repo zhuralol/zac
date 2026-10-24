@@ -169,6 +169,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--limit", type=int, default=10, help="max results (default 10)")
     parser.add_argument("--credits", action="store_true", help="print only ready-to-paste credit lines")
     parser.add_argument("--json", action="store_true", help="print machine-readable results")
+    parser.add_argument("--file-query", default=None,
+                        help="search per-file descriptions and paths (e.g. 'wooden door')")
+    parser.add_argument("--file-limit", type=int, default=50, help="max file matches (default 50)")
     parser.add_argument("--root", default=None, help="ZAC checkout path (default: auto-detect / ZAC_ROOT)")
     args = parser.parse_args(argv)
 
@@ -190,8 +193,62 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     cards.sort(key=lambda c: _score(c, args.query))
-    if args.limit and args.limit > 0:
+    if not args.file_query and args.limit and args.limit > 0:
         cards = cards[: args.limit]
+
+    if args.file_query:
+        tokens = [t for t in args.file_query.lower().split() if t]
+        hits = []
+        for card in cards:
+            manifest = (card.get("local") or {}).get("manifest") or []
+            for entry in manifest:
+                sheet = entry.get("sheet") or {}
+                cell_text = " ".join(
+                    str(cell.get("description") or "") for cell in sheet.get("cells") or []
+                )
+                hay = " ".join(
+                    [
+                        entry.get("path", ""),
+                        entry.get("description") or "",
+                        entry.get("category", ""),
+                        cell_text,
+                    ]
+                ).lower()
+                if all(token in hay for token in tokens):
+                    hits.append((card, entry))
+        if not hits:
+            print(f"No files matching {args.file_query!r}.", file=sys.stderr)
+            return 1
+        if args.json:
+            out = [
+                {
+                    "pack": (card.get("itch") or {}).get("title") or card.get("slug"),
+                    "path": entry.get("path"),
+                    "local_path": (card.get("local") or {}).get("path"),
+                    "description": entry.get("description"),
+                    "category": entry.get("category"),
+                    "facts": entry.get("facts"),
+                    "sheet": entry.get("sheet"),
+                }
+                for card, entry in hits[: args.file_limit]
+            ]
+            print(json.dumps(out, indent=2, ensure_ascii=False))
+            return 0
+        print(f"Found {len(hits)} file(s) matching {args.file_query!r}\n")
+        current = None
+        for card, entry in hits[: args.file_limit]:
+            title = (card.get("itch") or {}).get("title") or card.get("slug")
+            if title != current:
+                current = title
+                print(f"## {title}  ({card.get('slug')})")
+            facts = entry.get("facts") or {}
+            label = ""
+            if facts.get("width") and facts.get("height"):
+                label = f" ({facts['width']}x{facts['height']})"
+            elif facts.get("duration"):
+                label = f" ({facts['duration']:.1f}s)"
+            print(f"- `{entry.get('path')}`{label} — {entry.get('description') or 'no description'}")
+        return 0
 
     if args.json:
         out = []

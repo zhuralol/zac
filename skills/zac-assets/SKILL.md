@@ -33,7 +33,12 @@ an inventory. Do not assume every owned pack is downloaded.
    downloaded, its license, and a one-line contents summary.
 2. For anything you plan to use, open `assets/cards/<slug>.json`. It holds the
    file manifest, categories, probe stats, license evidence, and local path.
-3. Read `ATTRIBUTION.md` when you generate credits.
+3. When you need specific files, use `assets/files/<slug>.md` (one entry per
+   file) or the search script:
+   `python <skill-dir>/scripts/find_assets.py --file-query "wooden door"`.
+   Sprite-sheet entries include the grid size and each cell's pixel rectangle,
+   so you can slice them correctly instead of guessing coordinates.
+4. Read `ATTRIBUTION.md` when you generate credits.
 
 For programmatic queries, use the bundled script (deterministic and cheap):
 
@@ -43,6 +48,7 @@ python <skill-dir>/scripts/find_assets.py --tag pixel-art --category images --do
 python <skill-dir>/scripts/find_assets.py --license "CC BY" --credits
 python <skill-dir>/scripts/find_assets.py --missing --limit 50
 python <skill-dir>/scripts/find_assets.py --json --tag ui
+python <skill-dir>/scripts/find_assets.py --file-query "fireball"
 ```
 
 `<skill-dir>` is this skill's directory (e.g.
@@ -135,6 +141,7 @@ python -m zac import-dir --downloads-dir <dir>  # no API key: cards from folders
 python -m zac enrich             # descriptions, tags, author, license hints
 python -m zac scan               # after new downloads or re-downloads
 python -m zac describe           # what the sprites/textures actually show
+python -m zac describe-files     # per-file catalogue, incl. sheet grids/cells
 python -m zac render             # regenerate ASSETS.md and ATTRIBUTION.md
 python -m zac update             # all of the above
 ```
