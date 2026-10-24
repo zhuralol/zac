@@ -423,7 +423,7 @@ def describe_files_for_card(
     base = _base(card)
     if base is None:
         return {"described": 0, "sheets": 0, "batches": 0, "failed": 0}
-    fill_nonimage_descriptions(card)
+    nonimage = fill_nonimage_descriptions(card)
 
     items = build_items(card, include_sheets=include_sheets)
     pending = [
@@ -524,4 +524,6 @@ def describe_files_for_card(
             warn(f"      batch failed: {exc}")
         save_card(config, card)
 
+    if nonimage:
+        save_card(config, card)
     return {"described": described, "sheets": len(sheets), "batches": batches, "failed": 0}
