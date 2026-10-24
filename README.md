@@ -168,16 +168,35 @@ Folders with no matching card are reported and left alone.
 ## Using the output with an LLM
 
 Point your coding assistant at `ASSETS.md` first. It contains the index table and
-one compact card per asset, including:
+one compact card per asset, including what the pack contains (counts per
+category, pixel-art stats, SFX vs. music), example file paths, the local
+directory, license, and the exact credit line. Open
+`assets/cards/<slug>.json` when you need the full file manifest or raw license
+evidence. `ATTRIBUTION.md` is for the credits screen — copy the lines under each
+license type; assets with no detected license are grouped under **needs review**.
 
-- what the pack contains (counts per category, pixel-art stats, SFX vs. music)
-- example file paths and the local directory
-- license and the exact credit line
+### Agent skill (Claude / OpenCode)
 
-When you need the complete file list or raw license evidence, the assistant can
-open `assets/cards/<slug>.json`. `ATTRIBUTION.md` is for your game's credits
-screen — copy the lines under each license type. Assets with no detected license
-are grouped under **needs review**.
+`skills/zac-assets/` is a portable skill that teaches a coding agent to query the
+inventory before writing game code, avoid treating metadata-only packs as
+downloaded, apply license restrictions, and emit correct credits. It bundles
+`scripts/find_assets.py`:
+
+```bash
+python skills/zac-assets/scripts/find_assets.py --tag pixel-art --category images --downloaded
+python skills/zac-assets/scripts/find_assets.py --license "CC BY" --credits
+python skills/zac-assets/scripts/find_assets.py --json "tileset"
+```
+
+Install it for both harnesses by linking the folder:
+
+```bash
+ln -s "$PWD/skills/zac-assets" ~/.claude/skills/zac-assets
+ln -s "$PWD/skills/zac-assets" ~/.config/opencode/skills/zac-assets
+```
+
+Set `ZAC_ROOT=/path/to/checkout` if the inventory is not in the working directory
+or `~/Projects/zac`.
 
 ## Delisted / private assets
 
