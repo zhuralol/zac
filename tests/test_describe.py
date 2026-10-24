@@ -163,6 +163,15 @@ class VisionTests(unittest.TestCase):
         assets_md = self.cfg.paths.assets_md.read_text()  # type: ignore[union-attr]
         self.assertIn("**Looks like:** Cute slimes in three colours.", assets_md)
 
+    def test_prompt_includes_authoritative_facts(self) -> None:
+        from zac.describe import build_prompt
+
+        card = load_cards(self.cfg.paths.cards)["pack"]  # type: ignore[union-attr]
+        prompt = build_prompt(card, 6)
+        self.assertIn("authoritative", prompt)
+        self.assertIn("6 files total", prompt)
+        self.assertIn("This sheet shows 6", prompt)
+
     def test_describe_skips_existing_unless_forced(self) -> None:
         card = load_cards(self.cfg.paths.cards)["pack"]  # type: ignore[union-attr]
         settings = VisionSettings(provider="openai", model="test-vl", base_url=f"{self.base}/v1", api_key="k")

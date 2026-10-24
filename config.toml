@@ -20,6 +20,6 @@ attribution_md = "ATTRIBUTION.md"
 [vision]
 # Used by `python -m zac describe`. Provider "openai" works with any
 # OpenAI-compatible /chat/completions endpoint; "ollama" uses a local model.
-# provider = "openai"
-# model = "gpt-4o-mini"
-# base_url = "https://api.openai.com/v1"
+provider = "ollama"
+model = "qwen3-vl:8b-instruct"
+# base_url = "http://localhost:11434"

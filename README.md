@@ -214,7 +214,7 @@ export ZAC_VISION_API_KEY=...        # or OPENAI_API_KEY
 python -m zac describe --model gpt-4o-mini
 
 # Local Ollama with a vision model
-python -m zac describe --provider ollama --model qwen2.5vl:7b
+python -m zac describe --provider ollama --model qwen3-vl:8b-instruct
 
 # Only some packs, or redo existing descriptions
 python -m zac describe --slug delven-textures-1-2a --force

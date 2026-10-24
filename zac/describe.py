@@ -38,9 +38,13 @@ PROMPT = """\
 These are {count} representative images sampled evenly from the itch.io asset pack
 "{title}"{author_part}{tags_part}.
 
-Describe what the images actually depict, as if cataloguing game assets for
-another developer. Cover:
-- art style (pixel art / painted / 3D render) and approximate resolution
+Known facts about the pack (authoritative, do not contradict):
+{facts}
+
+Each tile is labeled with its filename and true pixel dimensions; trust those
+labels. Describe what the images actually depict, as if cataloguing game assets
+for another developer. Cover:
+- art style (pixel art / painted / 3D render) and the resolution range you see
 - subject matter and recurring motifs
 - setting/genre, color palette, perspective (top-down, side-view, isometric)
 - whether they are characters, UI elements, effects, props, tiling textures, etc.
@@ -49,6 +53,27 @@ another developer. Cover:
 Be concrete and concise (max 120 words). Do not invent file names, licenses, or
 content that is not visible. Reply with plain text only.
 """
+
+
+def _facts(card: dict[str, Any], count: int) -> str:
+    local = card.get("local") or {}
+    probe = (local.get("probe") or {}).get("images") or {}
+    cats = local.get("categories") or {}
+    bits = [f"{local.get('file_count', 0):,} files total ({local.get('total_human') or 'unknown size'})"]
+    if cats.get("images"):
+        bits.append(f"{cats['images'].get('count', 0):,} images")
+    for cat in ("audio", "models_3d", "vector", "fonts", "source_projects"):
+        if cats.get(cat):
+            bits.append(f"{cats[cat].get('count', 0):,} {cats[cat].get('label') or cat}")
+    if probe.get("pixel_art"):
+        bits.append(f"{probe['pixel_art']:,} of the images look like pixel art")
+    buckets = probe.get("size_buckets") or {}
+    if buckets:
+        top = sorted(buckets.items(), key=lambda kv: -kv[1])[:3]
+        bits.append("size buckets: " + ", ".join(f"{k}px x{v}" for k, v in top))
+    if local.get("animation_sequences"):
+        bits.append(f"{local['animation_sequences']:,} numbered animation sequences")
+    return "; ".join(bits) + f". This sheet shows {count} of them."
 
 
 @dataclass
@@ -213,6 +238,7 @@ def build_prompt(card: dict[str, Any], count: int) -> str:
         title=itch.get("title") or card.get("slug"),
         author_part=f" by {author}" if author else "",
         tags_part=f" (tags: {', '.join(tags[:8])})" if tags else "",
+        facts=_facts(card, count),
     )
 
 
@@ -262,7 +288,7 @@ def _ollama_vision(settings: VisionSettings, prompt: str, png: bytes) -> str:
     payload = {
         "model": settings.model,
         "stream": False,
-        "options": {"temperature": 0.2},
+        "options": {"temperature": 0.2, "num_ctx": 8192},
         "messages": [
             {
                 "role": "user",
